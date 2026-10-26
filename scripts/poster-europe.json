@@ -1,0 +1,3433 @@
+[
+  {
+    "posterKey": "europe-001",
+    "posterLabel": "Celtic Era",
+    "id": null,
+    "proposedId": "poster-europe-001",
+    "proposedTitle": "Iron Age Britain · Celtic-speaking communities",
+    "wikiTitle": "Iron Age Britain",
+    "region": "europe",
+    "start": -800,
+    "end": 43,
+    "note": "Selected pre-Roman Iron Age frame; Celtic languages and identities did not disappear in 43 CE. Stonehenge belongs to the much earlier Neolithic and Bronze Age, rather than to the origin of a Celtic state.",
+    "parent": null,
+    "category": "history",
+    "sources": [
+      {
+        "publisher": "English Heritage",
+        "title": "Story of England",
+        "url": "https://www.english-heritage.org.uk/learn/story-of-england/"
+      },
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Iron Age Britain",
+        "url": "https://en.wikipedia.org/wiki/Iron_Age_Britain"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "British Iron Age",
+      "valid": true,
+      "pageid": 1299531
+    },
+    "posterLabelOriginal": "Celtic Era"
+  },
+  {
+    "posterKey": "europe-002",
+    "posterLabel": "Lusitanians and Other Tribes",
+    "id": null,
+    "proposedId": "poster-europe-002",
+    "proposedTitle": "Lusitanians and neighbouring Iron Age communities",
+    "wikiTitle": "Lusitanians",
+    "region": "europe",
+    "start": -600,
+    "end": -139,
+    "note": "An approximate Iron Age frame, not a single kingdom founded in 600 BCE. Roman writers attest Lusitanians later; the Lusitanian War ended in 139 BCE but regional conquest continued.",
+    "parent": null,
+    "category": "history",
+    "sources": [
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Lusitanians",
+        "url": "https://en.wikipedia.org/wiki/Lusitanians"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Lusitanians",
+      "valid": true,
+      "pageid": 620165
+    },
+    "posterLabelOriginal": "Lusitanians and Other Tribes"
+  },
+  {
+    "posterKey": "europe-003",
+    "posterLabel": "Iberian & Celtic Tribes",
+    "id": null,
+    "proposedId": "poster-europe-003",
+    "proposedTitle": "Iberian and Celtiberian communities",
+    "wikiTitle": "Iberians",
+    "region": "europe",
+    "start": -600,
+    "end": -19,
+    "note": "A broad grouping of distinct peoples, languages and regional societies. Iberian culture is usually identified from the first millennium BCE; Rome completed its wider Iberian conquests in 19 BCE, not in 218 BCE.",
+    "parent": null,
+    "category": "history",
+    "sources": [
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Iberians",
+        "url": "https://en.wikipedia.org/wiki/Iberians"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Iberians",
+      "valid": true,
+      "pageid": 415870
+    },
+    "posterLabelOriginal": "Iberian & Celtic Tribes"
+  },
+  {
+    "posterKey": "europe-004",
+    "posterLabel": "Carthaginian Era",
+    "id": null,
+    "proposedId": "poster-europe-004",
+    "proposedTitle": "Carthaginian Iberia · Barcid expansion",
+    "wikiTitle": "Carthaginian Iberia",
+    "region": "europe",
+    "start": -237,
+    "end": -206,
+    "note": "Selected Barcid territorial phase beginning with Hamilcar Barca in 237 BCE. Phoenician and Punic settlements predate it; Rome expelled the main Carthaginian forces from Iberia in 206 BCE.",
+    "parent": null,
+    "category": "history",
+    "sources": [
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Carthaginian Iberia",
+        "url": "https://en.wikipedia.org/wiki/Carthaginian_Iberia"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Carthaginian Iberia",
+      "valid": true,
+      "pageid": 16742530
+    },
+    "posterLabelOriginal": "Carthaginian Era"
+  },
+  {
+    "posterKey": "europe-005",
+    "posterLabel": "Gaul",
+    "id": null,
+    "proposedId": "poster-europe-005",
+    "proposedTitle": "Gaul · Iron Age communities",
+    "wikiTitle": "Gaul",
+    "region": "europe",
+    "start": -800,
+    "end": -50,
+    "note": "An approximate regional Iron Age frame, not one Celtic state. Caesar campaigned in 58–50 BCE; southern Gaul had already come under Roman rule.",
+    "parent": null,
+    "category": "history",
+    "sources": [
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Gaul",
+        "url": "https://en.wikipedia.org/wiki/Gaul"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Gaul",
+      "valid": true,
+      "pageid": 36545
+    },
+    "posterLabelOriginal": "Gaul"
+  },
+  {
+    "posterKey": "europe-006",
+    "posterLabel": "Italic Tribes",
+    "id": null,
+    "proposedId": "poster-europe-006",
+    "proposedTitle": "Italic peoples · early Italian peninsula",
+    "wikiTitle": "Italic peoples",
+    "region": "europe",
+    "start": -1200,
+    "end": -500,
+    "note": "An approximate early grouping of several languages and peoples. Etruscans were not linguistically Italic, Greek colonies were distinct, and Italic communities continued after the Roman monarchy began.",
+    "parent": null,
+    "category": "history",
+    "sources": [
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Italic peoples",
+        "url": "https://en.wikipedia.org/wiki/Italic_peoples"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Italic peoples",
+      "valid": true,
+      "pageid": 2237587
+    },
+    "posterLabelOriginal": "Italic Tribes"
+  },
+  {
+    "posterKey": "europe-007",
+    "posterLabel": "Roman Kingdom",
+    "id": null,
+    "proposedId": "poster-europe-007",
+    "proposedTitle": "Roman Kingdom · traditional chronology",
+    "wikiTitle": "Roman Kingdom",
+    "region": "europe",
+    "start": -753,
+    "end": -509,
+    "note": "753 BCE and 509 BCE are traditional foundation and transition dates transmitted by later Roman historians, not archaeologically proven day-one boundaries.",
+    "parent": null,
+    "category": "history",
+    "sources": [
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Roman Kingdom",
+        "url": "https://en.wikipedia.org/wiki/Roman_Kingdom"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Roman Kingdom",
+      "valid": true,
+      "pageid": 25882
+    },
+    "posterLabelOriginal": "Roman Kingdom"
+  },
+  {
+    "posterKey": "europe-008",
+    "posterLabel": "Roman Republic",
+    "id": "romanrepublic",
+    "proposedId": null,
+    "proposedTitle": "Roman Republic",
+    "wikiTitle": "Roman Republic",
+    "region": "europe",
+    "start": -509,
+    "end": -27,
+    "note": "Traditional republican frame; the Republic conquered territories at different times rather than inheriting all the coloured columns at its foundation.",
+    "parent": null,
+    "category": "history",
+    "sources": [
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Roman Republic",
+        "url": "https://en.wikipedia.org/wiki/Roman_Republic"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Roman Republic",
+      "valid": true,
+      "pageid": 25816
+    },
+    "posterLabelOriginal": "Roman Republic"
+  },
+  {
+    "posterKey": "europe-009",
+    "posterLabel": "Roman Republic · Iberian band",
+    "id": "romanrepublic",
+    "proposedId": null,
+    "proposedTitle": "Roman Republican conquest and rule in Iberia",
+    "wikiTitle": "Roman conquest of the Iberian Peninsula",
+    "region": "europe",
+    "start": -218,
+    "end": -27,
+    "note": "Roman intervention began in 218 BCE, but conquest lasted into the Augustan period. This is a regional phase of the Republic, not a second Roman state.",
+    "parent": "romanrepublic",
+    "category": "period",
+    "sources": [
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Roman conquest of the Iberian Peninsula",
+        "url": "https://en.wikipedia.org/wiki/Roman_conquest_of_the_Iberian_Peninsula"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Roman conquest of the Iberian Peninsula",
+      "valid": true,
+      "pageid": 5982075
+    },
+    "posterLabelOriginal": "Roman Republic"
+  },
+  {
+    "posterKey": "europe-010",
+    "posterLabel": "Roman Republic · Gallic band",
+    "id": "romanrepublic",
+    "proposedId": null,
+    "proposedTitle": "Roman Republican conquest of Gaul",
+    "wikiTitle": "Gallic Wars",
+    "region": "europe",
+    "start": -58,
+    "end": -50,
+    "note": "The poster marks 58 BCE. Caesar’s wars ran through 50 BCE, while Roman rule in southern Gaul began earlier.",
+    "parent": "romanrepublic",
+    "category": "period",
+    "sources": [
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Gallic Wars",
+        "url": "https://en.wikipedia.org/wiki/Gallic_Wars"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Gallic Wars",
+      "valid": true,
+      "pageid": 143229
+    },
+    "posterLabelOriginal": "Roman Republic"
+  },
+  {
+    "posterKey": "europe-011",
+    "posterLabel": "Celtic & Germanic Tribes",
+    "id": null,
+    "proposedId": "poster-europe-011",
+    "proposedTitle": "Central European Celtic and Germanic communities",
+    "wikiTitle": "Iron Age Europe",
+    "region": "europe",
+    "start": -800,
+    "end": 400,
+    "note": "A regional, approximate cultural frame spanning many communities. These categories are linguistic and historical labels, not one government or an unbroken ethnic ancestry.",
+    "parent": null,
+    "category": "history",
+    "sources": [
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Iron Age Europe",
+        "url": "https://en.wikipedia.org/wiki/Iron_Age_Europe"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Iron Age Europe",
+      "valid": true,
+      "pageid": 12183701
+    },
+    "posterLabelOriginal": "Celtic & Germanic Tribes"
+  },
+  {
+    "posterKey": "europe-012",
+    "posterLabel": "Hallstatt Culture",
+    "id": null,
+    "proposedId": "poster-europe-012",
+    "proposedTitle": "Hallstatt culture · early Iron Age phases",
+    "wikiTitle": "Hallstatt culture",
+    "region": "europe",
+    "start": -800,
+    "end": -450,
+    "note": "The selected Iron Age Hallstatt C–D phases date approximately 800–450 BCE. Broader Hallstatt A–B material belongs to the earlier Bronze Age; the culture was not a unitary state.",
+    "parent": null,
+    "category": "history",
+    "sources": [
+      {
+        "publisher": "British Museum",
+        "title": "Hallstatt chronology",
+        "url": "https://www.britishmuseum.org/collection/term/x111165"
+      },
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Hallstatt culture",
+        "url": "https://en.wikipedia.org/wiki/Hallstatt_culture"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Hallstatt culture",
+      "valid": true,
+      "pageid": 427479
+    },
+    "posterLabelOriginal": "Hallstatt Culture"
+  },
+  {
+    "posterKey": "europe-013",
+    "posterLabel": "Celtic Kingdom of Noricum",
+    "id": null,
+    "proposedId": "poster-europe-013",
+    "proposedTitle": "Kingdom of Noricum",
+    "wikiTitle": "Regnum Noricum",
+    "region": "europe",
+    "start": -200,
+    "end": -15,
+    "note": "The Norican kingdom or federation consolidated around the second century BCE; the poster’s c. 400 BCE better describes earlier regional Celtic culture. Roman annexation began in 15 BCE; later provincial institutions continued.",
+    "parent": null,
+    "category": "history",
+    "sources": [
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Regnum Noricum",
+        "url": "https://en.wikipedia.org/wiki/Regnum_Noricum"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Noricum",
+      "valid": true,
+      "pageid": 64716
+    },
+    "posterLabelOriginal": "Celtic Kingdom of Noricum"
+  },
+  {
+    "posterKey": "europe-014",
+    "posterLabel": "Aegean Civilizations",
+    "id": null,
+    "proposedId": "poster-europe-014",
+    "proposedTitle": "Aegean Bronze Age cultures",
+    "wikiTitle": "Aegean civilization",
+    "region": "europe",
+    "start": -3200,
+    "end": -1100,
+    "note": "An archaeological umbrella including Cycladic, Minoan and Mycenaean cultures with different chronologies; it was not one empire or an exclusive origin story for later Greeks.",
+    "parent": null,
+    "category": "history",
+    "sources": [
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Aegean civilization",
+        "url": "https://en.wikipedia.org/wiki/Aegean_civilization"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Aegean civilization",
+      "valid": true,
+      "pageid": 2624
+    },
+    "posterLabelOriginal": "Aegean Civilizations"
+  },
+  {
+    "posterKey": "europe-015",
+    "posterLabel": "Aegean Civilizations · Minoan component",
+    "id": "minoan",
+    "proposedId": null,
+    "proposedTitle": "Minoan culture",
+    "wikiTitle": "Minoan civilization",
+    "region": "europe",
+    "start": -3000,
+    "end": -1100,
+    "note": "The website already covers the Cretan component. This does not by itself cover all Cycladic or mainland Aegean histories.",
+    "parent": "poster-europe-014",
+    "category": "period",
+    "sources": [
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Minoan civilization",
+        "url": "https://en.wikipedia.org/wiki/Minoan_civilization"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Minoan civilization",
+      "valid": true,
+      "pageid": 73327
+    },
+    "derivedDetail": true,
+    "posterLabelOriginal": "Aegean Civilizations"
+  },
+  {
+    "posterKey": "europe-016",
+    "posterLabel": "Aegean Civilizations · Cycladic component",
+    "id": null,
+    "proposedId": "poster-europe-016",
+    "proposedTitle": "Cycladic culture · Early Bronze Age",
+    "wikiTitle": "Cycladic culture",
+    "region": "europe",
+    "start": -3200,
+    "end": -2000,
+    "note": "Early Cycladic chronology is approximate and distinct from the Minoan and mainland Mycenaean sequences. Added explicitly to make the poster’s Aegean umbrella meaningful.",
+    "parent": "poster-europe-014",
+    "category": "period",
+    "sources": [
+      {
+        "publisher": "Museum of Cycladic Art",
+        "title": "Settlements of the Cyclades in the 3rd millennium BC",
+        "url": "https://cycladic.gr/en/essay/oikismoi-tn-kikladon-tis-3is-xilietias-px/"
+      },
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Cycladic culture",
+        "url": "https://en.wikipedia.org/wiki/Cycladic_culture"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Cycladic culture",
+      "valid": true,
+      "pageid": 341865
+    },
+    "derivedDetail": true,
+    "posterLabelOriginal": "Aegean Civilizations"
+  },
+  {
+    "posterKey": "europe-017",
+    "posterLabel": "Mycenaean Civilization",
+    "id": "mycenaean",
+    "proposedId": null,
+    "proposedTitle": "Mycenaean societies",
+    "wikiTitle": "Mycenaean Greece",
+    "region": "europe",
+    "start": -1600,
+    "end": -1100,
+    "note": "An archaeological period of multiple mainland palace centres, rather than a single uniformly governed Greek nation.",
+    "parent": null,
+    "category": "history",
+    "sources": [
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Mycenaean Greece",
+        "url": "https://en.wikipedia.org/wiki/Mycenaean_Greece"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Mycenaean Greece",
+      "valid": true,
+      "pageid": 565602
+    },
+    "posterLabelOriginal": "Mycenaean Civilization"
+  },
+  {
+    "posterKey": "europe-018",
+    "posterLabel": "Greek Dark Age",
+    "id": null,
+    "proposedId": "poster-europe-018",
+    "proposedTitle": "Early Iron Age Greece · Greek Dark Ages",
+    "wikiTitle": "Greek Dark Ages",
+    "region": "europe",
+    "start": -1100,
+    "end": -800,
+    "note": "A conventional archaeological period following palace collapse. The label does not imply an absence of communities, creativity or contact; boundaries vary between regions.",
+    "parent": null,
+    "category": "history",
+    "sources": [
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Greek Dark Ages",
+        "url": "https://en.wikipedia.org/wiki/Greek_Dark_Ages"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Greek Dark Ages",
+      "valid": true,
+      "pageid": 340510
+    },
+    "posterLabelOriginal": "Greek Dark Age"
+  },
+  {
+    "posterKey": "europe-019",
+    "posterLabel": "Classical Greek City-States",
+    "id": "greece",
+    "proposedId": null,
+    "proposedTitle": "Classical Greek city-states",
+    "wikiTitle": "Classical Greece",
+    "region": "europe",
+    "start": -480,
+    "end": -323,
+    "note": "The poster starts this label around 800 BCE, combining Archaic and Classical Greece. Classical Greece conventionally begins around 480 BCE; city-states were independent and often at war.",
+    "parent": null,
+    "category": "history",
+    "sources": [
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Classical Greece",
+        "url": "https://en.wikipedia.org/wiki/Classical_Greece"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Classical Greece",
+      "valid": true,
+      "pageid": 11936957
+    },
+    "posterLabelOriginal": "Classical Greek City-States"
+  },
+  {
+    "posterKey": "europe-020",
+    "posterLabel": "Classical Greek City-States · earlier Archaic component",
+    "id": "archaic",
+    "proposedId": null,
+    "proposedTitle": "Archaic Greek world",
+    "wikiTitle": "Archaic Greece",
+    "region": "europe",
+    "start": -800,
+    "end": -480,
+    "note": "An expanded conventional frame covering the earlier portion of the poster’s combined Greek band. The existing site uses the narrower art-historical start c. 700 BCE; either convention needs an explicit note.",
+    "parent": null,
+    "category": "history",
+    "sources": [
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Archaic Greece",
+        "url": "https://en.wikipedia.org/wiki/Archaic_Greece"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Archaic Greece",
+      "valid": true,
+      "pageid": 1844767
+    },
+    "derivedDetail": true,
+    "posterLabelOriginal": "Classical Greek City-States"
+  },
+  {
+    "posterKey": "europe-021",
+    "posterLabel": "Macedonian Empire",
+    "id": null,
+    "proposedId": "poster-europe-021",
+    "proposedTitle": "Macedonian hegemony · Philip II and Alexander",
+    "wikiTitle": "Macedonia (ancient kingdom)",
+    "region": "europe",
+    "start": -338,
+    "end": -323,
+    "note": "338 BCE marks Philip II’s victory at Chaeronea. Alexander’s Asian conquests began in 334 BCE; his death in 323 BCE initiated succession struggles, rather than instantly creating stable successor states.",
+    "parent": "greece",
+    "category": "period",
+    "sources": [
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Macedonia (ancient kingdom)",
+        "url": "https://en.wikipedia.org/wiki/Macedonia_(ancient_kingdom)"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Macedonia (ancient kingdom)",
+      "valid": true,
+      "pageid": 42012
+    },
+    "posterLabelOriginal": "Macedonian Empire"
+  },
+  {
+    "posterKey": "europe-022",
+    "posterLabel": "Hellenistic Age",
+    "id": "hellenistic",
+    "proposedId": null,
+    "proposedTitle": "Hellenistic Greek world",
+    "wikiTitle": "Hellenistic period",
+    "region": "europe",
+    "start": -323,
+    "end": -31,
+    "note": "The poster’s Greek column ends at Roman conquest in 146 BCE. Hellenistic kingdoms elsewhere continued; 31 BCE is a common wider period endpoint, with Egypt annexed in 30 BCE.",
+    "parent": null,
+    "category": "history",
+    "sources": [
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Hellenistic period",
+        "url": "https://en.wikipedia.org/wiki/Hellenistic_period"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Hellenistic period",
+      "valid": true,
+      "pageid": 455379
+    },
+    "posterLabelOriginal": "Hellenistic Age"
+  },
+  {
+    "posterKey": "europe-023",
+    "posterLabel": "Roman Republic · Greek band",
+    "id": "romanrepublic",
+    "proposedId": null,
+    "proposedTitle": "Roman expansion into Greece",
+    "wikiTitle": "Roman Greece",
+    "region": "europe",
+    "start": -146,
+    "end": -27,
+    "note": "The destruction of Corinth in 146 BCE is a conventional marker; incorporation and provincial organisation occurred in stages. This is a regional phase of the Roman Republic.",
+    "parent": "romanrepublic",
+    "category": "period",
+    "sources": [
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Roman Greece",
+        "url": "https://en.wikipedia.org/wiki/Roman_Greece"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Greece in the Roman era",
+      "valid": true,
+      "pageid": 2194994
+    },
+    "posterLabelOriginal": "Roman Republic"
+  },
+  {
+    "posterKey": "europe-024",
+    "posterLabel": "Roman Empire",
+    "id": "rome",
+    "proposedId": null,
+    "proposedTitle": "Roman Empire",
+    "wikiTitle": "Roman Empire",
+    "region": "europe",
+    "start": -27,
+    "end": 476,
+    "note": "27 BCE marks the conventional beginning of the principate. 476 CE concerns western imperial government; the Eastern Roman state continued. The poster’s cross-column shape is not a precise territorial map.",
+    "parent": null,
+    "category": "history",
+    "sources": [
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Roman Empire",
+        "url": "https://en.wikipedia.org/wiki/Roman_Empire"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Roman Empire",
+      "valid": true,
+      "pageid": 25507
+    },
+    "posterLabelOriginal": "Roman Empire"
+  },
+  {
+    "posterKey": "europe-025",
+    "posterLabel": "Sub-Roman Britain",
+    "id": null,
+    "proposedId": "poster-europe-025",
+    "proposedTitle": "Sub-Roman Britain",
+    "wikiTitle": "Sub-Roman Britain",
+    "region": "europe",
+    "start": 410,
+    "end": 600,
+    "note": "Approximate transition after the withdrawal of Roman imperial administration, conventionally around 410. Regional British polities continued alongside incoming and established communities; 500 is not a universal end date.",
+    "parent": null,
+    "category": "history",
+    "sources": [
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Sub-Roman Britain",
+        "url": "https://en.wikipedia.org/wiki/Sub-Roman_Britain"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Sub-Roman Britain",
+      "valid": true,
+      "pageid": 1902917
+    },
+    "posterLabelOriginal": "Sub-Roman Britain"
+  },
+  {
+    "posterKey": "europe-026",
+    "posterLabel": "Anglo-Saxon Era",
+    "id": null,
+    "proposedId": "poster-europe-026",
+    "proposedTitle": "Anglo-Saxon England",
+    "wikiTitle": "Anglo-Saxon settlement of Britain",
+    "region": "europe",
+    "start": 450,
+    "end": 1066,
+    "note": "Approximate settlement and early English kingdom frame. It overlaps British polities, Scandinavian rule and the later unified kingdom, rather than replacing every inhabitant.",
+    "parent": "england",
+    "category": "period",
+    "sources": [
+      {
+        "publisher": "English Heritage",
+        "title": "Story of England",
+        "url": "https://www.english-heritage.org.uk/learn/story-of-england/"
+      },
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Anglo-Saxon settlement of Britain",
+        "url": "https://en.wikipedia.org/wiki/Anglo-Saxon_settlement_of_Britain"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Anglo-Saxon settlement of Britain",
+      "valid": true,
+      "pageid": 22368461
+    },
+    "posterLabelOriginal": "Anglo-Saxon Era"
+  },
+  {
+    "posterKey": "europe-027",
+    "posterLabel": "Wessex Dynasty",
+    "id": null,
+    "proposedId": "poster-europe-027",
+    "proposedTitle": "House of Wessex · selected royal phase",
+    "wikiTitle": "House of Wessex",
+    "region": "europe",
+    "start": 802,
+    "end": 1066,
+    "note": "802 marks Ecgberht’s accession in Wessex; 829 was a temporary supremacy, not the founding of a united England. The selected dynasty frame includes interruptions by Danish rulers; unification is conventionally placed in 927.",
+    "parent": "england",
+    "category": "period",
+    "sources": [
+      {
+        "publisher": "The Royal Household",
+        "title": "Kings and Queens from 1066",
+        "url": "https://www.royal.uk/kings-and-queens-1066"
+      },
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "House of Wessex",
+        "url": "https://en.wikipedia.org/wiki/House_of_Wessex"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "House of Wessex",
+      "valid": true,
+      "pageid": 579745
+    },
+    "posterLabelOriginal": "Wessex Dynasty"
+  },
+  {
+    "posterKey": "europe-028",
+    "posterLabel": "Norman Dynasty",
+    "id": null,
+    "proposedId": "poster-europe-028",
+    "proposedTitle": "Norman dynasty in England",
+    "wikiTitle": "House of Normandy",
+    "region": "europe",
+    "start": 1066,
+    "end": 1154,
+    "note": "The Norman conquest began in 1066. This selected royal period ends with Henry II’s accession in 1154 and does not mean England and Normandy always had identical institutions.",
+    "parent": "england",
+    "category": "period",
+    "sources": [
+      {
+        "publisher": "The Royal Household",
+        "title": "Kings and Queens from 1066",
+        "url": "https://www.royal.uk/kings-and-queens-1066"
+      },
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "House of Normandy",
+        "url": "https://en.wikipedia.org/wiki/House_of_Normandy"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "House of Normandy",
+      "valid": true,
+      "pageid": 2800814
+    },
+    "posterLabelOriginal": "Norman Dynasty"
+  },
+  {
+    "posterKey": "europe-029",
+    "posterLabel": "Plantagenet Dynasty",
+    "id": null,
+    "proposedId": "poster-europe-029",
+    "proposedTitle": "Plantagenet kings of England",
+    "wikiTitle": "House of Plantagenet",
+    "region": "europe",
+    "start": 1154,
+    "end": 1485,
+    "note": "A broad dynastic convention including Angevin, Lancaster and York branches. It does not describe a single stable government or peaceful succession.",
+    "parent": "england",
+    "category": "period",
+    "sources": [
+      {
+        "publisher": "English Heritage",
+        "title": "Story of England",
+        "url": "https://www.english-heritage.org.uk/learn/story-of-england/"
+      },
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "House of Plantagenet",
+        "url": "https://en.wikipedia.org/wiki/House_of_Plantagenet"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "House of Plantagenet",
+      "valid": true,
+      "pageid": 1662976
+    },
+    "posterLabelOriginal": "Plantagenet Dynasty"
+  },
+  {
+    "posterKey": "europe-030",
+    "posterLabel": "Tudor Dynasty",
+    "id": null,
+    "proposedId": "poster-europe-030",
+    "proposedTitle": "Tudor dynasty",
+    "wikiTitle": "House of Tudor",
+    "region": "europe",
+    "start": 1485,
+    "end": 1603,
+    "note": "The Tudor royal period runs from Henry VII’s victory in 1485 to Elizabeth I’s death in 1603. Wales, Ireland and England had different relationships to royal government.",
+    "parent": "england",
+    "category": "period",
+    "sources": [
+      {
+        "publisher": "English Heritage",
+        "title": "Story of England",
+        "url": "https://www.english-heritage.org.uk/learn/story-of-england/"
+      },
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "House of Tudor",
+        "url": "https://en.wikipedia.org/wiki/House_of_Tudor"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "House of Tudor",
+      "valid": true,
+      "pageid": 31278
+    },
+    "posterLabelOriginal": "Tudor Dynasty"
+  },
+  {
+    "posterKey": "europe-031",
+    "posterLabel": "Stuart Dynasty",
+    "id": null,
+    "proposedId": "poster-europe-031",
+    "proposedTitle": "Stuarts in England, Scotland and Great Britain",
+    "wikiTitle": "House of Stuart",
+    "region": "europe",
+    "start": 1603,
+    "end": 1714,
+    "note": "The shared crowns began in 1603; England and Scotland remained separate kingdoms until 1707. Republican rule interrupted the monarchy in 1649–1660, and William III was of the House of Orange.",
+    "parent": "england",
+    "category": "period",
+    "sources": [
+      {
+        "publisher": "The Royal Household",
+        "title": "The Stuarts",
+        "url": "https://www.royal.uk/stuarts"
+      },
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "House of Stuart",
+        "url": "https://en.wikipedia.org/wiki/House_of_Stuart"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "House of Stuart",
+      "valid": true,
+      "pageid": 253174
+    },
+    "posterLabelOriginal": "Stuart Dynasty"
+  },
+  {
+    "posterKey": "europe-032",
+    "posterLabel": "Hanoverian Dynasty",
+    "id": null,
+    "proposedId": "poster-europe-032",
+    "proposedTitle": "Hanoverian monarchy in Britain",
+    "wikiTitle": "House of Hanover",
+    "region": "europe",
+    "start": 1714,
+    "end": 1901,
+    "note": "The British Hanoverian royal period runs 1714–1901, not to the poster’s 1917 boundary. Shared monarchy with Hanover ended in 1837 because succession laws differed.",
+    "parent": "unitedkingdom",
+    "category": "period",
+    "sources": [
+      {
+        "publisher": "The Royal Household",
+        "title": "The Hanoverians",
+        "url": "https://www.royal.uk/hanoverians"
+      },
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "House of Hanover",
+        "url": "https://en.wikipedia.org/wiki/House_of_Hanover"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "House of Hanover",
+      "valid": true,
+      "pageid": 176558
+    },
+    "posterLabelOriginal": "Hanoverian Dynasty"
+  },
+  {
+    "posterKey": "europe-033",
+    "posterLabel": "United Kingdom",
+    "id": "unitedkingdom",
+    "proposedId": null,
+    "proposedTitle": "United Kingdom",
+    "wikiTitle": "United Kingdom",
+    "region": "europe",
+    "start": 1801,
+    "end": null,
+    "note": "The United Kingdom was created in 1801, not 1917. Most of Ireland left in 1922; the present state name dates to 1927. The royal family adopted the Windsor name in 1917.",
+    "parent": null,
+    "category": "history",
+    "sources": [
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "United Kingdom",
+        "url": "https://en.wikipedia.org/wiki/United_Kingdom"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "United Kingdom",
+      "valid": true,
+      "pageid": 31717
+    },
+    "posterLabelOriginal": "United Kingdom"
+  },
+  {
+    "posterKey": "europe-034",
+    "posterLabel": "United Kingdom · 1917 boundary",
+    "id": null,
+    "proposedId": "poster-europe-034",
+    "proposedTitle": "House of Windsor",
+    "wikiTitle": "House of Windsor",
+    "region": "europe",
+    "start": 1917,
+    "end": null,
+    "note": "1917 marks the adoption of the royal house name Windsor. It is a dynastic phase within the United Kingdom, not the state’s foundation.",
+    "parent": "unitedkingdom",
+    "category": "period",
+    "sources": [
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "House of Windsor",
+        "url": "https://en.wikipedia.org/wiki/House_of_Windsor"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "House of Windsor",
+      "valid": true,
+      "pageid": 172905
+    },
+    "posterLabelOriginal": "United Kingdom"
+  },
+  {
+    "posterKey": "europe-035",
+    "posterLabel": "First County of Portugal",
+    "id": null,
+    "proposedId": "poster-europe-035",
+    "proposedTitle": "First County of Portugal",
+    "wikiTitle": "County of Portugal",
+    "region": "europe",
+    "start": 868,
+    "end": 1071,
+    "note": "A conventional first-county frame beginning with the recovery of Porto in 868. The first comital line ended with Nuno Mendes’s defeat in 1071. Royal administration and later reorganisation preceded Henry of Burgundy’s county around 1096; this was not an uninterrupted independent state.",
+    "parent": null,
+    "category": "history",
+    "sources": [
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "County of Portugal",
+        "url": "https://en.wikipedia.org/wiki/County_of_Portugal"
+      },
+      {
+        "publisher": "University of Coimbra · Mário de Gouveia",
+        "title": "Nuno Mendes (?-1071): o último conde de Portucale (2013)",
+        "url": "https://doi.org/10.14195/0870-4147_44_7"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "County of Portugal",
+      "valid": true,
+      "pageid": 24757665
+    },
+    "posterLabelOriginal": "First County of Portugal"
+  },
+  {
+    "posterKey": "europe-036",
+    "posterLabel": "Second County of Portugal",
+    "id": null,
+    "proposedId": "poster-europe-036",
+    "proposedTitle": "Second County of Portugal",
+    "wikiTitle": "County of Portugal",
+    "region": "europe",
+    "start": 1096,
+    "end": 1139,
+    "note": "The second county is usually dated from Henry of Burgundy’s appointment around 1096. Afonso Henriques’ kingship in 1139 and recognition in 1143 and 1179 mark different steps toward independence.",
+    "parent": null,
+    "category": "history",
+    "sources": [
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "County of Portugal",
+        "url": "https://en.wikipedia.org/wiki/County_of_Portugal"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "County of Portugal",
+      "valid": true,
+      "pageid": 24757665
+    },
+    "posterLabelOriginal": "Second County of Portugal"
+  },
+  {
+    "posterKey": "europe-037",
+    "posterLabel": "Kingdom of Portugal",
+    "id": "cn-portugal",
+    "proposedId": null,
+    "proposedTitle": "Kingdom of Portugal",
+    "wikiTitle": "Kingdom of Portugal",
+    "region": "europe",
+    "start": 1139,
+    "end": 1910,
+    "note": "1139 is a traditional royal foundation convention; Zamora in 1143 and papal recognition in 1179 are other milestones. The kingdom’s institutional and territorial extent changed considerably.",
+    "parent": null,
+    "category": "history",
+    "sources": [
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Kingdom of Portugal",
+        "url": "https://en.wikipedia.org/wiki/Kingdom_of_Portugal"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Kingdom of Portugal",
+      "valid": true,
+      "pageid": 9352542
+    },
+    "posterLabelOriginal": "Kingdom of Portugal"
+  },
+  {
+    "posterKey": "europe-038",
+    "posterLabel": "Iberian Union",
+    "id": null,
+    "proposedId": "poster-europe-038",
+    "proposedTitle": "Iberian Union",
+    "wikiTitle": "Iberian Union",
+    "region": "europe",
+    "start": 1580,
+    "end": 1640,
+    "note": "Portugal and the Spanish crowns shared Habsburg monarchs. Separate laws, institutions and overseas possessions persisted; this was not complete administrative fusion.",
+    "parent": "cn-portugal",
+    "category": "period",
+    "sources": [
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Iberian Union",
+        "url": "https://en.wikipedia.org/wiki/Iberian_Union"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Iberian Union",
+      "valid": true,
+      "pageid": 1646498
+    },
+    "posterLabelOriginal": "Iberian Union"
+  },
+  {
+    "posterKey": "europe-039",
+    "posterLabel": "Restored Kingdom of Portugal",
+    "id": null,
+    "proposedId": "poster-europe-039",
+    "proposedTitle": "Portuguese Restoration and Braganza monarchy",
+    "wikiTitle": "Portuguese Restoration War",
+    "region": "europe",
+    "start": 1640,
+    "end": 1668,
+    "note": "1640 began the restored Portuguese monarchy and the war for recognition, which Spain accepted in 1668. The restored kingdom continued beyond this war and was not newly founded again in 1807.",
+    "parent": "cn-portugal",
+    "category": "period",
+    "sources": [
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Portuguese Restoration War",
+        "url": "https://en.wikipedia.org/wiki/Portuguese_Restoration_War"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Portuguese Restoration War",
+      "valid": true,
+      "pageid": 6357472
+    },
+    "posterLabelOriginal": "Restored Kingdom of Portugal"
+  },
+  {
+    "posterKey": "europe-040",
+    "posterLabel": "Constitutional Monarchy · Portugal",
+    "id": null,
+    "proposedId": "poster-europe-040",
+    "proposedTitle": "Portugal · constitutional monarchy",
+    "wikiTitle": "History of Portugal (1834–1910)",
+    "region": "europe",
+    "start": 1820,
+    "end": 1910,
+    "note": "The Liberal Revolution of 1820 began the constitutional transition; the first constitution followed in 1822. Civil war and absolutist restoration interrupted constitutional government before 1834. The poster’s 1807 start belongs to the French invasions.",
+    "parent": "cn-portugal",
+    "category": "period",
+    "sources": [
+      {
+        "publisher": "Portuguese Parliament",
+        "title": "História do parlamentarismo",
+        "url": "https://www.parlamento.pt/Parlamento/Paginas/historia-do-parlamentarismo.aspx"
+      },
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "History of Portugal (1834–1910)",
+        "url": "https://en.wikipedia.org/wiki/History_of_Portugal_(1834%E2%80%931910)"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "History of Portugal (1834–1910)",
+      "valid": true,
+      "pageid": 3170556
+    },
+    "posterLabelOriginal": "Constitutional Monarchy"
+  },
+  {
+    "posterKey": "europe-041",
+    "posterLabel": "First Portuguese Republic",
+    "id": null,
+    "proposedId": "poster-europe-041",
+    "proposedTitle": "First Portuguese Republic",
+    "wikiTitle": "First Portuguese Republic",
+    "region": "europe",
+    "start": 1910,
+    "end": 1926,
+    "note": "The First Republic began with the revolution of 5 October 1910 and ended in the military coup of 1926; it did not continue unbroken until Estado Novo in 1933.",
+    "parent": "portugalmodern",
+    "category": "period",
+    "sources": [
+      {
+        "publisher": "Portuguese Parliament",
+        "title": "História do parlamentarismo",
+        "url": "https://www.parlamento.pt/Parlamento/Paginas/historia-do-parlamentarismo.aspx"
+      },
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "First Portuguese Republic",
+        "url": "https://en.wikipedia.org/wiki/First_Portuguese_Republic"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "First Portuguese Republic",
+      "valid": true,
+      "pageid": 2569245
+    },
+    "posterLabelOriginal": "First Portuguese Republic"
+  },
+  {
+    "posterKey": "europe-042",
+    "posterLabel": "Estado Novo",
+    "id": null,
+    "proposedId": "poster-europe-042",
+    "proposedTitle": "Portugal · Estado Novo dictatorship",
+    "wikiTitle": "Estado Novo (Portugal)",
+    "region": "europe",
+    "start": 1933,
+    "end": 1974,
+    "note": "The authoritarian Estado Novo was institutionalised in 1933 and overthrown in the Carnation Revolution of 25 April 1974. A military dictatorship preceded it in 1926–1933.",
+    "parent": "portugalmodern",
+    "category": "period",
+    "sources": [
+      {
+        "publisher": "Portuguese Parliament",
+        "title": "História do parlamentarismo",
+        "url": "https://www.parlamento.pt/Parlamento/Paginas/historia-do-parlamentarismo.aspx"
+      },
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Estado Novo (Portugal)",
+        "url": "https://en.wikipedia.org/wiki/Estado_Novo_(Portugal)"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Estado Novo (Portugal)",
+      "valid": true,
+      "pageid": 577704
+    },
+    "posterLabelOriginal": "Estado Novo"
+  },
+  {
+    "posterKey": "europe-043",
+    "posterLabel": "Portugal",
+    "id": null,
+    "proposedId": "portugalmodern",
+    "proposedTitle": "Portugal · modern republican eras",
+    "wikiTitle": "History of Portugal",
+    "region": "europe",
+    "start": 1910,
+    "end": null,
+    "note": "A modern country frame including the First Republic, military and Estado Novo dictatorships, and the democratic transition. Democracy began after 1974; the present constitution took effect in 1976.",
+    "parent": null,
+    "category": "history",
+    "sources": [
+      {
+        "publisher": "Portuguese Parliament",
+        "title": "História do parlamentarismo",
+        "url": "https://www.parlamento.pt/Parlamento/Paginas/historia-do-parlamentarismo.aspx"
+      },
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "History of Portugal",
+        "url": "https://en.wikipedia.org/wiki/History_of_Portugal"
+      }
+    ],
+    "posterLabelOriginal": "Portugal",
+    "wikiResolution": {
+      "canonical": "History of Portugal",
+      "valid": true,
+      "pageid": 44531
+    }
+  },
+  {
+    "posterKey": "europe-044",
+    "posterLabel": "Portugal · 1976 boundary",
+    "id": null,
+    "proposedId": "poster-europe-044",
+    "proposedTitle": "Portugal · democratic republic",
+    "wikiTitle": "Third Portuguese Republic",
+    "region": "europe",
+    "start": 1974,
+    "end": null,
+    "note": "The democratic transition began in 1974 and the constitution took effect in 1976; the poster uses the constitutional date.",
+    "parent": "portugalmodern",
+    "category": "period",
+    "sources": [
+      {
+        "publisher": "Portuguese Parliament",
+        "title": "História do parlamentarismo",
+        "url": "https://www.parlamento.pt/Parlamento/Paginas/historia-do-parlamentarismo.aspx"
+      },
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Third Portuguese Republic",
+        "url": "https://en.wikipedia.org/wiki/Third_Portuguese_Republic"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Third Portuguese Republic",
+      "valid": true,
+      "pageid": 11826380
+    },
+    "posterLabelOriginal": "Portugal"
+  },
+  {
+    "posterKey": "europe-045",
+    "posterLabel": "Suebi Kingdom",
+    "id": null,
+    "proposedId": "poster-europe-045",
+    "proposedTitle": "Kingdom of the Suebi",
+    "wikiTitle": "Kingdom of the Suebi",
+    "region": "europe",
+    "start": 409,
+    "end": 585,
+    "note": "The Suebi established rule in northwestern Iberia after crossing the Rhine and entering Iberia. The Visigoths annexed their kingdom in 585; this was not a kingdom encompassing all Iberia.",
+    "parent": null,
+    "category": "history",
+    "sources": [
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Kingdom of the Suebi",
+        "url": "https://en.wikipedia.org/wiki/Kingdom_of_the_Suebi"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Kingdom of the Suebi",
+      "valid": true,
+      "pageid": 3259019
+    },
+    "posterLabelOriginal": "Suebi Kingdom"
+  },
+  {
+    "posterKey": "europe-046",
+    "posterLabel": "Visigothic Kingdom",
+    "id": null,
+    "proposedId": "poster-europe-046",
+    "proposedTitle": "Visigothic Kingdom",
+    "wikiTitle": "Visigothic Kingdom",
+    "region": "europe",
+    "start": 418,
+    "end": 711,
+    "note": "The kingdom began in Aquitaine in 418 and shifted toward Iberia. The Suebi were annexed in 585; Byzantine-controlled southern areas remained separate until the seventh century. After 711, remnants continued in Septimania into the 720s.",
+    "parent": null,
+    "category": "history",
+    "sources": [
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Visigothic Kingdom",
+        "url": "https://en.wikipedia.org/wiki/Visigothic_Kingdom"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Visigothic Kingdom",
+      "valid": true,
+      "pageid": 11778448
+    },
+    "posterLabelOriginal": "Visigothic Kingdom"
+  },
+  {
+    "posterKey": "europe-047",
+    "posterLabel": "Al-Andalus",
+    "id": null,
+    "proposedId": "poster-europe-047",
+    "proposedTitle": "Al-Andalus",
+    "wikiTitle": "Al-Andalus",
+    "region": "europe",
+    "start": 711,
+    "end": 1492,
+    "note": "An umbrella for changing Muslim-ruled Iberian territories, not a single state lasting throughout 711–1492. The emirate, caliphate, taifas and later dynasties overlap with northern Christian kingdoms.",
+    "parent": null,
+    "category": "history",
+    "sources": [
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Al-Andalus",
+        "url": "https://en.wikipedia.org/wiki/Al-Andalus"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Al-Andalus",
+      "valid": true,
+      "pageid": 355643
+    },
+    "posterLabelOriginal": "Al-Andalus"
+  },
+  {
+    "posterKey": "europe-048",
+    "posterLabel": "Kingdom of Asturias",
+    "id": null,
+    "proposedId": "poster-europe-048",
+    "proposedTitle": "Kingdom of Asturias",
+    "wikiTitle": "Kingdom of Asturias",
+    "region": "europe",
+    "start": 718,
+    "end": 924,
+    "note": "718 is a traditional royal origin date. The court and political centre shifted to León in 910, while distinct Asturian royal claims continued to 924; chronology depends on whether one tracks title, court or territory.",
+    "parent": null,
+    "category": "history",
+    "sources": [
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Kingdom of Asturias",
+        "url": "https://en.wikipedia.org/wiki/Kingdom_of_Asturias"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Kingdom of Asturias",
+      "valid": true,
+      "pageid": 52222
+    },
+    "posterLabelOriginal": "Kingdom of Asturias"
+  },
+  {
+    "posterKey": "europe-049",
+    "posterLabel": "Kingdom of León",
+    "id": null,
+    "proposedId": "poster-europe-049",
+    "proposedTitle": "Kingdom of León",
+    "wikiTitle": "Kingdom of León",
+    "region": "europe",
+    "start": 910,
+    "end": 1230,
+    "note": "A selected independent royal frame. León and Castile were joined and separated at several points; permanent dynastic union in 1230 did not erase León’s regional institutions.",
+    "parent": null,
+    "category": "history",
+    "sources": [
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Kingdom of León",
+        "url": "https://en.wikipedia.org/wiki/Kingdom_of_Le%C3%B3n"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Kingdom of León",
+      "valid": true,
+      "pageid": 336544
+    },
+    "posterLabelOriginal": "Kingdom of León"
+  },
+  {
+    "posterKey": "europe-050",
+    "posterLabel": "Late Reconquista",
+    "id": null,
+    "proposedId": "poster-europe-050",
+    "proposedTitle": "Late medieval Iberian conquests and Granada",
+    "wikiTitle": "Reconquista",
+    "region": "europe",
+    "start": 1238,
+    "end": 1492,
+    "note": "1238 marks the Nasrid foundation convention selected by the poster. Reconquista is a retrospective, contested umbrella rather than one continuous national war; Christian and Muslim rulers also allied across religious boundaries.",
+    "parent": "spainmodern",
+    "category": "period",
+    "sources": [
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Reconquista",
+        "url": "https://en.wikipedia.org/wiki/Reconquista"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Reconquista",
+      "valid": true,
+      "pageid": 26550
+    },
+    "posterLabelOriginal": "Late Reconquista"
+  },
+  {
+    "posterKey": "europe-051",
+    "posterLabel": "Unification of Spain",
+    "id": "spainmodern",
+    "proposedId": null,
+    "proposedTitle": "Dynastic union of Castile and Aragon",
+    "wikiTitle": "Catholic Monarchs of Spain",
+    "region": "europe",
+    "start": 1479,
+    "end": 1516,
+    "note": "1479 marks the shared rule of Isabella of Castile and Ferdinand of Aragon after Ferdinand’s Aragonese accession. The crowns retained separate institutions; this was not instant state or territorial unification.",
+    "parent": "spainmodern",
+    "category": "period",
+    "sources": [
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Catholic Monarchs of Spain",
+        "url": "https://en.wikipedia.org/wiki/Catholic_Monarchs_of_Spain"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Catholic Monarchs of Spain",
+      "valid": true,
+      "pageid": 356552
+    },
+    "posterLabelOriginal": "Unification of Spain"
+  },
+  {
+    "posterKey": "europe-052",
+    "posterLabel": "Habsburg Spain",
+    "id": null,
+    "proposedId": "poster-europe-052",
+    "proposedTitle": "Habsburg Spain",
+    "wikiTitle": "Habsburg Spain",
+    "region": "europe",
+    "start": 1516,
+    "end": 1700,
+    "note": "A composite monarchy under the Spanish Habsburgs. Charles I’s accession in 1516 is the selected start; the crowns and territories retained distinct laws and institutions.",
+    "parent": "spainmodern",
+    "category": "period",
+    "sources": [
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Habsburg Spain",
+        "url": "https://en.wikipedia.org/wiki/Habsburg_Spain"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Habsburg Spain",
+      "valid": true,
+      "pageid": 938546
+    },
+    "posterLabelOriginal": "Habsburg Spain"
+  },
+  {
+    "posterKey": "europe-053",
+    "posterLabel": "Bourbon Reforms",
+    "id": null,
+    "proposedId": "poster-europe-053",
+    "proposedTitle": "Spain · early Bourbon monarchy and reforms",
+    "wikiTitle": "Bourbon Reforms",
+    "region": "europe",
+    "start": 1700,
+    "end": 1808,
+    "note": "A selected eighteenth-century reform frame under Bourbon rulers, with a major overseas dimension. The reforms were introduced in different territories at different times; not every reform began in 1700.",
+    "parent": "spainmodern",
+    "category": "period",
+    "sources": [
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Bourbon Reforms",
+        "url": "https://en.wikipedia.org/wiki/Bourbon_Reforms"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Bourbon Reforms",
+      "valid": true,
+      "pageid": 2934504
+    },
+    "posterLabelOriginal": "Bourbon Reforms"
+  },
+  {
+    "posterKey": "europe-054",
+    "posterLabel": "Constitutional Era · Spain",
+    "id": null,
+    "proposedId": "poster-europe-054",
+    "proposedTitle": "Spain · constitutional struggles and regime changes",
+    "wikiTitle": "Constitutional history of Spain",
+    "region": "europe",
+    "start": 1812,
+    "end": 1936,
+    "note": "Spain’s first national constitution dates to 1812, not 1808; the Bayonne Statute was imposed under Napoleonic influence. The period includes restored absolutism, constitutional monarchies, republics and dictatorship.",
+    "parent": "spainmodern",
+    "category": "period",
+    "sources": [
+      {
+        "publisher": "Congress of Deputies of Spain",
+        "title": "Constituciones Españolas 1812–1978",
+        "url": "https://www.congreso.es/ca/cem/constesp1812-1978"
+      },
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Constitutional history of Spain",
+        "url": "https://en.wikipedia.org/wiki/Constitutional_history_of_Spain"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "List of constitutions of Spain",
+      "valid": true,
+      "pageid": 299433
+    },
+    "posterLabelOriginal": "Constitutional Era"
+  },
+  {
+    "posterKey": "europe-055",
+    "posterLabel": "Francoist Spain",
+    "id": null,
+    "proposedId": "poster-europe-055",
+    "proposedTitle": "Francoist Spain",
+    "wikiTitle": "Francoist Spain",
+    "region": "europe",
+    "start": 1939,
+    "end": 1975,
+    "note": "The regime emerged during the Civil War from 1936 and controlled the whole country after 1939. Franco died in 1975, followed by a democratic transition; the 1978 constitution is a separate milestone.",
+    "parent": "spainmodern",
+    "category": "period",
+    "sources": [
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Francoist Spain",
+        "url": "https://en.wikipedia.org/wiki/Francoist_Spain"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Francoist Spain",
+      "valid": true,
+      "pageid": 294034
+    },
+    "posterLabelOriginal": "Francoist Spain"
+  },
+  {
+    "posterKey": "europe-056",
+    "posterLabel": "Spain",
+    "id": "spainmodern",
+    "proposedId": null,
+    "proposedTitle": "Spain · composite monarchy and modern eras",
+    "wikiTitle": "History of Spain",
+    "region": "europe",
+    "start": 1479,
+    "end": null,
+    "note": "Country-level frame that distinguishes the late medieval dynastic union from later monarchy, republican, dictatorial and democratic governments.",
+    "parent": null,
+    "category": "history",
+    "sources": [
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "History of Spain",
+        "url": "https://en.wikipedia.org/wiki/History_of_Spain"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "History of Spain",
+      "valid": true,
+      "pageid": 13299
+    },
+    "posterLabelOriginal": "Spain"
+  },
+  {
+    "posterKey": "europe-057",
+    "posterLabel": "Spain · 1978 boundary",
+    "id": null,
+    "proposedId": "poster-europe-057",
+    "proposedTitle": "Spain · parliamentary constitutional monarchy",
+    "wikiTitle": "Spanish transition to democracy",
+    "region": "europe",
+    "start": 1975,
+    "end": null,
+    "note": "The democratic transition followed Franco’s death in 1975; the constitution was approved in 1978. This frame does not imply that Spain came into existence in 1978.",
+    "parent": "spainmodern",
+    "category": "period",
+    "sources": [
+      {
+        "publisher": "Congress of Deputies of Spain",
+        "title": "Constituciones Españolas 1812–1978",
+        "url": "https://www.congreso.es/ca/cem/constesp1812-1978"
+      },
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Spanish transition to democracy",
+        "url": "https://en.wikipedia.org/wiki/Spanish_transition_to_democracy"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Spanish transition to democracy",
+      "valid": true,
+      "pageid": 1821375
+    },
+    "posterLabelOriginal": "Spain"
+  },
+  {
+    "posterKey": "europe-058",
+    "posterLabel": "Frankish Kingdom",
+    "id": null,
+    "proposedId": "poster-europe-058",
+    "proposedTitle": "Frankish realms · Merovingian and Carolingian periods",
+    "wikiTitle": "Francia",
+    "region": "europe",
+    "start": 481,
+    "end": 843,
+    "note": "481 marks Clovis I’s accession, not the first existence of Franks. Frankish realms were repeatedly divided; imperial coronation in 800 and partition in 843 are distinct events.",
+    "parent": null,
+    "category": "history",
+    "sources": [
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Francia",
+        "url": "https://en.wikipedia.org/wiki/Francia"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Francia",
+      "valid": true,
+      "pageid": 303481
+    },
+    "posterLabelOriginal": "Frankish Kingdom"
+  },
+  {
+    "posterKey": "europe-059",
+    "posterLabel": "West Francia",
+    "id": "cn-westfrancia",
+    "proposedId": null,
+    "proposedTitle": "West Francia",
+    "wikiTitle": "West Francia",
+    "region": "europe",
+    "start": 843,
+    "end": 987,
+    "note": "The western share established at Verdun in 843; 987 is a conventional Capetian transition, not an instant replacement of population or institutions.",
+    "parent": null,
+    "category": "history",
+    "sources": [
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "West Francia",
+        "url": "https://en.wikipedia.org/wiki/West_Francia"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "West Francia",
+      "valid": true,
+      "pageid": 3464935
+    },
+    "posterLabelOriginal": "West Francia"
+  },
+  {
+    "posterKey": "europe-060",
+    "posterLabel": "Kingdom of France",
+    "id": "francekingdom",
+    "proposedId": null,
+    "proposedTitle": "Kingdom of France · selected royal frame",
+    "wikiTitle": "Kingdom of France",
+    "region": "europe",
+    "start": 987,
+    "end": 1792,
+    "note": "987 marks Hugh Capet’s accession and the selected royal frame. France was not a uniformly centralised nation-state throughout this period.",
+    "parent": null,
+    "category": "history",
+    "sources": [
+      {
+        "publisher": "French National Assembly",
+        "title": "History of the National Assembly",
+        "url": "https://www2.assemblee-nationale.fr/decouvrir-l-assemblee/juniors/histoire"
+      },
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Kingdom of France",
+        "url": "https://en.wikipedia.org/wiki/Kingdom_of_France"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Kingdom of France",
+      "valid": true,
+      "pageid": 2687967
+    },
+    "posterLabelOriginal": "Kingdom of France"
+  },
+  {
+    "posterKey": "europe-061",
+    "posterLabel": "Bourbon France",
+    "id": null,
+    "proposedId": "poster-europe-061",
+    "proposedTitle": "France · Bourbon monarchy before the Revolution",
+    "wikiTitle": "House of Bourbon",
+    "region": "europe",
+    "start": 1589,
+    "end": 1792,
+    "note": "Henry IV’s accession in 1589 begins the selected Bourbon royal frame. Bourbon restoration in 1814–1830 is a later phase, interrupted by Napoleon’s Hundred Days.",
+    "parent": "francekingdom",
+    "category": "period",
+    "sources": [
+      {
+        "publisher": "French National Assembly",
+        "title": "History of the National Assembly",
+        "url": "https://www2.assemblee-nationale.fr/decouvrir-l-assemblee/juniors/histoire"
+      },
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "House of Bourbon",
+        "url": "https://en.wikipedia.org/wiki/House_of_Bourbon"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "House of Bourbon",
+      "valid": true,
+      "pageid": 44705
+    },
+    "posterLabelOriginal": "Bourbon France"
+  },
+  {
+    "posterKey": "europe-062",
+    "posterLabel": "First French Republic · tiny 1792 band",
+    "id": null,
+    "proposedId": "poster-europe-062",
+    "proposedTitle": "First French Republic",
+    "wikiTitle": "French First Republic",
+    "region": "europe",
+    "start": 1792,
+    "end": 1804,
+    "note": "The monarchy was abolished in 1792. The republic included the Convention, Directory and Consulate before Napoleon’s imperial title in 1804.",
+    "parent": "francemodern",
+    "category": "period",
+    "sources": [
+      {
+        "publisher": "French National Assembly",
+        "title": "History of the National Assembly",
+        "url": "https://www2.assemblee-nationale.fr/decouvrir-l-assemblee/juniors/histoire"
+      },
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "French First Republic",
+        "url": "https://en.wikipedia.org/wiki/French_First_Republic"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "French First Republic",
+      "valid": true,
+      "pageid": 62243
+    },
+    "posterLabelOriginal": "First French Republic"
+  },
+  {
+    "posterKey": "europe-063",
+    "posterLabel": "First French Empire",
+    "id": null,
+    "proposedId": "poster-europe-063",
+    "proposedTitle": "First French Empire",
+    "wikiTitle": "First French Empire",
+    "region": "europe",
+    "start": 1804,
+    "end": 1815,
+    "note": "Napoleon’s empire lasted 1804–1814 and returned during the Hundred Days in 1815. The poster’s long black band crosses countries with different occupation dates and incorrectly suggests uniform annexation.",
+    "parent": "francemodern",
+    "category": "period",
+    "sources": [
+      {
+        "publisher": "French National Assembly",
+        "title": "History of the National Assembly",
+        "url": "https://www2.assemblee-nationale.fr/decouvrir-l-assemblee/juniors/histoire"
+      },
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "First French Empire",
+        "url": "https://en.wikipedia.org/wiki/First_French_Empire"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "First French Empire",
+      "valid": true,
+      "pageid": 21418258
+    },
+    "posterLabelOriginal": "First French Empire"
+  },
+  {
+    "posterKey": "europe-064",
+    "posterLabel": "First French Empire · Portugal 1807 band",
+    "id": null,
+    "proposedId": "poster-europe-064",
+    "proposedTitle": "French invasions of Portugal",
+    "wikiTitle": "Peninsular War",
+    "region": "europe",
+    "start": 1807,
+    "end": 1811,
+    "note": "Three French invasions occurred in 1807–1811. Portugal was not permanently annexed to the First French Empire; the royal court moved to Brazil and Anglo-Portuguese forces resisted.",
+    "parent": "cn-portugal",
+    "category": "period",
+    "sources": [
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Peninsular War",
+        "url": "https://en.wikipedia.org/wiki/Peninsular_War"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Peninsular War",
+      "valid": true,
+      "pageid": 102485
+    },
+    "posterLabelOriginal": "First French Empire"
+  },
+  {
+    "posterKey": "europe-065",
+    "posterLabel": "First French Empire · Spain 1808 band",
+    "id": null,
+    "proposedId": "poster-europe-065",
+    "proposedTitle": "Spain under Napoleonic occupation and war",
+    "wikiTitle": "Spain under Joseph Bonaparte",
+    "region": "europe",
+    "start": 1808,
+    "end": 1813,
+    "note": "Joseph Bonaparte’s imposed monarchy and French occupation faced competing Spanish governments and armed resistance. The whole country was never securely governed as one French province.",
+    "parent": "spainmodern",
+    "category": "period",
+    "sources": [
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Spain under Joseph Bonaparte",
+        "url": "https://en.wikipedia.org/wiki/Spain_under_Joseph_Bonaparte"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Spain under Joseph Bonaparte",
+      "valid": true,
+      "pageid": 26478362
+    },
+    "posterLabelOriginal": "First French Empire"
+  },
+  {
+    "posterKey": "europe-066",
+    "posterLabel": "First French Empire · Italy 1805 band",
+    "id": null,
+    "proposedId": "poster-europe-066",
+    "proposedTitle": "Napoleonic Kingdom of Italy",
+    "wikiTitle": "Kingdom of Italy (Napoleonic)",
+    "region": "europe",
+    "start": 1805,
+    "end": 1814,
+    "note": "A northern Italian kingdom under Napoleon, not the whole peninsula. Other areas were annexed to France, governed by allied states or remained outside his rule.",
+    "parent": "italymodern",
+    "category": "period",
+    "sources": [
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Kingdom of Italy (Napoleonic)",
+        "url": "https://en.wikipedia.org/wiki/Kingdom_of_Italy_(Napoleonic)"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Kingdom of Italy (Napoleonic)",
+      "valid": true,
+      "pageid": 1639662
+    },
+    "posterLabelOriginal": "First French Empire"
+  },
+  {
+    "posterKey": "europe-067",
+    "posterLabel": "First French Empire · German 1806 band",
+    "id": null,
+    "proposedId": "poster-europe-067",
+    "proposedTitle": "Confederation of the Rhine",
+    "wikiTitle": "Confederation of the Rhine",
+    "region": "europe",
+    "start": 1806,
+    "end": 1813,
+    "note": "A confederation of German states under Napoleon’s protection, not wholesale French annexation of Germany. The Holy Roman Empire ended in 1806.",
+    "parent": "germanymodern",
+    "category": "period",
+    "sources": [
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Confederation of the Rhine",
+        "url": "https://en.wikipedia.org/wiki/Confederation_of_the_Rhine"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Confederation of the Rhine",
+      "valid": true,
+      "pageid": 517886
+    },
+    "posterLabelOriginal": "First French Empire"
+  },
+  {
+    "posterKey": "europe-068",
+    "posterLabel": "Republican France",
+    "id": null,
+    "proposedId": "poster-europe-068",
+    "proposedTitle": "France · changing regimes, 1815–1946",
+    "wikiTitle": "History of France",
+    "region": "europe",
+    "start": 1815,
+    "end": 1946,
+    "note": "The poster’s label is inaccurate: restored monarchies ruled in 1815–1848 and the Second Empire in 1852–1870. The period also includes the Second and Third Republics, occupation, Vichy and provisional government.",
+    "parent": "francemodern",
+    "category": "period",
+    "sources": [
+      {
+        "publisher": "French National Assembly",
+        "title": "History of the National Assembly",
+        "url": "https://www2.assemblee-nationale.fr/decouvrir-l-assemblee/juniors/histoire"
+      },
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "History of France",
+        "url": "https://en.wikipedia.org/wiki/History_of_France"
+      }
+    ],
+    "posterLabelOriginal": "Republican France",
+    "wikiResolution": {
+      "canonical": "History of France",
+      "valid": true,
+      "pageid": 13854
+    }
+  },
+  {
+    "posterKey": "europe-069",
+    "posterLabel": "France",
+    "id": "francemodern",
+    "proposedId": null,
+    "proposedTitle": "France · revolutionary and modern eras",
+    "wikiTitle": "History of France",
+    "region": "europe",
+    "start": 1792,
+    "end": null,
+    "note": "Modern France includes republics, empires and restored monarchies. The poster’s 1946 boundary is the Fourth Republic; the Fifth Republic began in 1958.",
+    "parent": null,
+    "category": "history",
+    "sources": [
+      {
+        "publisher": "French National Assembly",
+        "title": "History of the National Assembly",
+        "url": "https://www2.assemblee-nationale.fr/decouvrir-l-assemblee/juniors/histoire"
+      },
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "History of France",
+        "url": "https://en.wikipedia.org/wiki/History_of_France"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "History of France",
+      "valid": true,
+      "pageid": 13854
+    },
+    "posterLabelOriginal": "France"
+  },
+  {
+    "posterKey": "europe-070",
+    "posterLabel": "France · 1946 boundary",
+    "id": null,
+    "proposedId": "poster-europe-070",
+    "proposedTitle": "Fourth and Fifth French republics",
+    "wikiTitle": "French Fourth Republic",
+    "region": "europe",
+    "start": 1946,
+    "end": null,
+    "note": "The Fourth Republic lasted 1946–1958, followed by the Fifth Republic. This country phase is not a single unchanging constitution.",
+    "parent": "francemodern",
+    "category": "period",
+    "sources": [
+      {
+        "publisher": "French National Assembly",
+        "title": "History of the National Assembly",
+        "url": "https://www2.assemblee-nationale.fr/decouvrir-l-assemblee/juniors/histoire"
+      },
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "French Fourth Republic",
+        "url": "https://en.wikipedia.org/wiki/French_Fourth_Republic"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "French Fourth Republic",
+      "valid": true,
+      "pageid": 335804
+    },
+    "posterLabelOriginal": "France"
+  },
+  {
+    "posterKey": "europe-071",
+    "posterLabel": "Western Roman Empire",
+    "id": "cn-westrome",
+    "proposedId": null,
+    "proposedTitle": "Western Roman Empire · late phase",
+    "wikiTitle": "Western Roman Empire",
+    "region": "europe",
+    "start": 395,
+    "end": 476,
+    "note": "The 395 division concerned imperial courts and administration, not a clean cultural split. The western imperial title ended conventionally in 476, with Julius Nepos retaining a claim until 480.",
+    "parent": null,
+    "category": "history",
+    "sources": [
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Western Roman Empire",
+        "url": "https://en.wikipedia.org/wiki/Western_Roman_Empire"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Western Roman Empire",
+      "valid": true,
+      "pageid": 504379
+    },
+    "posterLabelOriginal": "Western Roman Empire"
+  },
+  {
+    "posterKey": "europe-072",
+    "posterLabel": "Ostrogothic Kingdom",
+    "id": null,
+    "proposedId": "poster-europe-072",
+    "proposedTitle": "Ostrogothic Kingdom in Italy",
+    "wikiTitle": "Ostrogothic Kingdom",
+    "region": "europe",
+    "start": 493,
+    "end": 553,
+    "note": "Theodoric took control of Italy in 493. 553 is a conventional endpoint after Byzantine victories; warfare and residual resistance continued.",
+    "parent": null,
+    "category": "history",
+    "sources": [
+      {
+        "publisher": "The Metropolitan Museum of Art",
+        "title": "Italian Peninsula, 500–1000 A.D.",
+        "url": "https://www.metmuseum.org/toah/ht/06/eust.html"
+      },
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Ostrogothic Kingdom",
+        "url": "https://en.wikipedia.org/wiki/Ostrogothic_Kingdom"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Ostrogothic Kingdom",
+      "valid": true,
+      "pageid": 2884656
+    },
+    "posterLabelOriginal": "Ostrogothic Kingdom"
+  },
+  {
+    "posterKey": "europe-073",
+    "posterLabel": "Byzantine Italy",
+    "id": null,
+    "proposedId": "poster-europe-073",
+    "proposedTitle": "Eastern Roman rule in Italy",
+    "wikiTitle": "Italy in the Middle Ages",
+    "region": "europe",
+    "start": 535,
+    "end": 1071,
+    "note": "Justinian’s reconquest began in 535; Byzantine rule survived in changing parts of Italy until Bari fell in 1071. The poster’s 553–774 band is only a selected phase, not the full duration.",
+    "parent": "byzantium",
+    "category": "period",
+    "sources": [
+      {
+        "publisher": "The Metropolitan Museum of Art",
+        "title": "Italian Peninsula, 500–1000 A.D.",
+        "url": "https://www.metmuseum.org/toah/ht/06/eust.html"
+      },
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Italy in the Middle Ages",
+        "url": "https://en.wikipedia.org/wiki/Italy_in_the_Middle_Ages"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Italy in the Middle Ages",
+      "valid": true,
+      "pageid": 1161280
+    },
+    "posterLabelOriginal": "Byzantine Italy"
+  },
+  {
+    "posterKey": "europe-074",
+    "posterLabel": "Lombard Kingdom",
+    "id": null,
+    "proposedId": "poster-europe-074",
+    "proposedTitle": "Kingdom of the Lombards",
+    "wikiTitle": "Kingdom of the Lombards",
+    "region": "europe",
+    "start": 568,
+    "end": 774,
+    "note": "The Lombard kingdom ruled much of the peninsula after 568 and was conquered by Charlemagne in 774. Southern Lombard duchies continued afterward.",
+    "parent": null,
+    "category": "history",
+    "sources": [
+      {
+        "publisher": "Italian Ministry of Culture",
+        "title": "Longobards in Italy, Places of Power, 568–774 A.D.",
+        "url": "https://unesco.cultura.gov.it/en/projects/i-longobardi-in-italia-i-luoghi-del-potere-568-774-d-c/"
+      },
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Kingdom of the Lombards",
+        "url": "https://en.wikipedia.org/wiki/Kingdom_of_the_Lombards"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Kingdom of the Lombards",
+      "valid": true,
+      "pageid": 7946956
+    },
+    "posterLabelOriginal": "Lombard Kingdom"
+  },
+  {
+    "posterKey": "europe-075",
+    "posterLabel": "Medieval Italian States",
+    "id": null,
+    "proposedId": "poster-europe-075",
+    "proposedTitle": "Italian states · medieval communes and regional powers",
+    "wikiTitle": "Italy in the Middle Ages",
+    "region": "europe",
+    "start": 774,
+    "end": 1494,
+    "note": "A regional umbrella for many states, cities and jurisdictions, not one state. Venice, Genoa, the Papal States, imperial territories and southern kingdoms had distinct histories.",
+    "parent": null,
+    "category": "history",
+    "sources": [
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Italy in the Middle Ages",
+        "url": "https://en.wikipedia.org/wiki/Italy_in_the_Middle_Ages"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Italy in the Middle Ages",
+      "valid": true,
+      "pageid": 1161280
+    },
+    "posterLabelOriginal": "Medieval Italian States"
+  },
+  {
+    "posterKey": "europe-076",
+    "posterLabel": "Kingdom of Sicily",
+    "id": null,
+    "proposedId": "poster-europe-076",
+    "proposedTitle": "Kingdom of Sicily",
+    "wikiTitle": "Kingdom of Sicily",
+    "region": "europe",
+    "start": 1130,
+    "end": 1816,
+    "note": "Founded in 1130. After 1282 the island and mainland crowns were politically divided, with both claiming Sicilian titles; they were formally combined as the Two Sicilies in 1816. The poster’s 1494 boundary is not the kingdom’s end.",
+    "parent": null,
+    "category": "history",
+    "sources": [
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Kingdom of Sicily",
+        "url": "https://en.wikipedia.org/wiki/Kingdom_of_Sicily"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Kingdom of Sicily",
+      "valid": true,
+      "pageid": 641373
+    },
+    "posterLabelOriginal": "Kingdom of Sicily"
+  },
+  {
+    "posterKey": "europe-077",
+    "posterLabel": "The Age of Divided Italy",
+    "id": null,
+    "proposedId": "poster-europe-077",
+    "proposedTitle": "Italy · regional states and foreign intervention",
+    "wikiTitle": "History of Italy",
+    "region": "europe",
+    "start": 1494,
+    "end": 1815,
+    "note": "1494 marks the start of the Italian Wars, not the first division of Italy. Regional states and competing foreign powers continued through the early modern period, with major changes during the Napoleonic wars.",
+    "parent": "italymodern",
+    "category": "period",
+    "sources": [
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "History of Italy",
+        "url": "https://en.wikipedia.org/wiki/History_of_Italy"
+      }
+    ],
+    "posterLabelOriginal": "The Age of Divided Italy",
+    "wikiResolution": {
+      "canonical": "History of Italy",
+      "valid": true,
+      "pageid": 62583
+    }
+  },
+  {
+    "posterKey": "europe-078",
+    "posterLabel": "Bourbon Sicily",
+    "id": null,
+    "proposedId": "poster-europe-078",
+    "proposedTitle": "Kingdom of the Two Sicilies",
+    "wikiTitle": "Kingdom of the Two Sicilies",
+    "region": "europe",
+    "start": 1816,
+    "end": 1861,
+    "note": "The poster’s 1815 restoration relates to the post-Napoleonic settlement. The unified Kingdom of the Two Sicilies was formally created in 1816 and incorporated into the Kingdom of Italy in 1861.",
+    "parent": null,
+    "category": "history",
+    "sources": [
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Kingdom of the Two Sicilies",
+        "url": "https://en.wikipedia.org/wiki/Kingdom_of_the_Two_Sicilies"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Kingdom of the Two Sicilies",
+      "valid": true,
+      "pageid": 21486505
+    },
+    "posterLabelOriginal": "Bourbon Sicily"
+  },
+  {
+    "posterKey": "europe-079",
+    "posterLabel": "Kingdom of Italy",
+    "id": null,
+    "proposedId": "poster-europe-079",
+    "proposedTitle": "Kingdom of Italy",
+    "wikiTitle": "Kingdom of Italy",
+    "region": "europe",
+    "start": 1861,
+    "end": 1946,
+    "note": "The kingdom was proclaimed in 1861; Venice joined in 1866 and Rome in 1870. Fascist dictatorship developed within the monarchy; the republican referendum took place in 1946.",
+    "parent": "italymodern",
+    "category": "period",
+    "sources": [
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Kingdom of Italy",
+        "url": "https://en.wikipedia.org/wiki/Kingdom_of_Italy"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Kingdom of Italy",
+      "valid": true,
+      "pageid": 9804204
+    },
+    "posterLabelOriginal": "Kingdom of Italy"
+  },
+  {
+    "posterKey": "europe-080",
+    "posterLabel": "Italy",
+    "id": "italymodern",
+    "proposedId": null,
+    "proposedTitle": "Italy · kingdom and republic",
+    "wikiTitle": "History of Italy",
+    "region": "europe",
+    "start": 1861,
+    "end": null,
+    "note": "A modern country frame beginning with proclamation of the kingdom. The republic dates to 1946, and the republican constitution entered into effect in 1948.",
+    "parent": null,
+    "category": "history",
+    "sources": [
+      {
+        "publisher": "Presidency of the Italian Republic",
+        "title": "Hall of the Italian Republic",
+        "url": "https://palazzo.quirinale.it/luoghi/pdf/en/sala-repubblica-italiana_en.pdf"
+      },
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "History of Italy",
+        "url": "https://en.wikipedia.org/wiki/History_of_Italy"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "History of Italy",
+      "valid": true,
+      "pageid": 62583
+    },
+    "posterLabelOriginal": "Italy"
+  },
+  {
+    "posterKey": "europe-081",
+    "posterLabel": "Italy · 1946 boundary",
+    "id": null,
+    "proposedId": "poster-europe-081",
+    "proposedTitle": "Italian Republic",
+    "wikiTitle": "Italy",
+    "region": "europe",
+    "start": 1946,
+    "end": null,
+    "note": "The referendum of 2 June 1946 chose a republic; official confirmation followed in June, and the constitution took effect on 1 January 1948.",
+    "parent": "italymodern",
+    "category": "period",
+    "sources": [
+      {
+        "publisher": "Presidency of the Italian Republic",
+        "title": "Hall of the Italian Republic",
+        "url": "https://palazzo.quirinale.it/luoghi/pdf/en/sala-repubblica-italiana_en.pdf"
+      },
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Italy",
+        "url": "https://en.wikipedia.org/wiki/Italy"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Italy",
+      "valid": true,
+      "pageid": 14532
+    },
+    "posterLabelOriginal": "Italy"
+  },
+  {
+    "posterKey": "europe-082",
+    "posterLabel": "Germanic Tribes",
+    "id": null,
+    "proposedId": "poster-europe-082",
+    "proposedTitle": "Germanic-speaking communities in late antiquity",
+    "wikiTitle": "Germanic peoples",
+    "region": "europe",
+    "start": 375,
+    "end": 568,
+    "note": "A selected late antique migration frame encompassing many groups and political formations. Language labels do not imply one people, one kingdom or an unbroken ancestry for modern Germany.",
+    "parent": null,
+    "category": "history",
+    "sources": [
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Germanic peoples",
+        "url": "https://en.wikipedia.org/wiki/Germanic_peoples"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Germanic peoples",
+      "valid": true,
+      "pageid": 12446
+    },
+    "posterLabelOriginal": "Germanic Tribes"
+  },
+  {
+    "posterKey": "europe-083",
+    "posterLabel": "Migration Period",
+    "id": null,
+    "proposedId": "poster-europe-083",
+    "proposedTitle": "Migration Period · late antique Europe",
+    "wikiTitle": "Migration Period",
+    "region": "europe",
+    "start": 300,
+    "end": 800,
+    "note": "A broad conventional span used by the Metropolitan Museum; other historians use narrower fourth-to-sixth-century ranges. Migration involved warfare, settlement, Roman service and changing identities rather than a single population replacement.",
+    "parent": null,
+    "category": "history",
+    "sources": [
+      {
+        "publisher": "The Metropolitan Museum of Art",
+        "title": "Italian Peninsula, 500–1000 A.D.",
+        "url": "https://www.metmuseum.org/toah/ht/06/eust.html"
+      },
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Migration Period",
+        "url": "https://en.wikipedia.org/wiki/Migration_Period"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Migration Period",
+      "valid": true,
+      "pageid": 103155
+    },
+    "posterLabelOriginal": "Migration Period"
+  },
+  {
+    "posterKey": "europe-084",
+    "posterLabel": "Post-Roman Germanic Kingdoms",
+    "id": null,
+    "proposedId": "poster-europe-084",
+    "proposedTitle": "Post-Roman kingdoms in the eastern Alpine region",
+    "wikiTitle": "Early Middle Ages",
+    "region": "europe",
+    "start": 476,
+    "end": 568,
+    "note": "A selected regional transition among successor authorities, including Ostrogothic influence and emerging Bavarian power. It is not a single named kingdom founded in 476.",
+    "parent": null,
+    "category": "history",
+    "sources": [
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Early Middle Ages",
+        "url": "https://en.wikipedia.org/wiki/Early_Middle_Ages"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Early Middle Ages",
+      "valid": true,
+      "pageid": 532476
+    },
+    "posterLabelOriginal": "Post-Roman Germanic Kingdoms"
+  },
+  {
+    "posterKey": "europe-085",
+    "posterLabel": "Duchy of Bavaria",
+    "id": null,
+    "proposedId": "poster-europe-085",
+    "proposedTitle": "Early Duchy of Bavaria",
+    "wikiTitle": "Duchy of Bavaria",
+    "region": "europe",
+    "start": 555,
+    "end": 788,
+    "note": "The first Bavarian duchy is conventionally traced to the mid-sixth century; Charlemagne deposed Tassilo III in 788. Later Bavarian duchies continued under different political arrangements.",
+    "parent": null,
+    "category": "history",
+    "sources": [
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Duchy of Bavaria",
+        "url": "https://en.wikipedia.org/wiki/Duchy_of_Bavaria"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Duchy of Bavaria",
+      "valid": true,
+      "pageid": 1463463
+    },
+    "posterLabelOriginal": "Duchy of Bavaria"
+  },
+  {
+    "posterKey": "europe-086",
+    "posterLabel": "East Francia",
+    "id": "cn-eastfrancia",
+    "proposedId": null,
+    "proposedTitle": "East Francia",
+    "wikiTitle": "East Francia",
+    "region": "europe",
+    "start": 843,
+    "end": 962,
+    "note": "The eastern realm created at Verdun in 843 developed into the medieval German kingdom. The 962 imperial coronation is a selected transition, not the disappearance of its people or institutions.",
+    "parent": null,
+    "category": "history",
+    "sources": [
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "East Francia",
+        "url": "https://en.wikipedia.org/wiki/East_Francia"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "East Francia",
+      "valid": true,
+      "pageid": 1722738
+    },
+    "posterLabelOriginal": "East Francia"
+  },
+  {
+    "posterKey": "europe-087",
+    "posterLabel": "Holy Roman Empire",
+    "id": "holyroman",
+    "proposedId": null,
+    "proposedTitle": "Holy Roman Empire",
+    "wikiTitle": "Holy Roman Empire",
+    "region": "europe",
+    "start": 962,
+    "end": 1806,
+    "note": "Otto I’s 962 coronation is the selected start; some imperial narratives begin with 800. This was a changing framework of many states and cities, not a modern German nation-state.",
+    "parent": null,
+    "category": "history",
+    "sources": [
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Holy Roman Empire",
+        "url": "https://en.wikipedia.org/wiki/Holy_Roman_Empire"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Holy Roman Empire",
+      "valid": true,
+      "pageid": 13277
+    },
+    "posterLabelOriginal": "Holy Roman Empire"
+  },
+  {
+    "posterKey": "europe-088",
+    "posterLabel": "Kingdom of Prussia",
+    "id": null,
+    "proposedId": "poster-europe-088",
+    "proposedTitle": "Kingdom of Prussia",
+    "wikiTitle": "Kingdom of Prussia",
+    "region": "europe",
+    "start": 1701,
+    "end": 1918,
+    "note": "The royal title was adopted in 1701. Prussia did not cease in 1871: it became the largest constituent kingdom of the German Empire and its monarchy ended in 1918.",
+    "parent": "germanymodern",
+    "category": "period",
+    "sources": [
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Kingdom of Prussia",
+        "url": "https://en.wikipedia.org/wiki/Kingdom_of_Prussia"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Kingdom of Prussia",
+      "valid": true,
+      "pageid": 242701
+    },
+    "posterLabelOriginal": "Kingdom of Prussia"
+  },
+  {
+    "posterKey": "europe-089",
+    "posterLabel": "German Confederation",
+    "id": null,
+    "proposedId": "poster-europe-089",
+    "proposedTitle": "German Confederation",
+    "wikiTitle": "German Confederation",
+    "region": "europe",
+    "start": 1815,
+    "end": 1866,
+    "note": "A loose confederation established at Vienna in 1815 and dissolved in 1866; it was not a united Germany. The North German Confederation followed in 1867 before imperial unification in 1871.",
+    "parent": "germanymodern",
+    "category": "period",
+    "sources": [
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "German Confederation",
+        "url": "https://en.wikipedia.org/wiki/German_Confederation"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "German Confederation",
+      "valid": true,
+      "pageid": 142280
+    },
+    "posterLabelOriginal": "German Confederation"
+  },
+  {
+    "posterKey": "europe-090",
+    "posterLabel": "German Empire",
+    "id": null,
+    "proposedId": "poster-europe-090",
+    "proposedTitle": "German Empire",
+    "wikiTitle": "German Empire",
+    "region": "europe",
+    "start": 1871,
+    "end": 1918,
+    "note": "The German Empire was proclaimed in 1871 and its monarchy fell in 1918. The 1919 constitution belongs to the subsequent republic, not the continuation of imperial monarchy.",
+    "parent": "germanymodern",
+    "category": "period",
+    "sources": [
+      {
+        "publisher": "German Bundestag",
+        "title": "The Empire (1871–1918)",
+        "url": "https://www.bundestag.de/en/parliament/history/parliamentarism/empire"
+      },
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "German Empire",
+        "url": "https://en.wikipedia.org/wiki/German_Empire"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "German Empire",
+      "valid": true,
+      "pageid": 12674
+    },
+    "posterLabelOriginal": "German Empire"
+  },
+  {
+    "posterKey": "europe-091",
+    "posterLabel": "Weimar Republic",
+    "id": null,
+    "proposedId": "poster-europe-091",
+    "proposedTitle": "Weimar Republic",
+    "wikiTitle": "Weimar Republic",
+    "region": "europe",
+    "start": 1918,
+    "end": 1933,
+    "note": "Republican government was proclaimed in November 1918; the Weimar constitution followed in 1919. Nazi dictatorship developed after Hitler’s appointment in January 1933.",
+    "parent": "germanymodern",
+    "category": "period",
+    "sources": [
+      {
+        "publisher": "German Bundestag",
+        "title": "The Weimar Republic (1918–1933)",
+        "url": "https://www.bundestag.de/en/parliament/history/parliamentarism/weimar"
+      },
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Weimar Republic",
+        "url": "https://en.wikipedia.org/wiki/Weimar_Republic"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Weimar Republic",
+      "valid": true,
+      "pageid": 33685
+    },
+    "posterLabelOriginal": "Weimar Republic"
+  },
+  {
+    "posterKey": "europe-092",
+    "posterLabel": "Nazi Germany",
+    "id": null,
+    "proposedId": "poster-europe-092",
+    "proposedTitle": "Nazi Germany",
+    "wikiTitle": "Nazi Germany",
+    "region": "europe",
+    "start": 1933,
+    "end": 1945,
+    "note": "Nazi rule lasted 1933–1945, with escalating dictatorship, aggressive war and genocide. Territorial extent changed; occupation zones followed military defeat.",
+    "parent": "germanymodern",
+    "category": "period",
+    "sources": [
+      {
+        "publisher": "German Bundestag",
+        "title": "A history of German parliamentary democracy",
+        "url": "https://www.bundestag.de/en/parliament/history/parliamentarism/teaser_modul-247948"
+      },
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Nazi Germany",
+        "url": "https://en.wikipedia.org/wiki/Nazi_Germany"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Nazi Germany",
+      "valid": true,
+      "pageid": 21212
+    },
+    "posterLabelOriginal": "Nazi Germany"
+  },
+  {
+    "posterKey": "europe-093",
+    "posterLabel": "East and West Germany",
+    "id": null,
+    "proposedId": "poster-europe-093",
+    "proposedTitle": "Germany · occupation and two German states",
+    "wikiTitle": "History of Germany (1945–1990)",
+    "region": "europe",
+    "start": 1945,
+    "end": 1990,
+    "note": "Allied occupation began in 1945; the Federal Republic and German Democratic Republic were founded separately in 1949. The poster’s 1945 label must not imply that both states already existed then.",
+    "parent": "germanymodern",
+    "category": "period",
+    "sources": [
+      {
+        "publisher": "German Bundestag",
+        "title": "A history of German parliamentary democracy",
+        "url": "https://www.bundestag.de/en/parliament/history/parliamentarism/teaser_modul-247948"
+      },
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "History of Germany (1945–1990)",
+        "url": "https://en.wikipedia.org/wiki/History_of_Germany_(1945%E2%80%931990)"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "History of Germany (1945–1990)",
+      "valid": true,
+      "pageid": 261678
+    },
+    "posterLabelOriginal": "East and West Germany"
+  },
+  {
+    "posterKey": "europe-094",
+    "posterLabel": "Germany",
+    "id": "germanymodern",
+    "proposedId": null,
+    "proposedTitle": "Germany · modern state eras",
+    "wikiTitle": "History of Germany",
+    "region": "europe",
+    "start": 1871,
+    "end": null,
+    "note": "A broad modern frame including empire, republic, dictatorship, occupation, two states and reunification in 1990. It is not one uninterrupted government.",
+    "parent": null,
+    "category": "history",
+    "sources": [
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "History of Germany",
+        "url": "https://en.wikipedia.org/wiki/History_of_Germany"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "History of Germany",
+      "valid": true,
+      "pageid": 13224
+    },
+    "posterLabelOriginal": "Germany"
+  },
+  {
+    "posterKey": "europe-095",
+    "posterLabel": "Germany · 1990 boundary",
+    "id": null,
+    "proposedId": "poster-europe-095",
+    "proposedTitle": "Germany · reunified Federal Republic",
+    "wikiTitle": "German reunification",
+    "region": "europe",
+    "start": 1990,
+    "end": null,
+    "note": "The GDR acceded to the Federal Republic on 3 October 1990. The Federal Republic itself dates from 1949; modern German history did not begin in 1990.",
+    "parent": "germanymodern",
+    "category": "period",
+    "sources": [
+      {
+        "publisher": "German Bundestag",
+        "title": "A history of German parliamentary democracy",
+        "url": "https://www.bundestag.de/en/parliament/history/parliamentarism/teaser_modul-247948"
+      },
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "German reunification",
+        "url": "https://en.wikipedia.org/wiki/German_reunification"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "German reunification",
+      "valid": true,
+      "pageid": 61103
+    },
+    "posterLabelOriginal": "Germany"
+  },
+  {
+    "posterKey": "europe-096",
+    "posterLabel": "Margraviate of Austria",
+    "id": null,
+    "proposedId": "poster-europe-096",
+    "proposedTitle": "Margraviate of Austria",
+    "wikiTitle": "Margraviate of Austria",
+    "region": "europe",
+    "start": 976,
+    "end": 1156,
+    "note": "The Babenberg march was established in 976 and elevated to a duchy in 1156. This was a frontier territory within a wider imperial framework, not an independent modern Austria.",
+    "parent": null,
+    "category": "history",
+    "sources": [
+      {
+        "publisher": "Schönbrunn Group / World of the Habsburgs",
+        "title": "The House of Austria – the Habsburgs and the Empire",
+        "url": "https://www.habsburger.net/en/chapter/house-austria-habsburgs-and-empire"
+      },
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Margraviate of Austria",
+        "url": "https://en.wikipedia.org/wiki/Margraviate_of_Austria"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Margraviate of Austria",
+      "valid": true,
+      "pageid": 11421146
+    },
+    "posterLabelOriginal": "Margraviate of Austria"
+  },
+  {
+    "posterKey": "europe-097",
+    "posterLabel": "Duchy of Austria",
+    "id": null,
+    "proposedId": "poster-europe-097",
+    "proposedTitle": "Duchy of Austria",
+    "wikiTitle": "Duchy of Austria",
+    "region": "europe",
+    "start": 1156,
+    "end": 1453,
+    "note": "The Privilegium Minus elevated the march to a duchy in 1156. The archducal title was invented in the fourteenth century but officially recognised in 1453.",
+    "parent": null,
+    "category": "history",
+    "sources": [
+      {
+        "publisher": "Schönbrunn Group / World of the Habsburgs",
+        "title": "The House of Austria – the Habsburgs and the Empire",
+        "url": "https://www.habsburger.net/en/chapter/house-austria-habsburgs-and-empire"
+      },
+      {
+        "publisher": "Schönbrunn Group / World of the Habsburgs",
+        "title": "Almost a crown: The Austrian archducal coronet",
+        "url": "https://www.habsburger.net/en/chapter/almost-crown-austrian-archducal-coronet"
+      },
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Duchy of Austria",
+        "url": "https://en.wikipedia.org/wiki/Duchy_of_Austria"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Duchy of Austria",
+      "valid": true,
+      "pageid": 6490884
+    },
+    "posterLabelOriginal": "Duchy of Austria"
+  },
+  {
+    "posterKey": "europe-098",
+    "posterLabel": "Habsburg Austria",
+    "id": null,
+    "proposedId": "poster-europe-098",
+    "proposedTitle": "Habsburg Austria · archducal and composite monarchy phases",
+    "wikiTitle": "Habsburg monarchy",
+    "region": "europe",
+    "start": 1453,
+    "end": 1804,
+    "note": "1453 marks formal recognition of the archducal title, not the beginning of Habsburg rule in Austria (which dates to the late thirteenth century). The wider Habsburg monarchy accumulated distinct crowns and territories.",
+    "parent": null,
+    "category": "history",
+    "sources": [
+      {
+        "publisher": "Schönbrunn Group / World of the Habsburgs",
+        "title": "The House of Austria – the Habsburgs and the Empire",
+        "url": "https://www.habsburger.net/en/chapter/house-austria-habsburgs-and-empire"
+      },
+      {
+        "publisher": "Schönbrunn Group / World of the Habsburgs",
+        "title": "Almost a crown: The Austrian archducal coronet",
+        "url": "https://www.habsburger.net/en/chapter/almost-crown-austrian-archducal-coronet"
+      },
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Habsburg monarchy",
+        "url": "https://en.wikipedia.org/wiki/Habsburg_monarchy"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Habsburg monarchy",
+      "valid": true,
+      "pageid": 1041515
+    },
+    "posterLabelOriginal": "Habsburg Austria"
+  },
+  {
+    "posterKey": "europe-099",
+    "posterLabel": "Austrian Empire",
+    "id": null,
+    "proposedId": "poster-europe-099",
+    "proposedTitle": "Austrian Empire",
+    "wikiTitle": "Austrian Empire",
+    "region": "europe",
+    "start": 1804,
+    "end": 1867,
+    "note": "The Austrian imperial title was proclaimed in 1804, while the Holy Roman Empire still existed until 1806. The Dual Monarchy replaced this framework in 1867.",
+    "parent": null,
+    "category": "history",
+    "sources": [
+      {
+        "publisher": "Schönbrunn Group / World of the Habsburgs",
+        "title": "The House of Austria – the Habsburgs and the Empire",
+        "url": "https://www.habsburger.net/en/chapter/house-austria-habsburgs-and-empire"
+      },
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Austrian Empire",
+        "url": "https://en.wikipedia.org/wiki/Austrian_Empire"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Austrian Empire",
+      "valid": true,
+      "pageid": 266894
+    },
+    "posterLabelOriginal": "Austrian Empire"
+  },
+  {
+    "posterKey": "europe-100",
+    "posterLabel": "Austria-Hungary",
+    "id": null,
+    "proposedId": "poster-europe-100",
+    "proposedTitle": "Austria-Hungary",
+    "wikiTitle": "Austria-Hungary",
+    "region": "europe",
+    "start": 1867,
+    "end": 1918,
+    "note": "The 1867 Compromise established a dual monarchy with separate Austrian and Hungarian institutions and shared affairs. Its dissolution in 1918 produced several successor states, not simply modern Austria.",
+    "parent": null,
+    "category": "history",
+    "sources": [
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Austria-Hungary",
+        "url": "https://en.wikipedia.org/wiki/Austria-Hungary"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Austria-Hungary",
+      "valid": true,
+      "pageid": 2983
+    },
+    "posterLabelOriginal": "Austria-Hungary"
+  },
+  {
+    "posterKey": "europe-101",
+    "posterLabel": "First Austrian Republic",
+    "id": null,
+    "proposedId": "poster-europe-101",
+    "proposedTitle": "First Austrian Republic",
+    "wikiTitle": "First Austrian Republic",
+    "region": "europe",
+    "start": 1918,
+    "end": 1934,
+    "note": "Republican Austria emerged in 1918; democratic parliamentary government was dismantled in 1933 and the authoritarian Federal State replaced the constitutional republic in 1934. Nazi annexation followed in 1938.",
+    "parent": "austriamodern",
+    "category": "period",
+    "sources": [
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "First Austrian Republic",
+        "url": "https://en.wikipedia.org/wiki/First_Austrian_Republic"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "First Austrian Republic",
+      "valid": true,
+      "pageid": 2507138
+    },
+    "posterLabelOriginal": "First Austrian Republic"
+  },
+  {
+    "posterKey": "europe-102",
+    "posterLabel": "Second Austrian Republic",
+    "id": null,
+    "proposedId": "poster-europe-102",
+    "proposedTitle": "Second Austrian Republic",
+    "wikiTitle": "Allied-occupied Austria",
+    "region": "europe",
+    "start": 1945,
+    "end": null,
+    "note": "The republic was restored in 1945, not in 1955. Allied occupation ended under the 1955 State Treaty, followed by constitutional permanent neutrality.",
+    "parent": "austriamodern",
+    "category": "period",
+    "sources": [
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Allied-occupied Austria",
+        "url": "https://en.wikipedia.org/wiki/Allied-occupied_Austria"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Allied-occupied Austria",
+      "valid": true,
+      "pageid": 11137012
+    },
+    "posterLabelOriginal": "Second Austrian Republic"
+  },
+  {
+    "posterKey": "europe-103",
+    "posterLabel": "Austria",
+    "id": null,
+    "proposedId": "austriamodern",
+    "proposedTitle": "Austria · modern republican eras",
+    "wikiTitle": "History of Austria",
+    "region": "europe",
+    "start": 1918,
+    "end": null,
+    "note": "A modern country frame covering the First Republic, authoritarian Federal State, Nazi annexation, restored republic and Allied occupation. Full sovereignty was restored in 1955, not the first existence of the republic.",
+    "parent": null,
+    "category": "history",
+    "sources": [
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "History of Austria",
+        "url": "https://en.wikipedia.org/wiki/History_of_Austria"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "History of Austria",
+      "valid": true,
+      "pageid": 39477
+    },
+    "posterLabelOriginal": "Austria"
+  },
+  {
+    "posterKey": "europe-104",
+    "posterLabel": "Austria · 1955 boundary",
+    "id": null,
+    "proposedId": "poster-europe-104",
+    "proposedTitle": "Austria · State Treaty and restored sovereignty",
+    "wikiTitle": "Austrian State Treaty",
+    "region": "europe",
+    "start": 1955,
+    "end": null,
+    "note": "The 1955 State Treaty ended Allied occupation. The Second Republic had already been restored in 1945, and the neutrality law was a separate act of October 1955.",
+    "parent": "austriamodern",
+    "category": "period",
+    "sources": [
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Austrian State Treaty",
+        "url": "https://en.wikipedia.org/wiki/Austrian_State_Treaty"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Austrian State Treaty",
+      "valid": true,
+      "pageid": 733522
+    },
+    "posterLabelOriginal": "Austria"
+  },
+  {
+    "posterKey": "europe-105",
+    "posterLabel": "Byzantine Empire",
+    "id": "byzantium",
+    "proposedId": null,
+    "proposedTitle": "Eastern Roman / Byzantine Empire",
+    "wikiTitle": "Byzantine Empire",
+    "region": "europe",
+    "start": 330,
+    "end": 1453,
+    "note": "The empire was Roman in its own identity. The poster’s 395 start marks a division of imperial courts; Constantinople’s dedication in 330 is the website’s selected frame. The Latin conquest interrupted rule in Constantinople in 1204–1261.",
+    "parent": null,
+    "category": "history",
+    "sources": [
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Byzantine Empire",
+        "url": "https://en.wikipedia.org/wiki/Byzantine_Empire"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Byzantine Empire",
+      "valid": true,
+      "pageid": 16972981
+    },
+    "posterLabelOriginal": "Byzantine Empire"
+  },
+  {
+    "posterKey": "europe-106",
+    "posterLabel": "Greek Successor States",
+    "id": null,
+    "proposedId": "poster-europe-106",
+    "proposedTitle": "Byzantine successor states after 1204",
+    "wikiTitle": "Byzantine Empire under the Laskarid dynasty",
+    "region": "europe",
+    "start": 1204,
+    "end": 1461,
+    "note": "After the Fourth Crusade, Nicaea, Epirus and Trebizond were distinct successor powers. Nicaea recovered Constantinople in 1261; Trebizond survived until 1461. This was not one state ending uniformly in 1453.",
+    "parent": "byzantium",
+    "category": "period",
+    "sources": [
+      {
+        "publisher": "The Metropolitan Museum of Art",
+        "title": "Byzantium (ca. 330–1453)",
+        "url": "https://www.metmuseum.org/essays/byzantium-ca-330-1453"
+      },
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Byzantine Empire under the Laskarid dynasty",
+        "url": "https://en.wikipedia.org/wiki/Byzantine_Empire_under_the_Laskarid_dynasty"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Empire of Nicaea",
+      "valid": true,
+      "pageid": 309758
+    },
+    "posterLabelOriginal": "Greek Successor States"
+  },
+  {
+    "posterKey": "europe-107",
+    "posterLabel": "Greek Successor States · Nicaea component",
+    "id": null,
+    "proposedId": "poster-europe-107",
+    "proposedTitle": "Empire of Nicaea",
+    "wikiTitle": "Empire of Nicaea",
+    "region": "europe",
+    "start": 1204,
+    "end": 1261,
+    "note": "Nicaea was one of several Byzantine successor states after 1204. Its rulers recovered Constantinople in 1261, rather than founding an unrelated empire.",
+    "parent": "byzantium",
+    "category": "period",
+    "sources": [
+      {
+        "publisher": "The Metropolitan Museum of Art",
+        "title": "Byzantium (ca. 330–1453)",
+        "url": "https://www.metmuseum.org/essays/byzantium-ca-330-1453"
+      },
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Empire of Nicaea",
+        "url": "https://en.wikipedia.org/wiki/Empire_of_Nicaea"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Empire of Nicaea",
+      "valid": true,
+      "pageid": 309758
+    },
+    "derivedDetail": true,
+    "posterLabelOriginal": "Greek Successor States"
+  },
+  {
+    "posterKey": "europe-108",
+    "posterLabel": "Greek Successor States · Epirus component",
+    "id": null,
+    "proposedId": "poster-europe-108",
+    "proposedTitle": "Despotate of Epirus",
+    "wikiTitle": "Despotate of Epirus",
+    "region": "europe",
+    "start": 1205,
+    "end": 1479,
+    "note": "An approximate successor-state frame; the conventional name is retrospective and political control changed. Ottoman conquest of the last Tocco-held territories in 1479 is a conventional endpoint.",
+    "parent": "byzantium",
+    "category": "period",
+    "sources": [
+      {
+        "publisher": "The Metropolitan Museum of Art",
+        "title": "Byzantium (ca. 330–1453)",
+        "url": "https://www.metmuseum.org/essays/byzantium-ca-330-1453"
+      },
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Despotate of Epirus",
+        "url": "https://en.wikipedia.org/wiki/Despotate_of_Epirus"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Despotate of Epirus",
+      "valid": true,
+      "pageid": 652533
+    },
+    "derivedDetail": true,
+    "posterLabelOriginal": "Greek Successor States"
+  },
+  {
+    "posterKey": "europe-109",
+    "posterLabel": "Greek Successor States · Trebizond component",
+    "id": null,
+    "proposedId": "poster-europe-109",
+    "proposedTitle": "Empire of Trebizond",
+    "wikiTitle": "Empire of Trebizond",
+    "region": "europe",
+    "start": 1204,
+    "end": 1461,
+    "note": "The Komnenian empire on the Black Sea survived Constantinople’s fall in 1453 and was conquered by the Ottomans in 1461.",
+    "parent": "byzantium",
+    "category": "period",
+    "sources": [
+      {
+        "publisher": "The Metropolitan Museum of Art",
+        "title": "Byzantium (ca. 330–1453)",
+        "url": "https://www.metmuseum.org/essays/byzantium-ca-330-1453"
+      },
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Empire of Trebizond",
+        "url": "https://en.wikipedia.org/wiki/Empire_of_Trebizond"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Empire of Trebizond",
+      "valid": true,
+      "pageid": 652643
+    },
+    "derivedDetail": true,
+    "posterLabelOriginal": "Greek Successor States"
+  },
+  {
+    "posterKey": "europe-110",
+    "posterLabel": "Latin Empire",
+    "id": null,
+    "proposedId": "poster-europe-110",
+    "proposedTitle": "Latin Empire of Constantinople",
+    "wikiTitle": "Latin Empire",
+    "region": "europe",
+    "start": 1204,
+    "end": 1261,
+    "note": "The crusader-founded Latin Empire occupied Constantinople after the Fourth Crusade. It was distinct from the Byzantine successor states and ended there with the city’s recovery in 1261.",
+    "parent": "byzantium",
+    "category": "period",
+    "sources": [
+      {
+        "publisher": "The Metropolitan Museum of Art",
+        "title": "Byzantium (ca. 330–1453)",
+        "url": "https://www.metmuseum.org/essays/byzantium-ca-330-1453"
+      },
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Latin Empire",
+        "url": "https://en.wikipedia.org/wiki/Latin_Empire"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Latin Empire",
+      "valid": true,
+      "pageid": 174215
+    },
+    "posterLabelOriginal": "Latin Empire"
+  },
+  {
+    "posterKey": "europe-111",
+    "posterLabel": "Latin Empire · wider Latin-state context",
+    "id": null,
+    "proposedId": "poster-europe-111",
+    "proposedTitle": "Latin states in the Greek world",
+    "wikiTitle": "Frankokratia",
+    "region": "europe",
+    "start": 1204,
+    "end": 1797,
+    "note": "A broad, non-unitary regional category for Latin and Venetian rule after the Fourth Crusade. Different territories had different durations; some Venetian Ionian possessions survived until 1797. The poster’s tiny band cannot represent one uniform state.",
+    "parent": "byzantium",
+    "category": "period",
+    "sources": [
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Frankokratia",
+        "url": "https://en.wikipedia.org/wiki/Frankokratia"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Frankokratia",
+      "valid": true,
+      "pageid": 15143171
+    },
+    "derivedDetail": true,
+    "posterLabelOriginal": "Latin Empire"
+  },
+  {
+    "posterKey": "europe-112",
+    "posterLabel": "Kingdom of Greece · 1832",
+    "id": null,
+    "proposedId": "poster-europe-112",
+    "proposedTitle": "Kingdom of Greece · first royal phase",
+    "wikiTitle": "Kingdom of Greece",
+    "region": "europe",
+    "start": 1832,
+    "end": 1924,
+    "note": "The monarchy was established in 1832 after the independence struggle and international recognition. Borders expanded later; the Second Hellenic Republic replaced the monarchy in 1924.",
+    "parent": "greecemodern",
+    "category": "period",
+    "sources": [
+      {
+        "publisher": "Hellenic Parliament",
+        "title": "Constitutional History",
+        "url": "https://www.hellenicparliament.gr/en/vouli-ton-ellinon/to-politevma/syntagmatiki-istoria/"
+      },
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Kingdom of Greece",
+        "url": "https://en.wikipedia.org/wiki/Kingdom_of_Greece"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Kingdom of Greece",
+      "valid": true,
+      "pageid": 57010779
+    },
+    "posterLabelOriginal": "Kingdom of Greece"
+  },
+  {
+    "posterKey": "europe-113",
+    "posterLabel": "Greek Republic · 1924",
+    "id": null,
+    "proposedId": "poster-europe-113",
+    "proposedTitle": "Second Hellenic Republic",
+    "wikiTitle": "Second Hellenic Republic",
+    "region": "europe",
+    "start": 1924,
+    "end": 1935,
+    "note": "The republic lasted 1924–1935 and faced coups and instability. Monarchy was restored in 1935.",
+    "parent": "greecemodern",
+    "category": "period",
+    "sources": [
+      {
+        "publisher": "Hellenic Parliament",
+        "title": "Constitutional History",
+        "url": "https://www.hellenicparliament.gr/en/vouli-ton-ellinon/to-politevma/syntagmatiki-istoria/"
+      },
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Second Hellenic Republic",
+        "url": "https://en.wikipedia.org/wiki/Second_Hellenic_Republic"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Second Hellenic Republic",
+      "valid": true,
+      "pageid": 9101110
+    },
+    "posterLabelOriginal": "Greek Republic"
+  },
+  {
+    "posterKey": "europe-114",
+    "posterLabel": "Kingdom of Greece · 1935",
+    "id": null,
+    "proposedId": "poster-europe-114",
+    "proposedTitle": "Kingdom of Greece · restored monarchy",
+    "wikiTitle": "Kingdom of Greece",
+    "region": "europe",
+    "start": 1935,
+    "end": 1973,
+    "note": "The restored royal period included Metaxas dictatorship, Axis occupation, civil war and the 1967 military coup. The junta abolished the monarchy in 1973; democratic institutions returned in 1974.",
+    "parent": "greecemodern",
+    "category": "period",
+    "sources": [
+      {
+        "publisher": "Hellenic Parliament",
+        "title": "Constitutional History",
+        "url": "https://www.hellenicparliament.gr/en/vouli-ton-ellinon/to-politevma/syntagmatiki-istoria/"
+      },
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Kingdom of Greece",
+        "url": "https://en.wikipedia.org/wiki/Kingdom_of_Greece"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Kingdom of Greece",
+      "valid": true,
+      "pageid": 57010779
+    },
+    "posterLabelOriginal": "Kingdom of Greece"
+  },
+  {
+    "posterKey": "europe-115",
+    "posterLabel": "Greece",
+    "id": null,
+    "proposedId": "greecemodern",
+    "proposedTitle": "Greece · modern state eras",
+    "wikiTitle": "History of modern Greece",
+    "region": "europe",
+    "start": 1830,
+    "end": null,
+    "note": "Independence was internationally recognised in 1830 and the kingdom established in 1832. The democratic Third Republic dates to 1974, with its constitution in 1975; the poster’s 1973 marker refers to a junta-controlled abolition of monarchy.",
+    "parent": null,
+    "category": "history",
+    "sources": [
+      {
+        "publisher": "Hellenic Parliament",
+        "title": "Constitutional History",
+        "url": "https://www.hellenicparliament.gr/en/vouli-ton-ellinon/to-politevma/syntagmatiki-istoria/"
+      },
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "History of modern Greece",
+        "url": "https://en.wikipedia.org/wiki/History_of_modern_Greece"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "History of modern Greece",
+      "valid": true,
+      "pageid": 13814
+    },
+    "posterLabelOriginal": "Greece"
+  },
+  {
+    "posterKey": "europe-116",
+    "posterLabel": "Greece · 1973 boundary",
+    "id": null,
+    "proposedId": "poster-europe-116",
+    "proposedTitle": "Third Hellenic Republic · democratic Greece",
+    "wikiTitle": "Third Hellenic Republic",
+    "region": "europe",
+    "start": 1974,
+    "end": null,
+    "note": "The junta proclaimed a republic in 1973, but democratic transition began in July 1974; a free December 1974 referendum rejected monarchy and the constitution followed in June 1975.",
+    "parent": "greecemodern",
+    "category": "period",
+    "sources": [
+      {
+        "publisher": "Hellenic Parliament",
+        "title": "Constitutional History",
+        "url": "https://www.hellenicparliament.gr/en/vouli-ton-ellinon/to-politevma/syntagmatiki-istoria/"
+      },
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Third Hellenic Republic",
+        "url": "https://en.wikipedia.org/wiki/Third_Hellenic_Republic"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Third Hellenic Republic",
+      "valid": true,
+      "pageid": 10367114
+    },
+    "posterLabelOriginal": "Greece"
+  },
+  {
+    "posterKey": "europe-117",
+    "posterLabel": "Restored Byzantine Empire",
+    "posterLabelOriginal": "Restored Byzantine Empire",
+    "id": null,
+    "proposedId": "poster-europe-117",
+    "proposedTitle": "Restored Byzantine Empire · Palaiologan period",
+    "wikiTitle": "Byzantine Empire under the Palaiologos dynasty",
+    "region": "europe",
+    "start": 1261,
+    "end": 1453,
+    "note": "Michael VIII recovered Constantinople in 1261. The restored empire occupied a reduced and changing territory and ended in Constantinople in 1453; some Byzantine successor territories survived later.",
+    "parent": "byzantium",
+    "category": "period",
+    "sources": [
+      {
+        "publisher": "The Metropolitan Museum of Art",
+        "title": "Byzantium (ca. 330–1453)",
+        "url": "https://www.metmuseum.org/essays/byzantium-ca-330-1453"
+      },
+      {
+        "publisher": "Wikipedia contributors",
+        "title": "Byzantine Empire under the Palaiologos dynasty",
+        "url": "https://en.wikipedia.org/wiki/Byzantine_Empire_under_the_Palaiologos_dynasty"
+      }
+    ],
+    "wikiResolution": {
+      "canonical": "Byzantine Empire under the Palaiologos dynasty",
+      "valid": true,
+      "pageid": 12411751
+    }
+  }
+]

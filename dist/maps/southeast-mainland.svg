@@ -1,0 +1,144 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 2464" width="1600" height="2464" role="group" aria-labelledby="map-title-southeast-mainland map-desc-southeast-mainland"><title id="map-title-southeast-mainland">Cambodia and Vietnam · courts, colonies and modern states</title><desc id="map-desc-southeast-mainland">Selected, sourced connections. Arrows label unions, divisions, conquest, independence, changes in rule, and contact. Node positions do not measure time or ancestry. Two connected regional strands, with colonial and modern regime changes distinguished from enduring Khmer and Vietnamese communities. Ancient Vietnamese dynasties not already in the timeline are outside this selected expansion. Select a node for Wikipedia or an arrow for its sources.</desc><defs>
+<marker id="arrow-southeast-mainland-union" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#3b8274"/></marker>
+<marker id="arrow-southeast-mainland-division" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#b88636"/></marker>
+<marker id="arrow-southeast-mainland-conquest" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#aa6355"/></marker>
+<marker id="arrow-southeast-mainland-independence" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#638350"/></marker>
+<marker id="arrow-southeast-mainland-continuation" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#5d7f9d"/></marker>
+<marker id="arrow-southeast-mainland-contact" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#8b7297"/></marker>
+<marker id="arrow-southeast-mainland-colonial" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#9a8055"/></marker>
+<marker id="arrow-southeast-mainland-context" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#92917a"/></marker>
+<marker id="arrow-southeast-mainland-period" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#7d8c6f"/></marker>
+</defs><style>text{font-family:Arial,Helvetica,sans-serif;fill:#25372c}.map-node,.map-edge{cursor:pointer;outline:none}.map-node rect{stroke:#fffdf8;stroke-width:2}.map-node:hover rect,.map-node:focus rect{stroke:#3c5441;stroke-width:3}.map-label{font-size:21px;font-weight:600;pointer-events:none}.map-date{font-size:12px;fill:#617056;pointer-events:none}.edge-line{fill:none;stroke-width:2.5;stroke-linejoin:round;stroke-linecap:round}.edge-hit{fill:none;stroke:transparent;stroke-width:36;vector-effect:non-scaling-stroke}.map-edge:hover .edge-label-bg,.map-edge:focus .edge-label-bg{stroke:#334d3c;stroke-width:2}.map-edge:hover .edge-line,.map-edge:focus .edge-line{stroke-width:4}.edge-label{font-size:15px;font-weight:500;pointer-events:none}.map-heading{font-size:47px;font-weight:700;letter-spacing:-1.2px}.map-subtitle{font-size:24px;fill:#67785a}.map-micro{font-size:13px;fill:#8a977d}.map-node.dim{opacity:.15}.map-node.hit rect{stroke:#294332;stroke-width:4}.map-node.selected rect{stroke:#294332;stroke-width:4}.map-edge.related .edge-line{stroke-width:4.5}</style><rect width="100%" height="100%" fill="#fdfcf8"/><text class="map-heading" x="800" y="74" text-anchor="middle">EMPIRES &amp; CONNECTIONS</text><text class="map-subtitle" x="800" y="117" text-anchor="middle">Cambodia and Vietnam · courts, colonies and modern states</text><text class="map-micro" x="800" y="154" text-anchor="middle">Tap a node to read · Tap an arrow for the event and sources</text>
+<g class="map-edge" id="map-edge-southeast-mainland-ea-angkor-later" data-connection="ea-angkor-later" data-map="southeast-mainland" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Angkor · Khmer capitals to Cambodian kingdoms after Angkor: Courts move south. Open relationship details." style="--edge-color:#5d7f9d"><title>Change of rule: Courts move south</title>
+<path class="edge-hit" d="M605.5 314.34C605.5 340.33 605.5 371.16 605.5 389.62"/><path class="edge-line" stroke="#5d7f9d"  d="M605.5 314.34C605.5 340.33 605.5 371.16 605.5 389.62"/>
+<path class="edge-hit" d="M605.5 424.37C605.5 442.86 605.5 473.77 605.5 499.8"/><path class="edge-line" stroke="#5d7f9d"  d="M605.5 424.37C605.5 442.86 605.5 473.77 605.5 499.8" marker-end="url(#arrow-southeast-mainland-continuation)"/>
+<rect class="edge-label-bg" x="526.75" y="390" width="157.5" height="34" rx="7" fill="#fdfcf8" stroke="#5d7f9d" stroke-opacity=".28"/>
+<text class="edge-label" x="605.5" y="412" text-anchor="middle">Courts move south</text>
+</g>
+<g class="map-edge" id="map-edge-southeast-mainland-ea-cambodia-protectorate" data-connection="ea-cambodia-protectorate" data-map="southeast-mainland" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Cambodian kingdoms after Angkor to French protectorate of Cambodia: French protectorate. Open relationship details." style="--edge-color:#9a8055"><title>Colonial rule: French protectorate</title>
+<path class="edge-hit" d="M605.5 594.34C605.5 620.33 605.5 651.16 605.5 669.62"/><path class="edge-line" stroke="#9a8055"  d="M605.5 594.34C605.5 620.33 605.5 651.16 605.5 669.62"/>
+<path class="edge-hit" d="M605.5 704.37C605.5 722.86 605.5 753.77 605.5 779.8"/><path class="edge-line" stroke="#9a8055"  d="M605.5 704.37C605.5 722.86 605.5 753.77 605.5 779.8" marker-end="url(#arrow-southeast-mainland-colonial)"/>
+<rect class="edge-label-bg" x="519.25" y="670" width="172.5" height="34" rx="7" fill="#fdfcf8" stroke="#9a8055" stroke-opacity=".28"/>
+<text class="edge-label" x="605.5" y="692" text-anchor="middle">French protectorate</text>
+</g>
+<g class="map-edge" id="map-edge-southeast-mainland-ea-cambodia-federation" data-connection="ea-cambodia-federation" data-map="southeast-mainland" role="button" tabindex="0" aria-haspopup="dialog" aria-label="French protectorate of Cambodia to French Indochina: Colonial federation. Open relationship details." style="--edge-color:#9a8055"><title>Colonial rule: Colonial federation</title>
+<path class="edge-hit" d="M649.15 874.34C673.64 900.33 702.68 931.16 720.07 949.62"/><path class="edge-line" stroke="#9a8055"  d="M649.15 874.34C673.64 900.33 702.68 931.16 720.07 949.62"/>
+<path class="edge-hit" d="M756.5 984.37C780.22 1002.86 819.86 1033.77 853.24 1059.8"/><path class="edge-line" stroke="#9a8055"  d="M756.5 984.37C780.22 1002.86 819.86 1033.77 853.24 1059.8" marker-end="url(#arrow-southeast-mainland-colonial)"/>
+<rect class="edge-label-bg" x="649.25" y="950" width="172.5" height="34" rx="7" fill="#fdfcf8" stroke="#9a8055" stroke-opacity=".28"/>
+<text class="edge-label" x="735.5" y="972" text-anchor="middle">Colonial federation</text>
+</g>
+<g class="map-edge" id="map-edge-southeast-mainland-ea-cambodia-independence" data-connection="ea-cambodia-independence" data-map="southeast-mainland" role="button" tabindex="0" aria-haspopup="dialog" aria-label="French protectorate of Cambodia to Cambodia · independent kingdom: Independence restored. Open relationship details." style="--edge-color:#638350"><title>Independence: Independence restored</title>
+<path class="edge-hit" d="M572.93 874.34C554.66 900.33 532.99 931.16 520.02 949.62"/><path class="edge-line" stroke="#638350"  d="M572.93 874.34C554.66 900.33 532.99 931.16 520.02 949.62"/>
+<path class="edge-hit" d="M508.5 984.37C508.5 1002.86 508.5 1033.77 508.5 1059.8"/><path class="edge-line" stroke="#638350"  d="M508.5 984.37C508.5 1002.86 508.5 1033.77 508.5 1059.8" marker-end="url(#arrow-southeast-mainland-independence)"/>
+<rect class="edge-label-bg" x="414.75" y="950" width="187.5" height="34" rx="7" fill="#fdfcf8" stroke="#638350" stroke-opacity=".28"/>
+<text class="edge-label" x="508.5" y="972" text-anchor="middle">Independence restored</text>
+</g>
+<g class="map-edge" id="map-edge-southeast-mainland-ea-cambodia-coup" data-connection="ea-cambodia-coup" data-map="southeast-mainland" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Cambodia · independent kingdom to Khmer Republic: Coup and republic. Open relationship details." style="--edge-color:#5d7f9d"><title>Change of rule: Coup and republic</title>
+<path class="edge-hit" d="M508.5 1154.34C508.5 1180.33 508.5 1211.16 508.5 1229.62"/><path class="edge-line" stroke="#5d7f9d"  d="M508.5 1154.34C508.5 1180.33 508.5 1211.16 508.5 1229.62"/>
+<path class="edge-hit" d="M508.5 1264.37C508.5 1282.86 508.5 1313.77 508.5 1339.8"/><path class="edge-line" stroke="#5d7f9d"  d="M508.5 1264.37C508.5 1282.86 508.5 1313.77 508.5 1339.8" marker-end="url(#arrow-southeast-mainland-continuation)"/>
+<rect class="edge-label-bg" x="429.75" y="1230" width="157.5" height="34" rx="7" fill="#fdfcf8" stroke="#5d7f9d" stroke-opacity=".28"/>
+<text class="edge-label" x="508.5" y="1252" text-anchor="middle">Coup and republic</text>
+</g>
+<g class="map-edge" id="map-edge-southeast-mainland-ea-cambodia-kr" data-connection="ea-cambodia-kr" data-map="southeast-mainland" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Khmer Republic to Khmer Rouge · Democratic Kampuchea: Khmer Rouge victory. Open relationship details." style="--edge-color:#aa6355"><title>Conquest: Khmer Rouge victory</title>
+<path class="edge-hit" d="M508.5 1434.34C508.5 1460.33 508.5 1491.16 508.5 1509.62"/><path class="edge-line" stroke="#aa6355"  d="M508.5 1434.34C508.5 1460.33 508.5 1491.16 508.5 1509.62"/>
+<path class="edge-hit" d="M508.5 1544.37C508.5 1562.86 508.5 1593.77 508.5 1619.8"/><path class="edge-line" stroke="#aa6355"  d="M508.5 1544.37C508.5 1562.86 508.5 1593.77 508.5 1619.8" marker-end="url(#arrow-southeast-mainland-conquest)"/>
+<rect class="edge-label-bg" x="422.25" y="1510" width="172.5" height="34" rx="7" fill="#fdfcf8" stroke="#aa6355" stroke-opacity=".28"/>
+<text class="edge-label" x="508.5" y="1532" text-anchor="middle">Khmer Rouge victory</text>
+</g>
+<g class="map-edge" id="map-edge-southeast-mainland-ea-cambodia-vietnam" data-connection="ea-cambodia-vietnam" data-map="southeast-mainland" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Khmer Rouge · Democratic Kampuchea to People’s Republic / State of Cambodia: Regime overthrown. Open relationship details." style="--edge-color:#aa6355"><title>Conquest: Regime overthrown</title>
+<path class="edge-hit" d="M508.5 1714.34C508.5 1740.33 508.5 1771.16 508.5 1789.62"/><path class="edge-line" stroke="#aa6355"  d="M508.5 1714.34C508.5 1740.33 508.5 1771.16 508.5 1789.62"/>
+<path class="edge-hit" d="M508.5 1824.37C508.5 1842.86 508.5 1873.77 508.5 1899.8"/><path class="edge-line" stroke="#aa6355"  d="M508.5 1824.37C508.5 1842.86 508.5 1873.77 508.5 1899.8" marker-end="url(#arrow-southeast-mainland-conquest)"/>
+<rect class="edge-label-bg" x="429.75" y="1790" width="157.5" height="34" rx="7" fill="#fdfcf8" stroke="#aa6355" stroke-opacity=".28"/>
+<text class="edge-label" x="508.5" y="1812" text-anchor="middle">Regime overthrown</text>
+</g>
+<g class="map-edge" id="map-edge-southeast-mainland-ea-cambodia-settlement" data-connection="ea-cambodia-settlement" data-map="southeast-mainland" role="button" tabindex="0" aria-haspopup="dialog" aria-label="People’s Republic / State of Cambodia to Cambodia · restored kingdom: Peace process and monarchy. Open relationship details." style="--edge-color:#5d7f9d"><title>Change of rule: Peace process and monarchy</title>
+<path class="edge-hit" d="M508.5 1994.34C508.5 2020.33 508.5 2051.16 508.5 2069.62"/><path class="edge-line" stroke="#5d7f9d"  d="M508.5 1994.34C508.5 2020.33 508.5 2051.16 508.5 2069.62"/>
+<path class="edge-hit" d="M508.5 2104.37C508.5 2122.86 508.5 2153.77 508.5 2179.8"/><path class="edge-line" stroke="#5d7f9d"  d="M508.5 2104.37C508.5 2122.86 508.5 2153.77 508.5 2179.8" marker-end="url(#arrow-southeast-mainland-continuation)"/>
+<rect class="edge-label-bg" x="396" y="2070" width="225" height="34" rx="7" fill="#fdfcf8" stroke="#5d7f9d" stroke-opacity=".28"/>
+<text class="edge-label" x="508.5" y="2092" text-anchor="middle">Peace process and monarchy</text>
+</g>
+<g class="map-edge" id="map-edge-southeast-mainland-ea-nguyen-colonial" data-connection="ea-nguyen-colonial" data-map="southeast-mainland" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Nguyễn dynasty to French Indochina: French colonial expansion. Open relationship details." style="--edge-color:#9a8055"><title>Colonial rule: French colonial expansion</title>
+<path class="edge-hit" d="M977.5 874.34C977.5 900.33 977.5 931.16 977.5 949.62"/><path class="edge-line" stroke="#9a8055"  d="M977.5 874.34C977.5 900.33 977.5 931.16 977.5 949.62"/>
+<path class="edge-hit" d="M969.79 984.37C961.08 1002.86 946.52 1033.77 934.26 1059.8"/><path class="edge-line" stroke="#9a8055"  d="M969.79 984.37C961.08 1002.86 946.52 1033.77 934.26 1059.8" marker-end="url(#arrow-southeast-mainland-colonial)"/>
+<rect class="edge-label-bg" x="868.75" y="950" width="217.5" height="34" rx="7" fill="#fdfcf8" stroke="#9a8055" stroke-opacity=".28"/>
+<text class="edge-label" x="977.5" y="972" text-anchor="middle">French colonial expansion</text>
+</g>
+<g class="map-edge" id="map-edge-southeast-mainland-ea-vietnam-revolution" data-connection="ea-vietnam-revolution" data-map="southeast-mainland" role="button" tabindex="0" aria-haspopup="dialog" aria-label="French Indochina to Democratic Republic of Vietnam: Republic proclaimed. Open relationship details." style="--edge-color:#638350"><title>Independence: Republic proclaimed</title>
+<path class="edge-hit" d="M972.6 1154.34C1006.32 1180.33 1046.3 1211.16 1070.25 1229.62"/><path class="edge-line" stroke="#638350"  d="M972.6 1154.34C1006.32 1180.33 1046.3 1211.16 1070.25 1229.62"/>
+<path class="edge-hit" d="M1091.5 1264.37C1091.5 1282.86 1091.5 1313.77 1091.5 1339.8"/><path class="edge-line" stroke="#638350"  d="M1091.5 1264.37C1091.5 1282.86 1091.5 1313.77 1091.5 1339.8" marker-end="url(#arrow-southeast-mainland-independence)"/>
+<rect class="edge-label-bg" x="1005.25" y="1230" width="172.5" height="34" rx="7" fill="#fdfcf8" stroke="#638350" stroke-opacity=".28"/>
+<text class="edge-label" x="1091.5" y="1252" text-anchor="middle">Republic proclaimed</text>
+</g>
+<g class="map-edge" id="map-edge-southeast-mainland-ea-vietnam-zones" data-connection="ea-vietnam-zones" data-map="southeast-mainland" role="button" tabindex="0" aria-haspopup="dialog" aria-label="French Indochina to Democratic Republic of Vietnam + Southern Vietnam · State and Republic: Regroupment zones. Open relationship details." style="--edge-color:#b88636"><title>Division: Regroupment zones</title>
+<path class="edge-hit" d="M901.42 1154.34C895.2 1180.33 887.83 1211.16 883.42 1229.62"/><path class="edge-line" stroke="#b88636"  d="M901.42 1154.34C895.2 1180.33 887.83 1211.16 883.42 1229.62"/>
+<path class="edge-hit" d="M904.65 1264.37C933.06 1282.86 980.54 1313.77 1020.53 1339.8"/><path class="edge-line" stroke="#b88636"  d="M904.65 1264.37C933.06 1282.86 980.54 1313.77 1020.53 1339.8" marker-end="url(#arrow-southeast-mainland-division)"/>
+<path class="edge-hit" d="M872.03 1264.37C863.58 1282.86 849.47 1313.77 837.59 1339.8"/><path class="edge-line" stroke="#b88636"  d="M872.03 1264.37C863.58 1282.86 849.47 1313.77 837.59 1339.8" marker-end="url(#arrow-southeast-mainland-division)"/>
+<rect class="edge-label-bg" x="800.75" y="1230" width="157.5" height="34" rx="7" fill="#fdfcf8" stroke="#b88636" stroke-opacity=".28"/>
+<text class="edge-label" x="879.5" y="1252" text-anchor="middle">Regroupment zones</text>
+</g>
+<g class="map-edge" id="map-edge-southeast-mainland-ea-vietnam-reunification" data-connection="ea-vietnam-reunification" data-map="southeast-mainland" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Democratic Republic of Vietnam + Southern Vietnam · State and Republic to Vietnam: Victory and reunification. Open relationship details." style="--edge-color:#aa6355"><title>Conquest: Victory and reunification</title>
+<path class="edge-hit" d="M1009.91 1434.34C964.13 1460.33 909.85 1491.16 877.35 1509.62"/><path class="edge-line" stroke="#aa6355"  d="M1009.91 1434.34C964.13 1460.33 909.85 1491.16 877.35 1509.62"/>
+<path class="edge-hit" d="M827.24 1434.34C833.27 1460.33 840.42 1491.16 844.7 1509.62"/><path class="edge-line" stroke="#aa6355"  d="M827.24 1434.34C833.27 1460.33 840.42 1491.16 844.7 1509.62"/>
+<path class="edge-hit" d="M848.5 1544.37C848.5 1562.86 848.5 1593.77 848.5 1619.8"/><path class="edge-line" stroke="#aa6355"  d="M848.5 1544.37C848.5 1562.86 848.5 1593.77 848.5 1619.8" marker-end="url(#arrow-southeast-mainland-conquest)"/>
+<rect class="edge-label-bg" x="739.75" y="1510" width="217.5" height="34" rx="7" fill="#fdfcf8" stroke="#aa6355" stroke-opacity=".28"/>
+<text class="edge-label" x="848.5" y="1532" text-anchor="middle">Victory and reunification</text>
+</g>
+<g class="map-node" id="map-node-southeast-mainland-angkor" data-history="angkor" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Angkor · Khmer capitals, c. 9th–15th centuries CE. Open Wikipedia." data-map="southeast-mainland"><title>Angkor · Khmer capitals · c. 9th–15th centuries CE</title><rect x="491.5" y="220" width="228" height="94" rx="10" fill="#a8c6d9"/>
+<text class="map-label" style="font-size:21px" x="605.5" y="251" text-anchor="middle">Angkor · Khmer</text>
+<text class="map-label" style="font-size:21px" x="605.5" y="275" text-anchor="middle">capitals</text>
+<text class="map-date" x="605.5" y="299" text-anchor="middle">c. 9th–15th centuries</text></g>
+<g class="map-node" id="map-node-southeast-mainland-ea-post-angkor" data-history="ea-post-angkor" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Cambodian kingdoms after Angkor, 15th century–1863 CE. Open Wikipedia." data-map="southeast-mainland"><title>Cambodian kingdoms after Angkor · 15th century–1863 CE</title><rect x="491.5" y="500" width="228" height="94" rx="10" fill="#efc675"/>
+<text class="map-label" style="font-size:18px" x="605.5" y="531" text-anchor="middle">Cambodian kingdoms</text>
+<text class="map-label" style="font-size:18px" x="605.5" y="555" text-anchor="middle">after Angkor</text>
+<text class="map-date" x="605.5" y="579" text-anchor="middle">15th century–1863</text></g>
+<g class="map-node" id="map-node-southeast-mainland-ea-french-cambodia" data-history="ea-french-cambodia" role="button" tabindex="0" aria-haspopup="dialog" aria-label="French protectorate of Cambodia, 1863–1953 CE. Open Wikipedia." data-map="southeast-mainland"><title>French protectorate of Cambodia · 1863–1953 CE</title><rect x="491.5" y="780" width="228" height="94" rx="10" fill="#efc675"/>
+<text class="map-label" style="font-size:20px" x="605.5" y="811" text-anchor="middle">French protectorate</text>
+<text class="map-label" style="font-size:20px" x="605.5" y="835" text-anchor="middle">of Cambodia</text>
+<text class="map-date" x="605.5" y="859" text-anchor="middle">1863–1953</text></g>
+<g class="map-node" id="map-node-southeast-mainland-ea-cambodia-kingdom1" data-history="ea-cambodia-kingdom1" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Cambodia · independent kingdom, 1953–1970 CE. Open Wikipedia." data-map="southeast-mainland"><title>Cambodia · independent kingdom · 1953–1970 CE</title><rect x="394.5" y="1060" width="228" height="94" rx="10" fill="#efc675"/>
+<text class="map-label" style="font-size:19px" x="508.5" y="1091" text-anchor="middle">Cambodia ·</text>
+<text class="map-label" style="font-size:19px" x="508.5" y="1115" text-anchor="middle">independent kingdom</text>
+<text class="map-date" x="508.5" y="1139" text-anchor="middle">1953–1970</text></g>
+<g class="map-node" id="map-node-southeast-mainland-ea-khmer-republic" data-history="ea-khmer-republic" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Khmer Republic, 1970–1975 CE. Open Wikipedia." data-map="southeast-mainland"><title>Khmer Republic · 1970–1975 CE</title><rect x="394.5" y="1340" width="228" height="94" rx="10" fill="#f0bf7a"/>
+<text class="map-label" style="font-size:21px" x="508.5" y="1383" text-anchor="middle">Khmer Republic</text>
+<text class="map-date" x="508.5" y="1419" text-anchor="middle">1970–1975</text></g>
+<g class="map-node" id="map-node-southeast-mainland-ea-democratic-kampuchea" data-history="ea-democratic-kampuchea" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Khmer Rouge · Democratic Kampuchea, 1975–1979 CE. Open Wikipedia." data-map="southeast-mainland"><title>Khmer Rouge · Democratic Kampuchea · 1975–1979 CE</title><rect x="394.5" y="1620" width="228" height="94" rx="10" fill="#8fc5ae"/>
+<text class="map-label" style="font-size:18px" x="508.5" y="1641" text-anchor="middle">Khmer Rouge ·</text>
+<text class="map-label" style="font-size:18px" x="508.5" y="1663" text-anchor="middle">Democratic</text>
+<text class="map-label" style="font-size:18px" x="508.5" y="1685" text-anchor="middle">Kampuchea</text>
+<text class="map-date" x="508.5" y="1699" text-anchor="middle">1975–1979</text></g>
+<g class="map-node" id="map-node-southeast-mainland-ea-prk-cambodia" data-history="ea-prk-cambodia" role="button" tabindex="0" aria-haspopup="dialog" aria-label="People’s Republic / State of Cambodia, 1979–1993 CE. Open Wikipedia." data-map="southeast-mainland"><title>People’s Republic / State of Cambodia · 1979–1993 CE</title><rect x="394.5" y="1900" width="228" height="94" rx="10" fill="#a8c6d9"/>
+<text class="map-label" style="font-size:21px" x="508.5" y="1931" text-anchor="middle">People’s Republic /</text>
+<text class="map-label" style="font-size:21px" x="508.5" y="1955" text-anchor="middle">State of Cambodia</text>
+<text class="map-date" x="508.5" y="1979" text-anchor="middle">1979–1993</text></g>
+<g class="map-node" id="map-node-southeast-mainland-ea-cambodia-modern" data-history="ea-cambodia-modern" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Cambodia · restored kingdom, 1993–present. Open Wikipedia." data-map="southeast-mainland"><title>Cambodia · restored kingdom · 1993–present</title><rect x="394.5" y="2180" width="228" height="94" rx="10" fill="#f0bf7a"/>
+<text class="map-label" style="font-size:20px" x="508.5" y="2211" text-anchor="middle">Cambodia · restored</text>
+<text class="map-label" style="font-size:20px" x="508.5" y="2235" text-anchor="middle">kingdom</text>
+<text class="map-date" x="508.5" y="2259" text-anchor="middle">1993–present</text></g>
+<g class="map-node" id="map-node-southeast-mainland-ea-nguyen" data-history="ea-nguyen" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Nguyễn dynasty, 1802–1945 CE. Open Wikipedia." data-map="southeast-mainland"><title>Nguyễn dynasty · 1802–1945 CE</title><rect x="863.5" y="780" width="228" height="94" rx="10" fill="#a8c6d9"/>
+<text class="map-label" style="font-size:21px" x="977.5" y="823" text-anchor="middle">Nguyễn dynasty</text>
+<text class="map-date" x="977.5" y="859" text-anchor="middle">1802–1945</text></g>
+<g class="map-node" id="map-node-southeast-mainland-ea-french-indochina" data-history="ea-french-indochina" role="button" tabindex="0" aria-haspopup="dialog" aria-label="French Indochina, 1887–1954 CE. Open Wikipedia." data-map="southeast-mainland"><title>French Indochina · 1887–1954 CE</title><rect x="798.5" y="1060" width="228" height="94" rx="10" fill="#e99e9b"/>
+<text class="map-label" style="font-size:21px" x="912.5" y="1103" text-anchor="middle">French Indochina</text>
+<text class="map-date" x="912.5" y="1139" text-anchor="middle">1887–1954</text></g>
+<g class="map-node" id="map-node-southeast-mainland-ea-vietnam-north" data-history="ea-vietnam-north" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Democratic Republic of Vietnam, 1945–1976 CE. Open Wikipedia." data-map="southeast-mainland"><title>Democratic Republic of Vietnam · 1945–1976 CE</title><rect x="977.5" y="1340" width="228" height="94" rx="10" fill="#f0bf7a"/>
+<text class="map-label" style="font-size:19px" x="1091.5" y="1371" text-anchor="middle">Democratic Republic</text>
+<text class="map-label" style="font-size:19px" x="1091.5" y="1395" text-anchor="middle">of Vietnam</text>
+<text class="map-date" x="1091.5" y="1419" text-anchor="middle">1945–1976</text></g>
+<g class="map-node" id="map-node-southeast-mainland-ea-vietnam-south" data-history="ea-vietnam-south" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Southern Vietnam · State and Republic, 1949–1975 CE. Open Wikipedia." data-map="southeast-mainland"><title>Southern Vietnam · State and Republic · 1949–1975 CE</title><rect x="702.5" y="1340" width="228" height="94" rx="10" fill="#e99e9b"/>
+<text class="map-label" style="font-size:21px" x="816.5" y="1371" text-anchor="middle">Southern Vietnam ·</text>
+<text class="map-label" style="font-size:21px" x="816.5" y="1395" text-anchor="middle">State and Republic</text>
+<text class="map-date" x="816.5" y="1419" text-anchor="middle">1949–1975</text></g>
+<g class="map-node" id="map-node-southeast-mainland-vietnammodern" data-history="vietnammodern" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Vietnam · reunified state, 1976 CE–present. Open Wikipedia." data-map="southeast-mainland"><title>Vietnam · reunified state · 1976 CE–present</title><rect x="734.5" y="1620" width="228" height="94" rx="10" fill="#8fc5ae"/>
+<text class="map-label" style="font-size:21px" x="848.5" y="1663" text-anchor="middle">Vietnam</text>
+<text class="map-date" x="848.5" y="1699" text-anchor="middle">1976–present</text></g>
+<path d="M70 2375h20" stroke="#3b8274" stroke-width="3"/><text x="98" y="2380" style="font-size:14px;fill:#6b7b5e">Union</text>
+<path d="M362 2375h20" stroke="#b88636" stroke-width="3"/><text x="390" y="2380" style="font-size:14px;fill:#6b7b5e">Division</text>
+<path d="M654 2375h20" stroke="#aa6355" stroke-width="3"/><text x="682" y="2380" style="font-size:14px;fill:#6b7b5e">Conquest</text>
+<path d="M946 2375h20" stroke="#638350" stroke-width="3"/><text x="974" y="2380" style="font-size:14px;fill:#6b7b5e">Independence</text>
+<path d="M1238 2375h20" stroke="#5d7f9d" stroke-width="3"/><text x="1266" y="2380" style="font-size:14px;fill:#6b7b5e">Change of rule</text>
+<path d="M70 2401h20" stroke="#8b7297" stroke-width="3"/><text x="98" y="2406" style="font-size:14px;fill:#6b7b5e">Contact / influence</text>
+<path d="M362 2401h20" stroke="#9a8055" stroke-width="3"/><text x="390" y="2406" style="font-size:14px;fill:#6b7b5e">Colonial rule</text>
+<path d="M654 2401h20" stroke="#92917a" stroke-width="3"/><text x="682" y="2406" style="font-size:14px;fill:#6b7b5e">Context / overlap</text>
+<path d="M946 2401h20" stroke="#7d8c6f" stroke-width="3"/><text x="974" y="2406" style="font-size:14px;fill:#6b7b5e">Period transition</text>
+<text class="map-micro" x="800" y="2442" text-anchor="middle">Selected connections · Layout is not a time, territory or ancestry scale</text></svg>

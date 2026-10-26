@@ -1,0 +1,942 @@
+[
+  {
+    "id": "england",
+    "title": "Kingdom of England",
+    "shortTitle": "England",
+    "region": "europe",
+    "start": 927,
+    "end": 1707,
+    "ongoing": false,
+    "dates": "927 CE–1707 CE",
+    "type": "Political frame",
+    "status": "Conventional",
+    "location": "England",
+    "summary": "",
+    "note": "927 is a conventional unification date. Republican rule interrupted the monarchy in 1649–1660; the 1707 union did not end English society.",
+    "wikiTitle": "Kingdom of England",
+    "sources": [
+      "union1707",
+      "wikipedia_england"
+    ]
+  },
+  {
+    "id": "scotland",
+    "title": "Kingdom of Scotland",
+    "shortTitle": "Scotland",
+    "region": "europe",
+    "start": 843,
+    "end": 1707,
+    "ongoing": false,
+    "dates": "843 CE–1707 CE",
+    "type": "Political frame",
+    "status": "Debated",
+    "location": "Scotland",
+    "summary": "",
+    "note": "843 is a traditional, disputed origin convention rather than a precise founding date. The crowns were shared from 1603; parliamentary union followed in 1707.",
+    "wikiTitle": "Kingdom of Scotland",
+    "sources": [
+      "union1707",
+      "wikipedia_scotland"
+    ]
+  },
+  {
+    "id": "francekingdom",
+    "title": "Kingdom of France",
+    "shortTitle": "French kingdom",
+    "region": "europe",
+    "start": 987,
+    "end": 1792,
+    "ongoing": false,
+    "dates": "987 CE–1792 CE",
+    "type": "Political frame",
+    "status": "Conventional",
+    "location": "France",
+    "summary": "",
+    "note": "This selects the Capetian and subsequent royal frame from 987, not the earliest Frankish kingdom. The monarchy was abolished in 1792 and later restored in different forms.",
+    "wikiTitle": "Kingdom of France",
+    "sources": [
+      "wikipedia_francekingdom"
+    ]
+  },
+  {
+    "id": "francemodern",
+    "title": "France · revolutionary and modern eras",
+    "shortTitle": "France · modern",
+    "region": "europe",
+    "start": 1792,
+    "end": 2027,
+    "ongoing": true,
+    "dates": "1792 CE–present",
+    "type": "Selected historical period",
+    "status": "Conventional",
+    "location": "France",
+    "summary": "",
+    "note": "A modern-period grouping, not an uninterrupted French republic: empires, restored monarchies, occupation and successive republics fall within it. The First Republic was proclaimed in 1792.",
+    "wikiTitle": "History of France",
+    "sources": [
+      "wikipedia_francemodern"
+    ]
+  },
+  {
+    "id": "spainmodern",
+    "title": "Spain · composite monarchy and modern eras",
+    "shortTitle": "Spain",
+    "region": "europe",
+    "start": 1479,
+    "end": 2027,
+    "ongoing": true,
+    "dates": "1479 CE–present",
+    "type": "Selected historical period",
+    "status": "Conventional",
+    "location": "Spain",
+    "summary": "",
+    "note": "1479 marks the dynastic union of Castile and Aragon under their joint rulers, not immediate administrative unification. This groups later monarchies, republics and dictatorship.",
+    "wikiTitle": "History of Spain",
+    "sources": [
+      "wikipedia_spainmodern"
+    ]
+  },
+  {
+    "id": "greatbritain",
+    "title": "Kingdom of Great Britain",
+    "shortTitle": "Great Britain",
+    "region": "europe",
+    "start": 1707,
+    "end": 1801,
+    "ongoing": false,
+    "dates": "1707 CE–1801 CE",
+    "type": "Political frame",
+    "status": "Conventional",
+    "location": "Great Britain",
+    "summary": "",
+    "note": "The 1707 Acts of Union united England and Scotland. The 1801 union with Ireland created the United Kingdom. Britain and the British Empire are distinct entries.",
+    "wikiTitle": "Kingdom of Great Britain",
+    "sources": [
+      "union1707",
+      "wikipedia_greatbritain"
+    ]
+  },
+  {
+    "id": "unitedkingdom",
+    "title": "United Kingdom",
+    "shortTitle": "United Kingdom",
+    "region": "europe",
+    "start": 1801,
+    "end": 2027,
+    "ongoing": true,
+    "dates": "1801 CE–present",
+    "type": "Political frame",
+    "status": "Conventional",
+    "location": "United Kingdom",
+    "summary": "",
+    "note": "The 1801 union created the United Kingdom of Great Britain and Ireland. Most of Ireland left in 1922; the present state name was adopted in 1927. This is not the lifespan of the British Empire.",
+    "wikiTitle": "United Kingdom",
+    "sources": [
+      "union1801",
+      "wikipedia_unitedkingdom"
+    ]
+  },
+  {
+    "id": "britishempire",
+    "title": "British Empire · major overseas phase",
+    "shortTitle": "British Empire",
+    "region": "europe",
+    "start": 1607,
+    "end": 1997,
+    "ongoing": false,
+    "dates": "1607 CE–1997 CE",
+    "type": "Political frame",
+    "status": "Approximate",
+    "location": "Britain and territories across several continents",
+    "summary": "",
+    "note": "A selected overseas phase, from the permanent Jamestown settlement to the Hong Kong handover. English imperial ventures began earlier; British Overseas Territories continue after 1997. The end is a transition marker, not a claim that all colonial relationships ended then.",
+    "wikiTitle": "British Empire",
+    "sources": [
+      "hongkong",
+      "wikipedia_britishempire"
+    ]
+  },
+  {
+    "id": "russianempire",
+    "title": "Russian Empire",
+    "shortTitle": "Russian Empire",
+    "region": "europe",
+    "start": 1721,
+    "end": 1917,
+    "ongoing": false,
+    "dates": "1721 CE–1917 CE",
+    "type": "Political frame",
+    "status": "Conventional",
+    "location": "Northern Eurasia",
+    "summary": "",
+    "note": "The imperial title was adopted in 1721. The monarchy fell in 1917; the subsequent civil war and formation of the USSR are separate developments. Its territories extended across Europe and Asia.",
+    "wikiTitle": "Russian Empire",
+    "sources": [
+      "wikipedia_russianempire"
+    ]
+  },
+  {
+    "id": "sovietunion",
+    "title": "Soviet Union / USSR",
+    "shortTitle": "USSR",
+    "region": "europe",
+    "start": 1922,
+    "end": 1991,
+    "ongoing": false,
+    "dates": "1922 CE–1991 CE",
+    "type": "Political frame",
+    "status": "Conventional",
+    "location": "Europe and Asia · a union of changing constituent republics",
+    "summary": "",
+    "note": "The USSR was founded in 1922 and dissolved in 1991. It was not simply another name for Russia; multiple successor states emerged.",
+    "wikiTitle": "Soviet Union",
+    "sources": [
+      "wikipedia_sovietunion"
+    ]
+  },
+  {
+    "id": "russiafederation",
+    "title": "Russian Federation",
+    "shortTitle": "Russia",
+    "region": "europe",
+    "start": 1991,
+    "end": 2027,
+    "ongoing": true,
+    "dates": "1991 CE–present",
+    "type": "Political frame",
+    "status": "Conventional",
+    "location": "Eastern Europe and northern Asia",
+    "summary": "",
+    "note": "This frame starts with the end of the USSR. The Russian republic and its institutions existed earlier. Placement does not endorse territorial claims or imply that other Soviet republics became Russia.",
+    "wikiTitle": "Russia",
+    "sources": [
+      "wikipedia_russiafederation"
+    ]
+  },
+  {
+    "id": "germanymodern",
+    "title": "Germany · modern state eras",
+    "shortTitle": "Germany",
+    "region": "europe",
+    "start": 1871,
+    "end": 2027,
+    "ongoing": true,
+    "dates": "1871 CE–present",
+    "type": "Selected historical period",
+    "status": "Conventional",
+    "location": "Central Europe",
+    "summary": "",
+    "note": "1871 marks imperial unification. This modern grouping includes imperial, Weimar and Nazi regimes, postwar division into two states, and reunification in 1990; it does not imply one uninterrupted government.",
+    "wikiTitle": "History of Germany",
+    "sources": [
+      "wikipedia_germanymodern"
+    ]
+  },
+  {
+    "id": "italymodern",
+    "title": "Italy · kingdom and republic",
+    "shortTitle": "Italy",
+    "region": "europe",
+    "start": 1861,
+    "end": 2027,
+    "ongoing": true,
+    "dates": "1861 CE–present",
+    "type": "Selected historical period",
+    "status": "Conventional",
+    "location": "Southern Europe",
+    "summary": "",
+    "note": "The Kingdom of Italy was proclaimed in 1861; unification proceeded in stages. The republic dates from 1946. Earlier Italian societies and states long predate this frame.",
+    "wikiTitle": "History of Italy",
+    "sources": [
+      "wikipedia_italymodern"
+    ]
+  },
+  {
+    "id": "britishamerica",
+    "title": "British America",
+    "shortTitle": "British America",
+    "region": "americas",
+    "start": 1607,
+    "end": 1783,
+    "ongoing": false,
+    "dates": "1607 CE–1783 CE",
+    "type": "Political frame",
+    "status": "Conventional",
+    "location": "North America and the Caribbean",
+    "summary": "",
+    "note": "This groups English and later British colonies before the 1783 peace settlement. Britain retained colonies afterward. It is not a state called Anglo-America, and it does not replace Indigenous histories.",
+    "wikiTitle": "British America",
+    "sources": [
+      "wikipedia_britishamerica"
+    ]
+  },
+  {
+    "id": "spanishamerica",
+    "title": "Spanish America · colonial rule",
+    "shortTitle": "Spanish America",
+    "region": "americas",
+    "start": 1493,
+    "end": 1898,
+    "ongoing": false,
+    "dates": "1493 CE–1898 CE",
+    "type": "Political frame",
+    "status": "Conventional",
+    "location": "The Caribbean and changing parts of North, Central and South America",
+    "summary": "",
+    "note": "Colonisation developed after the 1492 voyage; 1493 marks permanent settlement on Hispaniola. Territorial control was highly uneven. Most mainland colonies became independent much earlier than 1898, when Spain lost its remaining major American colonies. Indigenous peoples and cultures continued throughout.",
+    "wikiTitle": "Spanish colonization of the Americas",
+    "sources": [
+      "wikipedia_spanishamerica"
+    ]
+  },
+  {
+    "id": "newfrance",
+    "title": "New France",
+    "shortTitle": "New France",
+    "region": "americas",
+    "start": 1534,
+    "end": 1763,
+    "ongoing": false,
+    "dates": "1534 CE–1763 CE",
+    "type": "Political frame",
+    "status": "Conventional",
+    "location": "North America · changing French colonial territories",
+    "summary": "",
+    "note": "1534 is a conventional beginning with Cartier’s voyage, not continuous settlement everywhere. Mainland territories were transferred in stages; small French territories in North America continued.",
+    "wikiTitle": "New France",
+    "sources": [
+      "wikipedia_newfrance"
+    ]
+  },
+  {
+    "id": "portuguesebrazil",
+    "title": "Portuguese America · Brazil",
+    "shortTitle": "Colonial Brazil",
+    "region": "americas",
+    "start": 1500,
+    "end": 1822,
+    "ongoing": false,
+    "dates": "1500 CE–1822 CE",
+    "type": "Political frame",
+    "status": "Conventional",
+    "location": "Eastern South America",
+    "summary": "",
+    "note": "1500 marks Portuguese arrival; substantial colonisation developed later. Brazil became a kingdom united with Portugal in 1815, before independence in 1822. This groups those changing relationships. Slavery persisted until 1888. Indigenous societies did not begin with European arrival.",
+    "wikiTitle": "Colonial Brazil",
+    "sources": [
+      "wikipedia_portuguesebrazil"
+    ]
+  },
+  {
+    "id": "unitedstates",
+    "title": "United States",
+    "shortTitle": "United States",
+    "region": "americas",
+    "start": 1776,
+    "end": 2027,
+    "ongoing": true,
+    "dates": "1776 CE–present",
+    "type": "Political frame",
+    "status": "Conventional",
+    "location": "North America · one of the countries commonly grouped as Anglo-America",
+    "summary": "",
+    "note": "1776 marks the declaration of independence; British recognition followed in 1783 and the present Constitution took effect in 1789. Anglo-America is a variable cultural-geographic term, not a unified country, empire or description of every inhabitant.",
+    "wikiTitle": "United States",
+    "sources": [
+      "usindependence",
+      "wikipedia_unitedstates"
+    ]
+  },
+  {
+    "id": "canada",
+    "title": "Canada · from Confederation",
+    "shortTitle": "Canada",
+    "region": "americas",
+    "start": 1867,
+    "end": 2027,
+    "ongoing": true,
+    "dates": "1867 CE–present",
+    "type": "Political frame",
+    "status": "Conventional",
+    "location": "North America · often included in Anglo-America, with diverse linguistic and Indigenous communities",
+    "summary": "",
+    "note": "Confederation in 1867 created the Dominion of Canada. Autonomy and territory developed in stages, including the Statute of Westminster in 1931 and constitutional patriation in 1982. Canada is not wholly English-speaking.",
+    "wikiTitle": "Canada",
+    "sources": [
+      "canadaconfederation",
+      "wikipedia_canada"
+    ]
+  },
+  {
+    "id": "mexicomodern",
+    "title": "Mexico · independent eras",
+    "shortTitle": "Mexico",
+    "region": "americas",
+    "start": 1821,
+    "end": 2027,
+    "ongoing": true,
+    "dates": "1821 CE–present",
+    "type": "Political frame",
+    "status": "Conventional",
+    "location": "North America",
+    "summary": "",
+    "note": "1821 marks independence from Spain. Empires, republics, civil conflicts and changing borders followed; this is not the beginning of the region’s peoples or cultures.",
+    "wikiTitle": "History of Mexico",
+    "sources": [
+      "wikipedia_mexicomodern"
+    ]
+  },
+  {
+    "id": "brazilmodern",
+    "title": "Brazil · empire and republic",
+    "shortTitle": "Brazil",
+    "region": "americas",
+    "start": 1822,
+    "end": 2027,
+    "ongoing": true,
+    "dates": "1822 CE–present",
+    "type": "Political frame",
+    "status": "Conventional",
+    "location": "South America",
+    "summary": "",
+    "note": "This begins with independence in 1822. The empire became a republic in 1889; later political regimes varied. Slavery continued until 1888.",
+    "wikiTitle": "History of Brazil",
+    "sources": [
+      "wikipedia_brazilmodern"
+    ]
+  },
+  {
+    "id": "haiti",
+    "title": "Haiti · independent eras",
+    "shortTitle": "Haiti",
+    "region": "americas",
+    "start": 1804,
+    "end": 2027,
+    "ongoing": true,
+    "dates": "1804 CE–present",
+    "type": "Political frame",
+    "status": "Conventional",
+    "location": "Caribbean",
+    "summary": "",
+    "note": "Haiti declared independence in 1804 after a revolution against slavery and French colonial rule. The date does not imply uninterrupted sovereignty or constitutional continuity; US occupation followed in 1915–1934.",
+    "wikiTitle": "Haiti",
+    "sources": [
+      "wikipedia_haiti"
+    ]
+  },
+  {
+    "id": "companyindia",
+    "title": "East India Company rule",
+    "shortTitle": "Company rule",
+    "region": "southasia",
+    "start": 1757,
+    "end": 1858,
+    "ongoing": false,
+    "dates": "1757 CE–1858 CE",
+    "type": "Political frame",
+    "status": "Conventional",
+    "location": "Changing parts of the Indian subcontinent",
+    "summary": "",
+    "note": "1757 is a conventional starting point after Plassey; Company trading posts existed earlier and territorial control expanded gradually. Many princely states retained indirect or independent arrangements.",
+    "wikiTitle": "Company rule in India",
+    "sources": [
+      "wikipedia_companyindia"
+    ]
+  },
+  {
+    "id": "britishraj",
+    "title": "British Raj",
+    "shortTitle": "British Raj",
+    "region": "southasia",
+    "start": 1858,
+    "end": 1947,
+    "ongoing": false,
+    "dates": "1858 CE–1947 CE",
+    "type": "Political frame",
+    "status": "Conventional",
+    "location": "Indian subcontinent",
+    "summary": "",
+    "note": "Direct British Crown rule followed Company rule in 1858. This includes directly governed provinces and princely states under different arrangements, not uniform administration. Partition accompanied independence in 1947.",
+    "wikiTitle": "British Raj",
+    "sources": [
+      "wikipedia_britishraj"
+    ]
+  },
+  {
+    "id": "indiamodern",
+    "title": "India · independent state",
+    "shortTitle": "India",
+    "region": "southasia",
+    "start": 1947,
+    "end": 2027,
+    "ongoing": true,
+    "dates": "1947 CE–present",
+    "type": "Political frame",
+    "status": "Conventional",
+    "location": "South Asia",
+    "summary": "",
+    "note": "Independence dates from 1947; the republic from 1950. India’s earlier societies long predate this political frame. Partition, disputed borders and later territorial changes are not depicted as settled by the block.",
+    "wikiTitle": "India",
+    "sources": [
+      "wikipedia_indiamodern"
+    ]
+  },
+  {
+    "id": "pakistan",
+    "title": "Pakistan",
+    "shortTitle": "Pakistan",
+    "region": "southasia",
+    "start": 1947,
+    "end": 2027,
+    "ongoing": true,
+    "dates": "1947 CE–present",
+    "type": "Political frame",
+    "status": "Conventional",
+    "location": "South Asia",
+    "summary": "",
+    "note": "Pakistan became independent in 1947, initially including East Pakistan. Bangladesh became independent in 1971. The republic dates from 1956; governments and constitutional arrangements changed.",
+    "wikiTitle": "Pakistan",
+    "sources": [
+      "wikipedia_pakistan"
+    ]
+  },
+  {
+    "id": "bangladesh",
+    "title": "Bangladesh",
+    "shortTitle": "Bangladesh",
+    "region": "southasia",
+    "start": 1971,
+    "end": 2027,
+    "ongoing": true,
+    "dates": "1971 CE–present",
+    "type": "Political frame",
+    "status": "Conventional",
+    "location": "South Asia · Bengal delta",
+    "summary": "",
+    "note": "1971 marks independence after the liberation war. The region had earlier histories as part of Bengal, British India and East Pakistan.",
+    "wikiTitle": "Bangladesh",
+    "sources": [
+      "wikipedia_bangladesh"
+    ]
+  },
+  {
+    "id": "japanmodern",
+    "title": "Japan · modern eras",
+    "shortTitle": "Japan · modern",
+    "region": "eastasia",
+    "start": 1868,
+    "end": 2027,
+    "ongoing": true,
+    "dates": "1868 CE–present",
+    "type": "Selected historical period",
+    "status": "Conventional",
+    "location": "Japanese archipelago",
+    "summary": "",
+    "note": "1868 marks the Meiji Restoration, not Japan’s founding. Imperial expansion, the Second World War, occupation and the postwar constitutional state are different phases within this modern frame.",
+    "wikiTitle": "History of Japan",
+    "sources": [
+      "wikipedia_japanmodern"
+    ]
+  },
+  {
+    "id": "republicchina",
+    "title": "Republic of China · mainland era",
+    "shortTitle": "Republic of China",
+    "region": "eastasia",
+    "start": 1912,
+    "end": 1949,
+    "ongoing": false,
+    "dates": "1912 CE–1949 CE",
+    "type": "Political frame",
+    "status": "Conventional",
+    "location": "East Asia · mainland China",
+    "summary": "",
+    "note": "The republic was founded in 1912. After civil-war defeat on the mainland in 1949 its government continued in Taiwan, where it had assumed administration in 1945. The endpoint concerns mainland rule, not dissolution of the republic.",
+    "wikiTitle": "Republic of China (1912–1949)",
+    "sources": [
+      "wikipedia_republicchina"
+    ]
+  },
+  {
+    "id": "taiwanroc",
+    "title": "Republic of China · Taiwan era",
+    "shortTitle": "Taiwan · ROC",
+    "region": "eastasia",
+    "start": 1949,
+    "end": 2027,
+    "ongoing": true,
+    "dates": "1949 CE–present",
+    "type": "Political frame",
+    "status": "Conventional",
+    "location": "East Asia · Taiwan and other administered islands",
+    "summary": "",
+    "note": "1949 marks the relocation of the ROC central government after civil-war defeat on the mainland. ROC administration in Taiwan began in 1945. This frame does not date the island’s settlement or resolve sovereignty, recognition or territorial claims.",
+    "wikiTitle": "Taiwan",
+    "sources": [
+      "wikipedia_taiwanroc"
+    ]
+  },
+  {
+    "id": "prchina",
+    "title": "People’s Republic of China",
+    "shortTitle": "PR China",
+    "region": "eastasia",
+    "start": 1949,
+    "end": 2027,
+    "ongoing": true,
+    "dates": "1949 CE–present",
+    "type": "Political frame",
+    "status": "Conventional",
+    "location": "East Asia · mainland China and administered territories",
+    "summary": "",
+    "note": "1949 marks the PRC’s proclamation, not the beginning of Chinese history. The Republic of China continued separately. Block placement does not adjudicate borders or sovereignty claims.",
+    "wikiTitle": "China",
+    "sources": [
+      "wikipedia_prchina"
+    ]
+  },
+  {
+    "id": "southkorea",
+    "title": "South Korea",
+    "shortTitle": "South Korea",
+    "region": "eastasia",
+    "start": 1948,
+    "end": 2027,
+    "ongoing": true,
+    "dates": "1948 CE–present",
+    "type": "Political frame",
+    "status": "Conventional",
+    "location": "Southern Korean peninsula",
+    "summary": "",
+    "note": "The Republic of Korea was established in 1948 after the peninsula’s division. Korea’s earlier history is not limited to this modern state; the Korean War began in 1950.",
+    "wikiTitle": "South Korea",
+    "sources": [
+      "wikipedia_southkorea"
+    ]
+  },
+  {
+    "id": "northkorea",
+    "title": "North Korea",
+    "shortTitle": "North Korea",
+    "region": "eastasia",
+    "start": 1948,
+    "end": 2027,
+    "ongoing": true,
+    "dates": "1948 CE–present",
+    "type": "Political frame",
+    "status": "Conventional",
+    "location": "Northern Korean peninsula",
+    "summary": "",
+    "note": "The Democratic People’s Republic of Korea was established in 1948 after the peninsula’s division. The 1953 armistice suspended fighting without a final peace settlement.",
+    "wikiTitle": "North Korea",
+    "sources": [
+      "wikipedia_northkorea"
+    ]
+  },
+  {
+    "id": "indonesia",
+    "title": "Indonesia",
+    "shortTitle": "Indonesia",
+    "region": "eastasia",
+    "start": 1945,
+    "end": 2027,
+    "ongoing": true,
+    "dates": "1945 CE–present",
+    "type": "Political frame",
+    "status": "Conventional",
+    "location": "Maritime Southeast Asia",
+    "summary": "",
+    "note": "1945 marks the declaration of independence; Dutch transfer of sovereignty followed in 1949. Territorial incorporation and international recognition developed in stages.",
+    "wikiTitle": "Indonesia",
+    "sources": [
+      "wikipedia_indonesia"
+    ]
+  },
+  {
+    "id": "vietnammodern",
+    "title": "Vietnam · reunified state",
+    "shortTitle": "Vietnam",
+    "region": "eastasia",
+    "start": 1976,
+    "end": 2027,
+    "ongoing": true,
+    "dates": "1976 CE–present",
+    "type": "Political frame",
+    "status": "Conventional",
+    "location": "Mainland Southeast Asia",
+    "summary": "",
+    "note": "1976 marks formal reunification as the Socialist Republic of Vietnam. The 1945 independence declaration and earlier rival governments are earlier phases, not absent Vietnamese history.",
+    "wikiTitle": "Vietnam",
+    "sources": [
+      "wikipedia_vietnammodern"
+    ]
+  },
+  {
+    "id": "colonialafrica",
+    "title": "Africa · high colonial era",
+    "shortTitle": "Colonial era",
+    "region": "africa",
+    "start": 1880,
+    "end": 1960,
+    "ongoing": false,
+    "dates": "1880 CE–1960 CE",
+    "type": "Selected historical period",
+    "status": "Approximate",
+    "location": "Africa · different European empires and local political orders",
+    "summary": "",
+    "note": "A selected period of rapid partition and colonial rule, not a single African state or uniform continental timeline. Colonialism began earlier in several regions and ended later in others; Ethiopia and Liberia had distinct histories.",
+    "wikiTitle": "Colonisation of Africa",
+    "sources": [
+      "wikipedia_colonialafrica"
+    ]
+  },
+  {
+    "id": "nigeria",
+    "title": "Nigeria · independent state",
+    "shortTitle": "Nigeria",
+    "region": "africa",
+    "start": 1960,
+    "end": 2027,
+    "ongoing": true,
+    "dates": "1960 CE–present",
+    "type": "Political frame",
+    "status": "Conventional",
+    "location": "West Africa",
+    "summary": "",
+    "note": "Independence dates from 1960 and the republic from 1963. The colonial amalgamation was in 1914. Earlier kingdoms and communities are separate histories; the civil war and changes between military and civilian rule are within this frame.",
+    "wikiTitle": "Nigeria",
+    "sources": [
+      "wikipedia_nigeria"
+    ]
+  },
+  {
+    "id": "ghanamodern",
+    "title": "Ghana · independent state",
+    "shortTitle": "Ghana",
+    "region": "africa",
+    "start": 1957,
+    "end": 2027,
+    "ongoing": true,
+    "dates": "1957 CE–present",
+    "type": "Political frame",
+    "status": "Conventional",
+    "location": "West Africa · former Gold Coast",
+    "summary": "",
+    "note": "Independence dates from 1957 and the republic from 1960. Modern Ghana is distinct from the medieval Ghana/Wagadu Empire shown elsewhere.",
+    "wikiTitle": "Ghana",
+    "sources": [
+      "wikipedia_ghanamodern"
+    ]
+  },
+  {
+    "id": "egyptmodern",
+    "title": "Egypt · modern independent eras",
+    "shortTitle": "Egypt · modern",
+    "region": "africa",
+    "start": 1922,
+    "end": 2027,
+    "ongoing": true,
+    "dates": "1922 CE–present",
+    "type": "Political frame",
+    "status": "Conventional",
+    "location": "Northeastern Africa",
+    "summary": "",
+    "note": "The 1922 declaration of independence was limited by British reserved powers and continued military presence. The republic dates from 1953; withdrawal and sovereignty developed in stages.",
+    "wikiTitle": "History of modern Egypt",
+    "sources": [
+      "wikipedia_egyptmodern"
+    ]
+  },
+  {
+    "id": "southafricamodern",
+    "title": "South Africa · union and republic",
+    "shortTitle": "South Africa",
+    "region": "africa",
+    "start": 1910,
+    "end": 2027,
+    "ongoing": true,
+    "dates": "1910 CE–present",
+    "type": "Political frame",
+    "status": "Conventional",
+    "location": "Southern Africa",
+    "summary": "",
+    "note": "The Union dates from 1910, the republic from 1961 and the first universal-suffrage national election from 1994. This broad political span does not equate segregation and apartheid with the later democratic order.",
+    "wikiTitle": "History of South Africa",
+    "sources": [
+      "wikipedia_southafricamodern"
+    ]
+  },
+  {
+    "id": "kenya",
+    "title": "Kenya · independent state",
+    "shortTitle": "Kenya",
+    "region": "africa",
+    "start": 1963,
+    "end": 2027,
+    "ongoing": true,
+    "dates": "1963 CE–present",
+    "type": "Political frame",
+    "status": "Conventional",
+    "location": "East Africa",
+    "summary": "",
+    "note": "Independence dates from 1963 and the republic from 1964. Earlier communities and political orders are not dated by the modern state’s formation.",
+    "wikiTitle": "Kenya",
+    "sources": [
+      "wikipedia_kenya"
+    ]
+  },
+  {
+    "id": "turkiye",
+    "title": "Republic of Türkiye / Turkey",
+    "shortTitle": "Türkiye",
+    "region": "westasia",
+    "start": 1923,
+    "end": 2027,
+    "ongoing": true,
+    "dates": "1923 CE–present",
+    "type": "Political frame",
+    "status": "Conventional",
+    "location": "Anatolia and southeastern Europe",
+    "summary": "",
+    "note": "The republic was proclaimed in 1923 after the Ottoman sultanate ended in 1922. This does not date the beginning of Anatolian societies or imply unchanged borders.",
+    "wikiTitle": "Turkey",
+    "sources": [
+      "wikipedia_turkiye"
+    ]
+  },
+  {
+    "id": "iranmodern",
+    "title": "Iran · Pahlavi and republican eras",
+    "shortTitle": "Iran · modern",
+    "region": "westasia",
+    "start": 1925,
+    "end": 2027,
+    "ongoing": true,
+    "dates": "1925 CE–present",
+    "type": "Selected historical period",
+    "status": "Conventional",
+    "location": "Iranian plateau",
+    "summary": "",
+    "note": "This selects the Pahlavi dynasty from 1925 and the Islamic Republic from 1979. Iran’s history and state traditions began long before this modern frame.",
+    "wikiTitle": "History of Iran",
+    "sources": [
+      "wikipedia_iranmodern"
+    ]
+  },
+  {
+    "id": "saudiarabia",
+    "title": "Saudi Arabia",
+    "shortTitle": "Saudi Arabia",
+    "region": "westasia",
+    "start": 1932,
+    "end": 2027,
+    "ongoing": true,
+    "dates": "1932 CE–present",
+    "type": "Political frame",
+    "status": "Conventional",
+    "location": "Arabian Peninsula",
+    "summary": "",
+    "note": "1932 marks the proclamation of the unified kingdom, not the start of Saudi rule or the peninsula’s history. Earlier Saudi states are distinct phases.",
+    "wikiTitle": "Saudi Arabia",
+    "sources": [
+      "wikipedia_saudiarabia"
+    ]
+  },
+  {
+    "id": "israel",
+    "title": "Israel",
+    "shortTitle": "Israel",
+    "region": "westasia",
+    "start": 1948,
+    "end": 2027,
+    "ongoing": true,
+    "dates": "1948 CE–present",
+    "type": "Political frame",
+    "status": "Conventional",
+    "location": "Eastern Mediterranean",
+    "summary": "",
+    "note": "1948 marks the declaration of statehood. The accompanying war and Palestinian displacement are essential context. This block does not endorse disputed territorial claims or define settled borders.",
+    "wikiTitle": "Israel",
+    "sources": [
+      "wikipedia_israel"
+    ]
+  },
+  {
+    "id": "palestine",
+    "title": "State of Palestine · declaration",
+    "shortTitle": "Palestine",
+    "region": "westasia",
+    "start": 1988,
+    "end": 2027,
+    "ongoing": true,
+    "dates": "1988 CE–present",
+    "type": "Political frame",
+    "status": "Conventional",
+    "location": "Eastern Mediterranean · claimed Palestinian territories",
+    "summary": "",
+    "note": "1988 marks the declaration of statehood, not the beginning of Palestinian society or the achievement of full territorial sovereignty. Recognition, occupation and borders are separate questions; the block does not resolve them.",
+    "wikiTitle": "State of Palestine",
+    "sources": [
+      "wikipedia_palestine"
+    ]
+  },
+  {
+    "id": "australiamodern",
+    "title": "Australia · federation",
+    "shortTitle": "Australia",
+    "region": "oceania",
+    "start": 1901,
+    "end": 2027,
+    "ongoing": true,
+    "dates": "1901 CE–present",
+    "type": "Political frame",
+    "status": "Conventional",
+    "location": "Australian continent",
+    "summary": "",
+    "note": "1901 marks federation of six British colonies. Constitutional independence developed gradually; Aboriginal and Torres Strait Islander histories long predate the federation and continue alongside it.",
+    "wikiTitle": "Australia",
+    "sources": [
+      "australiafederation",
+      "wikipedia_australiamodern"
+    ]
+  },
+  {
+    "id": "newzealand",
+    "title": "New Zealand · Dominion and later state",
+    "shortTitle": "New Zealand",
+    "region": "oceania",
+    "start": 1907,
+    "end": 2027,
+    "ongoing": true,
+    "dates": "1907 CE–present",
+    "type": "Political frame",
+    "status": "Conventional",
+    "location": "Aotearoa New Zealand",
+    "summary": "",
+    "note": "1907 marks Dominion status, not a single complete independence event. Self-government, the 1840 Treaty of Waitangi, the 1947 adoption of the Statute of Westminster and the 1986 Constitution Act belong to different phases. Māori histories continue alongside the state.",
+    "wikiTitle": "New Zealand",
+    "sources": [
+      "nzdominion",
+      "wikipedia_newzealand"
+    ]
+  },
+  {
+    "id": "fiji",
+    "title": "Fiji · independent state",
+    "shortTitle": "Fiji",
+    "region": "oceania",
+    "start": 1970,
+    "end": 2027,
+    "ongoing": true,
+    "dates": "1970 CE–present",
+    "type": "Political frame",
+    "status": "Conventional",
+    "location": "Pacific Islands",
+    "summary": "",
+    "note": "1970 marks independence from Britain; the republic was declared in 1987. Earlier Indigenous histories and later constitutional changes are not erased by this statehood frame.",
+    "wikiTitle": "Fiji",
+    "sources": [
+      "wikipedia_fiji"
+    ]
+  }
+]

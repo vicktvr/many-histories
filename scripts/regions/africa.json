@@ -1,0 +1,1657 @@
+{
+  "sources": {
+    "af_nubia": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "The Land of Nubia",
+      "url": "https://www.metmuseum.org/essays/nubia"
+    },
+    "af_egyptmuseum": {
+      "publisher": "Egyptian Museum Cairo",
+      "title": "Historical Timeline",
+      "url": "https://egyptianmuseumcairo.eg/historical-timeline/"
+    },
+    "af_ptolemy": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "Egypt in the Ptolemaic Period",
+      "url": "https://www.metmuseum.org/essays/egypt-in-the-ptolemaic-period"
+    },
+    "af_romanegypt": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "Roman Egypt",
+      "url": "https://www.metmuseum.org/essays/roman-egypt"
+    },
+    "af_coptic": {
+      "publisher": "Ministry of Tourism and Antiquities, Egypt",
+      "title": "The Coptic Museum: masterpieces and historical setting",
+      "url": "https://egymonuments.gov.eg/subportals-group/coptic-museum/coptic-museum/masterpieces/"
+    },
+    "af_umayyad": {
+      "publisher": "Ministry of Tourism and Antiquities, Egypt",
+      "title": "The Umayyad Period",
+      "url": "https://egymonuments.gov.eg/en/historical-periods/umayyad-caliphate"
+    },
+    "af_egypt500": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "Egypt, 500–1000 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/06/afe.html"
+    },
+    "af_fatimid": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "The Art of the Fatimid Period (909–1171)",
+      "url": "https://www.metmuseum.org/essays/the-art-of-the-fatimid-period-909-1171"
+    },
+    "af_ayyubid": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "The Art of the Ayyubid Period (ca. 1171–1260)",
+      "url": "https://www.metmuseum.org/essays/the-art-of-the-ayyubid-period-ca-1171-1260"
+    },
+    "af_mamluk": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "The Art of the Mamluk Period (1250–1517)",
+      "url": "https://www.metmuseum.org/essays/the-art-of-the-mamluk-period-1250-1517"
+    },
+    "af_nmec": {
+      "publisher": "National Museum of Egyptian Civilization",
+      "title": "Historical Timeline: Ottoman and Muhammad Ali periods",
+      "url": "https://nmec.gov.eg/historical-timeline/"
+    },
+    "af_egyptsudan": {
+      "publisher": "National Army Museum",
+      "title": "Egypt and Sudan",
+      "url": "https://www.nam.ac.uk/explore/egypt-and-sudan"
+    },
+    "af_egypt1922": {
+      "publisher": "US Department of State, Office of the Historian",
+      "title": "British notification ending the Egyptian protectorate, 1922",
+      "url": "https://history.state.gov/historicaldocuments/frus1922v02/d94"
+    },
+    "af_egypt1953": {
+      "publisher": "US Department of State",
+      "title": "Background Note: Egypt, March 2008",
+      "url": "https://2009-2017.state.gov/outofdate/bgn/egypt/102289.htm"
+    },
+    "af_ethiopianchristian": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "African Christianity in Ethiopia",
+      "url": "https://www.metmuseum.org/essays/african-christianity-in-ethiopia"
+    },
+    "af_zagwe": {
+      "publisher": "Annales d’Éthiopie / research article",
+      "title": "The Zāgʷē dynasty (11–13th centuries) and King Yemreḥanna Krestos",
+      "url": "https://www.persee.fr/doc/ethio_0066-2127_2010_num_25_1_1412"
+    },
+    "af_ethiopia1974": {
+      "publisher": "US Department of State, Office of the Historian",
+      "title": "The Horn of Africa and the Cold War, 1977–1980: background to the 1974 revolution",
+      "url": "https://history.state.gov/milestones/1977-1980/horn-of-africa"
+    },
+    "af_eritrea": {
+      "publisher": "Massachusetts Institute of Technology, Cascon case archive",
+      "title": "Ethiopia–Eritrea, 1974–1993",
+      "url": "https://web.mit.edu/cascon/cases/case_ete.html"
+    },
+    "af_ethiopiabyzantium": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "Africa & Byzantium: visiting guide",
+      "url": "https://www.metmuseum.org/exhibitions/africa-byzantium/visiting-guide"
+    },
+    "af_zimbabwe": {
+      "publisher": "UNESCO World Heritage Centre",
+      "title": "Great Zimbabwe National Monument",
+      "url": "https://whc.unesco.org/en/list/364/"
+    },
+    "af_kilwa": {
+      "publisher": "UNESCO World Heritage Centre",
+      "title": "Ruins of Kilwa Kisiwani and Ruins of Songo Mnara",
+      "url": "https://whc.unesco.org/en/list/144/"
+    },
+    "af_kilwaoman": {
+      "publisher": "The Metropolitan Museum of Art / World Monuments Fund",
+      "title": "Historic Towns of Kilwa Kisiwani and Songo Mnara, Tanzania",
+      "url": "https://www.metmuseum.org/perspectives/kilwa-kisiwani-songo-mnara"
+    },
+    "af_tanganyikareport": {
+      "publisher": "United Nations Trusteeship Council",
+      "title": "Visiting Mission to Trust Territories in East Africa: Tanganyika, 1958",
+      "url": "https://digitallibrary.un.org/record/844840/files/A_3885-T_1339-E.pdf"
+    },
+    "af_eastafricapartition": {
+      "publisher": "UK Foreign & Commonwealth Office",
+      "title": "When two bulls clash, the grass suffers: World War 1 in East Africa",
+      "url": "https://www.gov.uk/government/news/when-two-bulls-clash-the-grass-suffers-world-war-1-in-east-africa"
+    },
+    "af_unterritories": {
+      "publisher": "United Nations",
+      "title": "Former Trust and Non-Self-Governing Territories",
+      "url": "https://www.un.org/dppa/decolonization/en/history/former-trust-and-nsgts"
+    },
+    "af_tanzaniaunion": {
+      "publisher": "Government of Tanzania",
+      "title": "Policy Coordination and Parliament: the 1964 union",
+      "url": "https://www.tanzania.go.tz/topics/policy-coordination-and-parliament"
+    },
+    "af_kenyacoast": {
+      "publisher": "UK Parliament, Hansard",
+      "title": "Kenya Independence Bill, 22 November 1963",
+      "url": "https://hansard.parliament.uk/Commons/1963-11-22/debates/976a2836-e702-4b8f-8eaa-8f8ae1cad821/KenyaIndependenceBill"
+    },
+    "af_kenya": {
+      "publisher": "US Department of State, Office of the Historian",
+      "title": "Kenya: recognition of independence",
+      "url": "https://history.state.gov/countries/kenya"
+    },
+    "af_sahel": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "Sahel: Art and Empires on the Shores of the Sahara, exhibition guide",
+      "url": "https://www.metmuseum.org/exhibitions/sahel-art-empire-sahara/inside-the-exhibition"
+    },
+    "af_jenne": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "Inland Niger Delta",
+      "url": "https://www.metmuseum.org/essays/inland-niger-delta"
+    },
+    "af_ifetrade": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "Ife Pre-Pavement and Pavement Era (800–1000 A.D.)",
+      "url": "https://www.metmuseum.org/essays/ife-pre-pavement-and-pavement-era-800-1000-a-d"
+    },
+    "af_yorubatraditions": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "Guinea Coast, 1000–1400 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/07/afg"
+    },
+    "af_nok": {
+      "publisher": "British Museum",
+      "title": "Nok terracotta: cast and history of the discovery",
+      "url": "https://www.britishmuseum.org/collection/object/E_Af1993-02-123"
+    },
+    "af_asante1902": {
+      "publisher": "Ivor Wilks · Palgrave Macmillan / original historical research",
+      "title": "Asante nationhood and colonial administrators, 1896–1935",
+      "url": "https://link.springer.com/chapter/10.1007/978-1-349-62337-2_4"
+    },
+    "af_ghana1957": {
+      "publisher": "UK Parliament",
+      "title": "Ghana Independence Act 1957",
+      "url": "https://www.legislation.gov.uk/ukpga/Eliz2/5-6/6/contents"
+    },
+    "af_ghanaconstitution": {
+      "publisher": "UK Parliament",
+      "title": "The Ghana (Constitution) Order in Council 1957",
+      "url": "https://www.legislation.gov.uk/uksi/1957/277/pdfs/uksi_19570277_en.pdf"
+    },
+    "af_nigeriaarchives": {
+      "publisher": "The National Archives, UK",
+      "title": "Colonial administration records: Nigeria historical background",
+      "url": "https://cdn.nationalarchives.gov.uk/documents/migrated-archives-5-guidance.pdf"
+    },
+    "af_kongoportugal": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "Kongo Christian Art: Cross-Cultural Interaction in the Atlantic World",
+      "url": "https://www.metmuseum.org/exhibitions/listings/2015/kongo/blog/posts/kongo-christian-art"
+    },
+    "af_kongoheritage": {
+      "publisher": "UNESCO World Heritage Centre",
+      "title": "Mbanza Kongo, Vestiges of the Capital of the former Kingdom of Kongo",
+      "url": "https://whc.unesco.org/en/list/1511/"
+    },
+    "af_kongocolonial": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "Central Africa, 1800–1900 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/10/afc.html"
+    },
+    "af_angola": {
+      "publisher": "US Department of State, Office of the Historian",
+      "title": "Angola: independence in 1975",
+      "url": "https://history.state.gov/countries/angola"
+    },
+    "af_southafrica": {
+      "publisher": "Government of South Africa",
+      "title": "History: Cape settlement, occupation, union and democratic transition",
+      "url": "https://www.gov.za/about-sa/history"
+    },
+    "af_southafricaunion": {
+      "publisher": "The Presidency, South Africa",
+      "title": "History of the Presidency and 1910 Union",
+      "url": "https://www.thepresidency.gov.za/history"
+    },
+    "af_decolonization": {
+      "publisher": "United Nations",
+      "title": "Decolonization: the 1960 declaration and subsequent independence processes",
+      "url": "https://www.un.org/en/global-issues/decolonization/"
+    },
+    "af_zanzibar1964": {
+      "publisher": "Government of Tanzania · state report to United Nations",
+      "title": "Historical background: Tanganyika, Zanzibar and the union",
+      "url": "https://digitallibrary.un.org/record/702469/files/E_C.12_TZA_1-3-EN.pdf"
+    },
+    "af_egypt1841": {
+      "publisher": "UK Parliament · Hansard",
+      "title": "Turkey and Egypt: hereditary government, 12 March 1841",
+      "url": "https://api.parliament.uk/historic-hansard/commons/1841/mar/12/turker-and-egypt"
+    }
+  },
+  "extras": [
+    {
+      "id": "af-egypt-regional",
+      "title": "Egypt: Tulunid, Abbasid and Ikhshidid governments",
+      "region": "africa",
+      "dates": "868–969 CE · changing governments",
+      "wikiTitle": "Egypt in the Middle Ages",
+      "location": "Egypt and, at times, neighbouring lands",
+      "note": "An explicitly grouped transition frame: Tulunids 868–905, restored direct Abbasid government 905–935, and Ikhshidids 935–969; this is not one dynasty.",
+      "sources": [
+        "af_egypt500"
+      ]
+    },
+    {
+      "id": "af-zagwe",
+      "title": "Zagwe dynasty",
+      "region": "africa",
+      "dates": "c. 11th century–1270 CE",
+      "wikiTitle": "Zagwe dynasty",
+      "location": "Ethiopian highlands",
+      "note": "The dynasty’s origins and exact founding date remain uncertain. Christian traditions connect this period with Aksumite and later Ethiopian histories, without establishing an uninterrupted royal genealogy.",
+      "sources": [
+        "af_ethiopianchristian",
+        "af_zagwe"
+      ]
+    },
+    {
+      "id": "af-ethiopia-republican",
+      "title": "Ethiopia: post-monarchical eras",
+      "region": "africa",
+      "dates": "1974 CE–present",
+      "wikiTitle": "History of Ethiopia",
+      "location": "Horn of Africa",
+      "note": "This groups the Derg, subsequent transitional government and later federal republic. These are different regimes and constitutional orders, not one government lasting from 1974.",
+      "sources": [
+        "af_ethiopia1974"
+      ]
+    },
+    {
+      "id": "af-eritrea",
+      "title": "Eritrea: independent state",
+      "region": "africa",
+      "dates": "1993 CE–present",
+      "wikiTitle": "Eritrea",
+      "location": "Horn of Africa",
+      "note": "Independence followed a long war, military victory in 1991 and the 1993 referendum. The modern border is not a boundary inherited unchanged from Aksum.",
+      "sources": [
+        "af_eritrea"
+      ]
+    },
+    {
+      "id": "af-zanzibar-coast",
+      "title": "Omani and Zanzibar coastal rule",
+      "region": "africa",
+      "dates": "18th–20th centuries · changing coastal authority",
+      "wikiTitle": "Sultanate of Zanzibar",
+      "location": "Western Indian Ocean and selected East African coastal ports",
+      "note": "A regional frame for changing Omani and Zanzibar authority, not a single state covering every Swahili settlement. The independent Zanzibar sultanate dates from the nineteenth century.",
+      "sources": [
+        "af_kilwaoman",
+        "af_kenyacoast"
+      ]
+    },
+    {
+      "id": "af-german-eastafrica",
+      "title": "German East Africa",
+      "region": "africa",
+      "dates": "1885–1918 CE",
+      "wikiTitle": "German East Africa",
+      "location": "Mainland Tanzania, Rwanda and Burundi, with changing frontiers",
+      "note": "German claims began in 1885, and conquest and administrative control developed later. The territory was divided after World War I.",
+      "sources": [
+        "af_tanganyikareport",
+        "af_eastafricapartition"
+      ]
+    },
+    {
+      "id": "af-tanganyika-territory",
+      "title": "Tanganyika under British administration",
+      "region": "africa",
+      "dates": "1919–1961 CE",
+      "wikiTitle": "Tanganyika Territory",
+      "location": "Mainland Tanzania",
+      "note": "British occupation was followed by a League of Nations mandate and UN trust territory; 1919 is a transition anchor rather than the date of all legal arrangements.",
+      "sources": [
+        "af_eastafricapartition",
+        "af_unterritories"
+      ]
+    },
+    {
+      "id": "af-tanganyika",
+      "title": "Tanganyika: independent state",
+      "region": "africa",
+      "dates": "1961–1964 CE",
+      "wikiTitle": "Tanganyika (1961–1964)",
+      "location": "Mainland Tanzania",
+      "note": "Independence in 1961 was followed by a republic in 1962 and union with Zanzibar in 1964.",
+      "sources": [
+        "af_unterritories",
+        "af_tanzaniaunion"
+      ]
+    },
+    {
+      "id": "af-zanzibar-independent",
+      "title": "Zanzibar: independence and revolution",
+      "region": "africa",
+      "dates": "1963–1964 CE",
+      "wikiTitle": "People's Republic of Zanzibar",
+      "location": "Zanzibar and Pemba",
+      "note": "Independence under the sultanate in December 1963 was followed by revolution in January 1964 and union in April; these were distinct political stages.",
+      "sources": [
+        "af_zanzibar1964"
+      ]
+    },
+    {
+      "id": "af-tanzania",
+      "title": "United Republic of Tanzania",
+      "region": "africa",
+      "dates": "1964 CE–present",
+      "wikiTitle": "Tanzania",
+      "location": "East Africa",
+      "note": "Tanganyika and Zanzibar united on 26 April 1964; Zanzibar retained separate institutions within the union.",
+      "sources": [
+        "af_tanzaniaunion"
+      ]
+    },
+    {
+      "id": "af-kenya-colonial",
+      "title": "British East Africa and colonial Kenya",
+      "region": "africa",
+      "dates": "1895–1963 CE",
+      "wikiTitle": "British Kenya",
+      "location": "Present-day Kenya",
+      "note": "A changing colonial frame: protectorate, colony and a legally distinct coastal protectorate; it did not cover every area of British East Africa at all times.",
+      "sources": [
+        "af_kenya",
+        "af_kenyacoast"
+      ]
+    },
+    {
+      "id": "af-goldcoast",
+      "title": "Gold Coast, Ashanti, Northern Territories and British Togoland",
+      "region": "africa",
+      "dates": "1902–1957 CE · selected combined frame",
+      "wikiTitle": "Gold Coast (British colony)",
+      "location": "Present-day Ghana",
+      "note": "Four different legal territories were administered in relation to the Gold Coast and were joined at independence. Ashanti was not simply annexed to the Gold Coast Colony in 1902.",
+      "sources": [
+        "af_ghanaconstitution",
+        "af_asante1902"
+      ]
+    },
+    {
+      "id": "af-portuguese-angola",
+      "title": "Portuguese Angola",
+      "region": "africa",
+      "dates": "16th century–1975 CE · changing colonial control",
+      "wikiTitle": "Portuguese Angola",
+      "location": "Present-day Angola",
+      "note": "Portuguese settlement and claims began centuries before effective conquest of many inland regions. The colonial territory was not identical to the former Kingdom of Kongo.",
+      "sources": [
+        "af_kongocolonial",
+        "af_angola"
+      ]
+    },
+    {
+      "id": "af-angola",
+      "title": "Angola: independent state",
+      "region": "africa",
+      "dates": "1975 CE–present",
+      "wikiTitle": "Angola",
+      "location": "Southwestern Africa",
+      "note": "Independence on 11 November 1975 came amid conflict among nationalist movements and was followed by civil war. This node does not imply the restoration of the Kingdom of Kongo.",
+      "sources": [
+        "af_angola"
+      ]
+    },
+    {
+      "id": "af-cape",
+      "title": "Cape Colony",
+      "region": "africa",
+      "dates": "1652–1910 CE · Dutch and British stages",
+      "wikiTitle": "Cape Colony",
+      "location": "Southern Africa",
+      "note": "Dutch settlement began in 1652; British occupation occurred in 1795 and again in 1806. The colony expanded through dispossession, warfare and changing agreements.",
+      "sources": [
+        "af_southafrica"
+      ]
+    },
+    {
+      "id": "af-natal",
+      "title": "Colony of Natal",
+      "region": "africa",
+      "dates": "1843–1910 CE",
+      "wikiTitle": "Colony of Natal",
+      "location": "Southern Africa",
+      "note": "A British colony preceding the 1910 Union; its borders and political institutions did not represent all communities of the region.",
+      "sources": [
+        "af_southafricaunion"
+      ]
+    },
+    {
+      "id": "af-transvaal-colony",
+      "title": "Transvaal Colony",
+      "region": "africa",
+      "dates": "1902–1910 CE",
+      "wikiTitle": "Transvaal Colony",
+      "location": "Southern Africa",
+      "note": "British colonial government after conquest of the South African Republic; this node does not date the beginning of societies in the region.",
+      "sources": [
+        "af_southafricaunion"
+      ]
+    },
+    {
+      "id": "af-orange-colony",
+      "title": "Orange River Colony",
+      "region": "africa",
+      "dates": "1902–1910 CE",
+      "wikiTitle": "Orange River Colony",
+      "location": "Southern Africa",
+      "note": "British colonial government following the South African War, before the 1910 Union.",
+      "sources": [
+        "af_southafricaunion"
+      ]
+    },
+    {
+      "id": "af-southafrica-democratic",
+      "title": "South Africa: democratic constitutional era",
+      "region": "africa",
+      "dates": "1994 CE–present",
+      "wikiTitle": "History of South Africa (1994–present)",
+      "location": "Southern Africa",
+      "note": "The first national election based on universal adult suffrage was held in April 1994. This is a transition within South African state history, not a new population replacing an earlier one.",
+      "sources": [
+        "af_southafrica"
+      ]
+    }
+  ],
+  "maps": [
+    {
+      "id": "af-nile-egypt",
+      "title": "Nile Valley: Egypt, Nubia and changing rulers",
+      "region": "africa",
+      "nodes": [
+        {
+          "id": "nubia"
+        },
+        {
+          "id": "egypt"
+        },
+        {
+          "id": "persia"
+        },
+        {
+          "id": "cn-alexander"
+        },
+        {
+          "id": "cn-ptolemaic"
+        },
+        {
+          "id": "rome"
+        },
+        {
+          "id": "byzantium"
+        },
+        {
+          "id": "rashidun"
+        },
+        {
+          "id": "umayyad"
+        },
+        {
+          "id": "abbasid"
+        },
+        {
+          "id": "af-egypt-regional",
+          "label": "Egypt: changing governments"
+        },
+        {
+          "id": "fatimid"
+        },
+        {
+          "id": "ayyubid"
+        },
+        {
+          "id": "mamluk"
+        },
+        {
+          "id": "ottoman"
+        },
+        {
+          "id": "muhammad-ali"
+        },
+        {
+          "id": "britishempire"
+        },
+        {
+          "id": "egyptmodern"
+        },
+        {
+          "id": "romanrepublic"
+        }
+      ],
+      "connections": [
+        {
+          "id": "af-nile-exchange",
+          "from": [
+            "nubia"
+          ],
+          "to": [
+            "egypt"
+          ],
+          "type": "contact",
+          "label": "Trade, migration and conflict",
+          "dates": "3rd–1st millennia BCE",
+          "summary": "Nubian societies and Egyptian kingdoms exchanged goods and people and fought over access and authority along the Nile.",
+          "note": "The relationship changed direction over time; neither region was permanently subordinate or culturally uniform.",
+          "sources": [
+            "af_nubia"
+          ],
+          "bidirectional": true
+        },
+        {
+          "id": "af-kushite-egypt",
+          "from": [
+            "nubia"
+          ],
+          "to": [
+            "egypt"
+          ],
+          "type": "conquest",
+          "label": "Kushite pharaohs in Egypt",
+          "dates": "8th–7th centuries BCE",
+          "summary": "Kushite kings extended their rule into Egypt and formed its Twenty-fifth Dynasty.",
+          "note": "This selected episode sits within both broad timeline frames; Kushite rule did not begin all Egyptian or Nubian history.",
+          "sources": [
+            "af_nubia"
+          ]
+        },
+        {
+          "id": "af-egypt-persia",
+          "from": [
+            "egypt"
+          ],
+          "to": [
+            "persia"
+          ],
+          "type": "conquest",
+          "label": "Persian conquest of Egypt",
+          "dates": "525 BCE",
+          "summary": "Cambyses defeated Egypt’s last Twenty-sixth-Dynasty ruler and brought Egypt into Achaemenid rule.",
+          "note": "Egypt later regained independence before a second Persian conquest; this was not uninterrupted Persian government until Alexander.",
+          "sources": [
+            "af_egyptmuseum"
+          ]
+        },
+        {
+          "id": "af-egypt-alexander",
+          "from": [
+            "persia"
+          ],
+          "to": [
+            "cn-alexander"
+          ],
+          "type": "conquest",
+          "label": "Alexander enters Egypt",
+          "dates": "332 BCE",
+          "summary": "Alexander took Egypt from Achaemenid control during his campaigns against the Persian Empire.",
+          "note": "The Persian Empire and Alexander’s campaigns extended far beyond Egypt. Egyptian communities and institutions continued.",
+          "sources": [
+            "af_ptolemy"
+          ]
+        },
+        {
+          "id": "af-egypt-ptolemy",
+          "from": [
+            "cn-alexander"
+          ],
+          "to": [
+            "cn-ptolemaic"
+          ],
+          "type": "division",
+          "label": "Ptolemaic kingship",
+          "dates": "After 323 BCE; kingship 305 BCE",
+          "summary": "The struggles among Alexander’s successors produced Ptolemaic kingship in Egypt.",
+          "note": "Ptolemy governed Egypt before adopting the royal title; other successor kingdoms emerged elsewhere.",
+          "sources": [
+            "af_ptolemy"
+          ]
+        },
+        {
+          "id": "af-egypt-rome",
+          "from": [
+            "cn-ptolemaic"
+          ],
+          "to": [
+            "romanrepublic"
+          ],
+          "type": "conquest",
+          "label": "Egypt annexed by Rome",
+          "dates": "30 BCE",
+          "summary": "Octavian’s conquest ended Ptolemaic royal government and placed Egypt under Roman administration.",
+          "note": "Annexation occurred before the conventional imperial starting date of 27 BCE. Roman government did not end Egyptian culture.",
+          "sources": [
+            "af_romanegypt"
+          ]
+        },
+        {
+          "id": "af-egypt-byzantium",
+          "from": [
+            "rome"
+          ],
+          "to": [
+            "byzantium"
+          ],
+          "type": "continuation",
+          "label": "Eastern Roman government",
+          "dates": "4th century CE onward",
+          "summary": "Egypt remained within the Roman state as its eastern imperial administration centred on Constantinople.",
+          "note": "This is overlapping periodisation within a continuing empire, not an Egyptian state newly founded or a clean cultural break in 330 or 395.",
+          "sources": [
+            "af_coptic",
+            "af_romanegypt"
+          ]
+        },
+        {
+          "id": "af-egypt-arab-conquest",
+          "from": [
+            "byzantium"
+          ],
+          "to": [
+            "rashidun"
+          ],
+          "type": "conquest",
+          "label": "Arab-Muslim conquest",
+          "dates": "640s CE",
+          "summary": "Arab-Muslim armies conquered Byzantine Egypt and established government based at Fustat.",
+          "note": "Military and administrative change did not cause immediate universal conversion; Coptic Christian communities continued.",
+          "sources": [
+            "af_coptic"
+          ]
+        },
+        {
+          "id": "af-egypt-umayyad",
+          "from": [
+            "rashidun"
+          ],
+          "to": [
+            "umayyad"
+          ],
+          "type": "continuation",
+          "label": "Egypt under Umayyad rule",
+          "dates": "661 CE",
+          "summary": "Egypt became a province of the Damascus-based Umayyad caliphate.",
+          "note": "This was a change of ruling authority within the early Islamic state, not the origin of Egypt’s population or all its traditions.",
+          "sources": [
+            "af_umayyad"
+          ]
+        },
+        {
+          "id": "af-egypt-abbasid",
+          "from": [
+            "umayyad"
+          ],
+          "to": [
+            "abbasid"
+          ],
+          "type": "continuation",
+          "label": "Abbasid provincial rule",
+          "dates": "750 CE",
+          "summary": "The Abbasid revolution brought Egypt under the new caliphal dynasty.",
+          "note": "Egypt’s provincial connection should not be read as uninterrupted direct Baghdad control throughout the Abbasid period.",
+          "sources": [
+            "af_egypt500"
+          ]
+        },
+        {
+          "id": "af-egypt-regional-rule",
+          "from": [
+            "abbasid"
+          ],
+          "to": [
+            "af-egypt-regional"
+          ],
+          "type": "continuation",
+          "label": "Autonomous and restored governments",
+          "dates": "868–969 CE",
+          "summary": "Egypt passed through Tulunid government, restored direct Abbasid rule and Ikhshidid government.",
+          "note": "These are three successive arrangements grouped in one explicitly labelled transition frame, with continuing Abbasid religious allegiance.",
+          "sources": [
+            "af_egypt500"
+          ]
+        },
+        {
+          "id": "af-fatimid-egypt",
+          "from": [
+            "af-egypt-regional"
+          ],
+          "to": [
+            "fatimid"
+          ],
+          "type": "conquest",
+          "label": "Fatimids conquer Egypt",
+          "dates": "969 CE",
+          "summary": "Fatimid forces took Egypt and established Cairo, later making it their capital.",
+          "note": "The Fatimid caliphate began in North Africa in 909; 969 dates its Egyptian expansion rather than the foundation of the dynasty.",
+          "sources": [
+            "af_fatimid"
+          ]
+        },
+        {
+          "id": "af-ayyubid-egypt",
+          "from": [
+            "fatimid"
+          ],
+          "to": [
+            "ayyubid"
+          ],
+          "type": "continuation",
+          "label": "Saladin ends Fatimid rule",
+          "dates": "1171 CE",
+          "summary": "Saladin ended the Fatimid caliphate and established Ayyubid government in Egypt.",
+          "note": "A political and religious reorientation did not replace all inhabitants or erase Fatimid institutions and artistic traditions.",
+          "sources": [
+            "af_ayyubid"
+          ]
+        },
+        {
+          "id": "af-mamluk-egypt",
+          "from": [
+            "ayyubid"
+          ],
+          "to": [
+            "mamluk"
+          ],
+          "type": "continuation",
+          "label": "Mamluks take power in Egypt",
+          "dates": "1250 CE",
+          "summary": "Mamluk leaders overthrew the last independent Ayyubid sultan in Egypt and established their own sultanate.",
+          "note": "Ayyubid branches continued in Syria and elsewhere; the Egyptian event does not end every Ayyubid polity in 1250.",
+          "sources": [
+            "af_ayyubid",
+            "af_mamluk"
+          ]
+        },
+        {
+          "id": "af-ottoman-egypt",
+          "from": [
+            "mamluk"
+          ],
+          "to": [
+            "ottoman"
+          ],
+          "type": "conquest",
+          "label": "Ottoman conquest",
+          "dates": "1516–1517 CE",
+          "summary": "Ottoman campaigns defeated the Mamluk sultanate and incorporated Syria and Egypt into the Ottoman Empire.",
+          "note": "Mamluk elites and institutions persisted after the sultanate ended; Ottoman rule had regional variation.",
+          "sources": [
+            "af_mamluk"
+          ]
+        },
+        {
+          "id": "af-muhammadali",
+          "from": [
+            "ottoman"
+          ],
+          "to": [
+            "muhammad-ali"
+          ],
+          "type": "continuation",
+          "label": "Muhammad Ali appointed",
+          "dates": "1805 CE",
+          "summary": "Muhammad Ali became Ottoman governor of Egypt in 1805 and founded a dynasty whose hereditary rule was formally recognised in 1841.",
+          "note": "This followed French occupation and renewed Ottoman intervention; growing Egyptian autonomy did not immediately end Ottoman suzerainty.",
+          "sources": [
+            "af_nmec",
+            "af_egypt1841"
+          ]
+        },
+        {
+          "id": "af-british-egypt",
+          "from": [
+            "britishempire"
+          ],
+          "to": [
+            "muhammad-ali"
+          ],
+          "type": "colonial",
+          "label": "British occupation",
+          "dates": "1882 CE",
+          "summary": "Britain occupied Egypt while the Muhammad Ali dynasty remained in office.",
+          "note": "Occupation, dynastic rule and Ottoman suzerainty overlapped; Britain declared a protectorate only in 1914.",
+          "sources": [
+            "af_egyptsudan"
+          ]
+        },
+        {
+          "id": "af-egypt-independence",
+          "from": [
+            "britishempire"
+          ],
+          "to": [
+            "egyptmodern"
+          ],
+          "type": "independence",
+          "label": "Limited independence recognised",
+          "dates": "1922 CE",
+          "summary": "Britain ended its formal protectorate and recognised Egypt as a sovereign state while reserving several matters for later agreement.",
+          "note": "British military presence and restrictions remained; this was not complete immediate withdrawal.",
+          "sources": [
+            "af_egypt1922"
+          ]
+        },
+        {
+          "id": "af-egypt-republic",
+          "from": [
+            "muhammad-ali"
+          ],
+          "to": [
+            "egyptmodern"
+          ],
+          "type": "continuation",
+          "label": "Monarchy ends; republic declared",
+          "dates": "1952–1953 CE",
+          "summary": "The 1952 revolution was followed by abolition of the monarchy and proclamation of a republic in 1953.",
+          "note": "The destination frame begins with limited independence in 1922 and includes this later constitutional rupture; the two timeline blocks intentionally overlap.",
+          "sources": [
+            "af_egypt1953"
+          ]
+        },
+        {
+          "id": "af-republic-imperial-rule",
+          "from": [
+            "romanrepublic"
+          ],
+          "to": [
+            "rome"
+          ],
+          "type": "continuation",
+          "label": "Augustus and imperial government",
+          "dates": "27 BCE",
+          "summary": "Octavian received the title Augustus as Roman government took the form conventionally called the Principate.",
+          "note": "The conventional start of the Roman Empire did not create a new Egyptian population or end every republican institution.",
+          "sources": [
+            "af_romanegypt"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "af-horn-indian-ocean",
+      "title": "Horn of Africa and the Indian Ocean coast",
+      "region": "africa",
+      "nodes": [
+        {
+          "id": "aksum"
+        },
+        {
+          "id": "byzantium"
+        },
+        {
+          "id": "af-zagwe"
+        },
+        {
+          "id": "ethiopia"
+        },
+        {
+          "id": "af-ethiopia-republican"
+        },
+        {
+          "id": "af-eritrea"
+        },
+        {
+          "id": "zimbabwe"
+        },
+        {
+          "id": "kilwa"
+        },
+        {
+          "id": "cn-portugal"
+        },
+        {
+          "id": "af-zanzibar-coast"
+        },
+        {
+          "id": "af-german-eastafrica"
+        },
+        {
+          "id": "af-tanganyika-territory"
+        },
+        {
+          "id": "af-tanganyika"
+        },
+        {
+          "id": "af-zanzibar-independent"
+        },
+        {
+          "id": "af-tanzania"
+        },
+        {
+          "id": "af-kenya-colonial"
+        },
+        {
+          "id": "kenya"
+        }
+      ],
+      "connections": [
+        {
+          "id": "af-aksum-byzantium",
+          "from": [
+            "aksum"
+          ],
+          "to": [
+            "byzantium"
+          ],
+          "type": "contact",
+          "label": "Trade and Christian networks",
+          "dates": "Late antiquity",
+          "summary": "Aksum and the eastern Roman world participated in commercial, religious and artistic networks across the Red Sea and eastern Mediterranean.",
+          "note": "Contact did not mean Aksum was a Byzantine province or that African Christianity had only one origin.",
+          "sources": [
+            "af_ethiopiabyzantium"
+          ],
+          "bidirectional": true
+        },
+        {
+          "id": "af-aksum-zagwe",
+          "from": [
+            "aksum"
+          ],
+          "to": [
+            "af-zagwe"
+          ],
+          "type": "contact",
+          "label": "Later highland Christian kingdoms",
+          "dates": "After Aksum; c. 11th–13th centuries",
+          "summary": "Later highland kingdoms including the Zagwe preserved and developed Christian traditions after Aksumite political power declined.",
+          "note": "The intervening political sequence is incompletely known: this is a qualified cultural and regional connection, not proven unbroken dynastic succession.",
+          "sources": [
+            "af_ethiopianchristian"
+          ]
+        },
+        {
+          "id": "af-zagwe-solomonic",
+          "from": [
+            "af-zagwe"
+          ],
+          "to": [
+            "ethiopia"
+          ],
+          "type": "continuation",
+          "label": "Solomonic dynasty takes power",
+          "dates": "1270 CE",
+          "summary": "Yekuno Amlak displaced Zagwe rule and established the dynasty conventionally called Solomonic.",
+          "note": "The dynasty’s claim to descend from biblical Solomon is a legitimising tradition, not an independently demonstrated genealogy.",
+          "sources": [
+            "af_zagwe"
+          ]
+        },
+        {
+          "id": "af-ethiopia-revolution",
+          "from": [
+            "ethiopia"
+          ],
+          "to": [
+            "af-ethiopia-republican"
+          ],
+          "type": "continuation",
+          "label": "Monarchy overthrown",
+          "dates": "1974 CE",
+          "summary": "The Derg deposed Haile Selassie and replaced imperial government with military rule.",
+          "note": "This begins a broad post-monarchical frame containing later changes of regime, not a single uninterrupted republic.",
+          "sources": [
+            "af_ethiopia1974"
+          ]
+        },
+        {
+          "id": "af-eritrea-independence",
+          "from": [
+            "af-ethiopia-republican"
+          ],
+          "to": [
+            "af-eritrea"
+          ],
+          "type": "independence",
+          "label": "Eritrean independence",
+          "dates": "1991–1993 CE",
+          "summary": "Eritrean military victory and a UN-supervised referendum led to recognised independence from Ethiopia.",
+          "note": "Ethiopia continued as a state; the modern Eritrean border and independence process are not a simple redivision of ancient Aksum.",
+          "sources": [
+            "af_eritrea"
+          ]
+        },
+        {
+          "id": "af-zimbabwe-kilwa",
+          "from": [
+            "zimbabwe"
+          ],
+          "to": [
+            "kilwa"
+          ],
+          "type": "contact",
+          "label": "Gold and Indian Ocean trade",
+          "dates": "Medieval period",
+          "summary": "Great Zimbabwe was connected through long-distance trade to the Indian Ocean coast, with Kilwa coins among its imported finds.",
+          "note": "Goods travelled through networks and intermediaries; an imported coin is not proof that Great Zimbabwe was ruled by Kilwa or that every shipment went directly between the two cities.",
+          "sources": [
+            "af_zimbabwe"
+          ],
+          "bidirectional": true
+        },
+        {
+          "id": "af-kilwa-portugal",
+          "from": [
+            "kilwa"
+          ],
+          "to": [
+            "cn-portugal"
+          ],
+          "type": "conquest",
+          "label": "Portuguese fort and occupation",
+          "dates": "Early 16th century",
+          "summary": "Portuguese forces established a fort at Kilwa during their expansion along the East African coast.",
+          "note": "Their occupation was limited and contested; the Portuguese kingdom did not originate in Kilwa, and Swahili communities continued.",
+          "sources": [
+            "af_kilwa"
+          ]
+        },
+        {
+          "id": "af-kilwa-zanzibar",
+          "from": [
+            "kilwa"
+          ],
+          "to": [
+            "af-zanzibar-coast"
+          ],
+          "type": "continuation",
+          "label": "Omani and Zanzibar authority",
+          "dates": "18th–19th centuries",
+          "summary": "Omani Busaidi rulers based in Zanzibar later exercised authority at Kilwa and adapted its buildings for their administration.",
+          "note": "This selected later episode follows intervening local histories; coastal authority varied and does not imply all Swahili cities formed one uninterrupted empire.",
+          "sources": [
+            "af_kilwaoman"
+          ]
+        },
+        {
+          "id": "af-zanzibar-german",
+          "from": [
+            "af-zanzibar-coast"
+          ],
+          "to": [
+            "af-german-eastafrica"
+          ],
+          "type": "colonial",
+          "label": "German mainland expansion",
+          "dates": "1880s–1890s CE",
+          "summary": "German colonial expansion displaced local authorities and acquired control of mainland coastal jurisdictions associated with Zanzibar.",
+          "note": "The mainland and island sultanate had different legal histories; Zanzibar itself did not become part of German East Africa.",
+          "sources": [
+            "af_tanganyikareport"
+          ]
+        },
+        {
+          "id": "af-eastafrica-tanganyika",
+          "from": [
+            "af-german-eastafrica"
+          ],
+          "to": [
+            "af-tanganyika-territory"
+          ],
+          "type": "division",
+          "label": "Postwar partition and mandate",
+          "dates": "After 1918 CE",
+          "summary": "The postwar division of German East Africa placed the mainland territory later called Tanganyika under British administration.",
+          "note": "Rwanda and Burundi went to Belgian administration and the Kionga Triangle to Portugal; Tanganyika was only one successor jurisdiction.",
+          "sources": [
+            "af_eastafricapartition"
+          ]
+        },
+        {
+          "id": "af-tanganyika-independence",
+          "from": [
+            "af-tanganyika-territory"
+          ],
+          "to": [
+            "af-tanganyika"
+          ],
+          "type": "independence",
+          "label": "Tanganyika independent",
+          "dates": "1961 CE",
+          "summary": "Tanganyika became independent from British administration.",
+          "note": "It became a republic in 1962 before union with Zanzibar; the event does not date the beginning of its peoples or communities.",
+          "sources": [
+            "af_unterritories"
+          ]
+        },
+        {
+          "id": "af-tanzania-union",
+          "from": [
+            "af-tanganyika",
+            "af-zanzibar-independent"
+          ],
+          "to": [
+            "af-tanzania"
+          ],
+          "type": "union",
+          "label": "Tanganyika and Zanzibar unite",
+          "dates": "26 April 1964",
+          "summary": "Tanganyika and Zanzibar joined to form the union later named Tanzania.",
+          "note": "Zanzibar retained institutions within the union; its independence in 1963 and revolution in January 1964 preceded the agreement.",
+          "sources": [
+            "af_tanzaniaunion"
+          ]
+        },
+        {
+          "id": "af-zanzibar-kenyacoast",
+          "from": [
+            "af-zanzibar-coast"
+          ],
+          "to": [
+            "af-kenya-colonial"
+          ],
+          "type": "colonial",
+          "label": "Coastal protectorate administered",
+          "dates": "1895–1963 CE",
+          "summary": "Britain administered the Sultan of Zanzibar’s mainland coastal protectorate together with colonial Kenya.",
+          "note": "The coastal protectorate had a legal status distinct from the inland colony until independence; the edge does not place all Zanzibar under Kenyan government.",
+          "sources": [
+            "af_kenyacoast"
+          ]
+        },
+        {
+          "id": "af-kenya-independence",
+          "from": [
+            "af-kenya-colonial"
+          ],
+          "to": [
+            "kenya"
+          ],
+          "type": "independence",
+          "label": "Kenya independent",
+          "dates": "12 December 1963",
+          "summary": "Kenya became independent of British rule and the separate coastal arrangement ended.",
+          "note": "A republic followed in 1964; the modern state joined regions with diverse earlier histories.",
+          "sources": [
+            "af_kenya",
+            "af_kenyacoast"
+          ]
+        },
+        {
+          "id": "af-zanzibar-independence-revolution",
+          "from": [
+            "af-zanzibar-coast"
+          ],
+          "to": [
+            "af-zanzibar-independent"
+          ],
+          "type": "continuation",
+          "label": "Independence and revolution",
+          "dates": "1963–1964 CE",
+          "summary": "Zanzibar became independent under a sultanate before the January 1964 revolution replaced the monarchy with a republic.",
+          "note": "This concerns the islands and their government, not all territories formerly influenced by Omani or Zanzibar rulers along the mainland coast.",
+          "sources": [
+            "af_zanzibar1964"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "af-sahel-forest",
+      "title": "Sahel, Yoruba cities and the Gold Coast",
+      "region": "africa",
+      "nodes": [
+        {
+          "id": "ghana"
+        },
+        {
+          "id": "mali"
+        },
+        {
+          "id": "jenne"
+        },
+        {
+          "id": "songhai"
+        },
+        {
+          "id": "ife"
+        },
+        {
+          "id": "oyo"
+        },
+        {
+          "id": "asante"
+        },
+        {
+          "id": "af-goldcoast",
+          "label": "Gold Coast & neighbouring territories"
+        },
+        {
+          "id": "ghanamodern"
+        },
+        {
+          "id": "nok"
+        },
+        {
+          "id": "nigeria"
+        },
+        {
+          "id": "colonialafrica"
+        },
+        {
+          "id": "cn-colonial-nigeria"
+        }
+      ],
+      "connections": [
+        {
+          "id": "af-ghana-mali",
+          "from": [
+            "ghana"
+          ],
+          "to": [
+            "mali"
+          ],
+          "type": "contact",
+          "label": "Changing Sahelian centres",
+          "dates": "13th century onward",
+          "summary": "Mali rose within western Sahelian trading and political networks that had earlier sustained Ghana/Wagadu.",
+          "note": "This is regional reconfiguration, not proof that Ghana uniformly merged into Mali on one date; Ghana’s decline and Mali’s expansion were uneven.",
+          "sources": [
+            "af_sahel"
+          ]
+        },
+        {
+          "id": "af-jenne-mali",
+          "from": [
+            "jenne"
+          ],
+          "to": [
+            "mali"
+          ],
+          "type": "contact",
+          "label": "Inland Niger urban networks",
+          "dates": "13th–14th centuries",
+          "summary": "Jenne-jeno and the surrounding Inland Niger Delta formed part of the commercial and political landscape of the Mali era.",
+          "note": "The archaeological city and later Jenne are distinct settlements; urban communities had their own histories and were not created by imperial conquest.",
+          "sources": [
+            "af_jenne",
+            "af_sahel"
+          ]
+        },
+        {
+          "id": "af-jenne-songhai",
+          "from": [
+            "jenne"
+          ],
+          "to": [
+            "songhai"
+          ],
+          "type": "contact",
+          "label": "Later Jenne under Songhai",
+          "dates": "15th–16th centuries",
+          "summary": "Songhai expanded its authority over the Inland Niger Delta and later Jenne after the main occupation phase of Jenne-jeno.",
+          "note": "The plotted Jenne-jeno block ends around 1400; this link explicitly follows the neighbouring city and regional urban history rather than claiming the old settlement remained the same imperial capital.",
+          "sources": [
+            "af_jenne"
+          ]
+        },
+        {
+          "id": "af-oyo-ife",
+          "from": [
+            "ife"
+          ],
+          "to": [
+            "oyo"
+          ],
+          "type": "contact",
+          "label": "Royal traditions connect Yoruba cities",
+          "dates": "Medieval traditions; later imperial phase",
+          "summary": "Ife and Oyo are linked in Yoruba royal traditions associated with Oranmiyan.",
+          "note": "Oral dynastic traditions are not proof that Oyo simply descended as a state from Ife; the Oyo timeline selects its much later imperial expansion.",
+          "sources": [
+            "af_yorubatraditions"
+          ],
+          "certainty": "Tradition"
+        },
+        {
+          "id": "af-oyo-ife-trade",
+          "from": [
+            "oyo"
+          ],
+          "to": [
+            "ife"
+          ],
+          "type": "contact",
+          "label": "Niger-to-Ife trade routes",
+          "dates": "Medieval centuries",
+          "summary": "Oyo channelled goods from Niger-region trading networks towards Ife and other Yoruba centres.",
+          "note": "This concerns the city’s earlier commercial history rather than dating the beginning of the imperial expansion block; no political merger is implied.",
+          "sources": [
+            "af_ifetrade"
+          ],
+          "bidirectional": true
+        },
+        {
+          "id": "af-asante-colonial",
+          "from": [
+            "asante"
+          ],
+          "to": [
+            "af-goldcoast"
+          ],
+          "type": "conquest",
+          "label": "Asante annexation",
+          "dates": "1901–1902 CE",
+          "summary": "Britain annexed Asante and established colonial government under an official responsible to the Gold Coast governor.",
+          "note": "Ashanti had a separate colonial legal status, and the Asante monarchy and communities continued; this was not annexation to the Gold Coast Colony itself.",
+          "sources": [
+            "af_asante1902",
+            "af_ghanaconstitution"
+          ]
+        },
+        {
+          "id": "af-ghana-independence",
+          "from": [
+            "af-goldcoast"
+          ],
+          "to": [
+            "ghanamodern"
+          ],
+          "type": "independence",
+          "label": "Ghana independent",
+          "dates": "6 March 1957",
+          "summary": "The Gold Coast, Ashanti, Northern Territories and British Togoland became independent as Ghana.",
+          "note": "The four territories had different legal histories; modern Ghana is geographically and politically distinct from medieval Ghana/Wagadu.",
+          "sources": [
+            "af_ghana1957",
+            "af_ghanaconstitution"
+          ]
+        },
+        {
+          "id": "af-nok-museum-heritage",
+          "from": [
+            "nok"
+          ],
+          "to": [
+            "nigeria"
+          ],
+          "type": "contact",
+          "label": "Archaeological heritage, not succession",
+          "dates": "1928–present · rediscovery and museums",
+          "summary": "Nok terracottas discovered in central Nigeria became part of the archaeological and museum heritage of modern Nigeria.",
+          "note": "This is a heritage and geographical link only: there is no established direct dynastic succession from Nok culture to the Nigerian state or to a named later kingdom. The discovery began before independence.",
+          "sources": [
+            "af_nok"
+          ],
+          "basis": "heritage"
+        },
+        {
+          "id": "af-colonial-nigeria-context",
+          "from": [
+            "colonialafrica"
+          ],
+          "to": [
+            "cn-colonial-nigeria"
+          ],
+          "type": "contact",
+          "label": "One jurisdiction within the wider era",
+          "dates": "1914–1960 CE",
+          "summary": "Colonial Nigeria is one specific British jurisdiction within the atlas’s broader African colonial-period overview.",
+          "note": "This is a period-to-example relationship, not a merger or a claim that all Africa had the same rulers or independence date.",
+          "sources": [
+            "af_nigeriaarchives"
+          ],
+          "basis": "period-example"
+        }
+      ]
+    },
+    {
+      "id": "af-kongo-south",
+      "title": "Kongo, Atlantic contacts and southern African states",
+      "region": "africa",
+      "nodes": [
+        {
+          "id": "kongo"
+        },
+        {
+          "id": "cn-portugal"
+        },
+        {
+          "id": "af-portuguese-angola"
+        },
+        {
+          "id": "af-angola"
+        },
+        {
+          "id": "britishempire"
+        },
+        {
+          "id": "af-cape"
+        },
+        {
+          "id": "af-natal"
+        },
+        {
+          "id": "af-transvaal-colony"
+        },
+        {
+          "id": "af-orange-colony"
+        },
+        {
+          "id": "southafricamodern"
+        },
+        {
+          "id": "af-southafrica-democratic"
+        },
+        {
+          "id": "colonialafrica"
+        },
+        {
+          "id": "ghanamodern"
+        },
+        {
+          "id": "kenya"
+        }
+      ],
+      "connections": [
+        {
+          "id": "af-kongo-portugal",
+          "from": [
+            "kongo"
+          ],
+          "to": [
+            "cn-portugal"
+          ],
+          "type": "contact",
+          "label": "Diplomacy and Christian exchange",
+          "dates": "From 1483 CE",
+          "summary": "Portuguese contact with Kongo led to diplomacy and religious and artistic exchanges between their rulers and communities.",
+          "note": "Early contact did not mean immediate Portuguese conquest or an equal relationship throughout later centuries; the slave trade and colonial warfare transformed the relationship.",
+          "sources": [
+            "af_kongoportugal"
+          ],
+          "bidirectional": true
+        },
+        {
+          "id": "af-kongo-colonial",
+          "from": [
+            "kongo"
+          ],
+          "to": [
+            "af-portuguese-angola"
+          ],
+          "type": "colonial",
+          "label": "Colonial expansion in the Kongo region",
+          "dates": "19th–early 20th centuries",
+          "summary": "Portuguese colonial expansion absorbed the southern Kongo region into Angola as Kongo political authority weakened.",
+          "note": "This shows only the Angolan branch: Kongo communities also live in both modern Congos, and the colonial territory was not simply the old kingdom renamed. No claim is made that all Kongo lands passed to Portugal.",
+          "sources": [
+            "af_kongocolonial",
+            "af_kongoheritage"
+          ]
+        },
+        {
+          "id": "af-angola-independence",
+          "from": [
+            "af-portuguese-angola"
+          ],
+          "to": [
+            "af-angola"
+          ],
+          "type": "independence",
+          "label": "Angola independent",
+          "dates": "11 November 1975",
+          "summary": "Portuguese rule ended as Angola became independent amid fighting between rival nationalist movements.",
+          "note": "This was not a peaceful agreed merger or the restoration of Kongo; independence was followed by civil war.",
+          "sources": [
+            "af_angola"
+          ]
+        },
+        {
+          "id": "af-kongo-modern-heritage",
+          "from": [
+            "kongo"
+          ],
+          "to": [
+            "af-angola"
+          ],
+          "type": "contact",
+          "label": "Mbanza Kongo: living heritage",
+          "dates": "Present day",
+          "summary": "The former Kongo capital, Mbanza Kongo, survives as a cultural and spiritual heritage site in present-day Angola.",
+          "note": "A heritage link is not a claim that Angola alone inherits Kongo peoples, culture or territory.",
+          "sources": [
+            "af_kongoheritage"
+          ],
+          "basis": "heritage"
+        },
+        {
+          "id": "af-cape-british",
+          "from": [
+            "britishempire"
+          ],
+          "to": [
+            "af-cape"
+          ],
+          "type": "colonial",
+          "label": "British occupation of the Cape",
+          "dates": "1795; again 1806 CE",
+          "summary": "Britain occupied the Cape during wars with European rivals and retained control after its second occupation.",
+          "note": "The Cape settlement began under Dutch rule in 1652, and colonial expansion involved African dispossession and resistance.",
+          "sources": [
+            "af_southafrica"
+          ]
+        },
+        {
+          "id": "af-southafrican-union",
+          "from": [
+            "af-cape",
+            "af-natal",
+            "af-transvaal-colony",
+            "af-orange-colony"
+          ],
+          "to": [
+            "southafricamodern"
+          ],
+          "type": "union",
+          "label": "Four colonies form the Union",
+          "dates": "31 May 1910",
+          "summary": "The Cape, Natal, Transvaal and Orange River colonies joined in the Union of South Africa.",
+          "note": "The Union was a self-governing British dominion dominated by white political power and excluded most South Africans; this was not universal democratic unification.",
+          "sources": [
+            "af_southafricaunion"
+          ]
+        },
+        {
+          "id": "af-southafrican-democracy",
+          "from": [
+            "southafricamodern"
+          ],
+          "to": [
+            "af-southafrica-democratic"
+          ],
+          "type": "continuation",
+          "label": "Transition to universal suffrage",
+          "dates": "1994 CE",
+          "summary": "South Africa held its first national democratic election based on universal adult suffrage under an interim constitution.",
+          "note": "This was a constitutional and political transformation within the state; earlier segregation and apartheid are not equivalent to the later democratic order.",
+          "sources": [
+            "af_southafrica"
+          ]
+        },
+        {
+          "id": "af-colonial-decolonization",
+          "from": [
+            "colonialafrica"
+          ],
+          "to": [
+            "ghanamodern",
+            "kenya",
+            "af-angola"
+          ],
+          "type": "contact",
+          "label": "Different paths out of colonial rule",
+          "dates": "1957–1975 CE · selected examples",
+          "summary": "Ghana, Kenya and Angola illustrate separate decolonisation processes in different years and colonial systems.",
+          "note": "The starting box is a broad era, not a state that split into these three countries; these are examples, not an exhaustive list of African independence movements.",
+          "sources": [
+            "af_decolonization",
+            "af_unterritories"
+          ],
+          "basis": "period-example"
+        }
+      ]
+    }
+  ],
+  "entryRelations": [],
+  "coverage": {
+    "africaTimelineCount": 29,
+    "idsCoveredByProposal": [
+      "aksum",
+      "asante",
+      "ayyubid",
+      "cn-ptolemaic",
+      "colonialafrica",
+      "egypt",
+      "egyptmodern",
+      "ethiopia",
+      "fatimid",
+      "ghana",
+      "ghanamodern",
+      "ife",
+      "jenne",
+      "kenya",
+      "kilwa",
+      "kongo",
+      "mali",
+      "mamluk",
+      "muhammad-ali",
+      "nigeria",
+      "nok",
+      "nubia",
+      "oyo",
+      "songhai",
+      "southafricamodern",
+      "zimbabwe"
+    ],
+    "idsCoveredByExistingMaps": [
+      "benin",
+      "bornu",
+      "kanem"
+    ],
+    "missing": [],
+    "newRelationships": 51,
+    "newMapOnlyEntries": 19
+  },
+  "editorialNotes": [
+    "Heritage and period-to-example links explicitly mark context rather than political succession; render them dashed and label their basis. Nok has no invented direct dynastic successor.",
+    "The Jenne-jeno node deliberately distinguishes the old archaeological settlement from nearby later Jenne.",
+    "Egyptian rule maps selected transitions, not every dynasty or brief interruption; Achaemenid independence interruptions, Coptic continuity, Tulunid/Ikhshidid stages and the overlapping Muhammad Ali/British/modern frames are named.",
+    "For continuity to existing Sahel and Nigerian endpoints, retain existing west-africa and africa-modern maps and offer cross-map links at shared nodes.",
+    "Every proposed claim is grounded in the source URLs. The two Yoruba traditional links remain marked as tradition or historical contact; they are not asserted as genetic descent."
+  ]
+}

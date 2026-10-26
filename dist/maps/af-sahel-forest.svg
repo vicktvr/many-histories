@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2313 1224" width="2313" height="1224" role="group" aria-labelledby="map-title-af-sahel-forest map-desc-af-sahel-forest"><title id="map-title-af-sahel-forest">Sahel, Yoruba cities and the Gold Coast</title><desc id="map-desc-af-sahel-forest">Selected, sourced connections. Arrows label unions, divisions, conquest, independence, changes in rule, and contact. Node positions do not measure time or ancestry.  Select a node for Wikipedia or an arrow for its sources.</desc><defs>
+<marker id="arrow-af-sahel-forest-union" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#3b8274"/></marker>
+<marker id="arrow-af-sahel-forest-division" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#b88636"/></marker>
+<marker id="arrow-af-sahel-forest-conquest" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#aa6355"/></marker>
+<marker id="arrow-af-sahel-forest-independence" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#638350"/></marker>
+<marker id="arrow-af-sahel-forest-continuation" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#5d7f9d"/></marker>
+<marker id="arrow-af-sahel-forest-contact" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#8b7297"/></marker>
+<marker id="arrow-af-sahel-forest-colonial" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#9a8055"/></marker>
+<marker id="arrow-af-sahel-forest-context" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#92917a"/></marker>
+<marker id="arrow-af-sahel-forest-period" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#7d8c6f"/></marker>
+</defs><style>text{font-family:Arial,Helvetica,sans-serif;fill:#25372c}.map-node,.map-edge{cursor:pointer;outline:none}.map-node rect{stroke:#fffdf8;stroke-width:2}.map-node:hover rect,.map-node:focus rect{stroke:#3c5441;stroke-width:3}.map-label{font-size:21px;font-weight:600;pointer-events:none}.map-date{font-size:12px;fill:#617056;pointer-events:none}.edge-line{fill:none;stroke-width:2.5;stroke-linejoin:round;stroke-linecap:round}.edge-hit{fill:none;stroke:transparent;stroke-width:36;vector-effect:non-scaling-stroke}.map-edge:hover .edge-label-bg,.map-edge:focus .edge-label-bg{stroke:#334d3c;stroke-width:2}.map-edge:hover .edge-line,.map-edge:focus .edge-line{stroke-width:4}.edge-label{font-size:15px;font-weight:500;pointer-events:none}.map-heading{font-size:47px;font-weight:700;letter-spacing:-1.2px}.map-subtitle{font-size:24px;fill:#67785a}.map-micro{font-size:13px;fill:#8a977d}.map-node.dim{opacity:.15}.map-node.hit rect{stroke:#294332;stroke-width:4}.map-node.selected rect{stroke:#294332;stroke-width:4}.map-edge.related .edge-line{stroke-width:4.5}</style><rect width="100%" height="100%" fill="#fdfcf8"/><text class="map-heading" x="1156.5" y="74" text-anchor="middle">EMPIRES &amp; CONNECTIONS</text><text class="map-subtitle" x="1156.5" y="117" text-anchor="middle">Sahel, Yoruba cities and the Gold Coast</text><text class="map-micro" x="1156.5" y="154" text-anchor="middle">Tap a node to read · Tap an arrow for the event and sources</text>
+<g class="map-edge" id="map-edge-af-sahel-forest-af-ghana-mali" data-connection="af-ghana-mali" data-map="af-sahel-forest" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Ghana / Wagadu to Mali Empire: Changing Sahelian centres. Open relationship details." style="--edge-color:#8b7297"><title>Contact / influence: Changing Sahelian centres</title>
+<path class="edge-hit" d="M174.1 314.42C174.1 343.58 174.1 379.41 174.1 399.79"/><path class="edge-line" stroke="#8b7297" stroke-dasharray="6 6" d="M174.1 314.42C174.1 343.58 174.1 379.41 174.1 399.79"/>
+<path class="edge-hit" d="M189.06 434.4C207.67 454.8 240.21 490.47 266.72 519.54"/><path class="edge-line" stroke="#8b7297" stroke-dasharray="6 6" d="M189.06 434.4C207.67 454.8 240.21 490.47 266.72 519.54" marker-end="url(#arrow-af-sahel-forest-contact)"/>
+<rect class="edge-label-bg" x="65.34999999999991" y="400" width="217.5" height="34" rx="7" fill="#fdfcf8" stroke="#8b7297" stroke-opacity=".28"/>
+<text class="edge-label" x="174.0999999999999" y="422" text-anchor="middle">Changing Sahelian centres</text>
+</g>
+<g class="map-edge" id="map-edge-af-sahel-forest-af-jenne-mali" data-connection="af-jenne-mali" data-map="af-sahel-forest" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Jenne-jeno to Mali Empire: Inland Niger urban networks. Open relationship details." style="--edge-color:#8b7297"><title>Contact / influence: Inland Niger urban networks</title>
+<path class="edge-hit" d="M540.81 314.42C513.62 343.58 480.21 379.41 461.22 399.79"/><path class="edge-line" stroke="#8b7297" stroke-dasharray="6 6" d="M540.81 314.42C513.62 343.58 480.21 379.41 461.22 399.79"/>
+<path class="edge-hit" d="M430.92 434.4C412.04 454.8 379.01 490.47 352.11 519.54"/><path class="edge-line" stroke="#8b7297" stroke-dasharray="6 6" d="M430.92 434.4C412.04 454.8 379.01 490.47 352.11 519.54" marker-end="url(#arrow-af-sahel-forest-contact)"/>
+<rect class="edge-label-bg" x="329.8499999999999" y="400" width="232.5" height="34" rx="7" fill="#fdfcf8" stroke="#8b7297" stroke-opacity=".28"/>
+<text class="edge-label" x="446.0999999999999" y="422" text-anchor="middle">Inland Niger urban networks</text>
+</g>
+<g class="map-edge" id="map-edge-af-sahel-forest-af-jenne-songhai" data-connection="af-jenne-songhai" data-map="af-sahel-forest" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Jenne-jeno to Songhai Empire: Later Jenne under Songhai. Open relationship details." style="--edge-color:#8b7297"><title>Contact / influence: Later Jenne under Songhai</title>
+<path class="edge-hit" d="M626.13 314.42C652.53 343.58 684.97 379.41 703.42 399.79"/><path class="edge-line" stroke="#8b7297" stroke-dasharray="6 6" d="M626.13 314.42C652.53 343.58 684.97 379.41 703.42 399.79"/>
+<path class="edge-hit" d="M718.1 434.4C718.1 454.8 718.1 490.47 718.1 519.54"/><path class="edge-line" stroke="#8b7297" stroke-dasharray="6 6" d="M718.1 434.4C718.1 454.8 718.1 490.47 718.1 519.54" marker-end="url(#arrow-af-sahel-forest-contact)"/>
+<rect class="edge-label-bg" x="609.3499999999999" y="400" width="217.5" height="34" rx="7" fill="#fdfcf8" stroke="#8b7297" stroke-opacity=".28"/>
+<text class="edge-label" x="718.0999999999999" y="422" text-anchor="middle">Later Jenne under Songhai</text>
+</g>
+<g class="map-edge" id="map-edge-af-sahel-forest-af-oyo-ife" data-connection="af-oyo-ife" data-map="af-sahel-forest" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Ife · artistic flourishing to Oyo · imperial expansion: Royal traditions connect Yoruba cities. Open relationship details." style="--edge-color:#8b7297"><title>Contact / influence: Royal traditions connect Yoruba cities</title>
+<path class="edge-hit" d="M1098.36 314.42C1079.05 343.58 1055.33 379.41 1041.84 399.79"/><path class="edge-line" stroke="#8b7297" stroke-dasharray="6 6" d="M1098.36 314.42C1079.05 343.58 1055.33 379.41 1041.84 399.79"/>
+<path class="edge-hit" d="M1033.54 434.4C1036.57 454.8 1041.87 490.47 1046.19 519.54"/><path class="edge-line" stroke="#8b7297" stroke-dasharray="6 6" d="M1033.54 434.4C1036.57 454.8 1041.87 490.47 1046.19 519.54" marker-end="url(#arrow-af-sahel-forest-contact)"/>
+<rect class="edge-label-bg" x="873.5999999999999" y="400" width="315" height="34" rx="7" fill="#fdfcf8" stroke="#8b7297" stroke-opacity=".28"/>
+<text class="edge-label" x="1031.1" y="422" text-anchor="middle">Royal traditions connect Yoruba cities</text>
+</g>
+<g class="map-edge" id="map-edge-af-sahel-forest-af-oyo-ife-trade" data-connection="af-oyo-ife-trade" data-map="af-sahel-forest" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Oyo · imperial expansion to Ife · artistic flourishing: Niger-to-Ife trade routes. Open relationship details." style="--edge-color:#8b7297"><title>Contact / influence: Niger-to-Ife trade routes</title>
+<path class="edge-hit" d="M1102.79 614.34C1130.67 640.33 1163.73 671.16 1183.53 689.62"/><path class="edge-line" stroke="#8b7297" stroke-dasharray="6 6" d="M1102.79 614.34C1130.67 640.33 1163.73 671.16 1183.53 689.62" marker-start="url(#arrow-af-sahel-forest-contact)"/>
+<path class="edge-hit" d="M1205.32 689.73C1216.89 642.23 1246.02 500.17 1212.1 390C1203.66 362.58 1186.71 335.8 1170.33 314.35"/><path class="edge-line" stroke="#8b7297" stroke-dasharray="6 6" d="M1205.32 689.73C1216.89 642.23 1246.02 500.17 1212.1 390C1203.66 362.58 1186.71 335.8 1170.33 314.35" marker-end="url(#arrow-af-sahel-forest-contact)"/>
+<rect class="edge-label-bg" x="1092.35" y="690" width="217.5" height="34" rx="7" fill="#fdfcf8" stroke="#8b7297" stroke-opacity=".28"/>
+<text class="edge-label" x="1201.1" y="712" text-anchor="middle">Niger-to-Ife trade routes</text>
+</g>
+<g class="map-edge" id="map-edge-af-sahel-forest-af-asante-colonial" data-connection="af-asante-colonial" data-map="af-sahel-forest" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Asante Empire to Gold Coast &amp; neighbouring territories: Asante annexation. Open relationship details." style="--edge-color:#aa6355"><title>Conquest: Asante annexation</title>
+<path class="edge-hit" d="M1503.1 314.42C1503.1 343.58 1503.1 379.41 1503.1 399.79"/><path class="edge-line" stroke="#aa6355"  d="M1503.1 314.42C1503.1 343.58 1503.1 379.41 1503.1 399.79"/>
+<path class="edge-hit" d="M1503.1 434.4C1503.1 454.8 1503.1 490.47 1503.1 519.54"/><path class="edge-line" stroke="#aa6355"  d="M1503.1 434.4C1503.1 454.8 1503.1 490.47 1503.1 519.54" marker-end="url(#arrow-af-sahel-forest-conquest)"/>
+<rect class="edge-label-bg" x="1424.35" y="400" width="157.5" height="34" rx="7" fill="#fdfcf8" stroke="#aa6355" stroke-opacity=".28"/>
+<text class="edge-label" x="1503.1" y="422" text-anchor="middle">Asante annexation</text>
+</g>
+<g class="map-edge" id="map-edge-af-sahel-forest-af-ghana-independence" data-connection="af-ghana-independence" data-map="af-sahel-forest" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Gold Coast &amp; neighbouring territories to Ghana: Ghana independent. Open relationship details." style="--edge-color:#638350"><title>Independence: Ghana independent</title>
+<path class="edge-hit" d="M1503.1 614.34C1503.1 640.33 1503.1 671.16 1503.1 689.62"/><path class="edge-line" stroke="#638350"  d="M1503.1 614.34C1503.1 640.33 1503.1 671.16 1503.1 689.62"/>
+<path class="edge-hit" d="M1503.1 724.37C1503.1 742.86 1503.1 773.77 1503.1 799.8"/><path class="edge-line" stroke="#638350"  d="M1503.1 724.37C1503.1 742.86 1503.1 773.77 1503.1 799.8" marker-end="url(#arrow-af-sahel-forest-independence)"/>
+<rect class="edge-label-bg" x="1424.35" y="690" width="157.5" height="34" rx="7" fill="#fdfcf8" stroke="#638350" stroke-opacity=".28"/>
+<text class="edge-label" x="1503.1" y="712" text-anchor="middle">Ghana independent</text>
+</g>
+<g class="map-edge" id="map-edge-af-sahel-forest-af-nok-museum-heritage" data-connection="af-nok-museum-heritage" data-map="af-sahel-forest" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Nok culture to Nigeria: Archaeological heritage, not succession. Open relationship details." style="--edge-color:#92917a"><title>Context / overlap: Archaeological heritage, not succession</title>
+<path class="edge-hit" d="M1778.1 314.42C1778.1 339.18 1778.1 368.73 1778.1 389.56"/><path class="edge-line" stroke="#92917a" stroke-dasharray="6 6" d="M1778.1 314.42C1778.1 339.18 1778.1 368.73 1778.1 389.56"/>
+<path class="edge-hit" d="M1778.1 444.46C1778.1 465.33 1778.1 494.95 1778.1 519.72"/><path class="edge-line" stroke="#92917a" stroke-dasharray="6 6" d="M1778.1 444.46C1778.1 465.33 1778.1 494.95 1778.1 519.72" marker-end="url(#arrow-af-sahel-forest-context)"/>
+<rect class="edge-label-bg" x="1658.1" y="390" width="240" height="54" rx="7" fill="#fdfcf8" stroke="#92917a" stroke-opacity=".28"/>
+<text class="edge-label" x="1778.1" y="412" text-anchor="middle">Archaeological heritage, not</text>
+<text class="edge-label" x="1778.1" y="432" text-anchor="middle">succession</text>
+</g>
+<g class="map-edge" id="map-edge-af-sahel-forest-af-colonial-nigeria-context" data-connection="af-colonial-nigeria-context" data-map="af-sahel-forest" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Colonial era to Colonial Nigeria: One jurisdiction within the wider era. Open relationship details." style="--edge-color:#92917a"><title>Context / overlap: One jurisdiction within the wider era</title>
+<path class="edge-hit" d="M2099.1 314.42C2099.1 343.58 2099.1 379.41 2099.1 399.79"/><path class="edge-line" stroke="#92917a" stroke-dasharray="6 6" d="M2099.1 314.42C2099.1 343.58 2099.1 379.41 2099.1 399.79"/>
+<path class="edge-hit" d="M2099.1 434.4C2099.1 454.8 2099.1 490.47 2099.1 519.54"/><path class="edge-line" stroke="#92917a" stroke-dasharray="6 6" d="M2099.1 434.4C2099.1 454.8 2099.1 490.47 2099.1 519.54" marker-end="url(#arrow-af-sahel-forest-context)"/>
+<rect class="edge-label-bg" x="1945.35" y="400" width="307.5" height="34" rx="7" fill="#fdfcf8" stroke="#92917a" stroke-opacity=".28"/>
+<text class="edge-label" x="2099.1" y="422" text-anchor="middle">One jurisdiction within the wider era</text>
+</g>
+<g class="map-node" id="map-node-af-sahel-forest-ghana" data-history="ghana" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Ghana / Wagadu, c. 300–1200 CE. Open Wikipedia." data-map="af-sahel-forest"><title>Ghana / Wagadu · c. 300–1200 CE</title><rect x="60.09999999999991" y="220" width="228" height="94" rx="10" fill="#8ebfd1"/>
+<text class="map-label" style="font-size:21px" x="174.0999999999999" y="263" text-anchor="middle">Ghana / Wagadu</text>
+<text class="map-date" x="174.0999999999999" y="299" text-anchor="middle">c. 300–1200</text></g>
+<g class="map-node" id="map-node-af-sahel-forest-mali" data-history="mali" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Mali Empire, c. 1235–1600 CE. Open Wikipedia." data-map="af-sahel-forest"><title>Mali Empire · c. 1235–1600 CE</title><rect x="195.0999999999999" y="520" width="228" height="94" rx="10" fill="#87c5ae"/>
+<text class="map-label" style="font-size:21px" x="309.0999999999999" y="563" text-anchor="middle">Mali Empire</text>
+<text class="map-date" x="309.0999999999999" y="599" text-anchor="middle">c. 1235–1600</text></g>
+<g class="map-node" id="map-node-af-sahel-forest-jenne" data-history="jenne" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Jenne-jeno, c. 250 BCE–1400 CE. Open Wikipedia." data-map="af-sahel-forest"><title>Jenne-jeno · c. 250 BCE–1400 CE</title><rect x="470.0999999999999" y="220" width="228" height="94" rx="10" fill="#b8cf7a"/>
+<text class="map-label" style="font-size:21px" x="584.0999999999999" y="263" text-anchor="middle">Jenne-jeno</text>
+<text class="map-date" x="584.0999999999999" y="299" text-anchor="middle">c. 250 BCE–1400 CE</text></g>
+<g class="map-node" id="map-node-af-sahel-forest-songhai" data-history="songhai" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Songhai Empire, c. 1464–1591 CE. Open Wikipedia." data-map="af-sahel-forest"><title>Songhai Empire · c. 1464–1591 CE</title><rect x="604.0999999999999" y="520" width="228" height="94" rx="10" fill="#8ebfd1"/>
+<text class="map-label" style="font-size:21px" x="718.0999999999999" y="563" text-anchor="middle">Songhai Empire</text>
+<text class="map-date" x="718.0999999999999" y="599" text-anchor="middle">c. 1464–1591</text></g>
+<g class="map-node" id="map-node-af-sahel-forest-ife" data-history="ife" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Ife · artistic flourishing, c. 1200 CE–1500 CE. Open Wikipedia." data-map="af-sahel-forest"><title>Ife · artistic flourishing · c. 1200 CE–1500 CE</title><rect x="1015.0999999999999" y="220" width="228" height="94" rx="10" fill="#e8a4a1"/>
+<text class="map-label" style="font-size:21px" x="1129.1" y="251" text-anchor="middle">Ife · artistic</text>
+<text class="map-label" style="font-size:21px" x="1129.1" y="275" text-anchor="middle">flourishing</text>
+<text class="map-date" x="1129.1" y="299" text-anchor="middle">c. 1200–1500</text></g>
+<g class="map-node" id="map-node-af-sahel-forest-oyo" data-history="oyo" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Oyo · imperial expansion, c. 1600 CE–1836 CE. Open Wikipedia." data-map="af-sahel-forest"><title>Oyo · imperial expansion · c. 1600 CE–1836 CE</title><rect x="939.0999999999999" y="520" width="228" height="94" rx="10" fill="#dbadca"/>
+<text class="map-label" style="font-size:21px" x="1053.1" y="551" text-anchor="middle">Oyo · imperial</text>
+<text class="map-label" style="font-size:21px" x="1053.1" y="575" text-anchor="middle">expansion</text>
+<text class="map-date" x="1053.1" y="599" text-anchor="middle">c. 1600–1836</text></g>
+<g class="map-node" id="map-node-af-sahel-forest-asante" data-history="asante" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Asante Empire, 1701 CE–1902 CE. Open Wikipedia." data-map="af-sahel-forest"><title>Asante Empire · 1701 CE–1902 CE</title><rect x="1389.1" y="220" width="228" height="94" rx="10" fill="#e6ac5c"/>
+<text class="map-label" style="font-size:21px" x="1503.1" y="263" text-anchor="middle">Asante Empire</text>
+<text class="map-date" x="1503.1" y="299" text-anchor="middle">1701–1902</text></g>
+<g class="map-node" id="map-node-af-sahel-forest-af-goldcoast" data-history="af-goldcoast" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Gold Coast, Ashanti, Northern Territories and British Togoland, 1902–1957 CE · selected combined frame. Open Wikipedia." data-map="af-sahel-forest"><title>Gold Coast, Ashanti, Northern Territories and British Togoland · 1902–1957 CE · selected combined frame</title><rect x="1389.1" y="520" width="228" height="94" rx="10" fill="#efb34c"/>
+<text class="map-label" style="font-size:18px" x="1503.1" y="541" text-anchor="middle">Gold Coast &amp;</text>
+<text class="map-label" style="font-size:18px" x="1503.1" y="563" text-anchor="middle">neighbouring</text>
+<text class="map-label" style="font-size:18px" x="1503.1" y="585" text-anchor="middle">territories</text>
+<text class="map-date" x="1503.1" y="599" text-anchor="middle">1902–1957 · selected combined frame</text></g>
+<g class="map-node" id="map-node-af-sahel-forest-ghanamodern" data-history="ghanamodern" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Ghana · independent state, 1957 CE–present. Open Wikipedia." data-map="af-sahel-forest"><title>Ghana · independent state · 1957 CE–present</title><rect x="1389.1" y="800" width="228" height="94" rx="10" fill="#87c5ae"/>
+<text class="map-label" style="font-size:21px" x="1503.1" y="843" text-anchor="middle">Ghana</text>
+<text class="map-date" x="1503.1" y="879" text-anchor="middle">1957–present</text></g>
+<g class="map-node" id="map-node-af-sahel-forest-nok" data-history="nok" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Nok culture, c. 1500 BCE–start of the Common Era. Open Wikipedia." data-map="af-sahel-forest"><title>Nok culture · c. 1500 BCE–start of the Common Era</title><rect x="1664.1" y="220" width="228" height="94" rx="10" fill="#ef9479"/>
+<text class="map-label" style="font-size:21px" x="1778.1" y="263" text-anchor="middle">Nok culture</text>
+<text class="map-date" x="1778.1" y="299" text-anchor="middle">c. 1500 BCE–start of the Common Era</text></g>
+<g class="map-node" id="map-node-af-sahel-forest-nigeria" data-history="nigeria" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Nigeria · independent state, 1960 CE–present. Open Wikipedia." data-map="af-sahel-forest"><title>Nigeria · independent state · 1960 CE–present</title><rect x="1664.1" y="520" width="228" height="94" rx="10" fill="#ef9479"/>
+<text class="map-label" style="font-size:21px" x="1778.1" y="563" text-anchor="middle">Nigeria</text>
+<text class="map-date" x="1778.1" y="599" text-anchor="middle">1960–present</text></g>
+<g class="map-node" id="map-node-af-sahel-forest-colonialafrica" data-history="colonialafrica" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Africa · high colonial era, 1880 CE–1960 CE. Open Wikipedia." data-map="af-sahel-forest"><title>Africa · high colonial era · 1880 CE–1960 CE</title><rect x="1985.1" y="220" width="228" height="94" rx="10" fill="#91c399"/>
+<text class="map-label" style="font-size:21px" x="2099.1" y="263" text-anchor="middle">Colonial era</text>
+<text class="map-date" x="2099.1" y="299" text-anchor="middle">1880–1960</text></g>
+<g class="map-node" id="map-node-af-sahel-forest-cn-colonial-nigeria" data-history="cn-colonial-nigeria" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Colonial Nigeria, 1914–1960 CE. Open Wikipedia." data-map="af-sahel-forest"><title>Colonial Nigeria · 1914–1960 CE</title><rect x="1985.1" y="520" width="228" height="94" rx="10" fill="#e8a4a1"/>
+<text class="map-label" style="font-size:21px" x="2099.1" y="563" text-anchor="middle">Colonial Nigeria</text>
+<text class="map-date" x="2099.1" y="599" text-anchor="middle">1914–1960</text></g>
+<text class="map-micro" x="1156.5" y="1015" text-anchor="middle">Continue this history on another map</text>
+<g class="map-continuation" id="map-jump-af-sahel-forest-0" role="button" tabindex="0" data-map-target="africa-modern" data-map-history="mali" aria-label="West Africa: later realms, colonial borders &amp; independence"><rect x="120.5" y="1029" width="680" height="70" rx="8" fill="#edf3e5" stroke="#bdcdb1"/>
+<text x="460.5" y="1065" text-anchor="middle" style="font-size:16px">West Africa: later realms, colonial borders &amp; independence</text>
+</g>
+<g class="map-continuation" id="map-jump-af-sahel-forest-1" role="button" tabindex="0" data-map-target="west-africa" data-map-history="mali" aria-label="West Africa: several kinds of connection"><rect x="816.5" y="1029" width="680" height="70" rx="8" fill="#edf3e5" stroke="#bdcdb1"/>
+<text x="1156.5" y="1065" text-anchor="middle" style="font-size:16px">West Africa: several kinds of connection</text>
+</g>
+<g class="map-continuation" id="map-jump-af-sahel-forest-2" role="button" tabindex="0" data-map-target="af-kongo-south" data-map-history="ghanamodern" aria-label="Kongo, Atlantic contacts and southern African states"><rect x="1512.5" y="1029" width="680" height="70" rx="8" fill="#edf3e5" stroke="#bdcdb1"/>
+<text x="1852.5" y="1065" text-anchor="middle" style="font-size:16px">Kongo, Atlantic contacts and southern African states</text>
+</g>
+<path d="M70 1135h20" stroke="#3b8274" stroke-width="3"/><text x="98" y="1140" style="font-size:14px;fill:#6b7b5e">Union</text>
+<path d="M504.6 1135h20" stroke="#b88636" stroke-width="3"/><text x="532.6" y="1140" style="font-size:14px;fill:#6b7b5e">Division</text>
+<path d="M939.2 1135h20" stroke="#aa6355" stroke-width="3"/><text x="967.2" y="1140" style="font-size:14px;fill:#6b7b5e">Conquest</text>
+<path d="M1373.8 1135h20" stroke="#638350" stroke-width="3"/><text x="1401.8" y="1140" style="font-size:14px;fill:#6b7b5e">Independence</text>
+<path d="M1808.4 1135h20" stroke="#5d7f9d" stroke-width="3"/><text x="1836.4" y="1140" style="font-size:14px;fill:#6b7b5e">Change of rule</text>
+<path d="M70 1161h20" stroke="#8b7297" stroke-width="3"/><text x="98" y="1166" style="font-size:14px;fill:#6b7b5e">Contact / influence</text>
+<path d="M504.6 1161h20" stroke="#9a8055" stroke-width="3"/><text x="532.6" y="1166" style="font-size:14px;fill:#6b7b5e">Colonial rule</text>
+<path d="M939.2 1161h20" stroke="#92917a" stroke-width="3"/><text x="967.2" y="1166" style="font-size:14px;fill:#6b7b5e">Context / overlap</text>
+<path d="M1373.8 1161h20" stroke="#7d8c6f" stroke-width="3"/><text x="1401.8" y="1166" style="font-size:14px;fill:#6b7b5e">Period transition</text>
+<text class="map-micro" x="1156.5" y="1202" text-anchor="middle">Selected connections · Layout is not a time, territory or ancestry scale</text></svg>

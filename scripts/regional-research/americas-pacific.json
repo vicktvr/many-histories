@@ -1,0 +1,902 @@
+{
+  "sources": {
+    "tula": {
+      "publisher": "Instituto Nacional de Antropología e Historia",
+      "title": "Examining Tula’s Complex Urban Layout",
+      "url": "https://lugares.inah.gob.mx/en/node/5542"
+    },
+    "toltec-research": {
+      "publisher": "Ancient Mesoamerica · Cambridge University Press",
+      "title": "Revised Chronology and Settlement History of Tula and the Tula Region",
+      "url": "https://www.cambridge.org/core/journals/ancient-mesoamerica/article/revised-chronology-and-settlement-history-of-tula-and-the-tula-region/B82102468C38BAF62DB2E2FE72D72D9D"
+    },
+    "monte-alban": {
+      "publisher": "UNESCO World Heritage Centre",
+      "title": "Historic Centre of Oaxaca and Archaeological Site of Monte Albán",
+      "url": "https://whc.unesco.org/en/list/415/"
+    },
+    "mixtec-history": {
+      "publisher": "Instituto Nacional de Antropología e Historia",
+      "title": "Región cultural Oaxaca · Posclásico",
+      "url": "https://lugares.inah.gob.mx/es/taxonomy/term/56114"
+    },
+    "zapotec-living": {
+      "publisher": "Instituto Nacional de los Pueblos Indígenas",
+      "title": "Zapotecos de la Sierra Norte · Etnografía",
+      "url": "https://atlas.inpi.gob.mx/zapotecos-etnografia/"
+    },
+    "mixtec-living": {
+      "publisher": "Instituto Nacional de los Pueblos Indígenas",
+      "title": "Mixtecos · Etnografía",
+      "url": "https://atlas.inpi.gob.mx/mixtecos-etnografia/"
+    },
+    "chavin": {
+      "publisher": "UNESCO World Heritage Centre",
+      "title": "Chavin (Archaeological Site)",
+      "url": "https://whc.unesco.org/en/list/330/"
+    },
+    "taino": {
+      "publisher": "Smithsonian National Museum of the American Indian",
+      "title": "Taíno: Native Heritage and Identity in the Caribbean · Gallery guide",
+      "url": "https://americanindian.si.edu/nk360/pdf/Taino-Gallery-Guide-English.pdf"
+    },
+    "poverty-point": {
+      "publisher": "U.S. National Park Service",
+      "title": "Monumental Earthworks of Poverty Point: World Heritage Site",
+      "url": "https://www.nps.gov/articles/000/monumental-earthworks-of-poverty-point-world-heritage-site.htm"
+    },
+    "hopewell": {
+      "publisher": "U.S. National Park Service",
+      "title": "Hopewell Earthworks",
+      "url": "https://www.nps.gov/places/hopewell-earthworks.htm"
+    },
+    "hopewell-dates": {
+      "publisher": "U.S. National Park Service",
+      "title": "Hopewell Mound Group: Cultural Landscape Inventory",
+      "url": "https://irmadev.nps.gov/DataStore/Reference/Profile/2203509"
+    },
+    "mapuche": {
+      "publisher": "Museo Mapuche de Cañete · Servicio Nacional del Patrimonio Cultural",
+      "title": "Historia del Museo Mapuche de Cañete",
+      "url": "https://www.museomapuchecanete.gob.cl/historia"
+    },
+    "mapuche-location": {
+      "publisher": "Museo Chileno de Arte Precolombino",
+      "title": "Mapuche · Environment and Location",
+      "url": "https://chileprecolombino.cl/en/pueblos-originarios/mapuche/ambiente-y-localizacion/"
+    },
+    "guarani": {
+      "publisher": "UNESCO",
+      "title": "Nature is part of us · Guarani knowledge and living culture",
+      "url": "https://www.unesco.org/en/articles/nature-part-us?hub=378"
+    },
+    "guarani-history": {
+      "publisher": "UNESCO World Heritage Centre",
+      "title": "Jesuit Missions of the Guaranis",
+      "url": "https://whc.unesco.org/en/list/275/"
+    },
+    "federation": {
+      "publisher": "U.S. Department of State · Office of the Historian",
+      "title": "Central American Federation · History of recognition and relations",
+      "url": "https://history.state.gov/countries/central-american-federation"
+    },
+    "central-declaration": {
+      "publisher": "Banco de Guatemala",
+      "title": "Época Independiente y Federación Centroamericana",
+      "url": "https://banguat.gob.gt/page/epoca-independiente-y-federacion-centroamericana"
+    },
+    "uruguay": {
+      "publisher": "U.S. Department of State",
+      "title": "U.S. Relations With Uruguay · Historical background",
+      "url": "https://2021-2025.state.gov/u-s-relations-with-uruguay/"
+    },
+    "hawaii": {
+      "publisher": "U.S. National Park Service",
+      "title": "Kamehameha Begins His Bid for Power",
+      "url": "https://www.nps.gov/puhe/learn/historyculture/stories.htm"
+    },
+    "hawaii-overthrow": {
+      "publisher": "U.S. National Park Service",
+      "title": "People · Puʻuhonua o Hōnaunau",
+      "url": "https://www.nps.gov/puho/learn/historyculture/people.htm"
+    },
+    "hawaiian-living": {
+      "publisher": "U.S. Department of the Interior",
+      "title": "About the Native Hawaiian Community",
+      "url": "https://www.doi.gov/hawaiian/about-native-hawaiian-community"
+    },
+    "png": {
+      "publisher": "Papua New Guinea Department of Foreign Affairs",
+      "title": "PNG History",
+      "url": "https://www.dfa.gov.pg/png-history/"
+    },
+    "png-independence": {
+      "publisher": "National Archives of Australia",
+      "title": "Independence of Papua New Guinea",
+      "url": "https://www.naa.gov.au/help-your-research/fact-sheets/independence-papua-new-guinea"
+    },
+    "samoa": {
+      "publisher": "New Zealand Ministry of Foreign Affairs and Trade",
+      "title": "Apia · Our Story",
+      "url": "https://www.mfat.govt.nz/en/about-us/mfat75/75-our-story/apia"
+    },
+    "vanuatu": {
+      "publisher": "Vanuatu Tourism Office",
+      "title": "History of Vanuatu",
+      "url": "https://www.vanuatu.travel/en/about-vanuatu/history"
+    },
+    "solomon": {
+      "publisher": "Permanent Mission of Solomon Islands to the United Nations",
+      "title": "Country Facts",
+      "url": "https://www.un.int/solomonislands/solomonislands/country-facts"
+    },
+    "bolivia": {
+      "publisher": "U.S. Department of State · Office of the Historian",
+      "title": "Bolivia · History of recognition and relations",
+      "url": "https://history.state.gov/countries/bolivia"
+    },
+    "paraguay": {
+      "publisher": "U.S. Department of State · Office of the Historian",
+      "title": "Paraguay · History of recognition and relations",
+      "url": "https://history.state.gov/countries/paraguay"
+    },
+    "guatemala": {
+      "publisher": "U.S. Department of State · Office of the Historian",
+      "title": "Guatemala · History of recognition and relations",
+      "url": "https://history.state.gov/countries/guatemala"
+    },
+    "honduras": {
+      "publisher": "U.S. Department of State · Office of the Historian",
+      "title": "Honduras · History of recognition and relations",
+      "url": "https://history.state.gov/countries/honduras"
+    },
+    "el-salvador": {
+      "publisher": "U.S. Department of State · Office of the Historian",
+      "title": "El Salvador · History of recognition and relations",
+      "url": "https://history.state.gov/countries/el-salvador"
+    },
+    "nicaragua": {
+      "publisher": "U.S. Department of State · Office of the Historian",
+      "title": "Nicaragua · History of recognition and relations",
+      "url": "https://history.state.gov/countries/nicaragua"
+    },
+    "costa-rica": {
+      "publisher": "U.S. Department of State · Office of the Historian",
+      "title": "Costa Rica · History of recognition and relations",
+      "url": "https://history.state.gov/countries/costa-rica"
+    },
+    "belize": {
+      "publisher": "U.S. Department of State · Office of the Historian",
+      "title": "Belize · History of recognition and relations",
+      "url": "https://history.state.gov/countries/belize"
+    },
+    "cuba": {
+      "publisher": "U.S. Department of State · Office of the Historian",
+      "title": "Cuba · History of recognition and relations",
+      "url": "https://history.state.gov/countries/cuba"
+    },
+    "dominican-republic": {
+      "publisher": "U.S. Department of State · Office of the Historian",
+      "title": "Dominican Republic · History of recognition and relations",
+      "url": "https://history.state.gov/countries/dominican-republic"
+    },
+    "guyana": {
+      "publisher": "U.S. Department of State · Office of the Historian",
+      "title": "Guyana · History of recognition and relations",
+      "url": "https://history.state.gov/countries/guyana"
+    },
+    "suriname": {
+      "publisher": "U.S. Department of State · Office of the Historian",
+      "title": "Suriname · History of recognition and relations",
+      "url": "https://history.state.gov/countries/suriname"
+    },
+    "el-salvador-constitution": {
+      "publisher": "Corte Suprema de Justicia de El Salvador",
+      "title": "1841 Constitución de la República de El Salvador",
+      "url": "https://www.csj.gob.sv/1841-constitucion-de-la-republica-de-el-salvador/"
+    },
+    "costa-rica-state": {
+      "publisher": "Museo Nacional de Costa Rica",
+      "title": "Estado y Ciudadanía",
+      "url": "https://www.museocostarica.go.cr/exhibicion-virtual-bicentenario-mosaicos/estado-y-ciudadania/"
+    },
+    "hawaii-us-role": {
+      "publisher": "U.S. Department of the Interior",
+      "title": "United States’ History with the Native Hawaiian Community",
+      "url": "https://www.doi.gov/node/36181"
+    }
+  },
+  "entries": [
+    {
+      "id": "rx-toltec",
+      "title": "Tula · Toltec traditions",
+      "region": "americas",
+      "dates": "c. 900–1150 CE · principal Tollan phase",
+      "start": 900,
+      "end": 1150,
+      "category": "history",
+      "location": "Central Mexico · present-day Hidalgo",
+      "note": "Tula was a major urban and political centre with craft neighbourhoods and far-reaching exchanges. This dates its principal Tollan phase, not all occupation at Tula. The extent and nature of Toltec political control and the interpretation of later Tollan narratives remain debated; shared styles do not establish a single empire across Mesoamerica.",
+      "wikiTitle": "Toltec",
+      "sources": [
+        "tula",
+        "toltec-research"
+      ],
+      "collections": [
+        "americas"
+      ]
+    },
+    {
+      "id": "rx-monte-alban",
+      "title": "Monte Albán · Zapotec capital",
+      "region": "americas",
+      "dates": "c. 500 BCE–850 CE · principal capital phase",
+      "start": -500,
+      "end": 850,
+      "category": "history",
+      "location": "Valley of Oaxaca · present-day Mexico",
+      "note": "A major Zapotec capital developed monumental terraces, plazas, tombs and inscriptions. The dates select the main capital phase. Later use of the site and the histories of Zapotec and Mixtec communities extend beyond it; a city’s decline did not end a people.",
+      "wikiTitle": "Monte Albán",
+      "sources": [
+        "monte-alban"
+      ],
+      "collections": [
+        "americas"
+      ]
+    },
+    {
+      "id": "rx-mixtec-polities",
+      "title": "Mixtec kingdoms · Postclassic era",
+      "region": "americas",
+      "dates": "c. 900–1521 CE · selected regional frame",
+      "start": 900,
+      "end": 1521,
+      "category": "history",
+      "location": "Oaxaca, Puebla and Guerrero · present-day Mexico",
+      "note": "Multiple Mixtec lordships developed dynastic histories, alliances and artistic traditions. This conventional Postclassic frame groups distinct polities and overlapping Zapotec histories; it does not describe a single Mixtec empire or the end of Mixtec life at conquest.",
+      "wikiTitle": "Mixtec culture",
+      "sources": [
+        "mixtec-history"
+      ],
+      "collections": [
+        "americas"
+      ]
+    },
+    {
+      "id": "rx-zapotec-peoples",
+      "title": "Zapotec peoples · living communities",
+      "region": "americas",
+      "dates": "Ancestral roots–present",
+      "start": null,
+      "end": 2027,
+      "category": "culture",
+      "location": "Oaxaca and wider diasporas · Mexico and beyond",
+      "note": "Distinct Zapotec communities maintain languages, institutions, traditions and new forms of cultural life. Colonial and national rule transformed their circumstances without ending their histories. There is no single founding year or one uniform Zapotec identity.",
+      "wikiTitle": "Zapotec peoples",
+      "sources": [
+        "zapotec-living"
+      ],
+      "collections": [
+        "americas"
+      ],
+      "ongoing": true
+    },
+    {
+      "id": "rx-mixtec-peoples",
+      "title": "Ñuu Savi / Mixtec peoples · living communities",
+      "region": "americas",
+      "dates": "Ancestral roots–present",
+      "start": null,
+      "end": 2027,
+      "category": "culture",
+      "location": "Oaxaca, Guerrero, Puebla and wider diasporas",
+      "note": "Mixtec communities continue across their homelands and migrant networks, sustaining varied languages and practices. This entry concerns living peoples; the separately listed Postclassic kingdoms are a selected political phase, not the whole history of Ñuu Savi.",
+      "wikiTitle": "Mixtec",
+      "sources": [
+        "mixtec-living"
+      ],
+      "collections": [
+        "americas"
+      ],
+      "ongoing": true
+    },
+    {
+      "id": "rx-chavin",
+      "title": "Chavín · ceremonial traditions",
+      "region": "americas",
+      "dates": "c. 1500–300 BCE · broad heritage range",
+      "start": -1500,
+      "end": -300,
+      "category": "culture",
+      "location": "North-central Peruvian Andes",
+      "note": "Chavín de Huántar was a ceremonial and pilgrimage centre whose imagery and religious networks circulated widely. The broad range follows UNESCO’s introductory chronology; construction phases and regional chronologies differ. Cultural influence does not by itself demonstrate a territorial empire.",
+      "wikiTitle": "Chavín culture",
+      "sources": [
+        "chavin"
+      ],
+      "collections": [
+        "americas"
+      ]
+    },
+    {
+      "id": "rx-taino",
+      "title": "Taíno heritage · continuing communities",
+      "region": "americas",
+      "dates": "Ancestral roots–present",
+      "start": null,
+      "end": 2027,
+      "category": "culture",
+      "location": "Caribbean · including Cuba, Hispaniola, Puerto Rico and diasporas",
+      "note": "Colonial disease, enslavement and violence devastated Indigenous Caribbean societies. Descendants, families and community organisations nevertheless sustain and renew Taíno heritage and identities. The common claim of total extinction is misleading; identities and experiences differ across islands and communities.",
+      "wikiTitle": "Taíno",
+      "sources": [
+        "taino"
+      ],
+      "collections": [
+        "americas"
+      ],
+      "ongoing": true
+    },
+    {
+      "id": "rx-poverty-point",
+      "title": "Poverty Point · hunter-fisher-gatherer earthworks",
+      "region": "americas",
+      "dates": "c. 1700–1100 BCE",
+      "start": -1700,
+      "end": -1100,
+      "category": "history",
+      "location": "Lower Mississippi Valley · present-day Louisiana, United States",
+      "note": "Hunter-fisher-gatherers created an extensive earthwork landscape used for residence and ceremony. Monumental construction and long-distance exchange were possible without a farming empire. These dates describe the principal site, not the beginning or end of Indigenous history in the lower Mississippi Valley.",
+      "wikiTitle": "Poverty Point",
+      "sources": [
+        "poverty-point"
+      ],
+      "collections": [
+        "americas"
+      ]
+    },
+    {
+      "id": "rx-hopewell",
+      "title": "Hopewell · ceremonial and exchange networks",
+      "region": "americas",
+      "dates": "c. 200 BCE–500 CE",
+      "start": -200,
+      "end": 500,
+      "category": "culture",
+      "location": "Eastern North America · especially the Ohio valleys",
+      "note": "Communities built geometric earthworks and exchanged materials across extensive networks. Hopewell is an archaeological label derived from a later landowner, not a known Indigenous nation’s own name or one empire. The date range is a broad Ohio Valley convention.",
+      "wikiTitle": "Hopewell tradition",
+      "sources": [
+        "hopewell",
+        "hopewell-dates"
+      ],
+      "collections": [
+        "americas"
+      ]
+    },
+    {
+      "id": "rx-mapuche",
+      "title": "Mapuche · continuing peoples and cultures",
+      "region": "americas",
+      "dates": "Ancestral roots–present",
+      "start": null,
+      "end": 2027,
+      "category": "culture",
+      "location": "South-central Chile and neighbouring Argentina · wider diasporas",
+      "note": "Mapuche communities continue their languages, place-based knowledge and varied political and cultural practices. Their history extends through resistance, changing relationships with colonial and national states, dispossession and contemporary renewal. This is no single kingdom or founding date.",
+      "wikiTitle": "Mapuche",
+      "sources": [
+        "mapuche",
+        "mapuche-location"
+      ],
+      "collections": [
+        "americas"
+      ],
+      "ongoing": true
+    },
+    {
+      "id": "rx-guarani",
+      "title": "Guaraní peoples · continuing communities",
+      "region": "americas",
+      "dates": "Ancestral roots–present",
+      "start": null,
+      "end": 2027,
+      "category": "culture",
+      "location": "South America · including Paraguay, Brazil and neighbouring countries",
+      "note": "Guaraní identifies multiple related Indigenous peoples and languages, rather than one state. Living communities maintain and adapt knowledge, institutions and cultural practices. Colonial mission histories form only one part of those histories and do not mark their beginning or end.",
+      "wikiTitle": "Guaraní people",
+      "sources": [
+        "guarani",
+        "guarani-history"
+      ],
+      "collections": [
+        "americas"
+      ],
+      "ongoing": true
+    },
+    {
+      "id": "rx-central-american-federation",
+      "title": "Central American Federation",
+      "region": "americas",
+      "dates": "1823–early 1840s · gradual dissolution",
+      "start": 1823,
+      "end": 1841,
+      "category": "history",
+      "location": "Guatemala, El Salvador, Honduras, Nicaragua and Costa Rica",
+      "note": "The United Provinces formed after separation from Mexico in 1823 and adopted a federal constitution in 1824. Civil conflict and secessions broke the union apart from 1838 onward. 1841 is a rounded endpoint for a gradual process, not a single simultaneous independence date for all five states.",
+      "wikiTitle": "Federal Republic of Central America",
+      "sources": [
+        "federation",
+        "central-declaration"
+      ],
+      "collections": [
+        "americas"
+      ]
+    },
+    {
+      "id": "rx-bolivia",
+      "title": "Bolivia · independent eras",
+      "region": "americas",
+      "dates": "1825–present",
+      "start": 1825,
+      "end": 2027,
+      "category": "history",
+      "location": "South America · Andean highlands and eastern lowlands",
+      "note": "Bolivia declared independence in 1825. Its later history includes the Peru–Bolivian Confederation and changing constitutional and political orders. This state-history frame does not date the origins of the region’s Indigenous peoples.",
+      "wikiTitle": "Bolivia",
+      "sources": [
+        "bolivia"
+      ],
+      "collections": [
+        "americas"
+      ],
+      "ongoing": true
+    },
+    {
+      "id": "rx-uruguay",
+      "title": "Uruguay · independent state eras",
+      "region": "americas",
+      "dates": "1828–present · declaration in 1825",
+      "start": 1828,
+      "end": 2027,
+      "category": "history",
+      "location": "Río de la Plata · southeastern South America",
+      "note": "An 1825 declaration preceded the 1828 settlement securing a separate Uruguayan state after war with Brazil. The constitution followed in 1830. These political milestones are distinct from earlier histories of the region and its peoples.",
+      "wikiTitle": "Uruguay",
+      "sources": [
+        "uruguay"
+      ],
+      "collections": [
+        "americas"
+      ],
+      "ongoing": true
+    },
+    {
+      "id": "rx-paraguay",
+      "title": "Paraguay · independent eras",
+      "region": "americas",
+      "dates": "1811–present",
+      "start": 1811,
+      "end": 2027,
+      "category": "history",
+      "location": "South America · Paraguay River region and Chaco",
+      "note": "Paraguay asserted independence in 1811; wider international recognition came later. This frame groups changing governments and borders. Guaraní and other Indigenous histories are not reducible to the modern state’s founding.",
+      "wikiTitle": "Paraguay",
+      "sources": [
+        "paraguay"
+      ],
+      "collections": [
+        "americas"
+      ],
+      "ongoing": true
+    },
+    {
+      "id": "rx-guatemala",
+      "title": "Guatemala · postcolonial state eras",
+      "region": "americas",
+      "dates": "1821–present · includes Mexican and federal phases",
+      "start": 1821,
+      "end": 2027,
+      "category": "history",
+      "location": "Central America",
+      "note": "Regional independence from Spain in 1821 was followed by Mexican rule and membership in the Central American federation. Guatemala’s separate statehood consolidated as the federation dissolved; U.S. recognition followed in 1844. This broad frame is not a claim of uninterrupted separate sovereignty from 1821, and does not date the origins of its peoples.",
+      "wikiTitle": "Guatemala",
+      "sources": [
+        "guatemala",
+        "central-declaration"
+      ],
+      "collections": [
+        "americas"
+      ],
+      "ongoing": true
+    },
+    {
+      "id": "rx-honduras",
+      "title": "Honduras · postcolonial state eras",
+      "region": "americas",
+      "dates": "1821–present · includes Mexican and federal phases",
+      "start": 1821,
+      "end": 2027,
+      "category": "history",
+      "location": "Central America",
+      "note": "Regional independence from Spain in 1821 was followed by Mexican rule and membership in the Central American federation. Honduras became a separate state as the federation dissolved in 1838. This broad frame is not a claim of uninterrupted separate sovereignty from 1821, and does not date the origins of its peoples.",
+      "wikiTitle": "Honduras",
+      "sources": [
+        "honduras",
+        "central-declaration"
+      ],
+      "collections": [
+        "americas"
+      ],
+      "ongoing": true
+    },
+    {
+      "id": "rx-el-salvador",
+      "title": "El Salvador · postcolonial state eras",
+      "region": "americas",
+      "dates": "1821–present · includes Mexican and federal phases",
+      "start": 1821,
+      "end": 2027,
+      "category": "history",
+      "location": "Central America",
+      "note": "Regional independence from Spain in 1821 was followed by Mexican rule and membership in the Central American federation. El Salvador’s 1841 constitution followed the federation’s collapse. This broad frame is not a claim of uninterrupted separate sovereignty from 1821, and does not date the origins of its peoples.",
+      "wikiTitle": "El Salvador",
+      "sources": [
+        "el-salvador",
+        "central-declaration",
+        "el-salvador-constitution"
+      ],
+      "collections": [
+        "americas"
+      ],
+      "ongoing": true
+    },
+    {
+      "id": "rx-nicaragua",
+      "title": "Nicaragua · postcolonial state eras",
+      "region": "americas",
+      "dates": "1821–present · includes Mexican and federal phases",
+      "start": 1821,
+      "end": 2027,
+      "category": "history",
+      "location": "Central America",
+      "note": "Regional independence from Spain in 1821 was followed by Mexican rule and membership in the Central American federation. Nicaragua separated from the federation in 1838. This broad frame is not a claim of uninterrupted separate sovereignty from 1821, and does not date the origins of its peoples.",
+      "wikiTitle": "Nicaragua",
+      "sources": [
+        "nicaragua",
+        "central-declaration"
+      ],
+      "collections": [
+        "americas"
+      ],
+      "ongoing": true
+    },
+    {
+      "id": "rx-costa-rica",
+      "title": "Costa Rica · postcolonial state eras",
+      "region": "americas",
+      "dates": "1821–present · includes Mexican and federal phases",
+      "start": 1821,
+      "end": 2027,
+      "category": "history",
+      "location": "Central America",
+      "note": "Regional independence from Spain in 1821 was followed by Mexican rule and membership in the Central American federation. Costa Rica separated from the federation in 1838 and proclaimed its republic in 1848. This broad frame is not a claim of uninterrupted separate sovereignty from 1821, and does not date the origins of its peoples.",
+      "wikiTitle": "Costa Rica",
+      "sources": [
+        "costa-rica",
+        "central-declaration",
+        "costa-rica-state"
+      ],
+      "collections": [
+        "americas"
+      ],
+      "ongoing": true
+    },
+    {
+      "id": "rx-belize",
+      "title": "Belize · independent state",
+      "region": "americas",
+      "dates": "1981–present",
+      "start": 1981,
+      "end": 2027,
+      "category": "history",
+      "location": "Caribbean coast of Central America",
+      "note": "Belize became independent from the United Kingdom on 21 September 1981 after earlier British colonial rule and self-government. This dates the modern state, not its Maya, Garifuna, Creole and other communities’ beginnings.",
+      "wikiTitle": "Belize",
+      "sources": [
+        "belize"
+      ],
+      "collections": [
+        "americas"
+      ],
+      "ongoing": true
+    },
+    {
+      "id": "rx-cuba",
+      "title": "Cuba · republic and later eras",
+      "region": "americas",
+      "dates": "1902–present",
+      "start": 1902,
+      "end": 2027,
+      "category": "history",
+      "location": "Caribbean · Cuba",
+      "note": "The republic began in 1902 after Spanish sovereignty ended in 1898 and U.S. military occupation followed. U.S. intervention rights constrained early sovereignty. The 1959 revolution brought a major political transformation; these are different eras within a longer Cuban history.",
+      "wikiTitle": "Cuba",
+      "sources": [
+        "cuba"
+      ],
+      "collections": [
+        "americas"
+      ],
+      "ongoing": true
+    },
+    {
+      "id": "rx-dominican-republic",
+      "title": "Dominican Republic · independent eras",
+      "region": "americas",
+      "dates": "1844–present · sovereignty interrupted",
+      "start": 1844,
+      "end": 2027,
+      "category": "history",
+      "location": "Eastern Hispaniola · Caribbean",
+      "note": "Independence from Haiti was declared in 1844. Spanish annexation interrupted sovereignty in 1861–1865; later U.S. occupations also shaped state history. The broad frame does not imply one uninterrupted political order or the disappearance of Indigenous Caribbean heritage.",
+      "wikiTitle": "Dominican Republic",
+      "sources": [
+        "dominican-republic"
+      ],
+      "collections": [
+        "americas"
+      ],
+      "ongoing": true
+    },
+    {
+      "id": "rx-guyana",
+      "title": "Guyana · independent state",
+      "region": "americas",
+      "dates": "1966–present",
+      "start": 1966,
+      "end": 2027,
+      "category": "history",
+      "location": "Northeastern South America",
+      "note": "Guyana became independent from the United Kingdom in 1966, following British Guiana. This dates a state transition; the histories of Indigenous nations and the country’s other communities extend much further back.",
+      "wikiTitle": "Guyana",
+      "sources": [
+        "guyana"
+      ],
+      "collections": [
+        "americas"
+      ],
+      "ongoing": true
+    },
+    {
+      "id": "rx-suriname",
+      "title": "Suriname · independent state",
+      "region": "americas",
+      "dates": "1975–present",
+      "start": 1975,
+      "end": 2027,
+      "category": "history",
+      "location": "Northeastern South America",
+      "note": "Suriname became independent from the Netherlands in 1975 after increasing autonomy. This state-history frame does not compress its Indigenous peoples, Maroon communities and other populations into a single political origin.",
+      "wikiTitle": "Suriname",
+      "sources": [
+        "suriname"
+      ],
+      "collections": [
+        "americas"
+      ],
+      "ongoing": true
+    },
+    {
+      "id": "rx-hawaiian-kingdom",
+      "title": "Kingdom of Hawaiʻi",
+      "region": "oceania",
+      "dates": "1795–1893 · island consolidation completed 1810",
+      "start": 1795,
+      "end": 1893,
+      "category": "history",
+      "location": "Hawaiian archipelago · North Pacific",
+      "note": "Kamehameha consolidated most major islands in the 1790s; Kauaʻi’s ruler accepted his supremacy in 1810. The monarchy was overthrown in 1893 under duress, with U.S. involvement. These dates describe the royal state, not the duration of Native Hawaiian people or culture.",
+      "wikiTitle": "Hawaiian Kingdom",
+      "sources": [
+        "hawaii",
+        "hawaii-overthrow",
+        "hawaii-us-role"
+      ],
+      "collections": [
+        "oceania"
+      ]
+    },
+    {
+      "id": "rx-native-hawaiians",
+      "title": "Kānaka Maoli / Native Hawaiians · continuing community",
+      "region": "oceania",
+      "dates": "Ancestral roots–present",
+      "start": null,
+      "end": 2027,
+      "category": "culture",
+      "location": "Hawaiʻi and wider diasporas",
+      "note": "Native Hawaiian communities continue their languages, genealogies, cultural practices and relationships with land and sea. The monarchy’s overthrow and subsequent U.S. annexation did not end this Indigenous community. Questions of sovereignty and political status have continuing historical significance.",
+      "wikiTitle": "Native Hawaiians",
+      "sources": [
+        "hawaiian-living",
+        "hawaii-overthrow"
+      ],
+      "collections": [
+        "oceania"
+      ],
+      "ongoing": true
+    },
+    {
+      "id": "rx-papua-new-guinea",
+      "title": "Papua New Guinea · independent state",
+      "region": "oceania",
+      "dates": "1975–present",
+      "start": 1975,
+      "end": 2027,
+      "category": "history",
+      "location": "Eastern New Guinea and neighbouring islands",
+      "note": "Papua New Guinea became independent from Australia on 16 September 1975 after self-government in 1973. The modern state brought together territories with different colonial histories and many distinct peoples and languages. It comprises eastern New Guinea and adjacent islands, not the entire island of New Guinea.",
+      "wikiTitle": "Papua New Guinea",
+      "sources": [
+        "png",
+        "png-independence"
+      ],
+      "collections": [
+        "oceania"
+      ],
+      "ongoing": true
+    },
+    {
+      "id": "rx-samoa",
+      "title": "Samoa · independent state",
+      "region": "oceania",
+      "dates": "1962–present",
+      "start": 1962,
+      "end": 2027,
+      "category": "history",
+      "location": "Western Samoan islands · central Pacific",
+      "note": "Western Samoa became independent from New Zealand administration in 1962 and later adopted the name Samoa. This state is distinct from American Samoa. Samoan societies and cultural histories substantially predate these changes in political status.",
+      "wikiTitle": "Samoa",
+      "sources": [
+        "samoa"
+      ],
+      "collections": [
+        "oceania"
+      ],
+      "ongoing": true
+    },
+    {
+      "id": "rx-vanuatu",
+      "title": "Vanuatu · independent state",
+      "region": "oceania",
+      "dates": "1980–present",
+      "start": 1980,
+      "end": 2027,
+      "category": "history",
+      "location": "Melanesia · southwestern Pacific",
+      "note": "Vanuatu became independent on 30 July 1980 after the Anglo-French New Hebrides condominium. Its many communities developed distinct languages and kastom long before colonial administration. Independence is a state milestone, not their beginning.",
+      "wikiTitle": "Vanuatu",
+      "sources": [
+        "vanuatu"
+      ],
+      "collections": [
+        "oceania"
+      ],
+      "ongoing": true
+    },
+    {
+      "id": "rx-solomon-islands",
+      "title": "Solomon Islands · independent state",
+      "region": "oceania",
+      "dates": "1978–present",
+      "start": 1978,
+      "end": 2027,
+      "category": "history",
+      "location": "Melanesia · southwestern Pacific",
+      "note": "Solomon Islands became independent on 7 July 1978 after internal self-government in 1976. This dates the modern state and does not cover all earlier island societies. The sovereign country is not identical to the whole geographical Solomon archipelago.",
+      "wikiTitle": "Solomon Islands",
+      "sources": [
+        "solomon"
+      ],
+      "collections": [
+        "oceania"
+      ],
+      "ongoing": true
+    }
+  ],
+  "memberships": {
+    "americas": [
+      "caral",
+      "olmec",
+      "teotihuacan",
+      "maya",
+      "cahokia",
+      "mexica",
+      "inca",
+      "moche",
+      "nazca",
+      "chaco",
+      "wari",
+      "tiwanaku",
+      "britishamerica",
+      "spanishamerica",
+      "newfrance",
+      "portuguesebrazil",
+      "unitedstates",
+      "canada",
+      "mexicomodern",
+      "brazilmodern",
+      "haiti",
+      "poster-newspain",
+      "poster-colonial-argentina",
+      "argentinamodern",
+      "cn-britishnorth",
+      "cn-grancolombia",
+      "cn-newgranada",
+      "cn-venezuela",
+      "cn-ecuador",
+      "cn-granadine",
+      "cn-uscolombia",
+      "cn-colombia",
+      "cn-panama",
+      "ao-maya-peoples",
+      "ao-saint-domingue",
+      "ao-chimor",
+      "ao-colonial-peru",
+      "ao-peru",
+      "ao-quechua-communities",
+      "ao-caddo",
+      "ao-puebloans",
+      "ao-colonial-new-mexico",
+      "ao-chile",
+      "topic-native-america",
+      "topic-haudenosaunee",
+      "topic-pueblo",
+      "topic-indigenous-canada",
+      "topic-inuit",
+      "topic-firstnations",
+      "topic-metis",
+      "topic-mesoamerica",
+      "poster-colonial-canada",
+      "poster-insulin",
+      "poster-mayaastronomy",
+      "poster-chichenitza",
+      "poster-teotihuacansite",
+      "poster-mesaverde",
+      "poster-buffalojump",
+      "poster-chacoculture",
+      "poster-cahokiamounds",
+      "poster-parliamenthill",
+      "poster-liberty",
+      "poster-obelisco",
+      "reading-tikal"
+    ],
+    "oceania": [
+      "australia",
+      "lapita",
+      "nanmadol",
+      "maori",
+      "tonga",
+      "rapanui",
+      "australiamodern",
+      "newzealand",
+      "fiji",
+      "poster-colonial-australia",
+      "ao-east-polynesia",
+      "ao-tonga-modern",
+      "ao-fiji-societies",
+      "ao-colonial-fiji",
+      "ao-pohnpei",
+      "ao-fsm",
+      "ao-rapa-nui-people",
+      "ao-colonial-nz",
+      "topic-indigenous-oceania",
+      "topic-indigenous-australia",
+      "topic-torresstrait",
+      "poster-wifi",
+      "poster-uluru",
+      "poster-sydneyopera"
+    ]
+  }
+}

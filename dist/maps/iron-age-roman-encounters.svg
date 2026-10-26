@@ -1,0 +1,167 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1803 2324" width="1803" height="2324" role="group" aria-labelledby="map-title-iron-age-roman-encounters map-desc-iron-age-roman-encounters"><title id="map-title-iron-age-roman-encounters">Iron Age communities, Rome &amp; post-Roman Britain</title><desc id="map-desc-iron-age-roman-encounters">Selected, sourced connections. Arrows label unions, divisions, conquest, independence, changes in rule, and contact. Node positions do not measure time or ancestry.  Select a node for Wikipedia or an arrow for its sources.</desc><defs>
+<marker id="arrow-iron-age-roman-encounters-union" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#3b8274"/></marker>
+<marker id="arrow-iron-age-roman-encounters-division" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#b88636"/></marker>
+<marker id="arrow-iron-age-roman-encounters-conquest" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#aa6355"/></marker>
+<marker id="arrow-iron-age-roman-encounters-independence" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#638350"/></marker>
+<marker id="arrow-iron-age-roman-encounters-continuation" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#5d7f9d"/></marker>
+<marker id="arrow-iron-age-roman-encounters-contact" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#8b7297"/></marker>
+<marker id="arrow-iron-age-roman-encounters-colonial" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#9a8055"/></marker>
+<marker id="arrow-iron-age-roman-encounters-context" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#92917a"/></marker>
+<marker id="arrow-iron-age-roman-encounters-period" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#7d8c6f"/></marker>
+</defs><style>text{font-family:Arial,Helvetica,sans-serif;fill:#25372c}.map-node,.map-edge{cursor:pointer;outline:none}.map-node rect{stroke:#fffdf8;stroke-width:2}.map-node:hover rect,.map-node:focus rect{stroke:#3c5441;stroke-width:3}.map-label{font-size:21px;font-weight:600;pointer-events:none}.map-date{font-size:12px;fill:#617056;pointer-events:none}.edge-line{fill:none;stroke-width:2.5;stroke-linejoin:round;stroke-linecap:round}.edge-hit{fill:none;stroke:transparent;stroke-width:36;vector-effect:non-scaling-stroke}.map-edge:hover .edge-label-bg,.map-edge:focus .edge-label-bg{stroke:#334d3c;stroke-width:2}.map-edge:hover .edge-line,.map-edge:focus .edge-line{stroke-width:4}.edge-label{font-size:15px;font-weight:500;pointer-events:none}.map-heading{font-size:47px;font-weight:700;letter-spacing:-1.2px}.map-subtitle{font-size:24px;fill:#67785a}.map-micro{font-size:13px;fill:#8a977d}.map-node.dim{opacity:.15}.map-node.hit rect{stroke:#294332;stroke-width:4}.map-node.selected rect{stroke:#294332;stroke-width:4}.map-edge.related .edge-line{stroke-width:4.5}</style><rect width="100%" height="100%" fill="#fdfcf8"/><text class="map-heading" x="901.5" y="74" text-anchor="middle">EMPIRES &amp; CONNECTIONS</text><text class="map-subtitle" x="901.5" y="117" text-anchor="middle">Iron Age communities, Rome &amp; post-Roman Britain</text><text class="map-micro" x="901.5" y="154" text-anchor="middle">Tap a node to read · Tap an arrow for the event and sources</text>
+<g class="map-edge" id="map-edge-iron-age-roman-encounters-eu-hallstatt-networks" data-connection="eu-hallstatt-networks" data-map="iron-age-roman-encounters" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Hallstatt Culture to Celtic &amp; Germanic Tribes: Central European material networks. Open relationship details." style="--edge-color:#92917a"><title>Context / overlap: Central European material networks</title>
+<path class="edge-hit" d="M202.5 594.34C202.5 620.33 202.5 651.16 202.5 669.62"/><path class="edge-line" stroke="#92917a" stroke-dasharray="6 6" d="M202.5 594.34C202.5 620.33 202.5 651.16 202.5 669.62"/>
+<path class="edge-hit" d="M204.87 704.37C207.55 722.86 212.03 753.77 215.8 779.8"/><path class="edge-line" stroke="#92917a" stroke-dasharray="6 6" d="M204.87 704.37C207.55 722.86 212.03 753.77 215.8 779.8" marker-end="url(#arrow-iron-age-roman-encounters-context)"/>
+<rect class="edge-label-bg" x="60" y="670" width="285" height="34" rx="7" fill="#fdfcf8" stroke="#92917a" stroke-opacity=".28"/>
+<text class="edge-label" x="202.5" y="692" text-anchor="middle">Central European material networks</text>
+</g>
+<g class="map-edge" id="map-edge-iron-age-roman-encounters-eu-noricum-annexation" data-connection="eu-noricum-annexation" data-map="iron-age-roman-encounters" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Celtic Kingdom of Noricum to Roman imperial rule · West: Noricum enters Roman rule. Open relationship details." style="--edge-color:#aa6355"><title>Conquest: Noricum enters Roman rule</title>
+<path class="edge-hit" d="M505.86 874.34C507.74 900.33 509.98 931.16 511.31 949.62"/><path class="edge-line" stroke="#aa6355"  d="M505.86 874.34C507.74 900.33 509.98 931.16 511.31 949.62"/>
+<path class="edge-hit" d="M528.04 984.37C545.6 1002.86 574.93 1033.77 599.64 1059.8"/><path class="edge-line" stroke="#aa6355"  d="M528.04 984.37C545.6 1002.86 574.93 1033.77 599.64 1059.8" marker-end="url(#arrow-iron-age-roman-encounters-conquest)"/>
+<rect class="edge-label-bg" x="403.75" y="950" width="217.5" height="34" rx="7" fill="#fdfcf8" stroke="#aa6355" stroke-opacity=".28"/>
+<text class="edge-label" x="512.5" y="972" text-anchor="middle">Noricum enters Roman rule</text>
+</g>
+<g class="map-edge" id="map-edge-iron-age-roman-encounters-eu-central-europe-rome" data-connection="eu-central-europe-rome" data-map="iron-age-roman-encounters" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Celtic &amp; Germanic Tribes to Roman imperial rule · West: Rhine–Danube frontier exchange. Open relationship details." style="--edge-color:#8b7297"><title>Contact / influence: Rhine–Danube frontier exchange</title>
+<path class="edge-hit" d="M223.51 874.34C224.07 900.33 224.74 931.16 225.14 949.62"/><path class="edge-line" stroke="#8b7297" stroke-dasharray="6 6" d="M223.51 874.34C224.07 900.33 224.74 931.16 225.14 949.62"/>
+<path class="edge-hit" d="M275.09 984.37C337.37 1004.93 446.16 1040.85 529.42 1068.34"/><path class="edge-line" stroke="#8b7297" stroke-dasharray="6 6" d="M275.09 984.37C337.37 1004.93 446.16 1040.85 529.42 1068.34" marker-end="url(#arrow-iron-age-roman-encounters-contact)"/>
+<rect class="edge-label-bg" x="98" y="950" width="255" height="34" rx="7" fill="#fdfcf8" stroke="#8b7297" stroke-opacity=".28"/>
+<text class="edge-label" x="225.5" y="972" text-anchor="middle">Rhine–Danube frontier exchange</text>
+</g>
+<g class="map-edge" id="map-edge-iron-age-roman-encounters-eu-britain-conquest" data-connection="eu-britain-conquest" data-map="iron-age-roman-encounters" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Celtic Era to Roman imperial rule · West: Claudius invades Britain. Open relationship details." style="--edge-color:#aa6355"><title>Conquest: Claudius invades Britain</title>
+<path class="edge-hit" d="M776.83 874.34C776.45 900.33 776 931.16 775.74 949.62"/><path class="edge-line" stroke="#aa6355"  d="M776.83 874.34C776.45 900.33 776 931.16 775.74 949.62"/>
+<path class="edge-hit" d="M759.84 984.37C742.15 1002.86 712.59 1033.77 687.69 1059.8"/><path class="edge-line" stroke="#aa6355"  d="M759.84 984.37C742.15 1002.86 712.59 1033.77 687.69 1059.8" marker-end="url(#arrow-iron-age-roman-encounters-conquest)"/>
+<rect class="edge-label-bg" x="670.5" y="950" width="210" height="34" rx="7" fill="#fdfcf8" stroke="#aa6355" stroke-opacity=".28"/>
+<text class="edge-label" x="775.5" y="972" text-anchor="middle">Claudius invades Britain</text>
+</g>
+<g class="map-edge" id="map-edge-iron-age-roman-encounters-eu-lusitanian-rome" data-connection="eu-lusitanian-rome" data-map="iron-age-roman-encounters" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Lusitanians and Other Tribes to Roman Republic: Resistance &amp; Roman expansion. Open relationship details." style="--edge-color:#aa6355"><title>Conquest: Resistance &amp; Roman expansion</title>
+<path class="edge-hit" d="M512.5 594.34C512.5 620.33 512.5 651.16 512.5 669.62"/><path class="edge-line" stroke="#aa6355"  d="M512.5 594.34C512.5 620.33 512.5 651.16 512.5 669.62"/>
+<path class="edge-hit" d="M593.65 704.46C675.39 721.53 804.88 749.88 915.5 780C925.57 782.74 935.98 785.73 946.39 788.83"/><path class="edge-line" stroke="#aa6355"  d="M593.65 704.46C675.39 721.53 804.88 749.88 915.5 780C925.57 782.74 935.98 785.73 946.39 788.83" marker-end="url(#arrow-iron-age-roman-encounters-conquest)"/>
+<rect class="edge-label-bg" x="392.5" y="670" width="240" height="34" rx="7" fill="#fdfcf8" stroke="#aa6355" stroke-opacity=".28"/>
+<text class="edge-label" x="512.5" y="692" text-anchor="middle">Resistance &amp; Roman expansion</text>
+</g>
+<g class="map-edge" id="map-edge-iron-age-roman-encounters-eu-iberian-rome" data-connection="eu-iberian-rome" data-map="iron-age-roman-encounters" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Iberian &amp; Celtic Tribes to Roman Republic: Long conquest of Hispania. Open relationship details." style="--edge-color:#aa6355"><title>Conquest: Long conquest of Hispania</title>
+<path class="edge-hit" d="M788.5 594.34C788.5 620.33 788.5 651.16 788.5 669.62"/><path class="edge-line" stroke="#aa6355"  d="M788.5 594.34C788.5 620.33 788.5 651.16 788.5 669.62"/>
+<path class="edge-hit" d="M820.77 704.37C857.15 722.83 917.9 753.65 969.14 779.65"/><path class="edge-line" stroke="#aa6355"  d="M820.77 704.37C857.15 722.83 917.9 753.65 969.14 779.65" marker-end="url(#arrow-iron-age-roman-encounters-conquest)"/>
+<rect class="edge-label-bg" x="679.75" y="670" width="217.5" height="34" rx="7" fill="#fdfcf8" stroke="#aa6355" stroke-opacity=".28"/>
+<text class="edge-label" x="788.5" y="692" text-anchor="middle">Long conquest of Hispania</text>
+</g>
+<g class="map-edge" id="map-edge-iron-age-roman-encounters-eu-carthaginian-rome" data-connection="eu-carthaginian-rome" data-map="iron-age-roman-encounters" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Punic Iberia to Roman Republic: Carthaginian possessions lost. Open relationship details." style="--edge-color:#aa6355"><title>Conquest: Carthaginian possessions lost</title>
+<path class="edge-hit" d="M1066.51 594.34C1067.07 620.33 1067.74 651.16 1068.14 669.62"/><path class="edge-line" stroke="#aa6355"  d="M1066.51 594.34C1067.07 620.33 1067.74 651.16 1068.14 669.62"/>
+<path class="edge-hit" d="M1067.55 704.37C1066.48 722.86 1064.69 753.77 1063.18 779.8"/><path class="edge-line" stroke="#aa6355"  d="M1067.55 704.37C1066.48 722.86 1064.69 753.77 1063.18 779.8" marker-end="url(#arrow-iron-age-roman-encounters-conquest)"/>
+<rect class="edge-label-bg" x="944.75" y="670" width="247.5" height="34" rx="7" fill="#fdfcf8" stroke="#aa6355" stroke-opacity=".28"/>
+<text class="edge-label" x="1068.5" y="692" text-anchor="middle">Carthaginian possessions lost</text>
+</g>
+<g class="map-edge" id="map-edge-iron-age-roman-encounters-eu-gaul-rome" data-connection="eu-gaul-rome" data-map="iron-age-roman-encounters" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Gaul to Roman Republic: Alésia &amp; Roman conquest. Open relationship details." style="--edge-color:#aa6355"><title>Conquest: Alésia &amp; Roman conquest</title>
+<path class="edge-hit" d="M1340.5 594.34C1340.5 620.33 1340.5 651.16 1340.5 669.62"/><path class="edge-line" stroke="#aa6355"  d="M1340.5 594.34C1340.5 620.33 1340.5 651.16 1340.5 669.62"/>
+<path class="edge-hit" d="M1307.28 704.37C1269.83 722.83 1207.29 753.65 1154.54 779.65"/><path class="edge-line" stroke="#aa6355"  d="M1307.28 704.37C1269.83 722.83 1207.29 753.65 1154.54 779.65" marker-end="url(#arrow-iron-age-roman-encounters-conquest)"/>
+<rect class="edge-label-bg" x="1239.25" y="670" width="202.5" height="34" rx="7" fill="#fdfcf8" stroke="#aa6355" stroke-opacity=".28"/>
+<text class="edge-label" x="1340.5" y="692" text-anchor="middle">Alésia &amp; Roman conquest</text>
+</g>
+<g class="map-edge" id="map-edge-iron-age-roman-encounters-eu-italic-rome" data-connection="eu-italic-rome" data-map="iron-age-roman-encounters" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Italic Tribes to Roman Kingdom: Rome among Italian communities. Open relationship details." style="--edge-color:#8b7297"><title>Contact / influence: Rome among Italian communities</title>
+<path class="edge-hit" d="M1615.5 314.34C1615.5 340.33 1615.5 371.16 1615.5 389.62"/><path class="edge-line" stroke="#8b7297" stroke-dasharray="6 6" d="M1615.5 314.34C1615.5 340.33 1615.5 371.16 1615.5 389.62"/>
+<path class="edge-hit" d="M1615.5 424.37C1615.5 442.86 1615.5 473.77 1615.5 499.8"/><path class="edge-line" stroke="#8b7297" stroke-dasharray="6 6" d="M1615.5 424.37C1615.5 442.86 1615.5 473.77 1615.5 499.8" marker-end="url(#arrow-iron-age-roman-encounters-contact)"/>
+<rect class="edge-label-bg" x="1488" y="390" width="255" height="34" rx="7" fill="#fdfcf8" stroke="#8b7297" stroke-opacity=".28"/>
+<text class="edge-label" x="1615.5" y="412" text-anchor="middle">Rome among Italian communities</text>
+</g>
+<g class="map-edge" id="map-edge-iron-age-roman-encounters-eu-kings-republic" data-connection="eu-kings-republic" data-map="iron-age-roman-encounters" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Roman Kingdom to Roman Republic: Monarchy → republic. Open relationship details." style="--edge-color:#5d7f9d"><title>Change of rule: Monarchy → republic</title>
+<path class="edge-hit" d="M1608.78 594.34C1605.02 620.33 1600.55 651.16 1597.87 669.62"/><path class="edge-line" stroke="#5d7f9d"  d="M1608.78 594.34C1605.02 620.33 1600.55 651.16 1597.87 669.62"/>
+<path class="edge-hit" d="M1531.76 704.44C1443.79 727.13 1283.7 768.43 1174.77 796.52"/><path class="edge-line" stroke="#5d7f9d"  d="M1531.76 704.44C1443.79 727.13 1283.7 768.43 1174.77 796.52" marker-end="url(#arrow-iron-age-roman-encounters-continuation)"/>
+<rect class="edge-label-bg" x="1509.25" y="670" width="172.5" height="34" rx="7" fill="#fdfcf8" stroke="#5d7f9d" stroke-opacity=".28"/>
+<text class="edge-label" x="1595.5" y="692" text-anchor="middle">Monarchy → republic</text>
+</g>
+<g class="map-edge" id="map-edge-iron-age-roman-encounters-eu-republic-westimperial" data-connection="eu-republic-westimperial" data-map="iron-age-roman-encounters" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Roman Republic to Roman imperial rule · West: Augustan principate. Open relationship details." style="--edge-color:#5d7f9d"><title>Change of rule: Augustan principate</title>
+<path class="edge-hit" d="M1052.44 874.34C1047.92 900.33 1042.56 931.16 1039.35 949.62"/><path class="edge-line" stroke="#5d7f9d"  d="M1052.44 874.34C1047.92 900.33 1042.56 931.16 1039.35 949.62"/>
+<path class="edge-hit" d="M989.87 984.37C933.05 1004.33 835.04 1038.74 757.75 1065.88"/><path class="edge-line" stroke="#5d7f9d"  d="M989.87 984.37C933.05 1004.33 835.04 1038.74 757.75 1065.88" marker-end="url(#arrow-iron-age-roman-encounters-continuation)"/>
+<rect class="edge-label-bg" x="950.25" y="950" width="172.5" height="34" rx="7" fill="#fdfcf8" stroke="#5d7f9d" stroke-opacity=".28"/>
+<text class="edge-label" x="1036.5" y="972" text-anchor="middle">Augustan principate</text>
+</g>
+<g class="map-edge" id="map-edge-iron-age-roman-encounters-eu-britain-roman-end" data-connection="eu-britain-roman-end" data-map="iron-age-roman-encounters" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Roman imperial rule · West to Sub-Roman Britain: Roman government ends in Britain. Open relationship details." style="--edge-color:#b88636"><title>Division: Roman government ends in Britain</title>
+<path class="edge-hit" d="M643.5 1154.34C643.5 1180.33 643.5 1211.16 643.5 1229.62"/><path class="edge-line" stroke="#b88636"  d="M643.5 1154.34C643.5 1180.33 643.5 1211.16 643.5 1229.62"/>
+<path class="edge-hit" d="M643.5 1264.37C643.5 1282.86 643.5 1313.77 643.5 1339.8"/><path class="edge-line" stroke="#b88636"  d="M643.5 1264.37C643.5 1282.86 643.5 1313.77 643.5 1339.8" marker-end="url(#arrow-iron-age-roman-encounters-division)"/>
+<rect class="edge-label-bg" x="508.5" y="1230" width="270" height="34" rx="7" fill="#fdfcf8" stroke="#b88636" stroke-opacity=".28"/>
+<text class="edge-label" x="643.5" y="1252" text-anchor="middle">Roman government ends in Britain</text>
+</g>
+<g class="map-edge" id="map-edge-iron-age-roman-encounters-eu-britain-settlement" data-connection="eu-britain-settlement" data-map="iron-age-roman-encounters" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Sub-Roman Britain to Anglo-Saxon kingdoms and settlement: Settlement, conflict &amp; coexistence. Open relationship details." style="--edge-color:#8b7297"><title>Contact / influence: Settlement, conflict &amp; coexistence</title>
+<path class="edge-hit" d="M643.5 1434.34C643.5 1460.33 643.5 1491.16 643.5 1509.62"/><path class="edge-line" stroke="#8b7297" stroke-dasharray="6 6" d="M643.5 1434.34C643.5 1460.33 643.5 1491.16 643.5 1509.62"/>
+<path class="edge-hit" d="M643.5 1544.37C643.5 1562.86 643.5 1593.77 643.5 1619.8"/><path class="edge-line" stroke="#8b7297" stroke-dasharray="6 6" d="M643.5 1544.37C643.5 1562.86 643.5 1593.77 643.5 1619.8" marker-end="url(#arrow-iron-age-roman-encounters-contact)"/>
+<rect class="edge-label-bg" x="501" y="1510" width="285" height="34" rx="7" fill="#fdfcf8" stroke="#8b7297" stroke-opacity=".28"/>
+<text class="edge-label" x="643.5" y="1532" text-anchor="middle">Settlement, conflict &amp; coexistence</text>
+</g>
+<g class="map-edge" id="map-edge-iron-age-roman-encounters-eu-anglosaxon-england" data-connection="eu-anglosaxon-england" data-map="iron-age-roman-encounters" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Anglo-Saxon kingdoms and settlement to England: English kingdom consolidates. Open relationship details." style="--edge-color:#3b8274"><title>Union: English kingdom consolidates</title>
+<path class="edge-hit" d="M643.5 1714.34C643.5 1740.33 643.5 1771.16 643.5 1789.62"/><path class="edge-line" stroke="#3b8274"  d="M643.5 1714.34C643.5 1740.33 643.5 1771.16 643.5 1789.62"/>
+<path class="edge-hit" d="M643.5 1824.37C643.5 1842.86 643.5 1873.77 643.5 1899.8"/><path class="edge-line" stroke="#3b8274"  d="M643.5 1824.37C643.5 1842.86 643.5 1873.77 643.5 1899.8" marker-end="url(#arrow-iron-age-roman-encounters-union)"/>
+<rect class="edge-label-bg" x="523.5" y="1790" width="240" height="34" rx="7" fill="#fdfcf8" stroke="#3b8274" stroke-opacity=".28"/>
+<text class="edge-label" x="643.5" y="1812" text-anchor="middle">English kingdom consolidates</text>
+</g>
+<g class="map-node" id="map-node-iron-age-roman-encounters-poster-europe-012" data-history="poster-europe-012" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Hallstatt culture · early Iron Age phases, 800 BCE–450 BCE. Open Wikipedia." data-map="iron-age-roman-encounters"><title>Hallstatt culture · early Iron Age phases · 800 BCE–450 BCE</title><rect x="88.5" y="500" width="228" height="94" rx="10" fill="#92c4bd"/>
+<text class="map-label" style="font-size:21px" x="202.5" y="543" text-anchor="middle">Hallstatt Culture</text>
+<text class="map-date" x="202.5" y="579" text-anchor="middle">800 BCE–450 BCE</text></g>
+<g class="map-node" id="map-node-iron-age-roman-encounters-poster-europe-011" data-history="poster-europe-011" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Central European Celtic and Germanic communities, 800 BCE–400 CE. Open Wikipedia." data-map="iron-age-roman-encounters"><title>Central European Celtic and Germanic communities · 800 BCE–400 CE</title><rect x="108.5" y="780" width="228" height="94" rx="10" fill="#c4afd1"/>
+<text class="map-label" style="font-size:21px" x="222.5" y="811" text-anchor="middle">Celtic &amp; Germanic</text>
+<text class="map-label" style="font-size:21px" x="222.5" y="835" text-anchor="middle">Tribes</text>
+<text class="map-date" x="222.5" y="859" text-anchor="middle">800 BCE–400 CE</text></g>
+<g class="map-node" id="map-node-iron-age-roman-encounters-poster-europe-013" data-history="poster-europe-013" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Kingdom of Noricum, 200 BCE–15 BCE. Open Wikipedia." data-map="iron-age-roman-encounters"><title>Kingdom of Noricum · 200 BCE–15 BCE</title><rect x="388.5" y="780" width="228" height="94" rx="10" fill="#edbc75"/>
+<text class="map-label" style="font-size:21px" x="502.5" y="811" text-anchor="middle">Celtic Kingdom of</text>
+<text class="map-label" style="font-size:21px" x="502.5" y="835" text-anchor="middle">Noricum</text>
+<text class="map-date" x="502.5" y="859" text-anchor="middle">200 BCE–15 BCE</text></g>
+<g class="map-node" id="map-node-iron-age-roman-encounters-poster-europe-001" data-history="poster-europe-001" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Iron Age Britain · Celtic-speaking communities, 800 BCE–43 CE. Open Wikipedia." data-map="iron-age-roman-encounters"><title>Iron Age Britain · Celtic-speaking communities · 800 BCE–43 CE</title><rect x="663.5" y="780" width="228" height="94" rx="10" fill="#ee9792"/>
+<text class="map-label" style="font-size:21px" x="777.5" y="823" text-anchor="middle">Celtic Era</text>
+<text class="map-date" x="777.5" y="859" text-anchor="middle">800 BCE–43 CE</text></g>
+<g class="map-node" id="map-node-iron-age-roman-encounters-poster-europe-002" data-history="poster-europe-002" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Lusitanians and neighbouring Iron Age communities, 600 BCE–139 BCE. Open Wikipedia." data-map="iron-age-roman-encounters"><title>Lusitanians and neighbouring Iron Age communities · 600 BCE–139 BCE</title><rect x="398.5" y="500" width="228" height="94" rx="10" fill="#c4afd1"/>
+<text class="map-label" style="font-size:21px" x="512.5" y="531" text-anchor="middle">Lusitanians and</text>
+<text class="map-label" style="font-size:21px" x="512.5" y="555" text-anchor="middle">Other Tribes</text>
+<text class="map-date" x="512.5" y="579" text-anchor="middle">600 BCE–139 BCE</text></g>
+<g class="map-node" id="map-node-iron-age-roman-encounters-poster-europe-003" data-history="poster-europe-003" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Iberian and Celtiberian communities, 600 BCE–19 BCE. Open Wikipedia." data-map="iron-age-roman-encounters"><title>Iberian and Celtiberian communities · 600 BCE–19 BCE</title><rect x="674.5" y="500" width="228" height="94" rx="10" fill="#92c4bd"/>
+<text class="map-label" style="font-size:21px" x="788.5" y="531" text-anchor="middle">Iberian &amp; Celtic</text>
+<text class="map-label" style="font-size:21px" x="788.5" y="555" text-anchor="middle">Tribes</text>
+<text class="map-date" x="788.5" y="579" text-anchor="middle">600 BCE–19 BCE</text></g>
+<g class="map-node" id="map-node-iron-age-roman-encounters-poster-europe-004" data-history="poster-europe-004" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Carthaginian Iberia · Barcid expansion, 237 BCE–206 BCE. Open Wikipedia." data-map="iron-age-roman-encounters"><title>Carthaginian Iberia · Barcid expansion · 237 BCE–206 BCE</title><rect x="951.5" y="500" width="228" height="94" rx="10" fill="#edbc75"/>
+<text class="map-label" style="font-size:21px" x="1065.5" y="543" text-anchor="middle">Punic Iberia</text>
+<text class="map-date" x="1065.5" y="579" text-anchor="middle">237 BCE–206 BCE</text></g>
+<g class="map-node" id="map-node-iron-age-roman-encounters-poster-europe-005" data-history="poster-europe-005" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Gaul · Iron Age communities, 800 BCE–50 BCE. Open Wikipedia." data-map="iron-age-roman-encounters"><title>Gaul · Iron Age communities · 800 BCE–50 BCE</title><rect x="1226.5" y="500" width="228" height="94" rx="10" fill="#b7d08f"/>
+<text class="map-label" style="font-size:21px" x="1340.5" y="543" text-anchor="middle">Gaul</text>
+<text class="map-date" x="1340.5" y="579" text-anchor="middle">800 BCE–50 BCE</text></g>
+<g class="map-node" id="map-node-iron-age-roman-encounters-poster-europe-006" data-history="poster-europe-006" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Italic peoples · early Italian peninsula, 1200 BCE–500 BCE. Open Wikipedia." data-map="iron-age-roman-encounters"><title>Italic peoples · early Italian peninsula · 1200 BCE–500 BCE</title><rect x="1501.5" y="220" width="228" height="94" rx="10" fill="#ee9792"/>
+<text class="map-label" style="font-size:21px" x="1615.5" y="263" text-anchor="middle">Italic Tribes</text>
+<text class="map-date" x="1615.5" y="299" text-anchor="middle">1200 BCE–500 BCE</text></g>
+<g class="map-node" id="map-node-iron-age-roman-encounters-poster-europe-007" data-history="poster-europe-007" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Roman Kingdom · traditional chronology, 753 BCE–509 BCE. Open Wikipedia." data-map="iron-age-roman-encounters"><title>Roman Kingdom · traditional chronology · 753 BCE–509 BCE</title><rect x="1501.5" y="500" width="228" height="94" rx="10" fill="#c4afd1"/>
+<text class="map-label" style="font-size:21px" x="1615.5" y="543" text-anchor="middle">Roman Kingdom</text>
+<text class="map-date" x="1615.5" y="579" text-anchor="middle">753 BCE–509 BCE</text></g>
+<g class="map-node" id="map-node-iron-age-roman-encounters-romanrepublic" data-history="romanrepublic" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Roman Republic, 509 BCE–27 BCE. Open Wikipedia." data-map="iron-age-roman-encounters"><title>Roman Republic · 509 BCE–27 BCE</title><rect x="946.5" y="780" width="228" height="94" rx="10" fill="#c4afd1"/>
+<text class="map-label" style="font-size:21px" x="1060.5" y="823" text-anchor="middle">Roman Republic</text>
+<text class="map-date" x="1060.5" y="859" text-anchor="middle">509 BCE–27 BCE</text></g>
+<g class="map-node" id="map-node-iron-age-roman-encounters-rome" data-history="rome" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Roman imperial rule · West, 27 BCE–476 CE. Open Wikipedia." data-map="iron-age-roman-encounters"><title>Roman imperial rule · West · 27 BCE–476 CE</title><rect x="529.5" y="1060" width="228" height="94" rx="10" fill="#b7d08f"/>
+<text class="map-label" style="font-size:20px" x="643.5" y="1091" text-anchor="middle">Roman imperial rule</text>
+<text class="map-label" style="font-size:20px" x="643.5" y="1115" text-anchor="middle">· West</text>
+<text class="map-date" x="643.5" y="1139" text-anchor="middle">27 BCE–476 CE</text></g>
+<g class="map-node" id="map-node-iron-age-roman-encounters-poster-europe-025" data-history="poster-europe-025" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Sub-Roman Britain, 410 CE–600 CE. Open Wikipedia." data-map="iron-age-roman-encounters"><title>Sub-Roman Britain · 410 CE–600 CE</title><rect x="529.5" y="1340" width="228" height="94" rx="10" fill="#c4afd1"/>
+<text class="map-label" style="font-size:21px" x="643.5" y="1383" text-anchor="middle">Sub-Roman Britain</text>
+<text class="map-date" x="643.5" y="1419" text-anchor="middle">410–600</text></g>
+<g class="map-node" id="map-node-iron-age-roman-encounters-cx-anglosaxon-realms" data-history="cx-anglosaxon-realms" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Anglo-Saxon kingdoms and settlement, c. 5th–10th centuries CE. Open Wikipedia." data-map="iron-age-roman-encounters"><title>Anglo-Saxon kingdoms and settlement · c. 5th–10th centuries CE</title><rect x="529.5" y="1620" width="228" height="94" rx="10" fill="#ee9792"/>
+<text class="map-label" style="font-size:18px" x="643.5" y="1641" text-anchor="middle">Anglo-Saxon</text>
+<text class="map-label" style="font-size:18px" x="643.5" y="1663" text-anchor="middle">kingdoms and</text>
+<text class="map-label" style="font-size:18px" x="643.5" y="1685" text-anchor="middle">settlement</text>
+<text class="map-date" x="643.5" y="1699" text-anchor="middle">c. 5th–10th centuries</text></g>
+<g class="map-node" id="map-node-iron-age-roman-encounters-england" data-history="england" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Kingdom of England, 927 CE–1707 CE. Open Wikipedia." data-map="iron-age-roman-encounters"><title>Kingdom of England · 927 CE–1707 CE</title><rect x="529.5" y="1900" width="228" height="94" rx="10" fill="#b7d08f"/>
+<text class="map-label" style="font-size:21px" x="643.5" y="1943" text-anchor="middle">England</text>
+<text class="map-date" x="643.5" y="1979" text-anchor="middle">927–1707</text></g>
+<text class="map-micro" x="901.5" y="2115" text-anchor="middle">Continue this history on another map</text>
+<g class="map-continuation" id="map-jump-iron-age-roman-encounters-0" role="button" tabindex="0" data-map-target="aegean-greek-worlds" data-map-history="romanrepublic" aria-label="Aegean networks, Greek worlds &amp; modern independence"><rect x="68" y="2129" width="545" height="70" rx="8" fill="#edf3e5" stroke="#bdcdb1"/>
+<text x="340.5" y="2165" text-anchor="middle" style="font-size:16px">Aegean networks, Greek worlds &amp; modern independence</text>
+</g>
+<g class="map-continuation" id="map-jump-iron-age-roman-encounters-1" role="button" tabindex="0" data-map-target="britain-atlantic" data-map-history="england" aria-label="Britain &amp; the Atlantic"><rect x="629" y="2129" width="545" height="70" rx="8" fill="#edf3e5" stroke="#bdcdb1"/>
+<text x="901.5" y="2165" text-anchor="middle" style="font-size:16px">Britain &amp; the Atlantic</text>
+</g>
+<g class="map-continuation" id="map-jump-iron-age-roman-encounters-2" role="button" tabindex="0" data-map-target="medieval-iberian-realms" data-map-history="rome" aria-label="Iberian kingdoms, al-Andalus &amp; Portugal"><rect x="1190" y="2129" width="545" height="70" rx="8" fill="#edf3e5" stroke="#bdcdb1"/>
+<text x="1462.5" y="2165" text-anchor="middle" style="font-size:16px">Iberian kingdoms, al-Andalus &amp; Portugal</text>
+</g>
+<path d="M70 2235h20" stroke="#3b8274" stroke-width="3"/><text x="98" y="2240" style="font-size:14px;fill:#6b7b5e">Union</text>
+<path d="M402.6 2235h20" stroke="#b88636" stroke-width="3"/><text x="430.6" y="2240" style="font-size:14px;fill:#6b7b5e">Division</text>
+<path d="M735.2 2235h20" stroke="#aa6355" stroke-width="3"/><text x="763.2" y="2240" style="font-size:14px;fill:#6b7b5e">Conquest</text>
+<path d="M1067.8 2235h20" stroke="#638350" stroke-width="3"/><text x="1095.8" y="2240" style="font-size:14px;fill:#6b7b5e">Independence</text>
+<path d="M1400.4 2235h20" stroke="#5d7f9d" stroke-width="3"/><text x="1428.4" y="2240" style="font-size:14px;fill:#6b7b5e">Change of rule</text>
+<path d="M70 2261h20" stroke="#8b7297" stroke-width="3"/><text x="98" y="2266" style="font-size:14px;fill:#6b7b5e">Contact / influence</text>
+<path d="M402.6 2261h20" stroke="#9a8055" stroke-width="3"/><text x="430.6" y="2266" style="font-size:14px;fill:#6b7b5e">Colonial rule</text>
+<path d="M735.2 2261h20" stroke="#92917a" stroke-width="3"/><text x="763.2" y="2266" style="font-size:14px;fill:#6b7b5e">Context / overlap</text>
+<path d="M1067.8 2261h20" stroke="#7d8c6f" stroke-width="3"/><text x="1095.8" y="2266" style="font-size:14px;fill:#6b7b5e">Period transition</text>
+<text class="map-micro" x="901.5" y="2302" text-anchor="middle">Selected connections · Layout is not a time, territory or ancestry scale</text></svg>

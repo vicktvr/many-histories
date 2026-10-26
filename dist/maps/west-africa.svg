@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1414" width="1600" height="1414" role="group" aria-labelledby="map-title-west-africa map-desc-west-africa"><title id="map-title-west-africa">West Africa: several kinds of connection</title><desc id="map-desc-west-africa">Selected, sourced connections. Arrows label unions, divisions, conquest, independence, changes in rule, and contact. Node positions do not measure time or ancestry.  Select a node for Wikipedia or an arrow for its sources.</desc><defs>
+<marker id="arrow-west-africa-union" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#3b8274"/></marker>
+<marker id="arrow-west-africa-division" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#b88636"/></marker>
+<marker id="arrow-west-africa-conquest" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#aa6355"/></marker>
+<marker id="arrow-west-africa-independence" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#638350"/></marker>
+<marker id="arrow-west-africa-continuation" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#5d7f9d"/></marker>
+<marker id="arrow-west-africa-contact" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#8b7297"/></marker>
+<marker id="arrow-west-africa-colonial" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#9a8055"/></marker>
+<marker id="arrow-west-africa-context" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#92917a"/></marker>
+<marker id="arrow-west-africa-period" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#7d8c6f"/></marker>
+</defs><style>text{font-family:Arial,Helvetica,sans-serif;fill:#25372c}.map-node,.map-edge{cursor:pointer;outline:none}.map-node rect{stroke:#fffdf8;stroke-width:2}.map-node:hover rect,.map-node:focus rect{stroke:#3c5441;stroke-width:3}.map-label{font-size:21px;font-weight:600;pointer-events:none}.map-date{font-size:12px;fill:#617056;pointer-events:none}.edge-line{fill:none;stroke-width:2.5;stroke-linejoin:round;stroke-linecap:round}.edge-hit{fill:none;stroke:transparent;stroke-width:36;vector-effect:non-scaling-stroke}.map-edge:hover .edge-label-bg,.map-edge:focus .edge-label-bg{stroke:#334d3c;stroke-width:2}.map-edge:hover .edge-line,.map-edge:focus .edge-line{stroke-width:4}.edge-label{font-size:15px;font-weight:500;pointer-events:none}.map-heading{font-size:47px;font-weight:700;letter-spacing:-1.2px}.map-subtitle{font-size:24px;fill:#67785a}.map-micro{font-size:13px;fill:#8a977d}.map-node.dim{opacity:.15}.map-node.hit rect{stroke:#294332;stroke-width:4}.map-node.selected rect{stroke:#294332;stroke-width:4}.map-edge.related .edge-line{stroke-width:4.5}</style><rect width="100%" height="100%" fill="#fdfcf8"/><text class="map-heading" x="800" y="74" text-anchor="middle">EMPIRES &amp; CONNECTIONS</text><text class="map-subtitle" x="800" y="117" text-anchor="middle">West Africa: several kinds of connection</text><text class="map-micro" x="800" y="154" text-anchor="middle">Tap a node to read · Tap an arrow for the event and sources</text>
+<g class="map-edge" id="map-edge-west-africa-sahelian-shifts" data-connection="sahelian-shifts" data-map="west-africa" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Mali Empire to Songhai Empire: Shared regions &amp; changing power. Open relationship details." style="--edge-color:#8b7297"><title>Contact / influence: Shared regions &amp; changing power</title>
+<path class="edge-hit" d="M328 307C520 307 520 307 700 307"/><path class="edge-line" stroke="#8b7297" stroke-dasharray="6 6" d="M328 307C520 307 520 307 700 307" marker-end="url(#arrow-west-africa-contact)" marker-start="url(#arrow-west-africa-contact)"/>
+<rect class="edge-label-bg" x="388.75" y="289" width="262.5" height="34" rx="7" fill="#fdfcf8" stroke="#8b7297" stroke-opacity=".28"/>
+<text class="edge-label" x="520" y="311" text-anchor="middle">Shared regions &amp; changing power</text>
+</g>
+<g class="map-edge" id="map-edge-west-africa-songhai1591" data-connection="songhai1591" data-map="west-africa" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Saadi Morocco to Songhai Empire: 1591 · Moroccan invasion. Open relationship details." style="--edge-color:#aa6355"><title>Conquest: 1591 · Moroccan invasion</title>
+<path class="edge-hit" d="M1210 307C1090 307 1090 307 928 307"/><path class="edge-line" stroke="#aa6355"  d="M1210 307C1090 307 1090 307 928 307" marker-end="url(#arrow-west-africa-conquest)"/>
+<rect class="edge-label-bg" x="985" y="289" width="210" height="34" rx="7" fill="#fdfcf8" stroke="#aa6355" stroke-opacity=".28"/>
+<text class="edge-label" x="1090" y="311" text-anchor="middle">1591 · Moroccan invasion</text>
+</g>
+<g class="map-edge" id="map-edge-west-africa-kanem-bornu" data-connection="kanem-bornu" data-map="west-africa" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Kanem to Bornu: Late 1300s · ruling court relocates. Open relationship details." style="--edge-color:#5d7f9d"><title>Change of rule: Late 1300s · ruling court relocates</title>
+<path class="edge-hit" d="M328 707C520 707 520 707 700 707"/><path class="edge-line" stroke="#5d7f9d"  d="M328 707C520 707 520 707 700 707" marker-end="url(#arrow-west-africa-continuation)"/>
+<rect class="edge-label-bg" x="373.75" y="689" width="292.5" height="34" rx="7" fill="#fdfcf8" stroke="#5d7f9d" stroke-opacity=".28"/>
+<text class="edge-label" x="520" y="711" text-anchor="middle">Late 1300s · ruling court relocates</text>
+</g>
+<g class="map-edge" id="map-edge-west-africa-ife-benin" data-connection="ife-benin" data-map="west-africa" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Ife to Kingdom of Benin: Dynastic links in oral tradition. Open relationship details." style="--edge-color:#8b7297"><title>Contact / influence: Dynastic links in oral tradition</title>
+<path class="edge-hit" d="M328 1097C520 1097 520 1097 700 1097"/><path class="edge-line" stroke="#8b7297" stroke-dasharray="6 6" d="M328 1097C520 1097 520 1097 700 1097" marker-end="url(#arrow-west-africa-contact)"/>
+<rect class="edge-label-bg" x="385" y="1079" width="270" height="34" rx="7" fill="#fdfcf8" stroke="#8b7297" stroke-opacity=".28"/>
+<text class="edge-label" x="520" y="1101" text-anchor="middle">Dynastic links in oral tradition</text>
+</g>
+<g class="map-node" id="map-node-west-africa-mali" data-history="mali" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Mali Empire, c. 1235–1600 CE. Open Wikipedia." data-map="west-africa"><title>Mali Empire · c. 1235–1600 CE</title><rect x="100" y="260" width="228" height="94" rx="10" fill="#87c5ae"/>
+<text class="map-label" style="font-size:21px" x="214" y="303" text-anchor="middle">Mali Empire</text>
+<text class="map-date" x="214" y="339" text-anchor="middle">c. 1235–1600</text></g>
+<g class="map-node" id="map-node-west-africa-songhai" data-history="songhai" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Songhai Empire, c. 1464–1591 CE. Open Wikipedia." data-map="west-africa"><title>Songhai Empire · c. 1464–1591 CE</title><rect x="700" y="260" width="228" height="94" rx="10" fill="#8ebfd1"/>
+<text class="map-label" style="font-size:21px" x="814" y="303" text-anchor="middle">Songhai Empire</text>
+<text class="map-date" x="814" y="339" text-anchor="middle">c. 1464–1591</text></g>
+<g class="map-node" id="map-node-west-africa-cn-saadi" data-history="cn-saadi" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Saadi Morocco, 16th–17th centuries CE. Open Wikipedia." data-map="west-africa"><title>Saadi Morocco · 16th–17th centuries CE</title><rect x="1210" y="260" width="228" height="94" rx="10" fill="#dbadca"/>
+<text class="map-label" style="font-size:21px" x="1324" y="303" text-anchor="middle">Saadi Morocco</text>
+<text class="map-date" x="1324" y="339" text-anchor="middle">16th–17th centuries</text></g>
+<g class="map-node" id="map-node-west-africa-kanem" data-history="kanem" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Kanem Empire, c. 700 CE–1380 CE. Open Wikipedia." data-map="west-africa"><title>Kanem Empire · c. 700 CE–1380 CE</title><rect x="100" y="660" width="228" height="94" rx="10" fill="#dbadca"/>
+<text class="map-label" style="font-size:21px" x="214" y="703" text-anchor="middle">Kanem</text>
+<text class="map-date" x="214" y="739" text-anchor="middle">c. 700–1380</text></g>
+<g class="map-node" id="map-node-west-africa-bornu" data-history="bornu" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Bornu Empire, c. 1380 CE–1893 CE. Open Wikipedia." data-map="west-africa"><title>Bornu Empire · c. 1380 CE–1893 CE</title><rect x="700" y="660" width="228" height="94" rx="10" fill="#b8cf7a"/>
+<text class="map-label" style="font-size:21px" x="814" y="703" text-anchor="middle">Bornu</text>
+<text class="map-date" x="814" y="739" text-anchor="middle">c. 1380–1893</text></g>
+<g class="map-node" id="map-node-west-africa-ife" data-history="ife" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Ife · artistic flourishing, c. 1200 CE–1500 CE. Open Wikipedia." data-map="west-africa"><title>Ife · artistic flourishing · c. 1200 CE–1500 CE</title><rect x="100" y="1050" width="228" height="94" rx="10" fill="#e8a4a1"/>
+<text class="map-label" style="font-size:21px" x="214" y="1093" text-anchor="middle">Ife</text>
+<text class="map-date" x="214" y="1129" text-anchor="middle">c. 1200–1500</text></g>
+<g class="map-node" id="map-node-west-africa-benin" data-history="benin" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Kingdom of Benin, c. 1200–1897 CE. Open Wikipedia." data-map="west-africa"><title>Kingdom of Benin · c. 1200–1897 CE</title><rect x="700" y="1050" width="228" height="94" rx="10" fill="#efb34c"/>
+<text class="map-label" style="font-size:21px" x="814" y="1093" text-anchor="middle">Kingdom of Benin</text>
+<text class="map-date" x="814" y="1129" text-anchor="middle">c. 1200–1897</text></g>
+<text class="map-micro" x="800" y="1205" text-anchor="middle">Continue this history on another map</text>
+<g class="map-continuation" id="map-jump-west-africa-0" role="button" tabindex="0" data-map-target="africa-modern" data-map-history="mali" aria-label="Continue: later realms → Mali, Senegal &amp; Nigeria"><rect x="112" y="1219" width="680" height="70" rx="8" fill="#edf3e5" stroke="#bdcdb1"/>
+<text x="452" y="1255" text-anchor="middle" style="font-size:16px">Continue: later realms → Mali, Senegal &amp; Nigeria</text>
+</g>
+<g class="map-continuation" id="map-jump-west-africa-1" role="button" tabindex="0" data-map-target="af-sahel-forest" data-map-history="mali" aria-label="Sahel, Yoruba cities and the Gold Coast"><rect x="808" y="1219" width="680" height="70" rx="8" fill="#edf3e5" stroke="#bdcdb1"/>
+<text x="1148" y="1255" text-anchor="middle" style="font-size:16px">Sahel, Yoruba cities and the Gold Coast</text>
+</g>
+<path d="M70 1325h20" stroke="#3b8274" stroke-width="3"/><text x="98" y="1330" style="font-size:14px;fill:#6b7b5e">Union</text>
+<path d="M362 1325h20" stroke="#b88636" stroke-width="3"/><text x="390" y="1330" style="font-size:14px;fill:#6b7b5e">Division</text>
+<path d="M654 1325h20" stroke="#aa6355" stroke-width="3"/><text x="682" y="1330" style="font-size:14px;fill:#6b7b5e">Conquest</text>
+<path d="M946 1325h20" stroke="#638350" stroke-width="3"/><text x="974" y="1330" style="font-size:14px;fill:#6b7b5e">Independence</text>
+<path d="M1238 1325h20" stroke="#5d7f9d" stroke-width="3"/><text x="1266" y="1330" style="font-size:14px;fill:#6b7b5e">Change of rule</text>
+<path d="M70 1351h20" stroke="#8b7297" stroke-width="3"/><text x="98" y="1356" style="font-size:14px;fill:#6b7b5e">Contact / influence</text>
+<path d="M362 1351h20" stroke="#9a8055" stroke-width="3"/><text x="390" y="1356" style="font-size:14px;fill:#6b7b5e">Colonial rule</text>
+<path d="M654 1351h20" stroke="#92917a" stroke-width="3"/><text x="682" y="1356" style="font-size:14px;fill:#6b7b5e">Context / overlap</text>
+<path d="M946 1351h20" stroke="#7d8c6f" stroke-width="3"/><text x="974" y="1356" style="font-size:14px;fill:#6b7b5e">Period transition</text>
+<text class="map-micro" x="800" y="1392" text-anchor="middle">Selected connections · Layout is not a time, territory or ancestry scale</text></svg>

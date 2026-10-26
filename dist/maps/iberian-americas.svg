@@ -1,0 +1,161 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 2834" width="1600" height="2834" role="group" aria-labelledby="map-title-iberian-americas map-desc-iberian-americas"><title id="map-title-iberian-americas">Iberian crowns &amp; American successors</title><desc id="map-desc-iberian-americas">Selected, sourced connections. Arrows label unions, divisions, conquest, independence, changes in rule, and contact. Node positions do not measure time or ancestry.  Select a node for Wikipedia or an arrow for its sources.</desc><defs>
+<marker id="arrow-iberian-americas-union" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#3b8274"/></marker>
+<marker id="arrow-iberian-americas-division" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#b88636"/></marker>
+<marker id="arrow-iberian-americas-conquest" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#aa6355"/></marker>
+<marker id="arrow-iberian-americas-independence" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#638350"/></marker>
+<marker id="arrow-iberian-americas-continuation" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#5d7f9d"/></marker>
+<marker id="arrow-iberian-americas-contact" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#8b7297"/></marker>
+<marker id="arrow-iberian-americas-colonial" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#9a8055"/></marker>
+<marker id="arrow-iberian-americas-context" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#92917a"/></marker>
+<marker id="arrow-iberian-americas-period" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#7d8c6f"/></marker>
+</defs><style>text{font-family:Arial,Helvetica,sans-serif;fill:#25372c}.map-node,.map-edge{cursor:pointer;outline:none}.map-node rect{stroke:#fffdf8;stroke-width:2}.map-node:hover rect,.map-node:focus rect{stroke:#3c5441;stroke-width:3}.map-label{font-size:21px;font-weight:600;pointer-events:none}.map-date{font-size:12px;fill:#617056;pointer-events:none}.edge-line{fill:none;stroke-width:2.5;stroke-linejoin:round;stroke-linecap:round}.edge-hit{fill:none;stroke:transparent;stroke-width:36;vector-effect:non-scaling-stroke}.map-edge:hover .edge-label-bg,.map-edge:focus .edge-label-bg{stroke:#334d3c;stroke-width:2}.map-edge:hover .edge-line,.map-edge:focus .edge-line{stroke-width:4}.edge-label{font-size:15px;font-weight:500;pointer-events:none}.map-heading{font-size:47px;font-weight:700;letter-spacing:-1.2px}.map-subtitle{font-size:24px;fill:#67785a}.map-micro{font-size:13px;fill:#8a977d}.map-node.dim{opacity:.15}.map-node.hit rect{stroke:#294332;stroke-width:4}.map-node.selected rect{stroke:#294332;stroke-width:4}.map-edge.related .edge-line{stroke-width:4.5}</style><rect width="100%" height="100%" fill="#fdfcf8"/><text class="map-heading" x="800" y="74" text-anchor="middle">EMPIRES &amp; CONNECTIONS</text><text class="map-subtitle" x="800" y="117" text-anchor="middle">Iberian crowns &amp; American successors</text><text class="map-micro" x="800" y="154" text-anchor="middle">Tap a node to read · Tap an arrow for the event and sources</text>
+<g class="map-edge" id="map-edge-iberian-americas-iberian1479" data-connection="iberian1479" data-map="iberian-americas" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Crown of Castile + Crown of Aragon to Spanish monarchy: 1479 · dynastic union. Open relationship details." style="--edge-color:#3b8274"><title>Union: 1479 · dynastic union</title>
+<path class="edge-hit" d="M214 314C214 410 214 410 414 410"/><path class="edge-line" stroke="#3b8274"  d="M214 314C214 410 214 410 414 410"/>
+<path class="edge-hit" d="M614 314C614 410 614 410 414 410"/><path class="edge-line" stroke="#3b8274"  d="M614 314C614 410 614 410 414 410"/>
+<path class="edge-hit" d="M414 410C414 410 414 410 414 490"/><path class="edge-line" stroke="#3b8274"  d="M414 410C414 410 414 410 414 490" marker-end="url(#arrow-iberian-americas-union)"/>
+<rect class="edge-label-bg" x="320.25" y="393" width="187.5" height="34" rx="7" fill="#fdfcf8" stroke="#3b8274" stroke-opacity=".28"/>
+<text class="edge-label" x="414" y="415" text-anchor="middle">1479 · dynastic union</text>
+</g>
+<g class="map-edge" id="map-edge-iberian-americas-spanish-colonies" data-connection="spanish-colonies" data-map="iberian-americas" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Spanish monarchy to Spanish America: From 1493 · colonial expansion. Open relationship details." style="--edge-color:#9a8055"><title>Colonial rule: From 1493 · colonial expansion</title>
+<path class="edge-hit" d="M414 584C414 720 414 720 414 720"/><path class="edge-line" stroke="#9a8055"  d="M414 584C414 720 414 720 414 720"/>
+<path class="edge-hit" d="M414 720C414 720 414 720 414 800"/><path class="edge-line" stroke="#9a8055"  d="M414 720C414 720 414 720 414 800" marker-end="url(#arrow-iberian-americas-colonial)"/>
+<rect class="edge-label-bg" x="286.5" y="703" width="255" height="34" rx="7" fill="#fdfcf8" stroke="#9a8055" stroke-opacity=".28"/>
+<text class="edge-label" x="414" y="725" text-anchor="middle">From 1493 · colonial expansion</text>
+</g>
+<g class="map-edge" id="map-edge-iberian-americas-portuguese-colonies" data-connection="portuguese-colonies" data-map="iberian-americas" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Kingdom of Portugal to Portuguese Brazil: From 1500 · arrival &amp; colonisation. Open relationship details." style="--edge-color:#9a8055"><title>Colonial rule: From 1500 · arrival &amp; colonisation</title>
+<path class="edge-hit" d="M1274 314C1274 500 1274 500 1274 500"/><path class="edge-line" stroke="#9a8055"  d="M1274 314C1274 500 1274 500 1274 500"/>
+<path class="edge-hit" d="M1274 500C1274 500 1274 500 1274 600"/><path class="edge-line" stroke="#9a8055"  d="M1274 500C1274 500 1274 500 1274 600" marker-end="url(#arrow-iberian-americas-colonial)"/>
+<rect class="edge-label-bg" x="1131.5" y="483" width="285" height="34" rx="7" fill="#fdfcf8" stroke="#9a8055" stroke-opacity=".28"/>
+<text class="edge-label" x="1274" y="505" text-anchor="middle">From 1500 · arrival &amp; colonisation</text>
+</g>
+<g class="map-edge" id="map-edge-iberian-americas-brazil1822" data-connection="brazil1822" data-map="iberian-americas" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Portuguese Brazil to Brazil: 1822 · independence. Open relationship details." style="--edge-color:#638350"><title>Independence: 1822 · independence</title>
+<path class="edge-hit" d="M1274 694C1274 880 1274 880 1274 880"/><path class="edge-line" stroke="#638350"  d="M1274 694C1274 880 1274 880 1274 880"/>
+<path class="edge-hit" d="M1274 880C1274 880 1274 880 1274 990"/><path class="edge-line" stroke="#638350"  d="M1274 880C1274 880 1274 880 1274 990" marker-end="url(#arrow-iberian-americas-independence)"/>
+<rect class="edge-label-bg" x="1187.75" y="863" width="172.5" height="34" rx="7" fill="#fdfcf8" stroke="#638350" stroke-opacity=".28"/>
+<text class="edge-label" x="1274" y="885" text-anchor="middle">1822 · independence</text>
+</g>
+<g class="map-edge" id="map-edge-iberian-americas-mexico1821" data-connection="mexico1821" data-map="iberian-americas" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Spanish America to Mexico: 1821 · independence. Open relationship details." style="--edge-color:#638350"><title>Independence: 1821 · independence</title>
+<path class="edge-hit" d="M414 894C414 1010 414 1010 184 1010"/><path class="edge-line" stroke="#638350"  d="M414 894C414 1010 414 1010 184 1010"/>
+<path class="edge-hit" d="M184 1010C184 1010 184 1010 184 1100"/><path class="edge-line" stroke="#638350"  d="M184 1010C184 1010 184 1010 184 1100" marker-end="url(#arrow-iberian-americas-independence)"/>
+<rect class="edge-label-bg" x="97.75" y="993" width="172.5" height="34" rx="7" fill="#fdfcf8" stroke="#638350" stroke-opacity=".28"/>
+<text class="edge-label" x="184" y="1015" text-anchor="middle">1821 · independence</text>
+</g>
+<g class="map-edge" id="map-edge-iberian-americas-gran-colombia" data-connection="gran-colombia" data-map="iberian-americas" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Spanish America to Gran Colombia: 1819–22 · republic &amp; liberation. Open relationship details." style="--edge-color:#638350"><title>Independence: 1819–22 · republic &amp; liberation</title>
+<path class="edge-hit" d="M414 894C414 1010 414 1010 684 1010"/><path class="edge-line" stroke="#638350"  d="M414 894C414 1010 414 1010 684 1010"/>
+<path class="edge-hit" d="M684 1010C684 1010 684 1010 684 1100"/><path class="edge-line" stroke="#638350"  d="M684 1010C684 1010 684 1010 684 1100" marker-end="url(#arrow-iberian-americas-independence)"/>
+<rect class="edge-label-bg" x="552.75" y="993" width="262.5" height="34" rx="7" fill="#fdfcf8" stroke="#638350" stroke-opacity=".28"/>
+<text class="edge-label" x="684" y="1015" text-anchor="middle">1819–22 · republic &amp; liberation</text>
+</g>
+<g class="map-edge" id="map-edge-iberian-americas-gran-colombia-split" data-connection="gran-colombia-split" data-map="iberian-americas" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Gran Colombia to New Granada + Venezuela + Ecuador: 1830–31 · union dissolves. Open relationship details." style="--edge-color:#b88636"><title>Division: 1830–31 · union dissolves</title>
+<path class="edge-hit" d="M684 1194C684 1320 684 1320 734 1320"/><path class="edge-line" stroke="#b88636"  d="M684 1194C684 1320 684 1320 734 1320"/>
+<path class="edge-hit" d="M734 1320C324 1320 324 1320 324 1410"/><path class="edge-line" stroke="#b88636"  d="M734 1320C324 1320 324 1320 324 1410" marker-end="url(#arrow-iberian-americas-division)"/>
+<path class="edge-hit" d="M734 1320C734 1320 734 1320 734 1410"/><path class="edge-line" stroke="#b88636"  d="M734 1320C734 1320 734 1320 734 1410" marker-end="url(#arrow-iberian-americas-division)"/>
+<path class="edge-hit" d="M734 1320C1144 1320 1144 1320 1144 1410"/><path class="edge-line" stroke="#b88636"  d="M734 1320C1144 1320 1144 1320 1144 1410" marker-end="url(#arrow-iberian-americas-division)"/>
+<rect class="edge-label-bg" x="625.25" y="1303" width="217.5" height="34" rx="7" fill="#fdfcf8" stroke="#b88636" stroke-opacity=".28"/>
+<text class="edge-label" x="734" y="1325" text-anchor="middle">1830–31 · union dissolves</text>
+</g>
+<g class="map-edge" id="map-edge-iberian-americas-granadine1858" data-connection="granadine1858" data-map="iberian-americas" role="button" tabindex="0" aria-haspopup="dialog" aria-label="New Granada to Granadine Confederation: 1858 · federal constitution. Open relationship details." style="--edge-color:#5d7f9d"><title>Change of rule: 1858 · federal constitution</title>
+<path class="edge-hit" d="M324 1504C324 1615 324 1615 324 1615"/><path class="edge-line" stroke="#5d7f9d"  d="M324 1504C324 1615 324 1615 324 1615"/>
+<path class="edge-hit" d="M324 1615C324 1615 324 1615 324 1690"/><path class="edge-line" stroke="#5d7f9d"  d="M324 1615C324 1615 324 1615 324 1690" marker-end="url(#arrow-iberian-americas-continuation)"/>
+<rect class="edge-label-bg" x="207.75" y="1598" width="232.5" height="34" rx="7" fill="#fdfcf8" stroke="#5d7f9d" stroke-opacity=".28"/>
+<text class="edge-label" x="324" y="1620" text-anchor="middle">1858 · federal constitution</text>
+</g>
+<g class="map-edge" id="map-edge-iberian-americas-colombia1863" data-connection="colombia1863" data-map="iberian-americas" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Granadine Confederation to United States of Colombia: 1863 · new federal constitution. Open relationship details." style="--edge-color:#5d7f9d"><title>Change of rule: 1863 · new federal constitution</title>
+<path class="edge-hit" d="M324 1784C324 1875 324 1875 324 1875"/><path class="edge-line" stroke="#5d7f9d"  d="M324 1784C324 1875 324 1875 324 1875"/>
+<path class="edge-hit" d="M324 1875C324 1875 324 1875 324 1950"/><path class="edge-line" stroke="#5d7f9d"  d="M324 1875C324 1875 324 1875 324 1950" marker-end="url(#arrow-iberian-americas-continuation)"/>
+<rect class="edge-label-bg" x="192.75" y="1858" width="262.5" height="34" rx="7" fill="#fdfcf8" stroke="#5d7f9d" stroke-opacity=".28"/>
+<text class="edge-label" x="324" y="1880" text-anchor="middle">1863 · new federal constitution</text>
+</g>
+<g class="map-edge" id="map-edge-iberian-americas-colombia1886" data-connection="colombia1886" data-map="iberian-americas" role="button" tabindex="0" aria-haspopup="dialog" aria-label="United States of Colombia to Colombia · later eras: 1886 · centralising constitution. Open relationship details." style="--edge-color:#5d7f9d"><title>Change of rule: 1886 · centralising constitution</title>
+<path class="edge-hit" d="M324 2044C324 2135 324 2135 324 2135"/><path class="edge-line" stroke="#5d7f9d"  d="M324 2044C324 2135 324 2135 324 2135"/>
+<path class="edge-hit" d="M324 2135C324 2135 324 2135 324 2210"/><path class="edge-line" stroke="#5d7f9d"  d="M324 2135C324 2135 324 2135 324 2210" marker-end="url(#arrow-iberian-americas-continuation)"/>
+<rect class="edge-label-bg" x="189" y="2118" width="270" height="34" rx="7" fill="#fdfcf8" stroke="#5d7f9d" stroke-opacity=".28"/>
+<text class="edge-label" x="324" y="2140" text-anchor="middle">1886 · centralising constitution</text>
+</g>
+<g class="map-edge" id="map-edge-iberian-americas-panama-separation" data-connection="panama-separation" data-map="iberian-americas" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Colombia · later eras to Panama: 1903 · Panama separates. Open relationship details." style="--edge-color:#638350"><title>Independence: 1903 · Panama separates</title>
+<path class="edge-hit" d="M324 2304C324 2395 324 2395 894 2395"/><path class="edge-line" stroke="#638350"  d="M324 2304C324 2395 324 2395 894 2395"/>
+<path class="edge-hit" d="M894 2395C894 2395 894 2395 894 2470"/><path class="edge-line" stroke="#638350"  d="M894 2395C894 2395 894 2395 894 2470" marker-end="url(#arrow-iberian-americas-independence)"/>
+<rect class="edge-label-bg" x="792.75" y="2378" width="202.5" height="34" rx="7" fill="#fdfcf8" stroke="#638350" stroke-opacity=".28"/>
+<text class="edge-label" x="894" y="2400" text-anchor="middle">1903 · Panama separates</text>
+</g>
+<g class="map-edge" id="map-edge-iberian-americas-portugal-republic" data-connection="portugal-republic" data-map="iberian-americas" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Kingdom of Portugal to Portugal · republican eras: 1910 · monarchy overthrown. Open relationship details." style="--edge-color:#5d7f9d"><title>Change of rule: 1910 · monarchy overthrown</title>
+<path class="edge-hit" d="M1388 267L1520 267L1520 1530L1420 1530"/><path class="edge-line" stroke="#5d7f9d"  d="M1388 267L1520 267L1520 1530L1420 1530"/>
+<path class="edge-hit" d="M1420 1530C1304 1530 1304 1530 1304 1690"/><path class="edge-line" stroke="#5d7f9d"  d="M1420 1530C1304 1530 1304 1530 1304 1690" marker-end="url(#arrow-iberian-americas-continuation)"/>
+<rect class="edge-label-bg" x="1307.5" y="1513" width="225" height="34" rx="7" fill="#fdfcf8" stroke="#5d7f9d" stroke-opacity=".28"/>
+<text class="edge-label" x="1420" y="1535" text-anchor="middle">1910 · monarchy overthrown</text>
+</g>
+<g class="map-node" id="map-node-iberian-americas-cn-castile" data-history="cn-castile" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Crown of Castile, 1230–1715 CE. Open Wikipedia." data-map="iberian-americas"><title>Crown of Castile · 1230–1715 CE</title><rect x="100" y="220" width="228" height="94" rx="10" fill="#c4afd1"/>
+<text class="map-label" style="font-size:21px" x="214" y="263" text-anchor="middle">Crown of Castile</text>
+<text class="map-date" x="214" y="299" text-anchor="middle">1230–1715</text></g>
+<g class="map-node" id="map-node-iberian-americas-cn-aragon" data-history="cn-aragon" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Crown of Aragon, 1162–1716 CE. Open Wikipedia." data-map="iberian-americas"><title>Crown of Aragon · 1162–1716 CE</title><rect x="500" y="220" width="228" height="94" rx="10" fill="#c4afd1"/>
+<text class="map-label" style="font-size:21px" x="614" y="263" text-anchor="middle">Crown of Aragon</text>
+<text class="map-date" x="614" y="299" text-anchor="middle">1162–1716</text></g>
+<g class="map-node" id="map-node-iberian-americas-cn-portugal" data-history="cn-portugal" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Kingdom of Portugal, 1139–1910 CE. Open Wikipedia." data-map="iberian-americas"><title>Kingdom of Portugal · 1139–1910 CE</title><rect x="1160" y="220" width="228" height="94" rx="10" fill="#ee9792"/>
+<text class="map-label" style="font-size:20px" x="1274" y="263" text-anchor="middle">Kingdom of Portugal</text>
+<text class="map-date" x="1274" y="299" text-anchor="middle">1139–1910</text></g>
+<g class="map-node" id="map-node-iberian-americas-spainmodern" data-history="spainmodern" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Spain · composite monarchy and modern eras, 1479 CE–present. Open Wikipedia." data-map="iberian-americas"><title>Spain · composite monarchy and modern eras · 1479 CE–present</title><rect x="300" y="490" width="228" height="94" rx="10" fill="#92c4bd"/>
+<text class="map-label" style="font-size:21px" x="414" y="533" text-anchor="middle">Spanish monarchy</text>
+<text class="map-date" x="414" y="569" text-anchor="middle">1479–present</text></g>
+<g class="map-node" id="map-node-iberian-americas-portuguesebrazil" data-history="portuguesebrazil" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Portuguese America · Brazil, 1500 CE–1822 CE. Open Wikipedia." data-map="iberian-americas"><title>Portuguese America · Brazil · 1500 CE–1822 CE</title><rect x="1160" y="600" width="228" height="94" rx="10" fill="#b3c2de"/>
+<text class="map-label" style="font-size:21px" x="1274" y="643" text-anchor="middle">Portuguese Brazil</text>
+<text class="map-date" x="1274" y="679" text-anchor="middle">1500–1822</text></g>
+<g class="map-node" id="map-node-iberian-americas-spanishamerica" data-history="spanishamerica" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Spanish America · colonial rule, 1493 CE–1898 CE. Open Wikipedia." data-map="iberian-americas"><title>Spanish America · colonial rule · 1493 CE–1898 CE</title><rect x="300" y="800" width="228" height="94" rx="10" fill="#eba395"/>
+<text class="map-label" style="font-size:21px" x="414" y="843" text-anchor="middle">Spanish America</text>
+<text class="map-date" x="414" y="879" text-anchor="middle">1493–1898</text></g>
+<g class="map-node" id="map-node-iberian-americas-brazilmodern" data-history="brazilmodern" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Brazil · empire and republic, 1822 CE–present. Open Wikipedia." data-map="iberian-americas"><title>Brazil · empire and republic · 1822 CE–present</title><rect x="1160" y="990" width="228" height="94" rx="10" fill="#eba395"/>
+<text class="map-label" style="font-size:21px" x="1274" y="1033" text-anchor="middle">Brazil</text>
+<text class="map-date" x="1274" y="1069" text-anchor="middle">1822–present</text></g>
+<g class="map-node" id="map-node-iberian-americas-mexicomodern" data-history="mexicomodern" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Mexico · independent eras, 1821 CE–present. Open Wikipedia." data-map="iberian-americas"><title>Mexico · independent eras · 1821 CE–present</title><rect x="70" y="1100" width="228" height="94" rx="10" fill="#98c8b1"/>
+<text class="map-label" style="font-size:21px" x="184" y="1143" text-anchor="middle">Mexico</text>
+<text class="map-date" x="184" y="1179" text-anchor="middle">1821–present</text></g>
+<g class="map-node" id="map-node-iberian-americas-cn-grancolombia" data-history="cn-grancolombia" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Gran Colombia, 1819–1831 CE. Open Wikipedia." data-map="iberian-americas"><title>Gran Colombia · 1819–1831 CE</title><rect x="570" y="1100" width="228" height="94" rx="10" fill="#eba395"/>
+<text class="map-label" style="font-size:21px" x="684" y="1143" text-anchor="middle">Gran Colombia</text>
+<text class="map-date" x="684" y="1179" text-anchor="middle">1819–1831</text></g>
+<g class="map-node" id="map-node-iberian-americas-cn-newgranada" data-history="cn-newgranada" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Republic of New Granada, 1831–1858 CE. Open Wikipedia." data-map="iberian-americas"><title>Republic of New Granada · 1831–1858 CE</title><rect x="210" y="1410" width="228" height="94" rx="10" fill="#98c8b1"/>
+<text class="map-label" style="font-size:21px" x="324" y="1453" text-anchor="middle">New Granada</text>
+<text class="map-date" x="324" y="1489" text-anchor="middle">1831–1858</text></g>
+<g class="map-node" id="map-node-iberian-americas-cn-venezuela" data-history="cn-venezuela" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Venezuela · separate republic, From 1830 CE. Open Wikipedia." data-map="iberian-americas"><title>Venezuela · separate republic · From 1830 CE</title><rect x="620" y="1410" width="228" height="94" rx="10" fill="#b3c2de"/>
+<text class="map-label" style="font-size:21px" x="734" y="1453" text-anchor="middle">Venezuela</text>
+<text class="map-date" x="734" y="1489" text-anchor="middle">From 1830</text></g>
+<g class="map-node" id="map-node-iberian-americas-cn-ecuador" data-history="cn-ecuador" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Ecuador · separate republic, From 1830 CE. Open Wikipedia." data-map="iberian-americas"><title>Ecuador · separate republic · From 1830 CE</title><rect x="1030" y="1410" width="228" height="94" rx="10" fill="#d2aed0"/>
+<text class="map-label" style="font-size:21px" x="1144" y="1453" text-anchor="middle">Ecuador</text>
+<text class="map-date" x="1144" y="1489" text-anchor="middle">From 1830</text></g>
+<g class="map-node" id="map-node-iberian-americas-cn-granadine" data-history="cn-granadine" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Granadine Confederation, 1858–1863 CE. Open Wikipedia." data-map="iberian-americas"><title>Granadine Confederation · 1858–1863 CE</title><rect x="210" y="1690" width="228" height="94" rx="10" fill="#d2aed0"/>
+<text class="map-label" style="font-size:21px" x="324" y="1721" text-anchor="middle">Granadine</text>
+<text class="map-label" style="font-size:21px" x="324" y="1745" text-anchor="middle">Confederation</text>
+<text class="map-date" x="324" y="1769" text-anchor="middle">1858–1863</text></g>
+<g class="map-node" id="map-node-iberian-americas-cn-uscolombia" data-history="cn-uscolombia" role="button" tabindex="0" aria-haspopup="dialog" aria-label="United States of Colombia, 1863–1886 CE · constitutional frame. Open Wikipedia." data-map="iberian-americas"><title>United States of Colombia · 1863–1886 CE · constitutional frame</title><rect x="210" y="1950" width="228" height="94" rx="10" fill="#d2aed0"/>
+<text class="map-label" style="font-size:21px" x="324" y="1981" text-anchor="middle">United States of</text>
+<text class="map-label" style="font-size:21px" x="324" y="2005" text-anchor="middle">Colombia</text>
+<text class="map-date" x="324" y="2029" text-anchor="middle">1863–1886 · constitutional frame</text></g>
+<g class="map-node" id="map-node-iberian-americas-cn-colombia" data-history="cn-colombia" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Colombia · 1886 and later eras, 1886 CE–present · selected frame. Open Wikipedia." data-map="iberian-americas"><title>Colombia · 1886 and later eras · 1886 CE–present · selected frame</title><rect x="210" y="2210" width="228" height="94" rx="10" fill="#a9cd9b"/>
+<text class="map-label" style="font-size:21px" x="324" y="2241" text-anchor="middle">Colombia · later</text>
+<text class="map-label" style="font-size:21px" x="324" y="2265" text-anchor="middle">eras</text>
+<text class="map-date" x="324" y="2289" text-anchor="middle">1886–present · selected frame</text></g>
+<g class="map-node" id="map-node-iberian-americas-cn-panama" data-history="cn-panama" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Panama · independent republic, 1903 CE–present. Open Wikipedia." data-map="iberian-americas"><title>Panama · independent republic · 1903 CE–present</title><rect x="780" y="2470" width="228" height="94" rx="10" fill="#98c8b1"/>
+<text class="map-label" style="font-size:21px" x="894" y="2513" text-anchor="middle">Panama</text>
+<text class="map-date" x="894" y="2549" text-anchor="middle">1903–present</text></g>
+<g class="map-node" id="map-node-iberian-americas-portugalmodern" data-history="portugalmodern" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Portugal · modern republican eras, 1910 CE–present. Open Wikipedia." data-map="iberian-americas"><title>Portugal · modern republican eras · 1910 CE–present</title><rect x="1190" y="1690" width="228" height="94" rx="10" fill="#ee9792"/>
+<text class="map-label" style="font-size:21px" x="1304" y="1721" text-anchor="middle">Portugal ·</text>
+<text class="map-label" style="font-size:21px" x="1304" y="1745" text-anchor="middle">republican eras</text>
+<text class="map-date" x="1304" y="1769" text-anchor="middle">1910–present</text></g>
+<text class="map-micro" x="800" y="2625" text-anchor="middle">Continue this history on another map</text>
+<g class="map-continuation" id="map-jump-iberian-americas-0" role="button" tabindex="0" data-map-target="mesoamerica-caribbean" data-map-history="mexicomodern" aria-label="Mesoamerica &amp; the Caribbean"><rect x="68" y="2639" width="477.3333333333333" height="70" rx="8" fill="#edf3e5" stroke="#bdcdb1"/>
+<text x="306.66666666666663" y="2675" text-anchor="middle" style="font-size:16px">Mesoamerica &amp; the Caribbean</text>
+</g>
+<g class="map-continuation" id="map-jump-iberian-americas-1" role="button" tabindex="0" data-map-target="north-american-communities" data-map-history="mexicomodern" aria-label="North American communities &amp; changing borders"><rect x="561.3333333333333" y="2639" width="477.3333333333333" height="70" rx="8" fill="#edf3e5" stroke="#bdcdb1"/>
+<text x="799.9999999999999" y="2675" text-anchor="middle" style="font-size:16px">North American communities &amp; changing borders</text>
+</g>
+<g class="map-continuation" id="map-jump-iberian-americas-2" role="button" tabindex="0" data-map-target="medieval-iberian-realms" data-map-history="cn-castile" aria-label="Iberian kingdoms, al-Andalus &amp; Portugal"><rect x="1054.6666666666665" y="2639" width="477.3333333333333" height="70" rx="8" fill="#edf3e5" stroke="#bdcdb1"/>
+<text x="1293.3333333333333" y="2675" text-anchor="middle" style="font-size:16px">Iberian kingdoms, al-Andalus &amp; Portugal</text>
+</g>
+<path d="M70 2745h20" stroke="#3b8274" stroke-width="3"/><text x="98" y="2750" style="font-size:14px;fill:#6b7b5e">Union</text>
+<path d="M362 2745h20" stroke="#b88636" stroke-width="3"/><text x="390" y="2750" style="font-size:14px;fill:#6b7b5e">Division</text>
+<path d="M654 2745h20" stroke="#aa6355" stroke-width="3"/><text x="682" y="2750" style="font-size:14px;fill:#6b7b5e">Conquest</text>
+<path d="M946 2745h20" stroke="#638350" stroke-width="3"/><text x="974" y="2750" style="font-size:14px;fill:#6b7b5e">Independence</text>
+<path d="M1238 2745h20" stroke="#5d7f9d" stroke-width="3"/><text x="1266" y="2750" style="font-size:14px;fill:#6b7b5e">Change of rule</text>
+<path d="M70 2771h20" stroke="#8b7297" stroke-width="3"/><text x="98" y="2776" style="font-size:14px;fill:#6b7b5e">Contact / influence</text>
+<path d="M362 2771h20" stroke="#9a8055" stroke-width="3"/><text x="390" y="2776" style="font-size:14px;fill:#6b7b5e">Colonial rule</text>
+<path d="M654 2771h20" stroke="#92917a" stroke-width="3"/><text x="682" y="2776" style="font-size:14px;fill:#6b7b5e">Context / overlap</text>
+<path d="M946 2771h20" stroke="#7d8c6f" stroke-width="3"/><text x="974" y="2776" style="font-size:14px;fill:#6b7b5e">Period transition</text>
+<text class="map-micro" x="800" y="2812" text-anchor="middle">Selected connections · Layout is not a time, territory or ancestry scale</text></svg>

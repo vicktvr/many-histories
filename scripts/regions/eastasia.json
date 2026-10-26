@@ -1,0 +1,1816 @@
+{
+  "sources": {
+    "ea_china_bronze": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "China, 2000–1000 B.C.",
+      "url": "https://www.metmuseum.org/toah/ht/03/eac.html"
+    },
+    "ea_liangzhu": {
+      "publisher": "Smithsonian National Museum of Asian Art",
+      "title": "The Liangzhu Culture",
+      "url": "https://asia-archive.si.edu/learn/ancient-chinese-jades/the-liangzhu-culture/"
+    },
+    "ea_qin_han": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "China, 1000 B.C.–1 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/04/eac.html"
+    },
+    "ea_han": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "Han Dynasty (206 B.C.–220 A.D.)",
+      "url": "https://www.metmuseum.org/essays/han-dynasty-206-b-c-220-a-d"
+    },
+    "ea_division": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "China, 1–500 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/05/eac.html"
+    },
+    "ea_sui_tang": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "China, 500–1000 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/06/eac.html"
+    },
+    "ea_yayoi": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "Yayoi Culture (ca. 300 B.C.–300 A.D.)",
+      "url": "https://www.metmuseum.org/essays/yayoi-culture-ca-4th-century-b-c-3rd-century-a-d"
+    },
+    "ea_yamato": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "Japan, 1–500 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/05/eaj.html"
+    },
+    "ea_nara": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "Japan, 500–1000 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/06/eaj.html"
+    },
+    "ea_kamakura": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "Japan, 1000–1400 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/07/eaj.html"
+    },
+    "ea_muromachi": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "Japan, 1400–1600 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/08/eaj.html"
+    },
+    "ea_edo": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "Japan, 1600–1800 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/09/eaj.html"
+    },
+    "ea_meiji": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "Japan, 1800–1900 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/10/eaj.html"
+    },
+    "ea_goryeo": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "Korea, 1000–1400 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/07/eak.html"
+    },
+    "ea_korean_empire": {
+      "publisher": "National Palace Museum of Korea",
+      "title": "Korean Empire",
+      "url": "https://www.gogung.go.kr/gogungEn/main/contents.do?menuNo=1000022"
+    },
+    "ea_korea_modern": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "Korea, 1900 A.D.–present",
+      "url": "https://www.metmuseum.org/toah/ht/11/eak.html"
+    },
+    "ea_korea_occupation": {
+      "publisher": "U.S. Department of State, Office of the Historian",
+      "title": "Foreign Relations of the United States, 1948, The Far East and Australasia, memorandum on Korea",
+      "url": "https://history.state.gov/historicaldocuments/frus1948v06/d776"
+    },
+    "ea_korean_war": {
+      "publisher": "U.S. Department of State, Office of the Historian",
+      "title": "Korean War and Japan’s Recovery",
+      "url": "https://history.state.gov/milestones/1945-1952/korean-war"
+    },
+    "ea_yijing": {
+      "publisher": "National Library Board Singapore",
+      "title": "Journey to the West: Dusty Roads, Stormy Seas and Transcendence",
+      "url": "https://biblioasia.nlb.gov.sg/all-sections/vol-5-issue2-jul-2009-journey-west-dusty-road-stormy-seas/"
+    },
+    "ea_sea_medieval": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "Southeast Asia, 1000–1400 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/07/sse.html"
+    },
+    "ea_sea_early_modern": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "Southeast Asia, 1400–1600 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/08/sse.html"
+    },
+    "ea_sea_colonial": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "Southeast Asia, 1800–1900 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/10/sse.html"
+    },
+    "ea_voc": {
+      "publisher": "Nationaal Archief, Netherlands",
+      "title": "VOC, 1602–1800",
+      "url": "https://nationaalarchief.nl/onderzoeken/zoekhulpen/voc-1602-1800"
+    },
+    "ea_independence": {
+      "publisher": "Rijksmuseum",
+      "title": "Revolusi! Indonesia Independent",
+      "url": "https://www.rijksmuseum.nl/en/press/press-releases/revolusi-indonesia-independent"
+    },
+    "ea_sukarno": {
+      "publisher": "Rijksmuseum",
+      "title": "Sukarno",
+      "url": "https://www.rijksmuseum.nl/en/stories/exhibitions/revolusi/story/story-sukarno"
+    },
+    "ea_sutasoma": {
+      "publisher": "Museum Nasional Indonesia",
+      "title": "Kakawin Sutasoma",
+      "url": "https://www.museumnasional.or.id/4004/"
+    },
+    "ea_cambodia_early": {
+      "publisher": "United States Holocaust Memorial Museum",
+      "title": "An Ancient Kingdom Enters Dangerous Modern Times",
+      "url": "https://www.ushmm.org/genocide-prevention/countries/cambodia/an-ancient-kingdom"
+    },
+    "ea_cambodia_coup": {
+      "publisher": "United States Holocaust Memorial Museum",
+      "title": "War Closes in on Cambodia",
+      "url": "https://www.ushmm.org/genocide-prevention/countries/cambodia/war-closes-in"
+    },
+    "ea_cambodia_kr": {
+      "publisher": "United States Holocaust Memorial Museum",
+      "title": "Cambodia: 1975–1979",
+      "url": "https://www.ushmm.org/information/exhibitions/museum-exhibitions/cambodia-1975"
+    },
+    "ea_cambodia_1979": {
+      "publisher": "United States Holocaust Memorial Museum",
+      "title": "Renewed War",
+      "url": "https://www.ushmm.org/genocide-prevention/countries/cambodia/renewed-war"
+    },
+    "ea_untac": {
+      "publisher": "United Nations Peacekeeping",
+      "title": "United Nations Transitional Authority in Cambodia: Background",
+      "url": "https://peacekeeping.un.org/sites/default/files/past/untacbackgr2.html"
+    },
+    "ea_vietnam_dynasty": {
+      "publisher": "State Committee for Overseas Vietnamese, Ministry of Foreign Affairs",
+      "title": "Nguyễn dynasty, 1802–1945",
+      "url": "https://scov.gov.vn/dat-nuoc-con-nguoi/tom-tat-bien-nien-su-vn/xxii.-nha-nguyen-143-nam-1802-1945-quoc-hieu-viet-nam-tu-minh-mang-la-dai-nam-kinh-do-hue-thua-thien-phan-1-.html"
+    },
+    "ea_vietnam_recognition": {
+      "publisher": "U.S. Department of State, Office of the Historian",
+      "title": "Vietnam: recognition, diplomatic and consular relations",
+      "url": "https://history.state.gov/countries/vietnam"
+    },
+    "ea_vietnam_reunion": {
+      "publisher": "U.S. Department of State",
+      "title": "Background Note: Vietnam (2009, archived)",
+      "url": "https://2009-2017.state.gov/outofdate/bgn/vietnam/142418.htm"
+    },
+    "ea_mongolia_postyuan": {
+      "publisher": "U.S. Library of Congress, Federal Research Division",
+      "title": "Mongolia: A Country Study, Mongolia in Transition, 1368–1911 (text mirror)",
+      "url": "https://countrystudies.us/mongolia/23.htm"
+    },
+    "ea_mongolia_qing": {
+      "publisher": "U.S. Department of State",
+      "title": "Background Note: Mongolia (2007, archived)",
+      "url": "https://2009-2017.state.gov/outofdate/bgn/mongolia/89768.htm"
+    },
+    "ea_mongolia_republic": {
+      "publisher": "U.S. Department of State, Office of the Historian",
+      "title": "Mongolia: recognition, diplomatic and consular relations",
+      "url": "https://history.state.gov/countries/mongolia/1000"
+    },
+    "ea_mongolia_democracy": {
+      "publisher": "National Museum of Mongolia",
+      "title": "Twentieth-century Mongolia and Three Revolutions (special exhibition, 2021)",
+      "url": "https://nationalmuseum.mn/post/70362"
+    },
+    "ea_mongolia_northern_yuan": {
+      "publisher": "Oxford Research Encyclopedia of Religion, Oxford University Press",
+      "title": "Mongolian Buddhism in the Yuan Dynasty",
+      "url": "https://academic.oup.com/edited-volume/62249/chapter-abstract/551437522"
+    },
+    "ea_java_1293": {
+      "publisher": "Archaeological Research in Asia (primary archaeological research)",
+      "title": "Mongol fleet on the way to Java: First archaeological remains from the Karimata Strait in Indonesia",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352226721000738"
+    },
+    "ea_indonesia_unitary": {
+      "publisher": "Bank Indonesia Museum",
+      "title": "Museum Collection: The independence of Indonesia",
+      "url": "https://www.bi.go.id/en/layanan/museum-bi/koleksi-museum/default.aspx"
+    },
+    "ea_failed_invasions": {
+      "publisher": "Royal Armouries",
+      "title": "Kamikaze: The Mongol Invasions of Japan, 1274–1281",
+      "url": "https://royalarmouries.org/objects-and-stories/stories/the-mongols/kamikaze-the-mongol-invasions-of-japan"
+    },
+    "ea_nara_chronology": {
+      "publisher": "Nara National Research Institute for Cultural Properties",
+      "title": "Chronology: Asuka and Nara; first Tang mission 630 and capital moves to Nara 710",
+      "url": "https://www.nabunken.go.jp/english/chronology.html"
+    }
+  },
+  "extras": [
+    {
+      "id": "ea-kenmu",
+      "title": "Kenmu Restoration",
+      "region": "eastasia",
+      "dates": "1333–1336 CE",
+      "wikiTitle": "Kenmu Restoration",
+      "location": "Japan",
+      "note": "A brief attempt by Emperor Go-Daigo to restore direct imperial rule; the later Southern Court continued after the Ashikaga seized Kyoto.",
+      "sources": [
+        "ea_kamakura"
+      ]
+    },
+    {
+      "id": "ea-momoyama",
+      "title": "Azuchi–Momoyama · unification",
+      "region": "eastasia",
+      "dates": "1568/1573–1603 CE",
+      "wikiTitle": "Azuchi–Momoyama period",
+      "location": "Japan",
+      "note": "Selected political frame for Nobunaga, Hideyoshi and Tokugawa consolidation. Art histories often extend the Momoyama period to 1615; it is not a single hereditary dynasty.",
+      "sources": [
+        "ea_muromachi",
+        "ea_edo"
+      ]
+    },
+    {
+      "id": "ea-korean-empire",
+      "title": "Korean Empire",
+      "region": "eastasia",
+      "dates": "1897–1910 CE",
+      "wikiTitle": "Korean Empire",
+      "location": "Korean peninsula",
+      "note": "Gojong proclaimed an empire in 1897 within the continuing Yi royal house. Japan imposed a protectorate in 1905 before annexation in 1910.",
+      "sources": [
+        "ea_korean_empire"
+      ]
+    },
+    {
+      "id": "ea-korea-colonial",
+      "title": "Korea under Japanese rule",
+      "region": "eastasia",
+      "dates": "1910–1945 CE",
+      "wikiTitle": "Korea under Japanese rule",
+      "location": "Korean peninsula",
+      "note": "Japanese colonial administration over Korea; Korean resistance, culture and independence movements continued. Colonial government did not represent voluntary political union.",
+      "sources": [
+        "ea_korea_modern"
+      ]
+    },
+    {
+      "id": "ea-korea-soviet",
+      "title": "Northern Korea · Soviet occupation",
+      "region": "eastasia",
+      "dates": "1945–1948 CE",
+      "wikiTitle": "Soviet Civil Administration",
+      "location": "Northern Korean peninsula",
+      "note": "The northern occupation zone after Japanese surrender; local politics and competing projects developed within a Soviet military framework. This was not yet the DPRK at its creation in 1945.",
+      "sources": [
+        "ea_korea_occupation"
+      ]
+    },
+    {
+      "id": "ea-korea-us",
+      "title": "Southern Korea · U.S. military government",
+      "region": "eastasia",
+      "dates": "1945–1948 CE",
+      "wikiTitle": "United States Army Military Government in Korea",
+      "location": "Southern Korean peninsula",
+      "note": "The southern occupation zone after Japanese surrender, preceding the Republic of Korea. Local political struggles and violence are not captured by a simple line of institutional succession.",
+      "sources": [
+        "ea_korea_occupation"
+      ]
+    },
+    {
+      "id": "ea-voc",
+      "title": "Dutch East India Company · island Southeast Asia",
+      "region": "eastasia",
+      "dates": "1602–1799 CE",
+      "wikiTitle": "Dutch East India Company",
+      "location": "Island Southeast Asia",
+      "note": "Selected VOC activity in the Indonesian archipelago, not the company’s full Asian reach or uniform control of every island. Local states remained independent or negotiated and fought with the company.",
+      "sources": [
+        "ea_voc"
+      ]
+    },
+    {
+      "id": "ea-dutch-indies",
+      "title": "Dutch East Indies",
+      "region": "eastasia",
+      "dates": "1800–1942 / 1945–1949 CE",
+      "wikiTitle": "Dutch East Indies",
+      "location": "Indonesian archipelago",
+      "note": "Colonial administration succeeded VOC rule in stages, with British interregnum and later Japanese occupation. Dutch territorial claims were resisted and did not imply uniform control from 1800.",
+      "sources": [
+        "ea_sea_colonial",
+        "ea_independence"
+      ]
+    },
+    {
+      "id": "ea-japan-indies",
+      "title": "Japanese occupation · East Indies",
+      "region": "eastasia",
+      "dates": "1942–1945 CE",
+      "wikiTitle": "Japanese occupation of the Dutch East Indies",
+      "location": "Indonesian archipelago",
+      "note": "Japanese military occupation displaced Dutch colonial government during the Second World War; it was not Indonesian independence.",
+      "sources": [
+        "ea_sukarno"
+      ]
+    },
+    {
+      "id": "ea-post-angkor",
+      "title": "Cambodian kingdoms after Angkor",
+      "region": "eastasia",
+      "dates": "15th century–1863 CE",
+      "wikiTitle": "Post-Angkor period",
+      "location": "Cambodia",
+      "note": "Cambodian courts and capitals continued after Angkor’s political decline amid changing relations with Siam and Vietnam; neither Khmer society nor Angkor’s religious significance ended in 1431.",
+      "sources": [
+        "ea_sea_early_modern",
+        "ea_cambodia_early"
+      ]
+    },
+    {
+      "id": "ea-french-cambodia",
+      "title": "French protectorate of Cambodia",
+      "region": "eastasia",
+      "dates": "1863–1953 CE",
+      "wikiTitle": "French protectorate of Cambodia",
+      "location": "Cambodia",
+      "note": "French colonial control coexisted with a Cambodian monarchy; Japanese wartime intervention and the brief 1945 independence episode interrupted the wider protectorate frame.",
+      "sources": [
+        "ea_cambodia_early"
+      ]
+    },
+    {
+      "id": "ea-cambodia-kingdom1",
+      "title": "Cambodia · independent kingdom",
+      "region": "eastasia",
+      "dates": "1953–1970 CE",
+      "wikiTitle": "Kingdom of Cambodia (1953–1970)",
+      "location": "Cambodia",
+      "note": "Independent monarchy and Sihanouk-led political order before the 1970 coup; Sihanouk abdicated the throne in 1955 but remained a dominant political leader.",
+      "sources": [
+        "ea_cambodia_early",
+        "ea_cambodia_coup"
+      ]
+    },
+    {
+      "id": "ea-khmer-republic",
+      "title": "Khmer Republic",
+      "region": "eastasia",
+      "dates": "1970–1975 CE",
+      "wikiTitle": "Khmer Republic",
+      "location": "Cambodia",
+      "note": "Lon Nol’s republican regime emerged after Sihanouk’s removal amid widening regional warfare and civil war.",
+      "sources": [
+        "ea_cambodia_coup"
+      ]
+    },
+    {
+      "id": "ea-democratic-kampuchea",
+      "title": "Khmer Rouge · Democratic Kampuchea",
+      "region": "eastasia",
+      "dates": "1975–1979 CE",
+      "wikiTitle": "Democratic Kampuchea",
+      "location": "Cambodia",
+      "note": "Khmer Rouge rule began with the capture of Phnom Penh in April 1975; the formal Democratic Kampuchea constitution followed in 1976. Forced labour, persecution, mass deaths and genocide marked this regime.",
+      "sources": [
+        "ea_cambodia_kr"
+      ]
+    },
+    {
+      "id": "ea-prk-cambodia",
+      "title": "People’s Republic / State of Cambodia",
+      "region": "eastasia",
+      "dates": "1979–1993 CE",
+      "wikiTitle": "People's Republic of Kampuchea",
+      "location": "Cambodia",
+      "note": "Vietnamese-backed government controlled most of Cambodia while war and international recognition disputes continued; renamed State of Cambodia in 1989, before the 1991 settlement and 1992–1993 UN transition.",
+      "sources": [
+        "ea_cambodia_1979",
+        "ea_untac"
+      ]
+    },
+    {
+      "id": "ea-cambodia-modern",
+      "title": "Cambodia · restored kingdom",
+      "region": "eastasia",
+      "dates": "1993–present",
+      "wikiTitle": "Cambodia",
+      "location": "Cambodia",
+      "note": "Constitutional monarchy restored after the Paris peace process, UN-sponsored elections and 1993 constitution. Restoration of the royal institution did not erase the preceding republics, wars or their effects.",
+      "sources": [
+        "ea_untac"
+      ]
+    },
+    {
+      "id": "ea-nguyen",
+      "title": "Nguyễn dynasty",
+      "region": "eastasia",
+      "dates": "1802–1945 CE",
+      "wikiTitle": "Nguyễn dynasty",
+      "location": "Vietnam",
+      "note": "The last Vietnamese royal dynasty continued at Huế after France imposed colonial rule. Its dynastic lifespan must not be equated with uninterrupted sovereignty over modern Vietnam.",
+      "sources": [
+        "ea_vietnam_dynasty"
+      ]
+    },
+    {
+      "id": "ea-french-indochina",
+      "title": "French Indochina",
+      "region": "eastasia",
+      "dates": "1887–1954 CE",
+      "wikiTitle": "French Indochina",
+      "location": "Mainland Southeast Asia",
+      "note": "A colonial federation developed through conquests and protectorates over different territories, including Vietnam, Cambodia and later Laos; Japanese wartime control and independence movements interrupted the frame.",
+      "sources": [
+        "ea_sea_colonial"
+      ]
+    },
+    {
+      "id": "ea-vietnam-north",
+      "title": "Democratic Republic of Vietnam",
+      "region": "eastasia",
+      "dates": "1945–1976 CE",
+      "wikiTitle": "North Vietnam",
+      "location": "Vietnam",
+      "note": "Independence proclaimed in 1945; the government controlled the northern regroupment zone after the 1954 agreements and later won the war. This was not a state first founded in 1954.",
+      "sources": [
+        "ea_vietnam_recognition",
+        "ea_vietnam_reunion"
+      ]
+    },
+    {
+      "id": "ea-vietnam-south",
+      "title": "Southern Vietnam · State and Republic",
+      "region": "eastasia",
+      "dates": "1949–1975 CE",
+      "wikiTitle": "South Vietnam",
+      "location": "Southern Vietnam",
+      "note": "Selected umbrella for the State of Vietnam from 1949 and the Republic proclaimed in 1955; administrative control and borders were contested throughout the wars.",
+      "sources": [
+        "ea_vietnam_recognition"
+      ]
+    },
+    {
+      "id": "ea-northern-yuan",
+      "title": "Northern Yuan and post-Yuan Mongol courts",
+      "region": "eastasia",
+      "dates": "1368–1635 CE",
+      "wikiTitle": "Northern Yuan",
+      "location": "Mongolian plateau",
+      "note": "After losing the main Chinese realm, Yuan rulers retreated to Mongolia; successor courts and confederations competed with Oirat powers. Later regional Mongol histories extended beyond the Northern Yuan dynastic endpoint.",
+      "sources": [
+        "ea_mongolia_postyuan",
+        "ea_mongolia_northern_yuan"
+      ]
+    },
+    {
+      "id": "ea-khalkha",
+      "title": "Khalkha Mongol principalities",
+      "region": "eastasia",
+      "dates": "16th–17th centuries · before 1691",
+      "wikiTitle": "Khalkha Mongols",
+      "location": "Mongolian plateau north of the Gobi",
+      "note": "Selected regional political frame north of the Gobi, not the full lifespan of Khalkha people. This branch is not identical to all Mongols or every Northern Yuan successor polity.",
+      "sources": [
+        "ea_mongolia_postyuan",
+        "ea_mongolia_qing"
+      ]
+    },
+    {
+      "id": "ea-bogd",
+      "title": "Bogd Khanate of Mongolia",
+      "region": "eastasia",
+      "dates": "1911–1919 / 1921–1924 CE",
+      "wikiTitle": "Bogd Khanate of Mongolia",
+      "location": "Outer Mongolia",
+      "note": "Independence declared in 1911, with contested autonomy and Chinese military reoccupation in 1919; the Bogd Khan returned in 1921 before the 1924 republic.",
+      "sources": [
+        "ea_mongolia_qing"
+      ]
+    },
+    {
+      "id": "ea-mongolian-republic",
+      "title": "Mongolian People’s Republic",
+      "region": "eastasia",
+      "dates": "1924–1992 CE",
+      "wikiTitle": "Mongolian People's Republic",
+      "location": "Mongolia",
+      "note": "A Soviet-aligned socialist state, not a Soviet Union constituent republic. The democratic revolution began in 1990 before the constitutional state-name change in 1992.",
+      "sources": [
+        "ea_mongolia_republic",
+        "ea_mongolia_democracy"
+      ]
+    },
+    {
+      "id": "ea-mongolia-modern",
+      "title": "Mongolia · democratic constitutional era",
+      "region": "eastasia",
+      "dates": "1990/1992–present",
+      "wikiTitle": "Mongolia",
+      "location": "Mongolia",
+      "note": "The peaceful democratic transition began in 1990 and a new constitution followed in 1992; this was a change of political system within a continuing state, not the origin of Mongolian people.",
+      "sources": [
+        "ea_mongolia_democracy"
+      ]
+    }
+  ],
+  "maps": [
+    {
+      "id": "china-early",
+      "title": "China · early cultures and dynasties",
+      "region": "eastasia",
+      "nodes": [
+        {
+          "id": "liangzhu"
+        },
+        {
+          "id": "xia",
+          "label": "Xia · unconfirmed"
+        },
+        {
+          "id": "shang"
+        },
+        {
+          "id": "zhou"
+        },
+        {
+          "id": "qin"
+        },
+        {
+          "id": "han"
+        },
+        {
+          "id": "china-division"
+        },
+        {
+          "id": "sui"
+        },
+        {
+          "id": "tang"
+        },
+        {
+          "id": "five-dynasties"
+        },
+        {
+          "id": "song"
+        }
+      ],
+      "connections": [
+        {
+          "id": "ea-liangzhu-shang",
+          "from": [
+            "liangzhu"
+          ],
+          "to": [
+            "shang"
+          ],
+          "type": "contact",
+          "label": "Jade traditions endure",
+          "dates": "Later 2nd millennium BCE",
+          "summary": "Liangzhu jade traditions influenced later Bronze Age centres, including late Shang Anyang.",
+          "note": "This cultural legacy crosses a substantial chronological gap; it is not a claim of direct dynastic succession or a Liangzhu–Xia state lineage.",
+          "sources": [
+            "ea_liangzhu"
+          ]
+        },
+        {
+          "id": "ea-xia-shang",
+          "from": [
+            "xia"
+          ],
+          "to": [
+            "shang"
+          ],
+          "type": "contact",
+          "label": "Traditional sequence",
+          "dates": "Later historical tradition",
+          "summary": "Later histories place Xia before Shang in a dynastic sequence.",
+          "note": "Xia remains unconfirmed in contemporary inscriptions; this dashed link records historiography, not a securely attested conquest or identification of Erlitou.",
+          "sources": [
+            "ea_china_bronze"
+          ],
+          "certainty": "Tradition"
+        },
+        {
+          "id": "ea-shang-zhou",
+          "from": [
+            "shang"
+          ],
+          "to": [
+            "zhou"
+          ],
+          "type": "conquest",
+          "label": "Zhou conquest",
+          "dates": "c. 1046 BCE",
+          "summary": "Zhou forces overthrew the Shang ruling house.",
+          "note": "The conventional date does not imply that Shang populations and cultural practices disappeared.",
+          "sources": [
+            "ea_china_bronze"
+          ]
+        },
+        {
+          "id": "ea-zhou-qin",
+          "from": [
+            "zhou"
+          ],
+          "to": [
+            "qin"
+          ],
+          "type": "conquest",
+          "label": "Qin consolidation",
+          "dates": "256–221 BCE",
+          "summary": "Qin ended the Zhou royal house and later conquered the other Warring States before proclaiming an empire.",
+          "note": "Zhou kingship ended in 256 BCE; imperial unification followed in 221 BCE, so the two plotted period boundaries do not mark a single instantaneous transfer.",
+          "sources": [
+            "ea_qin_han"
+          ]
+        },
+        {
+          "id": "ea-qin-han",
+          "from": [
+            "qin"
+          ],
+          "to": [
+            "han"
+          ],
+          "type": "continuation",
+          "label": "Rebellion and Han rule",
+          "dates": "206–202 BCE",
+          "summary": "After Qin collapse and civil war, Liu Bang established Han rule and took the imperial title in 202 BCE.",
+          "note": "Han dates conventionally begin with Liu Bang’s kingdom in 206 BCE; this is a change of regime, not uninterrupted Qin government.",
+          "sources": [
+            "ea_han"
+          ]
+        },
+        {
+          "id": "ea-han-division",
+          "from": [
+            "han"
+          ],
+          "to": [
+            "china-division"
+          ],
+          "type": "division",
+          "label": "Han breaks apart",
+          "dates": "220 CE onward",
+          "summary": "The end of Han rule gave way to competing kingdoms and subsequent northern and southern dynasties.",
+          "note": "The Age of Division is a period containing many governments, including a brief Western Jin reunification, rather than a successor state.",
+          "sources": [
+            "ea_division"
+          ]
+        },
+        {
+          "id": "ea-division-sui",
+          "from": [
+            "china-division"
+          ],
+          "to": [
+            "sui"
+          ],
+          "type": "union",
+          "label": "Sui reunification",
+          "dates": "581–589 CE",
+          "summary": "Sui replaced Northern Zhou in 581 and conquered the southern Chen in 589.",
+          "note": "Northern and southern political consolidation occurred in stages; the period and dynasty intentionally overlap.",
+          "sources": [
+            "ea_sui_tang"
+          ]
+        },
+        {
+          "id": "ea-sui-tang",
+          "from": [
+            "sui"
+          ],
+          "to": [
+            "tang"
+          ],
+          "type": "continuation",
+          "label": "Tang takes power",
+          "dates": "618 CE",
+          "summary": "Li Yuan established the Tang dynasty amid the collapse of Sui authority.",
+          "note": "Early Tang consolidation continued after the dynastic proclamation.",
+          "sources": [
+            "ea_sui_tang"
+          ]
+        },
+        {
+          "id": "ea-tang-five",
+          "from": [
+            "tang"
+          ],
+          "to": [
+            "five-dynasties"
+          ],
+          "type": "division",
+          "label": "Competing realms",
+          "dates": "907 CE onward",
+          "summary": "Tang collapse left successive northern dynasties and concurrent southern kingdoms.",
+          "note": "This umbrella period does not represent one united government or just five rulers of all China.",
+          "sources": [
+            "ea_sui_tang"
+          ]
+        },
+        {
+          "id": "ea-five-song",
+          "from": [
+            "five-dynasties"
+          ],
+          "to": [
+            "song"
+          ],
+          "type": "union",
+          "label": "Song consolidation",
+          "dates": "960–979 CE",
+          "summary": "The Song foundation in 960 was followed by campaigns against several remaining independent kingdoms.",
+          "note": "Other states including Liao continued outside Song rule; 960 did not reunify all territory in modern China.",
+          "sources": [
+            "ea_sui_tang"
+          ]
+        }
+      ],
+      "note": "Archaeological influence, later tradition and political change are distinct links. Continue from Song in the existing Mongols and China map for Yuan, Ming, Qing, ROC, PRC and Taiwan-era histories."
+    },
+    {
+      "id": "japan-transformations",
+      "title": "Japan · cultures, courts and shogunates",
+      "region": "eastasia",
+      "nodes": [
+        {
+          "id": "jomon"
+        },
+        {
+          "id": "yayoi"
+        },
+        {
+          "id": "yamato"
+        },
+        {
+          "id": "nara"
+        },
+        {
+          "id": "heian"
+        },
+        {
+          "id": "kamakura"
+        },
+        {
+          "id": "ea-kenmu"
+        },
+        {
+          "id": "muromachi"
+        },
+        {
+          "id": "ea-momoyama"
+        },
+        {
+          "id": "edo"
+        },
+        {
+          "id": "japanmodern"
+        },
+        {
+          "id": "tang"
+        },
+        {
+          "id": "yuan"
+        }
+      ],
+      "connections": [
+        {
+          "id": "ea-jomon-yayoi",
+          "from": [
+            "jomon"
+          ],
+          "to": [
+            "yayoi"
+          ],
+          "type": "contact",
+          "label": "Agriculture and migration",
+          "dates": "1st millennium BCE–early CE",
+          "summary": "Wet-rice farming and continental exchanges transformed communities while some Jōmon practices continued.",
+          "note": "These are overlapping regional archaeological classifications, not two empires or the replacement of an entire people; the transition has no single nationwide date.",
+          "sources": [
+            "ea_yayoi"
+          ]
+        },
+        {
+          "id": "ea-yayoi-yamato",
+          "from": [
+            "yayoi"
+          ],
+          "to": [
+            "yamato"
+          ],
+          "type": "continuation",
+          "label": "Regional state formation",
+          "dates": "c. 3rd–5th centuries CE",
+          "summary": "Growing regional powers and monumental tomb building accompanied the emergence of Yamato political dominance.",
+          "note": "This is a long social and political process; the Kofun-period boundary is not an exact founding date for Japan or one securely identified conquest.",
+          "sources": [
+            "ea_yamato"
+          ]
+        },
+        {
+          "id": "ea-yamato-nara",
+          "from": [
+            "yamato"
+          ],
+          "to": [
+            "nara"
+          ],
+          "type": "continuation",
+          "label": "Court moves to Nara",
+          "dates": "710 CE",
+          "summary": "The court moved its capital from the Asuka region to Nara.",
+          "note": "A change of capital and historical period within developing court institutions, not a new people replacing the Yamato population.",
+          "sources": [
+            "ea_nara"
+          ]
+        },
+        {
+          "id": "ea-nara-heian",
+          "from": [
+            "nara"
+          ],
+          "to": [
+            "heian"
+          ],
+          "type": "continuation",
+          "label": "Capital at Heian",
+          "dates": "794 CE",
+          "summary": "The imperial capital moved to Heian-kyō, present-day Kyoto.",
+          "note": "The court first moved through the Nagaoka capital, 784–794; the label condenses that transition.",
+          "sources": [
+            "ea_nara"
+          ]
+        },
+        {
+          "id": "ea-tang-nara",
+          "from": [
+            "tang"
+          ],
+          "to": [
+            "nara"
+          ],
+          "type": "contact",
+          "label": "Embassies and statecraft",
+          "dates": "8th century CE",
+          "summary": "Court missions and imported models connected Tang China with Japan’s Nara court.",
+          "note": "Japanese missions to Tang China began earlier, in 630; this edge selects exchanges during the Nara period (710–794). Diplomatic and cultural exchange did not make Japan a province of Tang China.",
+          "sources": [
+            "ea_nara",
+            "ea_nara_chronology"
+          ]
+        },
+        {
+          "id": "ea-heian-kamakura",
+          "from": [
+            "heian"
+          ],
+          "to": [
+            "kamakura"
+          ],
+          "type": "continuation",
+          "label": "Warrior government",
+          "dates": "1185–1192 CE",
+          "summary": "Minamoto victory in 1185 established a military regime at Kamakura, with Yoritomo named shogun in 1192.",
+          "note": "The imperial court continued; this marks a shift in political power rather than the end of the imperial institution.",
+          "sources": [
+            "ea_kamakura"
+          ]
+        },
+        {
+          "id": "ea-yuan-kamakura",
+          "from": [
+            "yuan"
+          ],
+          "to": [
+            "kamakura"
+          ],
+          "type": "contact",
+          "label": "Failed invasions · 1274 & 1281",
+          "dates": "1274 and 1281 CE",
+          "summary": "Mongol-led Yuan expeditions attacked Japan but failed to establish control.",
+          "note": "This is a conflict link, not successful conquest. Goryeo and other forces participated; Japan was not incorporated into Yuan rule.",
+          "sources": [
+            "ea_kamakura",
+            "ea_failed_invasions"
+          ]
+        },
+        {
+          "id": "ea-kamakura-kenmu",
+          "from": [
+            "kamakura"
+          ],
+          "to": [
+            "ea-kenmu"
+          ],
+          "type": "continuation",
+          "label": "Shogunate overthrown",
+          "dates": "1333 CE",
+          "summary": "Go-Daigo and his supporters overthrew the Kamakura shogunate.",
+          "note": "The imperial revival was brief, while conflict over rival courts continued after it ended.",
+          "sources": [
+            "ea_kamakura"
+          ]
+        },
+        {
+          "id": "ea-kenmu-muromachi",
+          "from": [
+            "ea-kenmu"
+          ],
+          "to": [
+            "muromachi"
+          ],
+          "type": "continuation",
+          "label": "Ashikaga ascendancy",
+          "dates": "1336–1338 CE",
+          "summary": "Ashikaga Takauji displaced Go-Daigo in Kyoto and subsequently became shogun.",
+          "note": "Northern and Southern courts competed until 1392; this is not a peaceful complete transfer of national control.",
+          "sources": [
+            "ea_kamakura"
+          ]
+        },
+        {
+          "id": "ea-muromachi-unification",
+          "from": [
+            "muromachi"
+          ],
+          "to": [
+            "ea-momoyama"
+          ],
+          "type": "conquest",
+          "label": "Nobunaga takes Kyoto",
+          "dates": "1568–1573 CE",
+          "summary": "Nobunaga entered Kyoto and later removed the last Ashikaga shogun.",
+          "note": "Regional wars and Toyotomi consolidation followed; the Sengoku conflicts overlap these named periods.",
+          "sources": [
+            "ea_muromachi"
+          ]
+        },
+        {
+          "id": "ea-unification-edo",
+          "from": [
+            "ea-momoyama"
+          ],
+          "to": [
+            "edo"
+          ],
+          "type": "continuation",
+          "label": "Tokugawa government",
+          "dates": "1600–1603 CE",
+          "summary": "Tokugawa Ieyasu’s ascendancy led to a shogunate based in Edo.",
+          "note": "The imperial court and regional domains continued, and Toyotomi resistance was not eliminated until 1615.",
+          "sources": [
+            "ea_edo"
+          ]
+        },
+        {
+          "id": "ea-edo-meiji",
+          "from": [
+            "edo"
+          ],
+          "to": [
+            "japanmodern"
+          ],
+          "type": "continuation",
+          "label": "Meiji Restoration",
+          "dates": "1867–1868 CE",
+          "summary": "The Tokugawa shogunate fell and a new government claimed to restore imperial authority.",
+          "note": "Modern Japan includes later imperial, wartime, occupation and constitutional phases; 1868 is not Japan’s founding.",
+          "sources": [
+            "ea_meiji"
+          ]
+        }
+      ],
+      "note": "Archaeological periods are not states, and courts and shogunates could coexist. Cross-map Japanese expansion and Korea appear in Korea’s map."
+    },
+    {
+      "id": "korea-histories",
+      "title": "Korea · dynasties, colonisation and division",
+      "region": "eastasia",
+      "nodes": [
+        {
+          "id": "goryeo"
+        },
+        {
+          "id": "joseon"
+        },
+        {
+          "id": "ea-korean-empire"
+        },
+        {
+          "id": "ea-korea-colonial"
+        },
+        {
+          "id": "ea-korea-soviet"
+        },
+        {
+          "id": "ea-korea-us"
+        },
+        {
+          "id": "northkorea"
+        },
+        {
+          "id": "southkorea"
+        },
+        {
+          "id": "mongol"
+        },
+        {
+          "id": "yuan"
+        },
+        {
+          "id": "japanmodern"
+        }
+      ],
+      "connections": [
+        {
+          "id": "ea-mongol-goryeo",
+          "from": [
+            "mongol"
+          ],
+          "to": [
+            "goryeo"
+          ],
+          "type": "conquest",
+          "label": "Mongol invasions",
+          "dates": "1231–1259 CE",
+          "summary": "Mongol invasions devastated Goryeo before negotiated submission and later close dynastic ties.",
+          "note": "Goryeo retained its royal house; invasion and subordinate relations did not simply turn it into a replacement Chinese dynasty.",
+          "sources": [
+            "ea_goryeo"
+          ]
+        },
+        {
+          "id": "ea-goryeo-yuan",
+          "from": [
+            "goryeo"
+          ],
+          "to": [
+            "yuan"
+          ],
+          "type": "contact",
+          "label": "Court and marriage ties",
+          "dates": "1270s–mid-14th century",
+          "summary": "Goryeo and Yuan courts developed close political relations, including royal intermarriage.",
+          "note": "These unequal ties coexisted with Goryeo institutions; later Goryeo rulers contested Yuan influence.",
+          "sources": [
+            "ea_goryeo"
+          ]
+        },
+        {
+          "id": "ea-goryeo-joseon",
+          "from": [
+            "goryeo"
+          ],
+          "to": [
+            "joseon"
+          ],
+          "type": "continuation",
+          "label": "New royal dynasty",
+          "dates": "1392 CE",
+          "summary": "Yi Seonggye deposed the last Goryeo ruler and founded Joseon.",
+          "note": "A change of ruling house and political institutions within Korean history, not the origin of Korean people.",
+          "sources": [
+            "ea_goryeo"
+          ]
+        },
+        {
+          "id": "ea-joseon-empire",
+          "from": [
+            "joseon"
+          ],
+          "to": [
+            "ea-korean-empire"
+          ],
+          "type": "continuation",
+          "label": "Empire proclaimed",
+          "dates": "1897 CE",
+          "summary": "Gojong adopted the imperial title and renamed the state the Korean Empire.",
+          "note": "The timeline’s broad Joseon block extends to 1910 by dynastic convention; this node distinguishes the state-name change within that royal house.",
+          "sources": [
+            "ea_korean_empire"
+          ]
+        },
+        {
+          "id": "ea-korean-annexation",
+          "from": [
+            "ea-korean-empire",
+            "japanmodern"
+          ],
+          "to": [
+            "ea-korea-colonial"
+          ],
+          "type": "colonial",
+          "label": "Japanese annexation",
+          "dates": "1910 CE",
+          "summary": "Japan annexed Korea after extending control through an imposed protectorate.",
+          "note": "Japan’s own government continued; the two source nodes identify the colonising state and the annexed Korean monarchy, not two equal partners in a union.",
+          "sources": [
+            "ea_korean_empire",
+            "ea_korea_modern"
+          ]
+        },
+        {
+          "id": "ea-korea-liberation",
+          "from": [
+            "ea-korea-colonial"
+          ],
+          "to": [
+            "ea-korea-soviet",
+            "ea-korea-us"
+          ],
+          "type": "division",
+          "label": "Liberation and occupations",
+          "dates": "1945 CE",
+          "summary": "Japanese surrender ended colonial rule and Soviet and U.S. forces occupied zones divided at the 38th parallel.",
+          "note": "The military division was imposed amid liberation and did not immediately create the two states established in 1948.",
+          "sources": [
+            "ea_korea_occupation"
+          ]
+        },
+        {
+          "id": "ea-korea-south-state",
+          "from": [
+            "ea-korea-us"
+          ],
+          "to": [
+            "southkorea"
+          ],
+          "type": "continuation",
+          "label": "Republic established",
+          "dates": "August 1948 CE",
+          "summary": "The Republic of Korea was established in the southern zone.",
+          "note": "This followed a contested state-building process; the zone-to-state link does not imply unanimous consent or settled all-Korea sovereignty.",
+          "sources": [
+            "ea_korea_occupation",
+            "ea_korean_war"
+          ]
+        },
+        {
+          "id": "ea-korea-north-state",
+          "from": [
+            "ea-korea-soviet"
+          ],
+          "to": [
+            "northkorea"
+          ],
+          "type": "continuation",
+          "label": "DPRK established",
+          "dates": "September 1948 CE",
+          "summary": "The Democratic People’s Republic of Korea was established in the northern zone.",
+          "note": "Both new governments claimed to represent Korea; this map describes administration without adjudicating those competing claims.",
+          "sources": [
+            "ea_korea_occupation",
+            "ea_korean_war"
+          ]
+        },
+        {
+          "id": "ea-korean-war",
+          "from": [
+            "northkorea"
+          ],
+          "to": [
+            "southkorea"
+          ],
+          "type": "contact",
+          "label": "War and armistice",
+          "dates": "1950–1953 CE",
+          "summary": "North Korean invasion opened a war involving both Korean states and international forces, ending in an armistice.",
+          "note": "A conflict link, not state succession; the armistice suspended fighting and did not itself provide a final peace settlement.",
+          "sources": [
+            "ea_korean_war"
+          ]
+        }
+      ],
+      "note": "This map follows the histories already in the atlas and does not claim to start Korean history with Goryeo. Division in 1945 and state establishment in 1948 are separate events."
+    },
+    {
+      "id": "southeast-maritime",
+      "title": "Maritime Southeast Asia · encounters and independence",
+      "region": "eastasia",
+      "nodes": [
+        {
+          "id": "srivijaya"
+        },
+        {
+          "id": "tang"
+        },
+        {
+          "id": "chola"
+        },
+        {
+          "id": "yuan"
+        },
+        {
+          "id": "majapahit"
+        },
+        {
+          "id": "ea-voc"
+        },
+        {
+          "id": "ea-dutch-indies"
+        },
+        {
+          "id": "ea-japan-indies"
+        },
+        {
+          "id": "indonesia"
+        }
+      ],
+      "connections": [
+        {
+          "id": "ea-srivijaya-yijing",
+          "from": [
+            "tang"
+          ],
+          "to": [
+            "srivijaya"
+          ],
+          "type": "contact",
+          "label": "Buddhist journeys",
+          "dates": "671–695 CE",
+          "summary": "The Tang-era monk Yijing studied and translated Buddhist texts at Srivijaya while travelling between China and India.",
+          "note": "A scholarly and maritime connection, not Chinese annexation or a single route followed by every traveller.",
+          "sources": [
+            "ea_yijing"
+          ]
+        },
+        {
+          "id": "ea-chola-srivijaya",
+          "from": [
+            "chola"
+          ],
+          "to": [
+            "srivijaya"
+          ],
+          "type": "conquest",
+          "label": "Chola naval raid",
+          "dates": "1025 CE",
+          "summary": "Chola forces raided Srivijaya’s maritime realm.",
+          "note": "A raid and episode of warfare, not proof that Chola permanently replaced Srivijaya across its trading network.",
+          "sources": [
+            "ea_sea_medieval"
+          ]
+        },
+        {
+          "id": "ea-yuan-java",
+          "from": [
+            "yuan"
+          ],
+          "to": [
+            "majapahit"
+          ],
+          "type": "contact",
+          "label": "Mongol expedition repelled",
+          "dates": "1293 CE",
+          "summary": "A Yuan expedition into Java was defeated during the conflicts surrounding Majapahit’s foundation.",
+          "note": "The invaders did not establish lasting Yuan rule; the state’s foundation involved local struggles beyond this selected encounter.",
+          "sources": [
+            "ea_sea_medieval",
+            "ea_java_1293"
+          ]
+        },
+        {
+          "id": "ea-majapahit-motto",
+          "from": [
+            "majapahit"
+          ],
+          "to": [
+            "indonesia"
+          ],
+          "type": "contact",
+          "label": "Literary legacy",
+          "dates": "14th-century text · modern adoption",
+          "summary": "Modern Indonesia adopted its national motto from the Majapahit-era poem Kakawin Sutasoma.",
+          "note": "A documented modern reception of a literary phrase, not direct political succession, unchanged borders or descent of all Indonesians from one empire.",
+          "sources": [
+            "ea_sutasoma"
+          ]
+        },
+        {
+          "id": "ea-voc-colony",
+          "from": [
+            "ea-voc"
+          ],
+          "to": [
+            "ea-dutch-indies"
+          ],
+          "type": "colonial",
+          "label": "Company to colonial state",
+          "dates": "1799–1800 CE",
+          "summary": "The Dutch government took over VOC possessions after the company’s dissolution.",
+          "note": "Expansion of colonial control continued over the nineteenth and early twentieth centuries; many local states had independent histories beyond the VOC’s reach.",
+          "sources": [
+            "ea_voc",
+            "ea_sea_colonial"
+          ]
+        },
+        {
+          "id": "ea-indies-occupation",
+          "from": [
+            "ea-dutch-indies"
+          ],
+          "to": [
+            "ea-japan-indies"
+          ],
+          "type": "conquest",
+          "label": "Japanese occupation",
+          "dates": "1942 CE",
+          "summary": "Japanese conquest displaced Dutch colonial administration in the East Indies.",
+          "note": "This represents wartime military rule rather than a voluntary transfer or liberation into an independent state.",
+          "sources": [
+            "ea_sukarno"
+          ]
+        },
+        {
+          "id": "ea-indonesia-proclamation",
+          "from": [
+            "ea-japan-indies"
+          ],
+          "to": [
+            "indonesia"
+          ],
+          "type": "independence",
+          "label": "Independence proclaimed",
+          "dates": "17 August 1945 CE",
+          "summary": "Sukarno and Mohammad Hatta proclaimed Indonesian independence after Japan’s surrender.",
+          "note": "Dutch attempts to restore colonial control led to a further revolution and war; independence was not uncontested or fully recognised on proclamation day.",
+          "sources": [
+            "ea_sukarno",
+            "ea_independence"
+          ]
+        },
+        {
+          "id": "ea-indonesia-transfer",
+          "from": [
+            "ea-dutch-indies"
+          ],
+          "to": [
+            "indonesia"
+          ],
+          "type": "independence",
+          "label": "Sovereignty transferred",
+          "dates": "1949–1950 CE",
+          "summary": "Dutch recognition and transfer of sovereignty in 1949 were followed by a unitary Indonesian republic in 1950.",
+          "note": "Territorial integration remained incomplete, notably in western New Guinea; this is not a claim that all present borders were settled in 1949.",
+          "sources": [
+            "ea_independence",
+            "ea_indonesia_unitary"
+          ]
+        }
+      ],
+      "note": "Separate precolonial encounters and cultural reception are shown alongside the colonial-to-independent state sequence. There is no asserted Srivijaya→Majapahit→Indonesia governmental lineage."
+    },
+    {
+      "id": "southeast-mainland",
+      "title": "Cambodia and Vietnam · courts, colonies and modern states",
+      "region": "eastasia",
+      "nodes": [
+        {
+          "id": "angkor"
+        },
+        {
+          "id": "ea-post-angkor"
+        },
+        {
+          "id": "ea-french-cambodia"
+        },
+        {
+          "id": "ea-cambodia-kingdom1"
+        },
+        {
+          "id": "ea-khmer-republic"
+        },
+        {
+          "id": "ea-democratic-kampuchea"
+        },
+        {
+          "id": "ea-prk-cambodia"
+        },
+        {
+          "id": "ea-cambodia-modern"
+        },
+        {
+          "id": "ea-nguyen"
+        },
+        {
+          "id": "ea-french-indochina"
+        },
+        {
+          "id": "ea-vietnam-north"
+        },
+        {
+          "id": "ea-vietnam-south"
+        },
+        {
+          "id": "vietnammodern"
+        }
+      ],
+      "connections": [
+        {
+          "id": "ea-angkor-later",
+          "from": [
+            "angkor"
+          ],
+          "to": [
+            "ea-post-angkor"
+          ],
+          "type": "continuation",
+          "label": "Courts move south",
+          "dates": "15th century CE",
+          "summary": "Cambodian royal centres shifted southward as Angkor’s imperial power contracted.",
+          "note": "1431 is a conventional political marker; Angkor was not wholly abandoned and Khmer people and culture continued.",
+          "sources": [
+            "ea_sea_early_modern",
+            "ea_cambodia_early"
+          ]
+        },
+        {
+          "id": "ea-cambodia-protectorate",
+          "from": [
+            "ea-post-angkor"
+          ],
+          "to": [
+            "ea-french-cambodia"
+          ],
+          "type": "colonial",
+          "label": "French protectorate",
+          "dates": "1863 CE",
+          "summary": "France established a protectorate over the Cambodian kingdom.",
+          "note": "The monarchy continued under colonial restriction; this is not a disappearance or replacement of Cambodian society.",
+          "sources": [
+            "ea_cambodia_early"
+          ]
+        },
+        {
+          "id": "ea-cambodia-federation",
+          "from": [
+            "ea-french-cambodia"
+          ],
+          "to": [
+            "ea-french-indochina"
+          ],
+          "type": "colonial",
+          "label": "Colonial federation",
+          "dates": "1887 CE",
+          "summary": "Cambodia’s protectorate was incorporated into the French Indochinese federation.",
+          "note": "The protectorate and federation overlapped as different administrative levels, rather than one ending when the other began.",
+          "sources": [
+            "ea_sea_colonial"
+          ]
+        },
+        {
+          "id": "ea-cambodia-independence",
+          "from": [
+            "ea-french-cambodia"
+          ],
+          "to": [
+            "ea-cambodia-kingdom1"
+          ],
+          "type": "independence",
+          "label": "Independence restored",
+          "dates": "9 November 1953 CE",
+          "summary": "Cambodia regained independence from France under the monarchy.",
+          "note": "The colonial federation’s final collapse in 1954 is a separate regional milestone.",
+          "sources": [
+            "ea_cambodia_early"
+          ]
+        },
+        {
+          "id": "ea-cambodia-coup",
+          "from": [
+            "ea-cambodia-kingdom1"
+          ],
+          "to": [
+            "ea-khmer-republic"
+          ],
+          "type": "continuation",
+          "label": "Coup and republic",
+          "dates": "1970 CE",
+          "summary": "Sihanouk’s removal was followed by the proclamation of the Khmer Republic.",
+          "note": "This regime change unfolded within civil war and international intervention, not a consensual national union.",
+          "sources": [
+            "ea_cambodia_coup"
+          ]
+        },
+        {
+          "id": "ea-cambodia-kr",
+          "from": [
+            "ea-khmer-republic"
+          ],
+          "to": [
+            "ea-democratic-kampuchea"
+          ],
+          "type": "conquest",
+          "label": "Khmer Rouge victory",
+          "dates": "17 April 1975 CE",
+          "summary": "Khmer Rouge forces captured Phnom Penh and imposed a new revolutionary regime.",
+          "note": "The takeover began the mass coercion and killings of Khmer Rouge rule; Democratic Kampuchea’s formal state constitution followed in 1976.",
+          "sources": [
+            "ea_cambodia_kr"
+          ]
+        },
+        {
+          "id": "ea-cambodia-vietnam",
+          "from": [
+            "ea-democratic-kampuchea"
+          ],
+          "to": [
+            "ea-prk-cambodia"
+          ],
+          "type": "conquest",
+          "label": "Regime overthrown",
+          "dates": "1978–1979 CE",
+          "summary": "Vietnamese invasion and Cambodian allied forces overthrew the Khmer Rouge government in Phnom Penh.",
+          "note": "Khmer Rouge forces continued fighting, and diplomatic representation remained contested; January 1979 did not bring immediate peace.",
+          "sources": [
+            "ea_cambodia_1979"
+          ]
+        },
+        {
+          "id": "ea-cambodia-settlement",
+          "from": [
+            "ea-prk-cambodia"
+          ],
+          "to": [
+            "ea-cambodia-modern"
+          ],
+          "type": "continuation",
+          "label": "Peace process and monarchy",
+          "dates": "1991–1993 CE",
+          "summary": "The Paris peace process and UN transition led to elections and restoration of a constitutional monarchy in 1993.",
+          "note": "This condenses the 1989 State of Cambodia renaming and the multi-party transitional settlement; conflict did not cease instantly.",
+          "sources": [
+            "ea_untac"
+          ]
+        },
+        {
+          "id": "ea-nguyen-colonial",
+          "from": [
+            "ea-nguyen"
+          ],
+          "to": [
+            "ea-french-indochina"
+          ],
+          "type": "colonial",
+          "label": "French colonial expansion",
+          "dates": "1858–1887 CE",
+          "summary": "French conquest and protectorate arrangements subordinated Vietnamese territories before federation in Indochina.",
+          "note": "Nguyễn monarchs remained at Huế until 1945 under colonial constraint; this edge does not imply the dynasty ended in 1887.",
+          "sources": [
+            "ea_vietnam_dynasty",
+            "ea_sea_colonial"
+          ]
+        },
+        {
+          "id": "ea-vietnam-revolution",
+          "from": [
+            "ea-french-indochina"
+          ],
+          "to": [
+            "ea-vietnam-north"
+          ],
+          "type": "independence",
+          "label": "Republic proclaimed",
+          "dates": "1945 CE",
+          "summary": "The Democratic Republic of Vietnam declared independence after the collapse of wartime Japanese control.",
+          "note": "French efforts to restore colonial authority led to further war; the proclamation did not bring immediate agreed sovereignty.",
+          "sources": [
+            "ea_vietnam_recognition",
+            "ea_vietnam_reunion"
+          ]
+        },
+        {
+          "id": "ea-vietnam-zones",
+          "from": [
+            "ea-french-indochina"
+          ],
+          "to": [
+            "ea-vietnam-north",
+            "ea-vietnam-south"
+          ],
+          "type": "division",
+          "label": "Regroupment zones",
+          "dates": "1954–1955 CE",
+          "summary": "French defeat and the Geneva settlement left rival northern and southern administrations divided near the 17th parallel.",
+          "note": "These were provisional military regroupment zones, not an agreed permanent international frontier; DRV dated from 1945, State of Vietnam from 1949, and the southern Republic from 1955.",
+          "sources": [
+            "ea_vietnam_recognition"
+          ]
+        },
+        {
+          "id": "ea-vietnam-reunification",
+          "from": [
+            "ea-vietnam-north",
+            "ea-vietnam-south"
+          ],
+          "to": [
+            "vietnammodern"
+          ],
+          "type": "conquest",
+          "label": "Victory and reunification",
+          "dates": "1975–1976 CE",
+          "summary": "Northern victory in 1975 was followed by formal reunification as the Socialist Republic of Vietnam in July 1976.",
+          "note": "A separate provisional revolutionary government administered the South in 1975–1976; the 1976 state was not founded through a peaceful voluntary merger of the two wartime governments.",
+          "sources": [
+            "ea_vietnam_reunion"
+          ]
+        }
+      ],
+      "note": "Two connected regional strands, with colonial and modern regime changes distinguished from enduring Khmer and Vietnamese communities. Ancient Vietnamese dynasties not already in the timeline are outside this selected expansion."
+    },
+    {
+      "id": "mongolia-post-yuan",
+      "title": "Mongolia · after the Yuan",
+      "region": "eastasia",
+      "nodes": [
+        {
+          "id": "yuan"
+        },
+        {
+          "id": "ea-northern-yuan"
+        },
+        {
+          "id": "ea-khalkha"
+        },
+        {
+          "id": "qing"
+        },
+        {
+          "id": "ea-bogd"
+        },
+        {
+          "id": "ea-mongolian-republic"
+        },
+        {
+          "id": "ea-mongolia-modern"
+        },
+        {
+          "id": "republicchina"
+        }
+      ],
+      "connections": [
+        {
+          "id": "ea-yuan-retreat",
+          "from": [
+            "yuan"
+          ],
+          "to": [
+            "ea-northern-yuan"
+          ],
+          "type": "continuation",
+          "label": "Yuan court retreats",
+          "dates": "1368 CE",
+          "summary": "Yuan rulers withdrew to Mongolia after losing their main Chinese realm.",
+          "note": "Ming replacement in China did not end the Yuan ruling line or Mongol political histories; this is a different branch from Ming succession.",
+          "sources": [
+            "ea_mongolia_postyuan",
+            "ea_mongolia_northern_yuan"
+          ]
+        },
+        {
+          "id": "ea-postyuan-regional",
+          "from": [
+            "ea-northern-yuan"
+          ],
+          "to": [
+            "ea-khalkha"
+          ],
+          "type": "division",
+          "label": "Regional Mongol powers",
+          "dates": "15th–17th centuries CE",
+          "summary": "Post-Yuan Mongol politics developed into competing confederations and principalities, including the Khalkha north of the Gobi.",
+          "note": "Khalkha were one regional grouping among Oirat, Chahar and others; this is not a single clean division in 1635 or a claim that Khalkha alone inherited the Yuan.",
+          "sources": [
+            "ea_mongolia_postyuan"
+          ]
+        },
+        {
+          "id": "ea-khalkha-qing",
+          "from": [
+            "ea-khalkha"
+          ],
+          "to": [
+            "qing"
+          ],
+          "type": "continuation",
+          "label": "Khalkha submit to Qing",
+          "dates": "1691 CE",
+          "summary": "Khalkha princes entered Qing rule in 1691.",
+          "note": "Mongol groups entered Qing rule at different dates; 1691 applies to this Khalkha branch, not all Mongolia.",
+          "sources": [
+            "ea_mongolia_qing"
+          ]
+        },
+        {
+          "id": "ea-qing-bogd",
+          "from": [
+            "qing"
+          ],
+          "to": [
+            "ea-bogd"
+          ],
+          "type": "independence",
+          "label": "Independence declared",
+          "dates": "1911 CE",
+          "summary": "Outer Mongolian leaders declared independence under the Bogd Khan as Qing authority collapsed.",
+          "note": "Recognition and autonomy remained contested, and Chinese forces reoccupied the territory in 1919.",
+          "sources": [
+            "ea_mongolia_qing"
+          ]
+        },
+        {
+          "id": "ea-roc-mongolia",
+          "from": [
+            "republicchina"
+          ],
+          "to": [
+            "ea-bogd"
+          ],
+          "type": "conquest",
+          "label": "Chinese reoccupation",
+          "dates": "1919–1921 CE",
+          "summary": "Chinese forces reimposed control before being expelled during the upheavals of 1921.",
+          "note": "This is a temporary occupation episode within the interrupted khanate frame, not permanent annexation or a direct line into today’s PRC.",
+          "sources": [
+            "ea_mongolia_qing"
+          ]
+        },
+        {
+          "id": "ea-bogd-republic",
+          "from": [
+            "ea-bogd"
+          ],
+          "to": [
+            "ea-mongolian-republic"
+          ],
+          "type": "continuation",
+          "label": "Republic proclaimed",
+          "dates": "1924 CE",
+          "summary": "After the 1921 revolution and the Bogd Khan’s death, a people’s republic was proclaimed.",
+          "note": "Soviet influence was strong, but Mongolia did not become one of the USSR’s constituent republics.",
+          "sources": [
+            "ea_mongolia_republic",
+            "ea_mongolia_qing"
+          ]
+        },
+        {
+          "id": "ea-mongolia-democracy",
+          "from": [
+            "ea-mongolian-republic"
+          ],
+          "to": [
+            "ea-mongolia-modern"
+          ],
+          "type": "continuation",
+          "label": "Democratic transition",
+          "dates": "1990–1992 CE",
+          "summary": "A peaceful democratic movement led to multi-party change and a new constitutional era.",
+          "note": "1990 marks the political revolution and 1992 the new constitution; Mongolian state and social histories continued across that change.",
+          "sources": [
+            "ea_mongolia_democracy"
+          ]
+        }
+      ],
+      "note": "A selected Outer Mongolian branch from the Yuan, distinct from the Chinese dynastic sequence and from other Mongol successor states. Present-day Mongolia was never a Soviet constituent republic."
+    }
+  ],
+  "unconnected": [],
+  "coverage": {
+    "ownedHistoryCount": 36,
+    "representedInProposal": 33,
+    "alreadyRepresentedInExistingMaps": [
+      "ming",
+      "taiwanroc",
+      "prchina"
+    ],
+    "coveredHistoryCount": 36,
+    "missingHistoryIds": [],
+    "mapCount": 6,
+    "connectionCount": 58
+  },
+  "caveats": [
+    "Existing mongols-china map already supplies Ming, Qing, ROC/PRC/Taiwan links; keep those relationships when merging this proposal.",
+    "The extra Mongolia map was requested by the modern-branches researcher to keep the Northern Yuan branch from disappearing into the Chinese dynastic succession.",
+    "Six maps are proposed, rather than five, because mainland and maritime Southeast Asia and the Northern Yuan branch each need their own coherent treatment.",
+    "Xia traditional sequence must remain dashed/contact with Tradition certainty; do not render as confirmed conquest.",
+    "Contact includes cultural transmission and modern reception as well as diplomatic/war encounters; it never asserts direct state descent.",
+    "Dates for archaeological periods, overlapping courts and colonial administrative layers require the qualifications provided; do not infer state extinction from any chart endpoint.",
+    "All 36 current East Asia histories are covered by new or existing map nodes; this does not claim comprehensive coverage of every East or Southeast Asian polity."
+  ]
+}

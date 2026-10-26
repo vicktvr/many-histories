@@ -1,0 +1,1316 @@
+{
+  "sources": {
+    "ao_olmec": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "Olmec Art",
+      "url": "https://www.metmuseum.org/essays/olmec-art"
+    },
+    "ao_teotihuacan": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "Teotihuacan",
+      "url": "https://www.metmuseum.org/essays/teotihuacan"
+    },
+    "ao_mayaLiving": {
+      "publisher": "Smithsonian National Museum of the American Indian",
+      "title": "The Maya People · Living Maya Time",
+      "url": "https://maya.nmai.si.edu/the-maya/maya-people"
+    },
+    "ao_mexicoConquest": {
+      "publisher": "Instituto Nacional de Antropología e Historia",
+      "title": "Centro histórico de la Ciudad de México",
+      "url": "https://lugares.inah.gob.mx/es/node/4833"
+    },
+    "ao_mexicoIndependence": {
+      "publisher": "Ministerio de Cultura, Spain",
+      "title": "Resistencias e intentos de reconquista",
+      "url": "https://www.cultura.gob.es/cultura/archivos/difusion/mc-difusion/bicentenarios/contexto-historico/las-independencias-iberoamericanas/cuarta-fase-1820-1830/resistencias-intentos-reconquista.html"
+    },
+    "ao_haiti": {
+      "publisher": "U.S. Department of State, Office of the Historian",
+      "title": "The United States and the Haitian Revolution, 1791–1804",
+      "url": "https://history.state.gov/milestones/1784-1800/haitian-rev"
+    },
+    "ao_haitiColonial": {
+      "publisher": "Ministerio de Cultura, Spain",
+      "title": "The Independence of Haiti (1804)",
+      "url": "https://www.cultura.gob.es/en/cultura/archivos/difusion/mc-difusion/bicentenarios/contexto-historico/las-independencias-iberoamericanas/independencia-haiti.html"
+    },
+    "ao_caral": {
+      "publisher": "UNESCO World Heritage Centre",
+      "title": "Sacred City of Caral-Supe",
+      "url": "https://whc.unesco.org/en/list/1269/"
+    },
+    "ao_wari": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "Wari Imperial Art",
+      "url": "https://www.metmuseum.org/essays/wari-imperial-art"
+    },
+    "ao_mocheChimu": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "Ceremonial Knife (Tumi) · Chimú",
+      "url": "https://www.metmuseum.org/art/collection/search/315276"
+    },
+    "ao_inkaRoad": {
+      "publisher": "Smithsonian National Museum of the American Indian",
+      "title": "Inka Road History Timeline",
+      "url": "https://americanindian.si.edu/nk360/inka-water/timeline/timeline"
+    },
+    "ao_inkaInvasion": {
+      "publisher": "Smithsonian National Museum of the American Indian",
+      "title": "The Great Inka Road · The Road to Conquest",
+      "url": "https://americanindian.si.edu/inkaroad/invasion/colonial-road.html"
+    },
+    "ao_peruIndependence": {
+      "publisher": "Instituto Nacional Sanmartiniano, Argentina",
+      "title": "La Independencia del Perú",
+      "url": "https://sanmartiniano.cultura.gob.ar/noticia/la-independencia-del-peru/"
+    },
+    "ao_rioPlata": {
+      "publisher": "Museo Histórico Nacional, Argentina",
+      "title": "Nuevas salas, más patrimonio · Virreinato del Río de la Plata",
+      "url": "https://museohistoriconacional.cultura.gob.ar/exhibicion/nuevas-salas-mas-patrimonio/"
+    },
+    "ao_argentinaIndependence": {
+      "publisher": "Ministerio de Cultura, Argentina",
+      "title": "Conocé la historia de la Casa de la Independencia",
+      "url": "https://www.cultura.gob.ar/conoce-la-historia-de-la-casa-de-la-independencia-9240/"
+    },
+    "ao_caddoTrade": {
+      "publisher": "U.S. National Park Service",
+      "title": "Caddo Trade",
+      "url": "https://www.nps.gov/articles/000/caddo-trade.htm"
+    },
+    "ao_caddoNation": {
+      "publisher": "Caddo Nation",
+      "title": "History",
+      "url": "https://mycaddonation.com/history-1"
+    },
+    "ao_chacoDescendants": {
+      "publisher": "U.S. National Park Service",
+      "title": "Chaco Culture · Proto-Historic Period",
+      "url": "https://www.nps.gov/chcu/learn/historyculture/proto-historic-period.htm"
+    },
+    "ao_puebloColonial": {
+      "publisher": "U.S. National Park Service",
+      "title": "San Ildefonso Pueblo",
+      "url": "https://www.nps.gov/subjects/travelspanishmissions/san-ildefonso-pueblo.htm"
+    },
+    "ao_newMexico": {
+      "publisher": "U.S. National Park Service",
+      "title": "History and Significance of El Camino Real de Tierra Adentro",
+      "url": "https://www.nps.gov/articles/000/history-and-significance-of-el-camino-real-de-tierra-adentro.htm"
+    },
+    "ao_guadalupe": {
+      "publisher": "U.S. National Archives",
+      "title": "Treaty of Guadalupe Hidalgo (1848)",
+      "url": "https://www.archives.gov/milestone-documents/treaty-of-guadalupe-hidalgo"
+    },
+    "ao_lapitaPolynesia": {
+      "publisher": "Te Ara, New Zealand Ministry for Culture and Heritage",
+      "title": "Pacific migrations · The direction and timing of settlement",
+      "url": "https://teara.govt.nz/en/map/1772/the-direction-and-timing-of-settlement"
+    },
+    "ao_pacificVoyaging": {
+      "publisher": "New Zealand Ministry for Culture and Heritage",
+      "title": "Pacific voyaging and discovery",
+      "url": "https://nzhistory.govt.nz/page/pacific-voyaging-and-discovery"
+    },
+    "ao_tongaModern": {
+      "publisher": "U.S. Department of State, Office of the Historian",
+      "title": "Tonga · Recognition, Diplomatic and Consular Relations",
+      "url": "https://history.state.gov/countries/tonga"
+    },
+    "ao_fijiParliament": {
+      "publisher": "Parliament of the Republic of Fiji",
+      "title": "Our Story",
+      "url": "https://www.parliament.gov.fj/our-story/"
+    },
+    "ao_nanMadol": {
+      "publisher": "UNESCO World Heritage Committee",
+      "title": "Decision 40 COM 8B.22 · Nan Madol",
+      "url": "https://whc.unesco.org/en/decisions/6800"
+    },
+    "ao_fsm": {
+      "publisher": "Federated States of Micronesia Government",
+      "title": "FSM Celebrates 39th Independence Day",
+      "url": "https://gov.fm/one-people-one-flag-one-future-fsm-celebrates-39th-independence-day-with-flag-raising-ceremony-at-the-office-of-the-president/"
+    },
+    "ao_rapaNuiHeritage": {
+      "publisher": "UNESCO World Heritage Centre",
+      "title": "Rapa Nui National Park",
+      "url": "https://whc.unesco.org/en/list/715/"
+    },
+    "ao_rapaNuiChile": {
+      "publisher": "Centro Nacional de Conservación y Restauración, Chile",
+      "title": "Historic 1888 Agreement of Wills returned to Rapa Nui representatives",
+      "url": "https://www.cncr.gob.cl/noticias/ministerio-de-las-culturas-entrega-historico-acuerdo-de-voluntades-de-1888-representantes"
+    },
+    "ao_australiaColonial": {
+      "publisher": "National Museum of Australia",
+      "title": "Convict cargo · First Fleet",
+      "url": "https://www.nma.gov.au/defining-moments/resources/convict-cargo"
+    },
+    "ao_australiaFederation": {
+      "publisher": "National Museum of Australia",
+      "title": "Federation",
+      "url": "https://www.nma.gov.au/defining-moments/resources/federation"
+    },
+    "ao_nzTreaty": {
+      "publisher": "Waitangi Tribunal",
+      "title": "About the treaty · A treaty of two texts",
+      "url": "https://www.waitangitribunal.govt.nz/en/about/the-treaty/about-the-treaty"
+    },
+    "ao_nzColony": {
+      "publisher": "New Zealand Ministry for Culture and Heritage",
+      "title": "New Zealand officially becomes British colony",
+      "url": "https://nzhistory.govt.nz/letters-patent-issued-making-new-zealand-a-colony-separate-from-new-south-wales"
+    },
+    "ao_nzConstitution": {
+      "publisher": "New Zealand Ministry for Culture and Heritage",
+      "title": "Political and constitutional timeline",
+      "url": "https://nzhistory.govt.nz/politics/milestones"
+    },
+    "ao_chanChan": {
+      "publisher": "UNESCO World Heritage Centre",
+      "title": "Chan Chan Archaeological Zone",
+      "url": "https://whc.unesco.org/en/list/366/"
+    }
+  },
+  "extras": [
+    {
+      "id": "ao-maya-peoples",
+      "title": "Maya peoples · living communities",
+      "region": "americas",
+      "dates": "Ancient roots–present",
+      "wikiTitle": "Maya peoples",
+      "location": "Mesoamerica and diaspora",
+      "note": "Many distinct Maya peoples, languages and communities persist; this is not a single successor state or a civilisation that ended in 900 CE.",
+      "sources": [
+        "ao_mayaLiving"
+      ]
+    },
+    {
+      "id": "ao-saint-domingue",
+      "title": "Saint-Domingue · French colonial rule",
+      "region": "americas",
+      "dates": "Late 17th century–1804",
+      "wikiTitle": "Saint-Domingue",
+      "location": "Western Hispaniola · present-day Haiti",
+      "note": "French colonial society depended on the enslavement of Africans; its overthrow followed a complex revolution, not a routine administrative transfer.",
+      "sources": [
+        "ao_haiti",
+        "ao_haitiColonial"
+      ]
+    },
+    {
+      "id": "ao-chimor",
+      "title": "Chimú kingdom / Chimor",
+      "region": "americas",
+      "dates": "c. 11th–15th centuries",
+      "wikiTitle": "Chimor",
+      "location": "Northern coast of present-day Peru",
+      "note": "A regional kingdom centred on Chan Chan, with artistic traditions drawing on earlier north-coast cultures.",
+      "sources": [
+        "ao_mocheChimu",
+        "ao_inkaRoad"
+      ]
+    },
+    {
+      "id": "ao-colonial-peru",
+      "title": "Spanish colonial Peru",
+      "region": "americas",
+      "dates": "1530s–1820s · viceroyalty from 1542",
+      "wikiTitle": "Viceroyalty of Peru",
+      "location": "Changing parts of South America",
+      "note": "Spanish rule developed through conquest and changing jurisdictions; large Indigenous communities and resistance continued.",
+      "sources": [
+        "ao_inkaInvasion"
+      ]
+    },
+    {
+      "id": "ao-peru",
+      "title": "Peru · independent eras",
+      "region": "americas",
+      "dates": "1821 declaration–present",
+      "wikiTitle": "Peru",
+      "location": "Western South America",
+      "note": "Independence was proclaimed in 1821; warfare and royalist resistance continued, including the decisive 1824 campaigns.",
+      "sources": [
+        "ao_peruIndependence"
+      ]
+    },
+    {
+      "id": "ao-quechua-communities",
+      "title": "Quechua-speaking communities",
+      "region": "americas",
+      "dates": "Historical roots–present",
+      "wikiTitle": "Quechua people",
+      "location": "Andean region and diaspora",
+      "note": "Diverse living communities, not an unchanged Inca state; language, identity and local histories are not interchangeable.",
+      "sources": [
+        "ao_inkaRoad"
+      ]
+    },
+    {
+      "id": "ao-caddo",
+      "title": "Caddo communities",
+      "region": "americas",
+      "dates": "Ancestral roots–present",
+      "wikiTitle": "Caddo",
+      "location": "Southeastern North America · later Oklahoma",
+      "note": "Distinct confederacies and communities persisted through dispossession and forced removal; historical trade partners are not automatically ancestors.",
+      "sources": [
+        "ao_caddoTrade",
+        "ao_caddoNation"
+      ]
+    },
+    {
+      "id": "ao-puebloans",
+      "title": "Pueblo peoples · continuing communities",
+      "region": "americas",
+      "dates": "Ancestral roots–present",
+      "wikiTitle": "Puebloans",
+      "location": "Southwestern North America",
+      "note": "Many distinct Pueblo nations share connections to Chaco; no single present-day Pueblo is its sole direct successor.",
+      "sources": [
+        "ao_chacoDescendants"
+      ]
+    },
+    {
+      "id": "ao-colonial-new-mexico",
+      "title": "Spanish colonial New Mexico",
+      "region": "americas",
+      "dates": "1598–1821 · rule interrupted 1680–1690s",
+      "wikiTitle": "Santa Fe de Nuevo México",
+      "location": "Northern New Spain · Southwestern North America",
+      "note": "Spanish colonisation was contested; the Pueblo Revolt expelled colonists in 1680, followed by reconquest in the 1690s.",
+      "sources": [
+        "ao_newMexico",
+        "ao_puebloColonial"
+      ]
+    },
+    {
+      "id": "ao-east-polynesia",
+      "title": "East Polynesian voyaging networks",
+      "region": "oceania",
+      "dates": "Late first millennium CE onward",
+      "wikiTitle": "Polynesians",
+      "location": "Central and eastern Pacific",
+      "note": "Multiple migrations and connected island societies, not one empire or a single founding voyage.",
+      "sources": [
+        "ao_pacificVoyaging"
+      ]
+    },
+    {
+      "id": "ao-tonga-modern",
+      "title": "Kingdom of Tonga · modern eras",
+      "region": "oceania",
+      "dates": "United in 1845 · constitutional monarchy from 1875–present",
+      "wikiTitle": "Tonga",
+      "location": "Western Polynesia",
+      "note": "Modern consolidation and constitutional government differed from earlier chiefly arrangements; British protection 1900–1970 limited external affairs without annexation.",
+      "sources": [
+        "ao_tongaModern"
+      ]
+    },
+    {
+      "id": "ao-fiji-societies",
+      "title": "Fijian societies",
+      "region": "oceania",
+      "dates": "Settlement c. 1100–800 BCE–present",
+      "wikiTitle": "History of Fiji",
+      "location": "Fiji Islands",
+      "note": "Long histories of distinct island communities precede the modern state and continued through colonial rule.",
+      "sources": [
+        "ao_pacificVoyaging"
+      ]
+    },
+    {
+      "id": "ao-colonial-fiji",
+      "title": "British colonial Fiji",
+      "region": "oceania",
+      "dates": "1874–1970",
+      "wikiTitle": "Colony of Fiji",
+      "location": "Fiji Islands",
+      "note": "The 1874 cession and colonial administration did not end Indigenous Fijian communities; later migration also shaped society.",
+      "sources": [
+        "ao_fijiParliament"
+      ]
+    },
+    {
+      "id": "ao-pohnpei",
+      "title": "Pohnpei · continuing communities",
+      "region": "oceania",
+      "dates": "Island traditions continue · state in FSM since 1979",
+      "wikiTitle": "Pohnpei",
+      "location": "Eastern Caroline Islands",
+      "note": "Nan Madol is associated with living chiefly traditions; modern constitutional statehood is distinct from Saudeleur rule.",
+      "sources": [
+        "ao_nanMadol",
+        "ao_fsm"
+      ]
+    },
+    {
+      "id": "ao-fsm",
+      "title": "Federated States of Micronesia",
+      "region": "oceania",
+      "dates": "Constitution 1979 · Compact 1986–present",
+      "wikiTitle": "Federated States of Micronesia",
+      "location": "Western Pacific",
+      "note": "A federation of four island states with distinct earlier histories; independence developed through constitutional government and the Compact of Free Association.",
+      "sources": [
+        "ao_fsm"
+      ]
+    },
+    {
+      "id": "ao-rapa-nui-people",
+      "title": "Rapa Nui people · continuing community",
+      "region": "oceania",
+      "dates": "Historical roots–present",
+      "wikiTitle": "Rapa Nui people",
+      "location": "Rapa Nui / Easter Island and diaspora",
+      "note": "Rapa Nui people and culture continue beyond the monumental phase; modern administration and Indigenous rights have their own contested history.",
+      "sources": [
+        "ao_rapaNuiHeritage",
+        "ao_rapaNuiChile"
+      ]
+    },
+    {
+      "id": "ao-chile",
+      "title": "Chile · independent state",
+      "region": "americas",
+      "dates": "Independent eras–present",
+      "wikiTitle": "Chile",
+      "location": "South America and Rapa Nui",
+      "note": "The 1888 agreement concerns Rapa Nui and Chile; it is not the founding of Chile or the disappearance of Rapa Nui authority.",
+      "sources": [
+        "ao_rapaNuiChile"
+      ]
+    },
+    {
+      "id": "ao-colonial-nz",
+      "title": "New Zealand · British colonial era",
+      "region": "oceania",
+      "dates": "1840–1907 · separate colony from 1841",
+      "wikiTitle": "Colony of New Zealand",
+      "location": "Aotearoa New Zealand",
+      "note": "British sovereignty was proclaimed in 1840; the separate colony followed in 1841, and Māori authority and treaty rights remained contested.",
+      "sources": [
+        "ao_nzColony",
+        "ao_nzTreaty"
+      ]
+    }
+  ],
+  "maps": [
+    {
+      "id": "mesoamerica-caribbean",
+      "title": "Mesoamerica & the Caribbean",
+      "region": "americas",
+      "nodes": [
+        {
+          "id": "olmec"
+        },
+        {
+          "id": "teotihuacan"
+        },
+        {
+          "id": "maya"
+        },
+        {
+          "id": "mexica"
+        },
+        {
+          "id": "poster-newspain"
+        },
+        {
+          "id": "mexicomodern"
+        },
+        {
+          "id": "ao-maya-peoples"
+        },
+        {
+          "id": "francekingdom"
+        },
+        {
+          "id": "ao-saint-domingue"
+        },
+        {
+          "id": "haiti"
+        }
+      ],
+      "connections": [
+        {
+          "id": "ao-olmec-mexica",
+          "from": [
+            "olmec"
+          ],
+          "to": [
+            "mexica"
+          ],
+          "type": "contact",
+          "label": "Ancient objects reused",
+          "dates": "15th–early 16th centuries",
+          "summary": "Mexica offerings included an Olmec mask made roughly two millennia earlier.",
+          "note": "A documented reuse of ancient art, not evidence of a continuous Olmec–Aztec empire.",
+          "sources": [
+            "ao_olmec"
+          ]
+        },
+        {
+          "id": "ao-teotihuacan-maya",
+          "from": [
+            "teotihuacan"
+          ],
+          "to": [
+            "maya"
+          ],
+          "type": "contact",
+          "label": "Exchange & artistic connections",
+          "dates": "4th–6th centuries CE",
+          "summary": "Teotihuacan interacted with Maya capitals including Tikal and Copán, with objects and artistic forms crossing regional boundaries.",
+          "note": "Different cities maintained different relationships; this is not a claim that all Maya lands belonged to Teotihuacan.",
+          "sources": [
+            "ao_teotihuacan"
+          ]
+        },
+        {
+          "id": "ao-maya-persistence",
+          "from": [
+            "maya"
+          ],
+          "to": [
+            "ao-maya-peoples"
+          ],
+          "type": "contact",
+          "label": "Communities continue",
+          "dates": "After the Classic period–present",
+          "summary": "Maya communities continued long after the Classic-period transformation of their cities.",
+          "note": "A cultural continuation, not a new state founded in 900 CE.",
+          "sources": [
+            "ao_mayaLiving"
+          ]
+        },
+        {
+          "id": "ao-tenochtitlan-conquest",
+          "from": [
+            "mexica"
+          ],
+          "to": [
+            "poster-newspain"
+          ],
+          "type": "conquest",
+          "label": "Conquest of Tenochtitlan",
+          "dates": "1521 · viceroyalty from 1535",
+          "summary": "Spanish forces and Indigenous allies conquered Tenochtitlan, followed by the development of New Spain.",
+          "note": "The colonial administration was established in stages; conquest did not end Nahua peoples or all Indigenous resistance.",
+          "sources": [
+            "ao_mexicoConquest"
+          ]
+        },
+        {
+          "id": "ao-new-spain-independence",
+          "from": [
+            "poster-newspain"
+          ],
+          "to": [
+            "mexicomodern"
+          ],
+          "type": "independence",
+          "label": "Mexican independence",
+          "dates": "1821",
+          "summary": "Mexican independence ended Spanish rule in the core mainland territory represented by this New Spain entry.",
+          "note": "New Spain extended beyond modern Mexico; later empires, republics and territorial changes followed.",
+          "sources": [
+            "ao_mexicoIndependence"
+          ]
+        },
+        {
+          "id": "ao-french-hispaniola",
+          "from": [
+            "francekingdom"
+          ],
+          "to": [
+            "ao-saint-domingue"
+          ],
+          "type": "colonial",
+          "label": "French colony",
+          "dates": "Late 17th century",
+          "summary": "French colonial rule developed in western Hispaniola as Saint-Domingue.",
+          "note": "This was not all of Hispaniola; the French monarchy later fell while colonial rule continued.",
+          "sources": [
+            "ao_haitiColonial"
+          ]
+        },
+        {
+          "id": "ao-haitian-revolution",
+          "from": [
+            "ao-saint-domingue"
+          ],
+          "to": [
+            "haiti"
+          ],
+          "type": "independence",
+          "label": "Revolution & independence",
+          "dates": "1791–1804",
+          "summary": "A revolution against enslavement and French colonial power culminated in Haitian independence in 1804.",
+          "note": "The conflict involved shifting alliances and foreign intervention; later occupations and political changes are not excluded.",
+          "sources": [
+            "ao_haiti"
+          ]
+        }
+      ],
+      "description": "Artistic exchange, living Maya communities, conquest in central Mexico and Haiti’s anti-slavery revolution. Separate branches do not imply one regional empire."
+    },
+    {
+      "id": "andes-rio-plata",
+      "title": "Andes & Río de la Plata",
+      "region": "americas",
+      "nodes": [
+        {
+          "id": "caral"
+        },
+        {
+          "id": "moche"
+        },
+        {
+          "id": "nazca"
+        },
+        {
+          "id": "wari"
+        },
+        {
+          "id": "tiwanaku"
+        },
+        {
+          "id": "ao-chimor"
+        },
+        {
+          "id": "inca"
+        },
+        {
+          "id": "ao-colonial-peru"
+        },
+        {
+          "id": "ao-peru"
+        },
+        {
+          "id": "ao-quechua-communities"
+        },
+        {
+          "id": "poster-colonial-argentina"
+        },
+        {
+          "id": "argentinamodern"
+        }
+      ],
+      "connections": [
+        {
+          "id": "ao-nazca-wari",
+          "from": [
+            "nazca"
+          ],
+          "to": [
+            "wari"
+          ],
+          "type": "contact",
+          "label": "Artistic interaction",
+          "dates": "c. 600–800 CE",
+          "summary": "Wari artists interacted with Nasca traditions and developed new artistic forms.",
+          "note": "Interaction and influence do not mean that every Nasca community was replaced by one Wari government.",
+          "sources": [
+            "ao_wari"
+          ]
+        },
+        {
+          "id": "ao-tiwanaku-wari",
+          "from": [
+            "tiwanaku"
+          ],
+          "to": [
+            "wari"
+          ],
+          "type": "contact",
+          "label": "Shared visual traditions",
+          "dates": "c. 600–1000 CE",
+          "summary": "Wari art developed in dialogue with Tiwanaku religious imagery and visual traditions.",
+          "note": "These were distinct, contemporary powers; the arrow represents cultural interaction, not dynastic succession.",
+          "sources": [
+            "ao_wari"
+          ]
+        },
+        {
+          "id": "ao-moche-chimu",
+          "from": [
+            "moche"
+          ],
+          "to": [
+            "ao-chimor"
+          ],
+          "type": "contact",
+          "label": "North-coast artistic heritage",
+          "dates": "Later first–second millennium CE",
+          "summary": "Chimú artists inherited and reworked earlier Moche cultural and artistic traditions.",
+          "note": "This is a long artistic relationship across intervening regional developments, not an immediate political handover.",
+          "sources": [
+            "ao_mocheChimu"
+          ]
+        },
+        {
+          "id": "ao-wari-tiwanaku-inka",
+          "from": [
+            "wari",
+            "tiwanaku"
+          ],
+          "to": [
+            "inca"
+          ],
+          "type": "contact",
+          "label": "Earlier roads & practices",
+          "dates": "Earlier traditions · adapted by the 15th century",
+          "summary": "Inca rulers adapted road-building and other practices developed by earlier Wari and Tiwanaku societies.",
+          "note": "Several centuries and many local histories separate these periods; this is inheritance of practices, not direct state succession.",
+          "sources": [
+            "ao_inkaRoad"
+          ]
+        },
+        {
+          "id": "ao-chimu-inka",
+          "from": [
+            "ao-chimor"
+          ],
+          "to": [
+            "inca"
+          ],
+          "type": "conquest",
+          "label": "Inca expansion",
+          "dates": "15th century",
+          "summary": "Inca expansion incorporated the Chimú kingdom into a much larger imperial system.",
+          "note": "Incorporation did not erase north-coast communities or their craft traditions.",
+          "sources": [
+            "ao_chanChan"
+          ]
+        },
+        {
+          "id": "ao-inka-spanish",
+          "from": [
+            "inca"
+          ],
+          "to": [
+            "ao-colonial-peru"
+          ],
+          "type": "conquest",
+          "label": "Spanish invasion",
+          "dates": "From 1532",
+          "summary": "Spanish invaders exploited the Inca road system during conquest and imposed a new colonial order.",
+          "note": "The capture of Atahualpa did not instantly conquer the entire Andes; resistance and Indigenous communities continued.",
+          "sources": [
+            "ao_inkaInvasion"
+          ]
+        },
+        {
+          "id": "ao-inka-living",
+          "from": [
+            "inca"
+          ],
+          "to": [
+            "ao-quechua-communities"
+          ],
+          "type": "contact",
+          "label": "Living Andean traditions",
+          "dates": "Colonial era–present",
+          "summary": "Quechua-speaking communities have maintained and transformed traditions associated with the Inca world.",
+          "note": "Cultural continuation is not continuous imperial sovereignty or a claim that all Quechua speakers share one identity.",
+          "sources": [
+            "ao_inkaRoad"
+          ]
+        },
+        {
+          "id": "ao-peru-independent",
+          "from": [
+            "ao-colonial-peru"
+          ],
+          "to": [
+            "ao-peru"
+          ],
+          "type": "independence",
+          "label": "Peruvian independence",
+          "dates": "1821 declaration · war continued",
+          "summary": "San Martín proclaimed Peruvian independence in Lima in July 1821.",
+          "note": "A declaration did not end the war immediately or settle every territory.",
+          "sources": [
+            "ao_peruIndependence"
+          ]
+        },
+        {
+          "id": "ao-rio-plata-division",
+          "from": [
+            "ao-colonial-peru"
+          ],
+          "to": [
+            "poster-colonial-argentina"
+          ],
+          "type": "division",
+          "label": "New viceroyalty",
+          "dates": "1776",
+          "summary": "The Río de la Plata viceroyalty was created from territories previously administered within the Viceroyalty of Peru.",
+          "note": "The plotted colonial Argentina frame begins earlier; this arrow specifically concerns the 1776 administrative reorganisation.",
+          "sources": [
+            "ao_rioPlata"
+          ]
+        },
+        {
+          "id": "ao-argentina-independent",
+          "from": [
+            "poster-colonial-argentina"
+          ],
+          "to": [
+            "argentinamodern"
+          ],
+          "type": "independence",
+          "label": "United Provinces declare independence",
+          "dates": "1816",
+          "summary": "The Congress of Tucumán declared the independence of the United Provinces in South America on 9 July 1816.",
+          "note": "Argentina later developed through conflicts and constitutional changes; the whole former viceroyalty did not become Argentina.",
+          "sources": [
+            "ao_argentinaIndependence"
+          ]
+        }
+      ],
+      "description": "Andean cultural interactions, Spanish conquest, colonial reorganisation and selected independence histories. Caral is shown without an unsupported succession arrow."
+    },
+    {
+      "id": "north-american-communities",
+      "title": "North American communities & changing borders",
+      "region": "americas",
+      "nodes": [
+        {
+          "id": "cahokia"
+        },
+        {
+          "id": "ao-caddo"
+        },
+        {
+          "id": "chaco"
+        },
+        {
+          "id": "ao-puebloans"
+        },
+        {
+          "id": "ao-colonial-new-mexico"
+        },
+        {
+          "id": "mexicomodern"
+        },
+        {
+          "id": "unitedstates"
+        }
+      ],
+      "connections": [
+        {
+          "id": "ao-cahokia-caddo",
+          "from": [
+            "cahokia"
+          ],
+          "to": [
+            "ao-caddo"
+          ],
+          "type": "contact",
+          "label": "Long-distance exchange",
+          "dates": "Mississippian-era networks",
+          "summary": "Caddo exchange routes linked their communities with distant centres including Cahokia.",
+          "note": "Trade connections do not imply shared political government or direct descent from Cahokia.",
+          "sources": [
+            "ao_caddoTrade"
+          ]
+        },
+        {
+          "id": "ao-chaco-pueblo",
+          "from": [
+            "chaco"
+          ],
+          "to": [
+            "ao-puebloans"
+          ],
+          "type": "contact",
+          "label": "Migration & descendants",
+          "dates": "After c. 1200 · continuing",
+          "summary": "People leaving the Chaco region joined communities in several directions, contributing to multiple present-day Pueblo populations.",
+          "note": "Exact migration routes vary; this does not identify one exclusive heir to Chaco.",
+          "sources": [
+            "ao_chacoDescendants"
+          ]
+        },
+        {
+          "id": "ao-pueblo-spanish",
+          "from": [
+            "ao-puebloans"
+          ],
+          "to": [
+            "ao-colonial-new-mexico"
+          ],
+          "type": "colonial",
+          "label": "Colonisation & resistance",
+          "dates": "From 1598 · revolt in 1680",
+          "summary": "Spanish colonisation imposed demands on Pueblo communities, which organised a major revolt in 1680.",
+          "note": "Pueblo peoples persisted; Spanish control was interrupted and reconquest was gradual and contested.",
+          "sources": [
+            "ao_newMexico",
+            "ao_puebloColonial"
+          ]
+        },
+        {
+          "id": "ao-new-mexico-mexico",
+          "from": [
+            "ao-colonial-new-mexico"
+          ],
+          "to": [
+            "mexicomodern"
+          ],
+          "type": "independence",
+          "label": "Mexico gains independence",
+          "dates": "1821",
+          "summary": "New Mexico became part of independent Mexico after Spanish colonial rule ended.",
+          "note": "A change in state jurisdiction did not end Pueblo communities or their own institutions.",
+          "sources": [
+            "ao_puebloColonial"
+          ]
+        },
+        {
+          "id": "ao-mexican-cession",
+          "from": [
+            "mexicomodern"
+          ],
+          "to": [
+            "unitedstates"
+          ],
+          "type": "conquest",
+          "label": "War & territorial cession",
+          "dates": "1846–1848",
+          "summary": "The Treaty of Guadalupe Hidalgo ended the U.S.–Mexican War and transferred extensive northern territory to the United States.",
+          "note": "Mexico continued as an independent state; Indigenous nations were not extinguished by this interstate boundary change.",
+          "sources": [
+            "ao_guadalupe"
+          ]
+        },
+        {
+          "id": "ao-caddo-removal",
+          "from": [
+            "ao-caddo"
+          ],
+          "to": [
+            "unitedstates"
+          ],
+          "type": "colonial",
+          "label": "Land cession & forced removal",
+          "dates": "1835 and later removals",
+          "summary": "A Caddo removal treaty with the United States was followed by dispersal and repeated forced removals.",
+          "note": "This links communities to the state that dispossessed them, not a claim that they ceased to exist or became its predecessor.",
+          "sources": [
+            "ao_caddoNation"
+          ]
+        }
+      ],
+      "description": "Caddo exchange networks, Chaco’s descendant communities and later colonial and interstate boundary changes. Indigenous histories continue."
+    },
+    {
+      "id": "pacific-networks",
+      "title": "Pacific voyaging, communities & modern states",
+      "region": "oceania",
+      "nodes": [
+        {
+          "id": "lapita"
+        },
+        {
+          "id": "ao-east-polynesia"
+        },
+        {
+          "id": "tonga"
+        },
+        {
+          "id": "ao-tonga-modern"
+        },
+        {
+          "id": "ao-fiji-societies"
+        },
+        {
+          "id": "ao-colonial-fiji"
+        },
+        {
+          "id": "fiji"
+        },
+        {
+          "id": "rapanui"
+        },
+        {
+          "id": "ao-rapa-nui-people"
+        },
+        {
+          "id": "ao-chile"
+        },
+        {
+          "id": "maori"
+        },
+        {
+          "id": "nanmadol"
+        },
+        {
+          "id": "ao-pohnpei"
+        },
+        {
+          "id": "ao-fsm"
+        }
+      ],
+      "connections": [
+        {
+          "id": "ao-lapita-tonga",
+          "from": [
+            "lapita"
+          ],
+          "to": [
+            "tonga"
+          ],
+          "type": "contact",
+          "label": "Settlement before Tuʻi Tonga",
+          "dates": "Settlement c. 1100–800 BCE · later chiefly societies",
+          "summary": "Lapita-associated voyagers settled Tonga long before the Tuʻi Tonga chiefly line developed.",
+          "note": "A settlement and cultural background link, not a claim that the Tuʻi Tonga polity existed in the Bronze Age.",
+          "sources": [
+            "ao_pacificVoyaging"
+          ]
+        },
+        {
+          "id": "ao-lapita-fiji",
+          "from": [
+            "lapita"
+          ],
+          "to": [
+            "ao-fiji-societies"
+          ],
+          "type": "contact",
+          "label": "Lapita settlement",
+          "dates": "c. 1100–800 BCE",
+          "summary": "Lapita-associated voyagers settled Fiji, forming part of its long and changing island histories.",
+          "note": "Material-culture associations do not make all Pacific peoples one ethnicity or state.",
+          "sources": [
+            "ao_pacificVoyaging"
+          ]
+        },
+        {
+          "id": "ao-west-east-polynesia",
+          "from": [
+            "lapita"
+          ],
+          "to": [
+            "ao-east-polynesia"
+          ],
+          "type": "contact",
+          "label": "Polynesian cultural development",
+          "dates": "Over many centuries · eastward voyages c. 1000 CE",
+          "summary": "Polynesian cultures emerged among western island communities before voyages expanded into East Polynesia.",
+          "note": "This compresses multiple stages through Fiji, Tonga and Samoa; it does not draw a direct Lapita-era voyage to every eastern island.",
+          "sources": [
+            "ao_lapitaPolynesia"
+          ]
+        },
+        {
+          "id": "ao-east-rapanui",
+          "from": [
+            "ao-east-polynesia"
+          ],
+          "to": [
+            "rapanui"
+          ],
+          "type": "contact",
+          "label": "Polynesian settlement",
+          "dates": "c. 1200–1300 CE · approximate",
+          "summary": "East Polynesian voyagers settled Rapa Nui, where distinctive monumental traditions developed.",
+          "note": "Dates remain approximate; this does not imply political rule from Tonga.",
+          "sources": [
+            "ao_lapitaPolynesia",
+            "ao_rapaNuiHeritage"
+          ]
+        },
+        {
+          "id": "ao-east-maori",
+          "from": [
+            "ao-east-polynesia"
+          ],
+          "to": [
+            "maori"
+          ],
+          "type": "contact",
+          "label": "Voyages to Aotearoa",
+          "dates": "c. 1250–1300 CE",
+          "summary": "Migrants from East Polynesian islands became the ancestors of Māori communities in Aotearoa.",
+          "note": "Many voyages and traditions are involved, rather than a single great fleet or an overseas empire.",
+          "sources": [
+            "ao_pacificVoyaging"
+          ]
+        },
+        {
+          "id": "ao-tonga-modernisation",
+          "from": [
+            "tonga"
+          ],
+          "to": [
+            "ao-tonga-modern"
+          ],
+          "type": "continuation",
+          "label": "Kingdom consolidation",
+          "dates": "1845 · constitution 1875",
+          "summary": "George Tupou I united the Tongan islands before the 1875 constitution established modern constitutional institutions.",
+          "note": "A transformation of chiefly and state authority, not an unchanged Tuʻi Tonga empire persisting to the present.",
+          "sources": [
+            "ao_tongaModern"
+          ]
+        },
+        {
+          "id": "ao-fiji-cession",
+          "from": [
+            "ao-fiji-societies"
+          ],
+          "to": [
+            "ao-colonial-fiji"
+          ],
+          "type": "colonial",
+          "label": "Cession & British rule",
+          "dates": "1874",
+          "summary": "The 1874 cession established British colonial rule in Fiji.",
+          "note": "The islands already contained Indigenous societies; colonial administration did not originate or replace their culture.",
+          "sources": [
+            "ao_fijiParliament"
+          ]
+        },
+        {
+          "id": "ao-fiji-independence",
+          "from": [
+            "ao-colonial-fiji"
+          ],
+          "to": [
+            "fiji"
+          ],
+          "type": "independence",
+          "label": "Fijian independence",
+          "dates": "10 October 1970",
+          "summary": "Fiji became independent from Britain in 1970.",
+          "note": "Later constitutional changes and coups are included in the broad modern-state entry.",
+          "sources": [
+            "ao_fijiParliament"
+          ]
+        },
+        {
+          "id": "ao-nanmadol-living",
+          "from": [
+            "nanmadol"
+          ],
+          "to": [
+            "ao-pohnpei"
+          ],
+          "type": "contact",
+          "label": "Chiefly traditions continue",
+          "dates": "To the present",
+          "summary": "Nan Madol remains connected to Pohnpei ceremonial traditions and the authority of the Nahnmwarki.",
+          "note": "Continuing institutions and heritage are distinct from an uninterrupted Saudeleur state.",
+          "sources": [
+            "ao_nanMadol"
+          ]
+        },
+        {
+          "id": "ao-pohnpei-federation",
+          "from": [
+            "ao-pohnpei"
+          ],
+          "to": [
+            "ao-fsm"
+          ],
+          "type": "union",
+          "label": "State in a federation",
+          "dates": "1978–1979 · Compact 1986",
+          "summary": "Pohnpei joined the constitutional federation that became the Federated States of Micronesia.",
+          "note": "The modern federation also includes Chuuk, Kosrae and Yap; centuries of changing colonial administrations lie between Nan Madol and this constitutional transition.",
+          "sources": [
+            "ao_fsm"
+          ]
+        },
+        {
+          "id": "ao-rapanui-living",
+          "from": [
+            "rapanui"
+          ],
+          "to": [
+            "ao-rapa-nui-people"
+          ],
+          "type": "contact",
+          "label": "A living culture",
+          "dates": "Beyond the monumental phase–present",
+          "summary": "Rapa Nui people maintain a living relationship with their island and cultural heritage.",
+          "note": "The end of the selected monumental-phase bar is not the end of Rapa Nui society.",
+          "sources": [
+            "ao_rapaNuiHeritage",
+            "ao_rapaNuiChile"
+          ]
+        },
+        {
+          "id": "ao-rapanui-chile",
+          "from": [
+            "ao-rapa-nui-people"
+          ],
+          "to": [
+            "ao-chile"
+          ],
+          "type": "colonial",
+          "label": "1888 agreement with Chile",
+          "dates": "1888",
+          "summary": "The Agreement of Wills formalised Rapa Nui’s incorporation into the Republic of Chile.",
+          "note": "This state relationship did not end Rapa Nui identity or local titles and authority; its meanings and consequences remain contested.",
+          "sources": [
+            "ao_rapaNuiChile"
+          ]
+        }
+      ],
+      "description": "Voyaging and cultural connections alongside selected modern constitutional transitions. These are not branches of a single Pacific empire."
+    },
+    {
+      "id": "australia-aotearoa",
+      "title": "Australia & Aotearoa New Zealand",
+      "region": "oceania",
+      "nodes": [
+        {
+          "id": "australia"
+        },
+        {
+          "id": "britishempire"
+        },
+        {
+          "id": "poster-colonial-australia"
+        },
+        {
+          "id": "australiamodern"
+        },
+        {
+          "id": "maori"
+        },
+        {
+          "id": "ao-colonial-nz"
+        },
+        {
+          "id": "newzealand"
+        }
+      ],
+      "connections": [
+        {
+          "id": "ao-first-fleet",
+          "from": [
+            "britishempire"
+          ],
+          "to": [
+            "poster-colonial-australia"
+          ],
+          "type": "colonial",
+          "label": "First Fleet & colonies",
+          "dates": "From 1788",
+          "summary": "Britain established a convict settlement at Sydney Cove in 1788, followed by expanding and separate colonies.",
+          "note": "The continent already belonged to many Indigenous nations; British control developed unevenly.",
+          "sources": [
+            "ao_australiaColonial"
+          ]
+        },
+        {
+          "id": "ao-aboriginal-colonisation",
+          "from": [
+            "australia"
+          ],
+          "to": [
+            "poster-colonial-australia"
+          ],
+          "type": "colonial",
+          "label": "Colonisation & dispossession",
+          "dates": "From 1788",
+          "summary": "British settlement disrupted and dispossessed Aboriginal communities while their cultures and resistance continued.",
+          "note": "The direction marks an encounter with an imposed colonial order, not cultural replacement or extinction.",
+          "sources": [
+            "ao_australiaColonial"
+          ]
+        },
+        {
+          "id": "ao-federation-australia",
+          "from": [
+            "poster-colonial-australia"
+          ],
+          "to": [
+            "australiamodern"
+          ],
+          "type": "union",
+          "label": "Six colonies federate",
+          "dates": "1 January 1901",
+          "summary": "Six British colonies united in the Commonwealth of Australia in 1901.",
+          "note": "Federation did not itself complete constitutional independence or end Indigenous histories.",
+          "sources": [
+            "ao_australiaFederation"
+          ]
+        },
+        {
+          "id": "ao-british-newzealand",
+          "from": [
+            "britishempire"
+          ],
+          "to": [
+            "ao-colonial-nz"
+          ],
+          "type": "colonial",
+          "label": "British colonial administration",
+          "dates": "1840–1841",
+          "summary": "The British Crown proclaimed sovereignty in 1840 and established New Zealand as a separate colony in 1841.",
+          "note": "A proclamation of sovereignty is not equivalent to universal Māori consent or immediate control of all territory.",
+          "sources": [
+            "ao_nzColony"
+          ]
+        },
+        {
+          "id": "ao-treaty-maori",
+          "from": [
+            "maori"
+          ],
+          "to": [
+            "ao-colonial-nz"
+          ],
+          "type": "contact",
+          "label": "Te Tiriti / Treaty of Waitangi",
+          "dates": "1840",
+          "summary": "Māori rangatira and the Crown signed a treaty whose Māori and English texts differ in meaning.",
+          "note": "This is a treaty relationship with disputed sovereignty and obligations, not a merger that ended Māori peoples or authority.",
+          "sources": [
+            "ao_nzTreaty"
+          ]
+        },
+        {
+          "id": "ao-dominion-newzealand",
+          "from": [
+            "ao-colonial-nz"
+          ],
+          "to": [
+            "newzealand"
+          ],
+          "type": "continuation",
+          "label": "Dominion & later autonomy",
+          "dates": "1907 · 1947 · 1986",
+          "summary": "New Zealand gained Dominion status in 1907, adopted the Statute of Westminster in 1947 and removed remaining British legislative authority in 1986.",
+          "note": "These were different stages, not one complete independence event in 1907.",
+          "sources": [
+            "ao_nzConstitution"
+          ]
+        }
+      ],
+      "description": "Continuing Indigenous histories, British colonisation, Australian federation and New Zealand’s treaty and constitutional transitions."
+    }
+  ],
+  "unconnected": [
+    {
+      "id": "caral",
+      "reason": "Shown as an early Andean urban centre. The reviewed evidence establishes its early urban and ceremonial importance but does not justify a direct political succession arrow to the much later Wari, Tiwanaku or Inca states.",
+      "sourceKeys": [
+        "ao_caral"
+      ]
+    }
+  ]
+}

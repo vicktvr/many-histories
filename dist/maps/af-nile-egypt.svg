@@ -1,0 +1,217 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 5404" width="1600" height="5404" role="group" aria-labelledby="map-title-af-nile-egypt map-desc-af-nile-egypt"><title id="map-title-af-nile-egypt">Nile Valley: Egypt, Nubia and changing rulers</title><desc id="map-desc-af-nile-egypt">Selected, sourced connections. Arrows label unions, divisions, conquest, independence, changes in rule, and contact. Node positions do not measure time or ancestry.  Select a node for Wikipedia or an arrow for its sources.</desc><defs>
+<marker id="arrow-af-nile-egypt-union" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#3b8274"/></marker>
+<marker id="arrow-af-nile-egypt-division" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#b88636"/></marker>
+<marker id="arrow-af-nile-egypt-conquest" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#aa6355"/></marker>
+<marker id="arrow-af-nile-egypt-independence" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#638350"/></marker>
+<marker id="arrow-af-nile-egypt-continuation" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#5d7f9d"/></marker>
+<marker id="arrow-af-nile-egypt-contact" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#8b7297"/></marker>
+<marker id="arrow-af-nile-egypt-colonial" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#9a8055"/></marker>
+<marker id="arrow-af-nile-egypt-context" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#92917a"/></marker>
+<marker id="arrow-af-nile-egypt-period" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#7d8c6f"/></marker>
+</defs><style>text{font-family:Arial,Helvetica,sans-serif;fill:#25372c}.map-node,.map-edge{cursor:pointer;outline:none}.map-node rect{stroke:#fffdf8;stroke-width:2}.map-node:hover rect,.map-node:focus rect{stroke:#3c5441;stroke-width:3}.map-label{font-size:21px;font-weight:600;pointer-events:none}.map-date{font-size:12px;fill:#617056;pointer-events:none}.edge-line{fill:none;stroke-width:2.5;stroke-linejoin:round;stroke-linecap:round}.edge-hit{fill:none;stroke:transparent;stroke-width:36;vector-effect:non-scaling-stroke}.map-edge:hover .edge-label-bg,.map-edge:focus .edge-label-bg{stroke:#334d3c;stroke-width:2}.map-edge:hover .edge-line,.map-edge:focus .edge-line{stroke-width:4}.edge-label{font-size:15px;font-weight:500;pointer-events:none}.map-heading{font-size:47px;font-weight:700;letter-spacing:-1.2px}.map-subtitle{font-size:24px;fill:#67785a}.map-micro{font-size:13px;fill:#8a977d}.map-node.dim{opacity:.15}.map-node.hit rect{stroke:#294332;stroke-width:4}.map-node.selected rect{stroke:#294332;stroke-width:4}.map-edge.related .edge-line{stroke-width:4.5}</style><rect width="100%" height="100%" fill="#fdfcf8"/><text class="map-heading" x="800" y="74" text-anchor="middle">EMPIRES &amp; CONNECTIONS</text><text class="map-subtitle" x="800" y="117" text-anchor="middle">Nile Valley: Egypt, Nubia and changing rulers</text><text class="map-micro" x="800" y="154" text-anchor="middle">Tap a node to read · Tap an arrow for the event and sources</text>
+<g class="map-edge" id="map-edge-af-nile-egypt-af-nile-exchange" data-connection="af-nile-exchange" data-map="af-nile-egypt" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Nubian kingdoms to Ancient Egyptian dynasties: Trade, migration and conflict. Open relationship details." style="--edge-color:#8b7297"><title>Contact / influence: Trade, migration and conflict</title>
+<path class="edge-hit" d="M628.74 314.34C602.37 340.33 571.1 371.16 552.37 389.62"/><path class="edge-line" stroke="#8b7297" stroke-dasharray="6 6" d="M628.74 314.34C602.37 340.33 571.1 371.16 552.37 389.62" marker-start="url(#arrow-af-nile-egypt-contact)"/>
+<path class="edge-hit" d="M552.36 424.37C571.12 442.86 602.47 473.77 628.88 499.8"/><path class="edge-line" stroke="#8b7297" stroke-dasharray="6 6" d="M552.36 424.37C571.12 442.86 602.47 473.77 628.88 499.8" marker-end="url(#arrow-af-nile-egypt-contact)"/>
+<rect class="edge-label-bg" x="412" y="390" width="247.5" height="34" rx="7" fill="#fdfcf8" stroke="#8b7297" stroke-opacity=".28"/>
+<text class="edge-label" x="535.75" y="412" text-anchor="middle">Trade, migration and conflict</text>
+</g>
+<g class="map-edge" id="map-edge-af-nile-egypt-af-kushite-egypt" data-connection="af-kushite-egypt" data-map="af-nile-egypt" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Nubian kingdoms to Ancient Egyptian dynasties: Kushite pharaohs in Egypt. Open relationship details." style="--edge-color:#aa6355"><title>Conquest: Kushite pharaohs in Egypt</title>
+<path class="edge-hit" d="M722.76 314.34C749.13 340.33 780.4 371.16 799.13 389.62"/><path class="edge-line" stroke="#aa6355"  d="M722.76 314.34C749.13 340.33 780.4 371.16 799.13 389.62"/>
+<path class="edge-hit" d="M799.14 424.37C780.38 442.86 749.03 473.77 722.62 499.8"/><path class="edge-line" stroke="#aa6355"  d="M799.14 424.37C780.38 442.86 749.03 473.77 722.62 499.8" marker-end="url(#arrow-af-nile-egypt-conquest)"/>
+<rect class="edge-label-bg" x="707" y="390" width="217.5" height="34" rx="7" fill="#fdfcf8" stroke="#aa6355" stroke-opacity=".28"/>
+<text class="edge-label" x="815.75" y="412" text-anchor="middle">Kushite pharaohs in Egypt</text>
+</g>
+<g class="map-edge" id="map-edge-af-nile-egypt-af-egypt-persia" data-connection="af-egypt-persia" data-map="af-nile-egypt" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Ancient Egyptian dynasties to Achaemenid Persian Empire: Persian conquest of Egypt. Open relationship details." style="--edge-color:#aa6355"><title>Conquest: Persian conquest of Egypt</title>
+<path class="edge-hit" d="M675.75 594.34C675.75 620.33 675.75 651.16 675.75 669.62"/><path class="edge-line" stroke="#aa6355"  d="M675.75 594.34C675.75 620.33 675.75 651.16 675.75 669.62"/>
+<path class="edge-hit" d="M675.75 704.37C675.75 722.86 675.75 753.77 675.75 779.8"/><path class="edge-line" stroke="#aa6355"  d="M675.75 704.37C675.75 722.86 675.75 753.77 675.75 779.8" marker-end="url(#arrow-af-nile-egypt-conquest)"/>
+<rect class="edge-label-bg" x="567" y="670" width="217.5" height="34" rx="7" fill="#fdfcf8" stroke="#aa6355" stroke-opacity=".28"/>
+<text class="edge-label" x="675.75" y="692" text-anchor="middle">Persian conquest of Egypt</text>
+</g>
+<g class="map-edge" id="map-edge-af-nile-egypt-af-egypt-alexander" data-connection="af-egypt-alexander" data-map="af-nile-egypt" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Achaemenid Persian Empire to Macedon: Alexander enters Egypt. Open relationship details." style="--edge-color:#aa6355"><title>Conquest: Alexander enters Egypt</title>
+<path class="edge-hit" d="M675.75 874.34C675.75 900.33 675.75 931.16 675.75 949.62"/><path class="edge-line" stroke="#aa6355"  d="M675.75 874.34C675.75 900.33 675.75 931.16 675.75 949.62"/>
+<path class="edge-hit" d="M675.75 984.37C675.75 1002.86 675.75 1033.77 675.75 1059.8"/><path class="edge-line" stroke="#aa6355"  d="M675.75 984.37C675.75 1002.86 675.75 1033.77 675.75 1059.8" marker-end="url(#arrow-af-nile-egypt-conquest)"/>
+<rect class="edge-label-bg" x="578.25" y="950" width="195" height="34" rx="7" fill="#fdfcf8" stroke="#aa6355" stroke-opacity=".28"/>
+<text class="edge-label" x="675.75" y="972" text-anchor="middle">Alexander enters Egypt</text>
+</g>
+<g class="map-edge" id="map-edge-af-nile-egypt-af-egypt-ptolemy" data-connection="af-egypt-ptolemy" data-map="af-nile-egypt" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Macedon to Ptolemaic Kingdom: Ptolemaic kingship. Open relationship details." style="--edge-color:#b88636"><title>Division: Ptolemaic kingship</title>
+<path class="edge-hit" d="M675.75 1154.34C675.75 1180.33 675.75 1211.16 675.75 1229.62"/><path class="edge-line" stroke="#b88636"  d="M675.75 1154.34C675.75 1180.33 675.75 1211.16 675.75 1229.62"/>
+<path class="edge-hit" d="M675.75 1264.37C675.75 1282.86 675.75 1313.77 675.75 1339.8"/><path class="edge-line" stroke="#b88636"  d="M675.75 1264.37C675.75 1282.86 675.75 1313.77 675.75 1339.8" marker-end="url(#arrow-af-nile-egypt-division)"/>
+<rect class="edge-label-bg" x="593.25" y="1230" width="165" height="34" rx="7" fill="#fdfcf8" stroke="#b88636" stroke-opacity=".28"/>
+<text class="edge-label" x="675.75" y="1252" text-anchor="middle">Ptolemaic kingship</text>
+</g>
+<g class="map-edge" id="map-edge-af-nile-egypt-af-egypt-rome" data-connection="af-egypt-rome" data-map="af-nile-egypt" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Ptolemaic Kingdom to Roman Republic: Egypt annexed by Rome. Open relationship details." style="--edge-color:#aa6355"><title>Conquest: Egypt annexed by Rome</title>
+<path class="edge-hit" d="M675.75 1434.34C675.75 1460.33 675.75 1491.16 675.75 1509.62"/><path class="edge-line" stroke="#aa6355"  d="M675.75 1434.34C675.75 1460.33 675.75 1491.16 675.75 1509.62"/>
+<path class="edge-hit" d="M675.75 1544.37C675.75 1562.86 675.75 1593.77 675.75 1619.8"/><path class="edge-line" stroke="#aa6355"  d="M675.75 1544.37C675.75 1562.86 675.75 1593.77 675.75 1619.8" marker-end="url(#arrow-af-nile-egypt-conquest)"/>
+<rect class="edge-label-bg" x="582" y="1510" width="187.5" height="34" rx="7" fill="#fdfcf8" stroke="#aa6355" stroke-opacity=".28"/>
+<text class="edge-label" x="675.75" y="1532" text-anchor="middle">Egypt annexed by Rome</text>
+</g>
+<g class="map-edge" id="map-edge-af-nile-egypt-af-egypt-byzantium" data-connection="af-egypt-byzantium" data-map="af-nile-egypt" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Roman imperial rule · West to Eastern Roman / Byzantine Empire: Eastern Roman government. Open relationship details." style="--edge-color:#5d7f9d"><title>Change of rule: Eastern Roman government</title>
+<path class="edge-hit" d="M675.75 1994.34C675.75 2020.33 675.75 2051.16 675.75 2069.62"/><path class="edge-line" stroke="#5d7f9d"  d="M675.75 1994.34C675.75 2020.33 675.75 2051.16 675.75 2069.62"/>
+<path class="edge-hit" d="M675.75 2104.37C675.75 2122.86 675.75 2153.77 675.75 2179.8"/><path class="edge-line" stroke="#5d7f9d"  d="M675.75 2104.37C675.75 2122.86 675.75 2153.77 675.75 2179.8" marker-end="url(#arrow-af-nile-egypt-continuation)"/>
+<rect class="edge-label-bg" x="570.75" y="2070" width="210" height="34" rx="7" fill="#fdfcf8" stroke="#5d7f9d" stroke-opacity=".28"/>
+<text class="edge-label" x="675.75" y="2092" text-anchor="middle">Eastern Roman government</text>
+</g>
+<g class="map-edge" id="map-edge-af-nile-egypt-af-egypt-arab-conquest" data-connection="af-egypt-arab-conquest" data-map="af-nile-egypt" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Eastern Roman / Byzantine Empire to Rashidun caliphate: Arab-Muslim conquest. Open relationship details." style="--edge-color:#aa6355"><title>Conquest: Arab-Muslim conquest</title>
+<path class="edge-hit" d="M675.75 2274.34C675.75 2300.33 675.75 2331.16 675.75 2349.62"/><path class="edge-line" stroke="#aa6355"  d="M675.75 2274.34C675.75 2300.33 675.75 2331.16 675.75 2349.62"/>
+<path class="edge-hit" d="M675.75 2384.37C675.75 2402.86 675.75 2433.77 675.75 2459.8"/><path class="edge-line" stroke="#aa6355"  d="M675.75 2384.37C675.75 2402.86 675.75 2433.77 675.75 2459.8" marker-end="url(#arrow-af-nile-egypt-conquest)"/>
+<rect class="edge-label-bg" x="585.75" y="2350" width="180" height="34" rx="7" fill="#fdfcf8" stroke="#aa6355" stroke-opacity=".28"/>
+<text class="edge-label" x="675.75" y="2372" text-anchor="middle">Arab-Muslim conquest</text>
+</g>
+<g class="map-edge" id="map-edge-af-nile-egypt-af-egypt-umayyad" data-connection="af-egypt-umayyad" data-map="af-nile-egypt" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Rashidun caliphate to Umayyad caliphate · Damascus: Egypt under Umayyad rule. Open relationship details." style="--edge-color:#5d7f9d"><title>Change of rule: Egypt under Umayyad rule</title>
+<path class="edge-hit" d="M675.75 2554.34C675.75 2580.33 675.75 2611.16 675.75 2629.62"/><path class="edge-line" stroke="#5d7f9d"  d="M675.75 2554.34C675.75 2580.33 675.75 2611.16 675.75 2629.62"/>
+<path class="edge-hit" d="M675.75 2664.37C675.75 2682.86 675.75 2713.77 675.75 2739.8"/><path class="edge-line" stroke="#5d7f9d"  d="M675.75 2664.37C675.75 2682.86 675.75 2713.77 675.75 2739.8" marker-end="url(#arrow-af-nile-egypt-continuation)"/>
+<rect class="edge-label-bg" x="570.75" y="2630" width="210" height="34" rx="7" fill="#fdfcf8" stroke="#5d7f9d" stroke-opacity=".28"/>
+<text class="edge-label" x="675.75" y="2652" text-anchor="middle">Egypt under Umayyad rule</text>
+</g>
+<g class="map-edge" id="map-edge-af-nile-egypt-af-egypt-abbasid" data-connection="af-egypt-abbasid" data-map="af-nile-egypt" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Umayyad caliphate · Damascus to Abbasid caliphate · Baghdad: Abbasid provincial rule. Open relationship details." style="--edge-color:#5d7f9d"><title>Change of rule: Abbasid provincial rule</title>
+<path class="edge-hit" d="M675.75 2834.34C675.75 2860.33 675.75 2891.16 675.75 2909.62"/><path class="edge-line" stroke="#5d7f9d"  d="M675.75 2834.34C675.75 2860.33 675.75 2891.16 675.75 2909.62"/>
+<path class="edge-hit" d="M675.75 2944.37C675.75 2962.86 675.75 2993.77 675.75 3019.8"/><path class="edge-line" stroke="#5d7f9d"  d="M675.75 2944.37C675.75 2962.86 675.75 2993.77 675.75 3019.8" marker-end="url(#arrow-af-nile-egypt-continuation)"/>
+<rect class="edge-label-bg" x="574.5" y="2910" width="202.5" height="34" rx="7" fill="#fdfcf8" stroke="#5d7f9d" stroke-opacity=".28"/>
+<text class="edge-label" x="675.75" y="2932" text-anchor="middle">Abbasid provincial rule</text>
+</g>
+<g class="map-edge" id="map-edge-af-nile-egypt-af-egypt-regional-rule" data-connection="af-egypt-regional-rule" data-map="af-nile-egypt" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Abbasid caliphate · Baghdad to Egypt: changing governments: Autonomous and restored governments. Open relationship details." style="--edge-color:#5d7f9d"><title>Change of rule: Autonomous and restored governments</title>
+<path class="edge-hit" d="M675.75 3114.34C675.75 3140.33 675.75 3171.16 675.75 3189.62"/><path class="edge-line" stroke="#5d7f9d"  d="M675.75 3114.34C675.75 3140.33 675.75 3171.16 675.75 3189.62"/>
+<path class="edge-hit" d="M675.75 3224.37C675.75 3242.86 675.75 3273.77 675.75 3299.8"/><path class="edge-line" stroke="#5d7f9d"  d="M675.75 3224.37C675.75 3242.86 675.75 3273.77 675.75 3299.8" marker-end="url(#arrow-af-nile-egypt-continuation)"/>
+<rect class="edge-label-bg" x="529.5" y="3190" width="292.5" height="34" rx="7" fill="#fdfcf8" stroke="#5d7f9d" stroke-opacity=".28"/>
+<text class="edge-label" x="675.75" y="3212" text-anchor="middle">Autonomous and restored governments</text>
+</g>
+<g class="map-edge" id="map-edge-af-nile-egypt-af-fatimid-egypt" data-connection="af-fatimid-egypt" data-map="af-nile-egypt" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Egypt: changing governments to Fatimid Caliphate: Fatimids conquer Egypt. Open relationship details." style="--edge-color:#aa6355"><title>Conquest: Fatimids conquer Egypt</title>
+<path class="edge-hit" d="M675.75 3394.34C675.75 3420.33 675.75 3451.16 675.75 3469.62"/><path class="edge-line" stroke="#aa6355"  d="M675.75 3394.34C675.75 3420.33 675.75 3451.16 675.75 3469.62"/>
+<path class="edge-hit" d="M675.75 3504.37C675.75 3522.86 675.75 3553.77 675.75 3579.8"/><path class="edge-line" stroke="#aa6355"  d="M675.75 3504.37C675.75 3522.86 675.75 3553.77 675.75 3579.8" marker-end="url(#arrow-af-nile-egypt-conquest)"/>
+<rect class="edge-label-bg" x="578.25" y="3470" width="195" height="34" rx="7" fill="#fdfcf8" stroke="#aa6355" stroke-opacity=".28"/>
+<text class="edge-label" x="675.75" y="3492" text-anchor="middle">Fatimids conquer Egypt</text>
+</g>
+<g class="map-edge" id="map-edge-af-nile-egypt-af-ayyubid-egypt" data-connection="af-ayyubid-egypt" data-map="af-nile-egypt" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Fatimid Caliphate to Ayyubid Sultanate: Saladin ends Fatimid rule. Open relationship details." style="--edge-color:#5d7f9d"><title>Change of rule: Saladin ends Fatimid rule</title>
+<path class="edge-hit" d="M675.75 3674.34C675.75 3700.33 675.75 3731.16 675.75 3749.62"/><path class="edge-line" stroke="#5d7f9d"  d="M675.75 3674.34C675.75 3700.33 675.75 3731.16 675.75 3749.62"/>
+<path class="edge-hit" d="M675.75 3784.37C675.75 3802.86 675.75 3833.77 675.75 3859.8"/><path class="edge-line" stroke="#5d7f9d"  d="M675.75 3784.37C675.75 3802.86 675.75 3833.77 675.75 3859.8" marker-end="url(#arrow-af-nile-egypt-continuation)"/>
+<rect class="edge-label-bg" x="567" y="3750" width="217.5" height="34" rx="7" fill="#fdfcf8" stroke="#5d7f9d" stroke-opacity=".28"/>
+<text class="edge-label" x="675.75" y="3772" text-anchor="middle">Saladin ends Fatimid rule</text>
+</g>
+<g class="map-edge" id="map-edge-af-nile-egypt-af-mamluk-egypt" data-connection="af-mamluk-egypt" data-map="af-nile-egypt" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Ayyubid Sultanate to Mamluk Sultanate: Mamluks take power in Egypt. Open relationship details." style="--edge-color:#5d7f9d"><title>Change of rule: Mamluks take power in Egypt</title>
+<path class="edge-hit" d="M675.75 3954.34C675.75 3980.33 675.75 4011.16 675.75 4029.62"/><path class="edge-line" stroke="#5d7f9d"  d="M675.75 3954.34C675.75 3980.33 675.75 4011.16 675.75 4029.62"/>
+<path class="edge-hit" d="M675.75 4064.37C675.75 4082.86 675.75 4113.77 675.75 4139.8"/><path class="edge-line" stroke="#5d7f9d"  d="M675.75 4064.37C675.75 4082.86 675.75 4113.77 675.75 4139.8" marker-end="url(#arrow-af-nile-egypt-continuation)"/>
+<rect class="edge-label-bg" x="559.5" y="4030" width="232.5" height="34" rx="7" fill="#fdfcf8" stroke="#5d7f9d" stroke-opacity=".28"/>
+<text class="edge-label" x="675.75" y="4052" text-anchor="middle">Mamluks take power in Egypt</text>
+</g>
+<g class="map-edge" id="map-edge-af-nile-egypt-af-ottoman-egypt" data-connection="af-ottoman-egypt" data-map="af-nile-egypt" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Mamluk Sultanate to Ottoman Empire: Ottoman conquest. Open relationship details." style="--edge-color:#aa6355"><title>Conquest: Ottoman conquest</title>
+<path class="edge-hit" d="M675.75 4234.34C675.75 4260.33 675.75 4291.16 675.75 4309.62"/><path class="edge-line" stroke="#aa6355"  d="M675.75 4234.34C675.75 4260.33 675.75 4291.16 675.75 4309.62"/>
+<path class="edge-hit" d="M675.75 4344.37C675.75 4362.86 675.75 4393.77 675.75 4419.8"/><path class="edge-line" stroke="#aa6355"  d="M675.75 4344.37C675.75 4362.86 675.75 4393.77 675.75 4419.8" marker-end="url(#arrow-af-nile-egypt-conquest)"/>
+<rect class="edge-label-bg" x="600.75" y="4310" width="150" height="34" rx="7" fill="#fdfcf8" stroke="#aa6355" stroke-opacity=".28"/>
+<text class="edge-label" x="675.75" y="4332" text-anchor="middle">Ottoman conquest</text>
+</g>
+<g class="map-edge" id="map-edge-af-nile-egypt-af-muhammadali" data-connection="af-muhammadali" data-map="af-nile-egypt" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Ottoman Empire to Muhammad Ali dynasty: Muhammad Ali appointed. Open relationship details." style="--edge-color:#5d7f9d"><title>Change of rule: Muhammad Ali appointed</title>
+<path class="edge-hit" d="M675.75 4514.34C675.75 4540.33 675.75 4571.16 675.75 4589.62"/><path class="edge-line" stroke="#5d7f9d"  d="M675.75 4514.34C675.75 4540.33 675.75 4571.16 675.75 4589.62"/>
+<path class="edge-hit" d="M686.31 4624.37C698.23 4642.86 718.17 4673.77 734.95 4699.8"/><path class="edge-line" stroke="#5d7f9d"  d="M686.31 4624.37C698.23 4642.86 718.17 4673.77 734.95 4699.8" marker-end="url(#arrow-af-nile-egypt-continuation)"/>
+<rect class="edge-label-bg" x="578.25" y="4590" width="195" height="34" rx="7" fill="#fdfcf8" stroke="#5d7f9d" stroke-opacity=".28"/>
+<text class="edge-label" x="675.75" y="4612" text-anchor="middle">Muhammad Ali appointed</text>
+</g>
+<g class="map-edge" id="map-edge-af-nile-egypt-af-british-egypt" data-connection="af-british-egypt" data-map="af-nile-egypt" role="button" tabindex="0" aria-haspopup="dialog" aria-label="British Empire to Muhammad Ali dynasty: British occupation. Open relationship details." style="--edge-color:#9a8055"><title>Colonial rule: British occupation</title>
+<path class="edge-hit" d="M969.84 4514.34C950.81 4540.33 928.25 4571.16 914.74 4589.62"/><path class="edge-line" stroke="#9a8055"  d="M969.84 4514.34C950.81 4540.33 928.25 4571.16 914.74 4589.62"/>
+<path class="edge-hit" d="M886.38 4624.37C867.89 4642.86 836.98 4673.77 810.95 4699.8"/><path class="edge-line" stroke="#9a8055"  d="M886.38 4624.37C867.89 4642.86 836.98 4673.77 810.95 4699.8" marker-end="url(#arrow-af-nile-egypt-colonial)"/>
+<rect class="edge-label-bg" x="820.25" y="4590" width="165" height="34" rx="7" fill="#fdfcf8" stroke="#9a8055" stroke-opacity=".28"/>
+<text class="edge-label" x="902.75" y="4612" text-anchor="middle">British occupation</text>
+</g>
+<g class="map-edge" id="map-edge-af-nile-egypt-af-egypt-independence" data-connection="af-egypt-independence" data-map="af-nile-egypt" role="button" tabindex="0" aria-haspopup="dialog" aria-label="British Empire to Egypt · modern: Limited independence recognised. Open relationship details." style="--edge-color:#638350"><title>Independence: Limited independence recognised</title>
+<path class="edge-hit" d="M1012.56 4514.22C1024.63 4577.52 1045.71 4688.07 1053.62 4729.61"/><path class="edge-line" stroke="#638350"  d="M1012.56 4514.22C1024.63 4577.52 1045.71 4688.07 1053.62 4729.61"/>
+<path class="edge-hit" d="M1048.27 4764.15C1026.57 4805.46 968.42 4916.19 935.1 4979.64"/><path class="edge-line" stroke="#638350"  d="M1048.27 4764.15C1026.57 4805.46 968.42 4916.19 935.1 4979.64" marker-end="url(#arrow-af-nile-egypt-independence)"/>
+<rect class="edge-label-bg" x="925.5" y="4730" width="262.5" height="34" rx="7" fill="#fdfcf8" stroke="#638350" stroke-opacity=".28"/>
+<text class="edge-label" x="1056.75" y="4752" text-anchor="middle">Limited independence recognised</text>
+</g>
+<g class="map-edge" id="map-edge-af-nile-egypt-af-egypt-republic" data-connection="af-egypt-republic" data-map="af-nile-egypt" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Muhammad Ali dynasty to Egypt · modern: Monarchy ends; republic declared. Open relationship details." style="--edge-color:#5d7f9d"><title>Change of rule: Monarchy ends; republic declared</title>
+<path class="edge-hit" d="M779.19 4794.34C787.29 4820.33 796.89 4851.16 802.65 4869.62"/><path class="edge-line" stroke="#5d7f9d"  d="M779.19 4794.34C787.29 4820.33 796.89 4851.16 802.65 4869.62"/>
+<path class="edge-hit" d="M819.97 4904.37C833.77 4922.86 856.84 4953.77 876.27 4979.8"/><path class="edge-line" stroke="#5d7f9d"  d="M819.97 4904.37C833.77 4922.86 856.84 4953.77 876.27 4979.8" marker-end="url(#arrow-af-nile-egypt-continuation)"/>
+<rect class="edge-label-bg" x="672.75" y="4870" width="270" height="34" rx="7" fill="#fdfcf8" stroke="#5d7f9d" stroke-opacity=".28"/>
+<text class="edge-label" x="807.75" y="4892" text-anchor="middle">Monarchy ends; republic declared</text>
+</g>
+<g class="map-edge" id="map-edge-af-nile-egypt-af-republic-imperial-rule" data-connection="af-republic-imperial-rule" data-map="af-nile-egypt" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Roman Republic to Roman imperial rule · West: Augustus and imperial government. Open relationship details." style="--edge-color:#5d7f9d"><title>Change of rule: Augustus and imperial government</title>
+<path class="edge-hit" d="M675.75 1714.34C675.75 1740.33 675.75 1771.16 675.75 1789.62"/><path class="edge-line" stroke="#5d7f9d"  d="M675.75 1714.34C675.75 1740.33 675.75 1771.16 675.75 1789.62"/>
+<path class="edge-hit" d="M675.75 1824.37C675.75 1842.86 675.75 1873.77 675.75 1899.8"/><path class="edge-line" stroke="#5d7f9d"  d="M675.75 1824.37C675.75 1842.86 675.75 1873.77 675.75 1899.8" marker-end="url(#arrow-af-nile-egypt-continuation)"/>
+<rect class="edge-label-bg" x="540.75" y="1790" width="270" height="34" rx="7" fill="#fdfcf8" stroke="#5d7f9d" stroke-opacity=".28"/>
+<text class="edge-label" x="675.75" y="1812" text-anchor="middle">Augustus and imperial government</text>
+</g>
+<g class="map-node" id="map-node-af-nile-egypt-nubia" data-history="nubia" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Nubian kingdoms, c. 2400 BCE–350 CE. Open Wikipedia." data-map="af-nile-egypt"><title>Nubian kingdoms · c. 2400 BCE–350 CE</title><rect x="561.75" y="220" width="228" height="94" rx="10" fill="#87c5ae"/>
+<text class="map-label" style="font-size:21px" x="675.75" y="263" text-anchor="middle">Nubian kingdoms</text>
+<text class="map-date" x="675.75" y="299" text-anchor="middle">c. 2400 BCE–350 CE</text></g>
+<g class="map-node" id="map-node-af-nile-egypt-egypt" data-history="egypt" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Ancient Egyptian dynasties, c. 3100–30 BCE. Open Wikipedia." data-map="af-nile-egypt"><title>Ancient Egyptian dynasties · c. 3100–30 BCE</title><rect x="561.75" y="500" width="228" height="94" rx="10" fill="#efb34c"/>
+<text class="map-label" style="font-size:21px" x="675.75" y="531" text-anchor="middle">Ancient Egyptian</text>
+<text class="map-label" style="font-size:21px" x="675.75" y="555" text-anchor="middle">dynasties</text>
+<text class="map-date" x="675.75" y="579" text-anchor="middle">c. 3100–30 BCE</text></g>
+<g class="map-node" id="map-node-af-nile-egypt-persia" data-history="persia" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Achaemenid Persian Empire, 550–330 BCE. Open Wikipedia." data-map="af-nile-egypt"><title>Achaemenid Persian Empire · 550–330 BCE</title><rect x="561.75" y="780" width="228" height="94" rx="10" fill="#9bc6b5"/>
+<text class="map-label" style="font-size:20px" x="675.75" y="811" text-anchor="middle">Achaemenid Persian</text>
+<text class="map-label" style="font-size:20px" x="675.75" y="835" text-anchor="middle">Empire</text>
+<text class="map-date" x="675.75" y="859" text-anchor="middle">550–330 BCE</text></g>
+<g class="map-node" id="map-node-af-nile-egypt-cn-alexander" data-history="cn-alexander" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Alexander’s empire, 334–323 BCE · conquest phase. Open Wikipedia." data-map="af-nile-egypt"><title>Alexander’s empire · 334–323 BCE · conquest phase</title><rect x="561.75" y="1060" width="228" height="94" rx="10" fill="#92c4bd"/>
+<text class="map-label" style="font-size:21px" x="675.75" y="1103" text-anchor="middle">Macedon</text>
+<text class="map-date" x="675.75" y="1139" text-anchor="middle">334–323 BCE · conquest phase</text></g>
+<g class="map-node" id="map-node-af-nile-egypt-cn-ptolemaic" data-history="cn-ptolemaic" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Ptolemaic Kingdom, 305–30 BCE. Open Wikipedia." data-map="af-nile-egypt"><title>Ptolemaic Kingdom · 305–30 BCE</title><rect x="561.75" y="1340" width="228" height="94" rx="10" fill="#ef9479"/>
+<text class="map-label" style="font-size:21px" x="675.75" y="1383" text-anchor="middle">Ptolemaic Kingdom</text>
+<text class="map-date" x="675.75" y="1419" text-anchor="middle">305–30 BCE</text></g>
+<g class="map-node" id="map-node-af-nile-egypt-rome" data-history="rome" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Roman imperial rule · West, 27 BCE–476 CE. Open Wikipedia." data-map="af-nile-egypt"><title>Roman imperial rule · West · 27 BCE–476 CE</title><rect x="561.75" y="1900" width="228" height="94" rx="10" fill="#b7d08f"/>
+<text class="map-label" style="font-size:20px" x="675.75" y="1931" text-anchor="middle">Roman imperial rule</text>
+<text class="map-label" style="font-size:20px" x="675.75" y="1955" text-anchor="middle">· West</text>
+<text class="map-date" x="675.75" y="1979" text-anchor="middle">27 BCE–476 CE</text></g>
+<g class="map-node" id="map-node-af-nile-egypt-byzantium" data-history="byzantium" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Eastern Roman / Byzantine Empire, 330–1453 CE. Open Wikipedia." data-map="af-nile-egypt"><title>Eastern Roman / Byzantine Empire · 330–1453 CE</title><rect x="561.75" y="2180" width="228" height="94" rx="10" fill="#ee9792"/>
+<text class="map-label" style="font-size:21px" x="675.75" y="2211" text-anchor="middle">Eastern Roman /</text>
+<text class="map-label" style="font-size:21px" x="675.75" y="2235" text-anchor="middle">Byzantine Empire</text>
+<text class="map-date" x="675.75" y="2259" text-anchor="middle">330–1453</text></g>
+<g class="map-node" id="map-node-af-nile-egypt-rashidun" data-history="rashidun" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Rashidun caliphate, 632 CE–661 CE. Open Wikipedia." data-map="af-nile-egypt"><title>Rashidun caliphate · 632 CE–661 CE</title><rect x="561.75" y="2460" width="228" height="94" rx="10" fill="#e9c56b"/>
+<text class="map-label" style="font-size:21px" x="675.75" y="2503" text-anchor="middle">Rashidun caliphate</text>
+<text class="map-date" x="675.75" y="2539" text-anchor="middle">632–661</text></g>
+<g class="map-node" id="map-node-af-nile-egypt-umayyad" data-history="umayyad" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Umayyad caliphate · Damascus, 661 CE–750 CE. Open Wikipedia." data-map="af-nile-egypt"><title>Umayyad caliphate · Damascus · 661 CE–750 CE</title><rect x="561.75" y="2740" width="228" height="94" rx="10" fill="#eab18d"/>
+<text class="map-label" style="font-size:20px" x="675.75" y="2771" text-anchor="middle">Umayyad caliphate ·</text>
+<text class="map-label" style="font-size:20px" x="675.75" y="2795" text-anchor="middle">Damascus</text>
+<text class="map-date" x="675.75" y="2819" text-anchor="middle">661–750</text></g>
+<g class="map-node" id="map-node-af-nile-egypt-abbasid" data-history="abbasid" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Abbasid caliphate · Baghdad, 750–1258 CE. Open Wikipedia." data-map="af-nile-egypt"><title>Abbasid caliphate · Baghdad · 750–1258 CE</title><rect x="561.75" y="3020" width="228" height="94" rx="10" fill="#e1ce82"/>
+<text class="map-label" style="font-size:21px" x="675.75" y="3051" text-anchor="middle">Abbasid caliphate ·</text>
+<text class="map-label" style="font-size:21px" x="675.75" y="3075" text-anchor="middle">Baghdad</text>
+<text class="map-date" x="675.75" y="3099" text-anchor="middle">750–1258</text></g>
+<g class="map-node" id="map-node-af-nile-egypt-af-egypt-regional" data-history="af-egypt-regional" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Egypt: Tulunid, Abbasid and Ikhshidid governments, 868–969 CE · changing governments. Open Wikipedia." data-map="af-nile-egypt"><title>Egypt: Tulunid, Abbasid and Ikhshidid governments · 868–969 CE · changing governments</title><rect x="561.75" y="3300" width="228" height="94" rx="10" fill="#8ebfd1"/>
+<text class="map-label" style="font-size:21px" x="675.75" y="3331" text-anchor="middle">Egypt: changing</text>
+<text class="map-label" style="font-size:21px" x="675.75" y="3355" text-anchor="middle">governments</text>
+<text class="map-date" x="675.75" y="3379" text-anchor="middle">868–969 · changing governments</text></g>
+<g class="map-node" id="map-node-af-nile-egypt-fatimid" data-history="fatimid" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Fatimid Caliphate, 909 CE–1171 CE. Open Wikipedia." data-map="af-nile-egypt"><title>Fatimid Caliphate · 909 CE–1171 CE</title><rect x="561.75" y="3580" width="228" height="94" rx="10" fill="#91c399"/>
+<text class="map-label" style="font-size:21px" x="675.75" y="3623" text-anchor="middle">Fatimid Caliphate</text>
+<text class="map-date" x="675.75" y="3659" text-anchor="middle">909–1171</text></g>
+<g class="map-node" id="map-node-af-nile-egypt-ayyubid" data-history="ayyubid" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Ayyubid Sultanate, 1171 CE–1260 CE. Open Wikipedia." data-map="af-nile-egypt"><title>Ayyubid Sultanate · 1171 CE–1260 CE</title><rect x="561.75" y="3860" width="228" height="94" rx="10" fill="#e8a4a1"/>
+<text class="map-label" style="font-size:21px" x="675.75" y="3903" text-anchor="middle">Ayyubid Sultanate</text>
+<text class="map-date" x="675.75" y="3939" text-anchor="middle">1171–1260</text></g>
+<g class="map-node" id="map-node-af-nile-egypt-mamluk" data-history="mamluk" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Mamluk Sultanate · Egypt and Syria, 1250 CE–1517 CE. Open Wikipedia." data-map="af-nile-egypt"><title>Mamluk Sultanate · Egypt and Syria · 1250 CE–1517 CE</title><rect x="561.75" y="4140" width="228" height="94" rx="10" fill="#e6ac5c"/>
+<text class="map-label" style="font-size:21px" x="675.75" y="4183" text-anchor="middle">Mamluk Sultanate</text>
+<text class="map-date" x="675.75" y="4219" text-anchor="middle">1250–1517</text></g>
+<g class="map-node" id="map-node-af-nile-egypt-ottoman" data-history="ottoman" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Ottoman Empire, c. 1299–1922 CE. Open Wikipedia." data-map="af-nile-egypt"><title>Ottoman Empire · c. 1299–1922 CE</title><rect x="561.75" y="4420" width="228" height="94" rx="10" fill="#86b5c2"/>
+<text class="map-label" style="font-size:21px" x="675.75" y="4463" text-anchor="middle">Ottoman Empire</text>
+<text class="map-date" x="675.75" y="4499" text-anchor="middle">c. 1299–1922</text></g>
+<g class="map-node" id="map-node-af-nile-egypt-muhammad-ali" data-history="muhammad-ali" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Egypt · Muhammad Ali dynasty, 1805 CE–1953 CE. Open Wikipedia." data-map="af-nile-egypt"><title>Egypt · Muhammad Ali dynasty · 1805 CE–1953 CE</title><rect x="650.75" y="4700" width="228" height="94" rx="10" fill="#e6ac5c"/>
+<text class="map-label" style="font-size:21px" x="764.75" y="4731" text-anchor="middle">Muhammad Ali</text>
+<text class="map-label" style="font-size:21px" x="764.75" y="4755" text-anchor="middle">dynasty</text>
+<text class="map-date" x="764.75" y="4779" text-anchor="middle">1805–1953</text></g>
+<g class="map-node" id="map-node-af-nile-egypt-britishempire" data-history="britishempire" role="button" tabindex="0" aria-haspopup="dialog" aria-label="British Empire · major overseas phase, 1607 CE–1997 CE. Open Wikipedia." data-map="af-nile-egypt"><title>British Empire · major overseas phase · 1607 CE–1997 CE</title><rect x="889.75" y="4420" width="228" height="94" rx="10" fill="#edbc75"/>
+<text class="map-label" style="font-size:21px" x="1003.75" y="4463" text-anchor="middle">British Empire</text>
+<text class="map-date" x="1003.75" y="4499" text-anchor="middle">1607–1997</text></g>
+<g class="map-node" id="map-node-af-nile-egypt-egyptmodern" data-history="egyptmodern" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Egypt · modern independent eras, 1922 CE–present. Open Wikipedia." data-map="af-nile-egypt"><title>Egypt · modern independent eras · 1922 CE–present</title><rect x="796.75" y="4980" width="228" height="94" rx="10" fill="#efb34c"/>
+<text class="map-label" style="font-size:21px" x="910.75" y="5023" text-anchor="middle">Egypt · modern</text>
+<text class="map-date" x="910.75" y="5059" text-anchor="middle">1922–present</text></g>
+<g class="map-node" id="map-node-af-nile-egypt-romanrepublic" data-history="romanrepublic" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Roman Republic, 509 BCE–27 BCE. Open Wikipedia." data-map="af-nile-egypt"><title>Roman Republic · 509 BCE–27 BCE</title><rect x="561.75" y="1620" width="228" height="94" rx="10" fill="#c4afd1"/>
+<text class="map-label" style="font-size:21px" x="675.75" y="1663" text-anchor="middle">Roman Republic</text>
+<text class="map-date" x="675.75" y="1699" text-anchor="middle">509 BCE–27 BCE</text></g>
+<text class="map-micro" x="800" y="5195" text-anchor="middle">Continue this history on another map</text>
+<g class="map-continuation" id="map-jump-af-nile-egypt-0" role="button" tabindex="0" data-map-target="afsu-sudan-nile" data-map-history="nubia" aria-label="Sudan and South Sudan: kingdoms, conquest and independence"><rect x="68" y="5209" width="477.3333333333333" height="70" rx="8" fill="#edf3e5" stroke="#bdcdb1"/>
+<text x="306.66666666666663" y="5236" text-anchor="middle" style="font-size:16px">Sudan and South Sudan: kingdoms, conquest and</text>
+<text x="306.66666666666663" y="5254" text-anchor="middle" style="font-size:16px">independence</text>
+</g>
+<g class="map-continuation" id="map-jump-af-nile-egypt-1" role="button" tabindex="0" data-map-target="af-horn-indian-ocean" data-map-history="byzantium" aria-label="Horn of Africa and the Indian Ocean coast"><rect x="561.3333333333333" y="5209" width="477.3333333333333" height="70" rx="8" fill="#edf3e5" stroke="#bdcdb1"/>
+<text x="799.9999999999999" y="5245" text-anchor="middle" style="font-size:16px">Horn of Africa and the Indian Ocean coast</text>
+</g>
+<g class="map-continuation" id="map-jump-af-nile-egypt-2" role="button" tabindex="0" data-map-target="af-kongo-south" data-map-history="britishempire" aria-label="Kongo, Atlantic contacts and southern African states"><rect x="1054.6666666666665" y="5209" width="477.3333333333333" height="70" rx="8" fill="#edf3e5" stroke="#bdcdb1"/>
+<text x="1293.3333333333333" y="5245" text-anchor="middle" style="font-size:16px">Kongo, Atlantic contacts and southern African states</text>
+</g>
+<path d="M70 5315h20" stroke="#3b8274" stroke-width="3"/><text x="98" y="5320" style="font-size:14px;fill:#6b7b5e">Union</text>
+<path d="M362 5315h20" stroke="#b88636" stroke-width="3"/><text x="390" y="5320" style="font-size:14px;fill:#6b7b5e">Division</text>
+<path d="M654 5315h20" stroke="#aa6355" stroke-width="3"/><text x="682" y="5320" style="font-size:14px;fill:#6b7b5e">Conquest</text>
+<path d="M946 5315h20" stroke="#638350" stroke-width="3"/><text x="974" y="5320" style="font-size:14px;fill:#6b7b5e">Independence</text>
+<path d="M1238 5315h20" stroke="#5d7f9d" stroke-width="3"/><text x="1266" y="5320" style="font-size:14px;fill:#6b7b5e">Change of rule</text>
+<path d="M70 5341h20" stroke="#8b7297" stroke-width="3"/><text x="98" y="5346" style="font-size:14px;fill:#6b7b5e">Contact / influence</text>
+<path d="M362 5341h20" stroke="#9a8055" stroke-width="3"/><text x="390" y="5346" style="font-size:14px;fill:#6b7b5e">Colonial rule</text>
+<path d="M654 5341h20" stroke="#92917a" stroke-width="3"/><text x="682" y="5346" style="font-size:14px;fill:#6b7b5e">Context / overlap</text>
+<path d="M946 5341h20" stroke="#7d8c6f" stroke-width="3"/><text x="974" y="5346" style="font-size:14px;fill:#6b7b5e">Period transition</text>
+<text class="map-micro" x="800" y="5382" text-anchor="middle">Selected connections · Layout is not a time, territory or ancestry scale</text></svg>

@@ -1,0 +1,683 @@
+{
+  "sources": {
+    "pyu": {
+      "publisher": "UNESCO World Heritage Centre",
+      "title": "Pyu Ancient Cities",
+      "url": "https://whc.unesco.org/en/list/1444/"
+    },
+    "bagan": {
+      "publisher": "UNESCO World Heritage Centre",
+      "title": "Bagan",
+      "url": "https://whc.unesco.org/en/list/1588/"
+    },
+    "ceramics": {
+      "publisher": "Smithsonian National Museum of Asian Art",
+      "title": "Ceramics in Mainland Southeast Asia: Chronologies",
+      "url": "https://publications.asia.si.edu/publications/seaceramics/time/chronologies.php"
+    },
+    "burma": {
+      "publisher": "National Army Museum",
+      "title": "A timeline of Burma and the Army",
+      "url": "https://www.nam.ac.uk/explore/timeline-burma-army"
+    },
+    "burmaind": {
+      "publisher": "U.S. Department of State, Office of the Historian",
+      "title": "Burma: Recognition and diplomatic relations",
+      "url": "https://history.state.gov/countries/burma"
+    },
+    "dvaravati": {
+      "publisher": "UNESCO World Heritage Centre",
+      "title": "The Ancient Town of Si Thep and its Associated Dvaravati Monuments",
+      "url": "https://whc.unesco.org/en/list/1662/"
+    },
+    "dvaravati_study": {
+      "publisher": "SOAS University of London research repository",
+      "title": "Dvaravati Period Sema Stones: Shifting meanings and definitions in archaeology, epigraphy, texts and religious re-use",
+      "url": "https://soas-repository.worktribe.com/output/413035/dvaravati-period-sema-stones-shifting-meanings-and-definitions-in-archaeology-epigraphy-texts-and-religious-re-use"
+    },
+    "sukhothai": {
+      "publisher": "UNESCO World Heritage Centre",
+      "title": "Historic Town of Sukhothai and Associated Historic Towns",
+      "url": "https://whc.unesco.org/en/list/574/"
+    },
+    "thaiheritage": {
+      "publisher": "Thailand Ministry of Education / UNESCO",
+      "title": "Thailand’s World Heritage Properties",
+      "url": "https://bic.moe.go.th/images/stories/book/translated-UNESCO/thai-world-heritage.pdf"
+    },
+    "ayutthaya": {
+      "publisher": "UNESCO World Heritage Centre",
+      "title": "Historic City of Ayutthaya",
+      "url": "https://whc.unesco.org/en/list/576/"
+    },
+    "thaidiplomacy": {
+      "publisher": "Thailand Ministry of Foreign Affairs",
+      "title": "Diplomatic History of Thailand",
+      "url": "https://www.mfa.go.th/en/page/diplomatic-history-of-thailand"
+    },
+    "thaithonburi": {
+      "publisher": "Thailand Ministry of Foreign Affairs",
+      "title": "Extraterritoriality",
+      "url": "https://www.mfa.go.th/en/page/extraterritoriality"
+    },
+    "thaiconstitution": {
+      "publisher": "Thailand Ministry of Foreign Affairs",
+      "title": "Complete Independence",
+      "url": "https://www.mfa.go.th/en/page/complete-independence"
+    },
+    "names": {
+      "publisher": "UK Government / Permanent Committee on Geographical Names",
+      "title": "Timeline of country name changes in HMG use: 1919 to present",
+      "url": "https://www.gov.uk/government/publications/country-names/timeline-of-country-name-changes-in-hmg-use-1919-to-present"
+    },
+    "myson": {
+      "publisher": "UNESCO World Heritage Centre",
+      "title": "My Son Sanctuary",
+      "url": "https://whc.unesco.org/en/list/949/"
+    },
+    "cham": {
+      "publisher": "UNESCO Intangible Cultural Heritage",
+      "title": "Art of pottery-making of Chăm people",
+      "url": "https://ich.unesco.org/en/USL/art-of-pottery-making-of-chm-people-01574"
+    },
+    "butuan": {
+      "publisher": "National Museum of the Philippines",
+      "title": "Preserving Our Heritage Towards the Future of our Museums",
+      "url": "https://www.nationalmuseum.gov.ph/2022/10/24/preserving-our-heritage-towards-the-future-of-our-museums/"
+    },
+    "sulu": {
+      "publisher": "National Commission for Culture and the Arts, Philippines",
+      "title": "The History of the Muslim in the Philippines",
+      "url": "https://ncca.gov.ph/about-ncca-3/subcommissions/subcommission-on-cultural-communities-and-traditional-arts-sccta/central-cultural-communities/the-history-of-the-muslim-in-the-philippines/"
+    },
+    "spanishphil": {
+      "publisher": "Philippine National Quincentennial Committee",
+      "title": "Formative Years of Spanish Philippines, 1565–1665",
+      "url": "https://www.nqc.gov.ph/en/piqc/watch/formative-years-of-spanish-philippines-1565-1665/"
+    },
+    "philcolonial": {
+      "publisher": "U.S. House of Representatives, History, Art & Archives",
+      "title": "The Philippines, 1898–1946",
+      "url": "https://history.house.gov/Exhibitions-and-Publications/APA/Historical-Essays/Exclusion-and-Empire/The-Philippines/"
+    },
+    "philind": {
+      "publisher": "Philippine Supreme Court E-Library",
+      "title": "Treaty of General Relations between the Republic of the Philippines and the United States of America",
+      "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/35/12674"
+    },
+    "melaka": {
+      "publisher": "UNESCO World Heritage Centre",
+      "title": "Melaka and George Town, Historic Cities of the Straits of Malacca",
+      "url": "https://whc.unesco.org/en/list/1223/"
+    },
+    "malaysia": {
+      "publisher": "Government of Malaysia",
+      "title": "Getting to know Malaysia / Malaysian History",
+      "url": "https://www.malaysia.gov.my/en/government/kenali-malaysia"
+    },
+    "singapore": {
+      "publisher": "Parliament of Singapore",
+      "title": "Historical Development",
+      "url": "https://www.parliament.gov.sg/history/historical-development"
+    },
+    "brunei": {
+      "publisher": "Ministry of Foreign Affairs, Brunei Darussalam",
+      "title": "About Us",
+      "url": "https://www.mfa.gov.bn/Pages/About-Us%20Tab.aspx"
+    },
+    "lanxang": {
+      "publisher": "UNESCO World Heritage Centre",
+      "title": "Town of Luang Prabang",
+      "url": "https://whc.unesco.org/en/list/479/"
+    },
+    "laochronology": {
+      "publisher": "Northern Illinois University, SEAsite",
+      "title": "Chronology of Lan Xang Dynasty",
+      "url": "https://seasite.niu.edu/lao/chronology_of_lan_xang_dynasty.htm"
+    },
+    "laocountry": {
+      "publisher": "Library of Congress, Federal Research Division",
+      "title": "Laos: a country study",
+      "url": "https://tile.loc.gov/storage-services/master/frd/frdcstdy/la/laoscountrystudy00sava_0/laoscountrystudy00sava_0.pdf"
+    },
+    "laos": {
+      "publisher": "U.S. Department of State, Office of the Historian",
+      "title": "Laos: Recognition and diplomatic relations",
+      "url": "https://history.state.gov/countries/laos"
+    },
+    "timor": {
+      "publisher": "United Nations Integrated Mission in Timor-Leste",
+      "title": "Timor-Leste’s history at a glance",
+      "url": "https://unmit.unmissions.org/en/timor-lestes-history-at-a-glance"
+    },
+    "karen": {
+      "publisher": "Smithsonian Folklife Festival",
+      "title": "Cloth and the Art of Connection with the Karen Weaving Circle",
+      "url": "https://festival.si.edu/blog/karen-weaving-circle"
+    },
+    "karenheritage": {
+      "publisher": "UNESCO",
+      "title": "Lessons from the field: safeguarding biocultural diversity in Thailand",
+      "url": "https://www.unesco.org/en/articles/lessons-field-safeguarding-biocultural-diversity-thailand"
+    }
+  },
+  "entries": [
+    {
+      "id": "rx-pyu",
+      "title": "Pyu · urban communities",
+      "region": "eastasia",
+      "dates": "c. 2nd century BCE–9th century CE",
+      "start": -200,
+      "end": 900,
+      "category": "culture",
+      "location": "Ayeyarwady dry zone · Myanmar",
+      "note": "Halin, Beikthano and Sri Ksetra preserve a long sequence of walled settlements, water management, Buddhist institutions and exchange. This is an archaeological urban tradition, not evidence for one empire with fixed borders. Rounded century limits describe the documented sequence.",
+      "wikiTitle": "Pyu city-states",
+      "sources": [
+        "pyu"
+      ],
+      "collections": [
+        "southeastasia"
+      ]
+    },
+    {
+      "id": "rx-bagan",
+      "title": "Bagan · imperial and temple-building phase",
+      "region": "eastasia",
+      "dates": "c. 11th–13th centuries CE",
+      "start": 1000,
+      "end": 1300,
+      "category": "history",
+      "location": "Ayeyarwady Valley · Myanmar",
+      "note": "The Bagan landscape records a major Buddhist capital and regional empire. The range marks its best-known monumental and imperial phase, not the full occupation of the city or the beginning of Burmese history.",
+      "wikiTitle": "Bagan",
+      "sources": [
+        "bagan"
+      ],
+      "collections": [
+        "southeastasia"
+      ]
+    },
+    {
+      "id": "rx-toungoo",
+      "title": "Toungoo · expanding and restored courts",
+      "region": "eastasia",
+      "dates": "c. 1486–1752 CE",
+      "start": 1486,
+      "end": 1752,
+      "category": "history",
+      "location": "Myanmar and changing areas of mainland Southeast Asia",
+      "note": "A dynastic umbrella for an initially local court, sixteenth-century imperial expansion and a smaller restored kingdom. The late-sixteenth-century collapse and subsequent restoration interrupt any simple picture of continuous territorial control. Shan, Mon and neighbouring powers retained distinct histories.",
+      "wikiTitle": "Toungoo dynasty",
+      "sources": [
+        "ceramics"
+      ],
+      "collections": [
+        "southeastasia"
+      ]
+    },
+    {
+      "id": "rx-konbaung",
+      "title": "Konbaung dynasty",
+      "region": "eastasia",
+      "dates": "1752–1885 CE",
+      "start": 1752,
+      "end": 1885,
+      "category": "history",
+      "location": "Myanmar and changing borderlands",
+      "note": "Konbaung kings expanded their realm and later lost territory in successive wars with British forces. British capture of Mandalay and exile of King Thibaw in 1885 ended the dynasty; formal annexation of Upper Burma followed in 1886.",
+      "wikiTitle": "Konbaung dynasty",
+      "sources": [
+        "burma"
+      ],
+      "collections": [
+        "southeastasia"
+      ]
+    },
+    {
+      "id": "rx-burma-colonial",
+      "title": "Burma · British expansion and colonial rule",
+      "region": "eastasia",
+      "dates": "1826–1948 CE · interrupted 1942–1945",
+      "start": 1826,
+      "end": 1948,
+      "category": "period",
+      "location": "Present-day Myanmar · changing colonial territories",
+      "note": "British rule spread in stages after the wars of 1824–1826, 1852–1853 and 1885. These dates do not imply the whole present-day country was colonised in 1826. Japanese occupation interrupted British control during the Second World War; independence followed in January 1948.",
+      "wikiTitle": "British rule in Burma",
+      "sources": [
+        "burma"
+      ],
+      "collections": [
+        "southeastasia"
+      ]
+    },
+    {
+      "id": "rx-myanmar",
+      "title": "Myanmar / Burma · independent state",
+      "region": "eastasia",
+      "dates": "1948–present",
+      "start": 1948,
+      "end": 2027,
+      "category": "history",
+      "location": "Mainland Southeast Asia",
+      "note": "Independence on 4 January 1948 anchors this modern-state entry. Its broad span includes major changes in government and continuing conflicts; it does not imply an unchanged constitution, uniform central control or the disappearance of the country’s many peoples.",
+      "wikiTitle": "Myanmar",
+      "sources": [
+        "burmaind"
+      ],
+      "collections": [
+        "southeastasia"
+      ],
+      "ongoing": true
+    },
+    {
+      "id": "rx-dvaravati",
+      "title": "Dvaravati · towns and cultural networks",
+      "region": "eastasia",
+      "dates": "c. 6th–11th centuries CE",
+      "start": 500,
+      "end": 1100,
+      "category": "culture",
+      "location": "Central and northeastern present-day Thailand and adjoining areas",
+      "note": "Buddhist monuments, inscriptions and material culture link several early urban centres. Dvaravati is treated here as a cultural and political network rather than one securely bounded empire. Individual sites and traditions flourished at different times within this approximate range.",
+      "wikiTitle": "Dvaravati",
+      "sources": [
+        "dvaravati",
+        "dvaravati_study"
+      ],
+      "collections": [
+        "southeastasia"
+      ]
+    },
+    {
+      "id": "rx-sukhothai",
+      "title": "Sukhothai kingdom",
+      "region": "eastasia",
+      "dates": "c. 1238–1438 CE",
+      "start": 1238,
+      "end": 1438,
+      "category": "history",
+      "location": "North-central present-day Thailand",
+      "note": "An important court and group of towns supported Buddhist architecture and ceramics. The conventional kingdom range includes later dependence on Ayutthaya before annexation; it is not a claim that all of present-day Thailand was unified under Sukhothai.",
+      "wikiTitle": "Sukhothai Kingdom",
+      "sources": [
+        "sukhothai",
+        "thaiheritage"
+      ],
+      "collections": [
+        "southeastasia"
+      ]
+    },
+    {
+      "id": "rx-ayutthaya",
+      "title": "Ayutthaya kingdom",
+      "region": "eastasia",
+      "dates": "1350/1351–1767 CE",
+      "start": 1350,
+      "end": 1767,
+      "category": "history",
+      "location": "Chao Phraya basin and changing tributary networks",
+      "note": "Ayutthaya became a major diplomatic and commercial capital. Sources use 1350 or 1351 for its founding. Its reach changed over time; the Burmese destruction of the capital in 1767 ended this ruling phase, not Siamese society.",
+      "wikiTitle": "Ayutthaya Kingdom",
+      "sources": [
+        "ayutthaya",
+        "thaithonburi"
+      ],
+      "collections": [
+        "southeastasia"
+      ]
+    },
+    {
+      "id": "rx-thonburi",
+      "title": "Thonburi kingdom",
+      "region": "eastasia",
+      "dates": "1767–1782 CE",
+      "start": 1767,
+      "end": 1782,
+      "category": "history",
+      "location": "Chao Phraya basin · present-day Thailand",
+      "note": "King Taksin established a court at Thonburi after Ayutthaya’s fall and reconsolidated power amid competing regional centres. Bangkok became the new royal capital under Rama I in 1782.",
+      "wikiTitle": "Thonburi Kingdom",
+      "sources": [
+        "thaithonburi"
+      ],
+      "collections": [
+        "southeastasia"
+      ]
+    },
+    {
+      "id": "rx-siam-thailand",
+      "title": "Siam / Thailand · Bangkok and constitutional eras",
+      "region": "eastasia",
+      "dates": "1782–present",
+      "start": 1782,
+      "end": 2027,
+      "category": "history",
+      "location": "Mainland Southeast Asia · present-day Thailand",
+      "note": "The Bangkok era began in 1782. Absolute monarchy ended in 1932, followed by successive constitutional and military governments. The name Thailand was adopted in 1939, with a later temporary return to Siam; neither the name change nor 1782 marks the beginning of the region’s peoples.",
+      "wikiTitle": "History of Thailand",
+      "sources": [
+        "thaidiplomacy",
+        "thaiconstitution",
+        "names"
+      ],
+      "collections": [
+        "southeastasia"
+      ],
+      "ongoing": true
+    },
+    {
+      "id": "rx-champa",
+      "title": "Champa · changing Cham polities",
+      "region": "eastasia",
+      "dates": "c. 2nd century–1832 CE",
+      "start": 192,
+      "end": 1832,
+      "category": "history",
+      "location": "Coastal central and southern present-day Vietnam",
+      "note": "Champa comprised changing regional centres and principalities rather than an unchanging nation-state. My Son preserves major religious monuments; southern Panduranga outlasted the fall of Vijaya in 1471 and was absorbed by the Nguyễn state in 1832. Cham people and cultural traditions continue.",
+      "wikiTitle": "Champa",
+      "sources": [
+        "myson",
+        "ceramics"
+      ],
+      "collections": [
+        "southeastasia"
+      ]
+    },
+    {
+      "id": "rx-cham-communities",
+      "title": "Chăm communities · living histories",
+      "region": "eastasia",
+      "dates": "Historical roots–present",
+      "start": null,
+      "end": 2027,
+      "category": "culture",
+      "location": "Vietnam, Cambodia and wider communities",
+      "note": "Cham history continues beyond the loss of independent principalities. Living pottery traditions in Vietnam, passed on within families and communities, offer one documented example. This entry does not assign a single founding date to a diverse people or reduce Cham life to a former kingdom.",
+      "wikiTitle": "Chams",
+      "sources": [
+        "cham"
+      ],
+      "collections": [
+        "southeastasia"
+      ],
+      "ongoing": true
+    },
+    {
+      "id": "rx-butuan-boats",
+      "title": "Butuan · maritime communities and boat-building",
+      "region": "eastasia",
+      "dates": "c. 8th–10th centuries CE · boat evidence",
+      "start": 700,
+      "end": 1000,
+      "category": "culture",
+      "location": "Northeastern Mindanao · Philippines",
+      "note": "Excavated lashed-lug boats attest to sophisticated boat-building and maritime connections. This selected range dates the boat evidence identified by the National Museum, not the fixed lifespan or borders of a supposed kingdom. Settlement and trade at Butuan extended beyond it.",
+      "wikiTitle": "Balangay",
+      "sources": [
+        "butuan"
+      ],
+      "collections": [
+        "southeastasia"
+      ]
+    },
+    {
+      "id": "rx-sulu",
+      "title": "Sulu sultanate · political authority",
+      "region": "eastasia",
+      "dates": "c. 1450–1915 CE",
+      "start": 1450,
+      "end": 1915,
+      "category": "history",
+      "location": "Sulu Archipelago and changing maritime networks",
+      "note": "A Muslim sultanate developed within older island trading societies. Its autonomy contracted under Spanish and American expansion; the 1915 agreement ended the sultan’s temporal sovereignty. Religious authority, communities and contested later claims have separate histories, and 1915 does not mark their disappearance.",
+      "wikiTitle": "Sultanate of Sulu",
+      "sources": [
+        "sulu"
+      ],
+      "collections": [
+        "southeastasia"
+      ]
+    },
+    {
+      "id": "rx-philippines-spanish",
+      "title": "Philippines · Spanish colonial rule",
+      "region": "eastasia",
+      "dates": "1565–1898 CE",
+      "start": 1565,
+      "end": 1898,
+      "category": "period",
+      "location": "Philippine archipelago · uneven colonial reach",
+      "note": "Permanent Spanish settlement began in 1565; colonial rule expanded unevenly and faced continuing Indigenous and Muslim resistance. The revolution and the 1898 transfer claimed by Spain and the United States did not amount to a consensual transfer of every community’s sovereignty.",
+      "wikiTitle": "History of the Philippines (1565–1898)",
+      "sources": [
+        "spanishphil",
+        "philcolonial"
+      ],
+      "collections": [
+        "southeastasia"
+      ]
+    },
+    {
+      "id": "rx-philippines-us",
+      "title": "Philippines · revolution, U.S. rule and war",
+      "region": "eastasia",
+      "dates": "1898–1946 CE · Japanese occupation 1942–1945",
+      "start": 1898,
+      "end": 1946,
+      "category": "period",
+      "location": "Philippine archipelago",
+      "note": "Filipino revolutionaries asserted independence and founded the First Republic while the United States imposed colonial rule. The Commonwealth began in 1935; Japanese invasion and occupation interrupted American administration. The United States formally recognised Philippine independence on 4 July 1946.",
+      "wikiTitle": "History of the Philippines (1898–1946)",
+      "sources": [
+        "philcolonial",
+        "philind"
+      ],
+      "collections": [
+        "southeastasia"
+      ]
+    },
+    {
+      "id": "rx-philippines",
+      "title": "Philippines · independent republic",
+      "region": "eastasia",
+      "dates": "1946–present",
+      "start": 1946,
+      "end": 2027,
+      "category": "history",
+      "location": "Island Southeast Asia",
+      "note": "The 1946 date marks internationally recognised independence after American colonial rule. The earlier 1898 declaration remains commemorated as Independence Day. A single modern-state entry cannot stand for every Indigenous nation, regional community or constitutional era within the archipelago.",
+      "wikiTitle": "Philippines",
+      "sources": [
+        "philind",
+        "philcolonial"
+      ],
+      "collections": [
+        "southeastasia"
+      ],
+      "ongoing": true
+    },
+    {
+      "id": "rx-melaka",
+      "title": "Melaka · Malay sultanate and trading port",
+      "region": "eastasia",
+      "dates": "c. 1400–1511 CE · sultanate phase",
+      "start": 1400,
+      "end": 1511,
+      "category": "history",
+      "location": "Straits of Malacca · present-day Malaysia",
+      "note": "A Malay sultanate made Melaka an important multicultural trading port. Portuguese conquest in 1511 ended this selected ruling phase; the city and regional Malay courts continued under changing conditions. This is not a continuous empire connecting Srivijaya directly to Malaysia.",
+      "wikiTitle": "Malacca Sultanate",
+      "sources": [
+        "melaka",
+        "malaysia"
+      ],
+      "collections": [
+        "southeastasia"
+      ]
+    },
+    {
+      "id": "rx-malaysia",
+      "title": "Malaysia · federation",
+      "region": "eastasia",
+      "dates": "1963–present",
+      "start": 1963,
+      "end": 2027,
+      "category": "history",
+      "location": "Malay Peninsula and northern Borneo",
+      "note": "Malaysia was formed on 16 September 1963 from Malaya, Sabah, Sarawak and Singapore. Malaya had gained independence in 1957; Singapore separated in 1965. The federation’s formation does not date the beginnings of its many Indigenous, Malay, Chinese, Indian and other communities.",
+      "wikiTitle": "Malaysia",
+      "sources": [
+        "malaysia",
+        "singapore"
+      ],
+      "collections": [
+        "southeastasia"
+      ],
+      "ongoing": true
+    },
+    {
+      "id": "rx-singapore",
+      "title": "Singapore · independent republic",
+      "region": "eastasia",
+      "dates": "1965–present",
+      "start": 1965,
+      "end": 2027,
+      "category": "history",
+      "location": "Southern Straits of Malacca",
+      "note": "Singapore became a sovereign republic on 9 August 1965 after separation from Malaysia. Earlier Temasek, Malay and regional histories, the British settlement from 1819, wartime occupation and self-government preceded this modern-state phase.",
+      "wikiTitle": "Singapore",
+      "sources": [
+        "singapore"
+      ],
+      "collections": [
+        "southeastasia"
+      ],
+      "ongoing": true
+    },
+    {
+      "id": "rx-brunei",
+      "title": "Brunei Darussalam · full independence",
+      "region": "eastasia",
+      "dates": "1984–present",
+      "start": 1984,
+      "end": 2027,
+      "category": "history",
+      "location": "Northern Borneo",
+      "note": "Full independence resumed on 1 January 1984, ending British responsibility for external affairs and defence. This date identifies the contemporary sovereign-state phase, not the origin of the much older Brunei sultanate or its people.",
+      "wikiTitle": "Brunei",
+      "sources": [
+        "brunei"
+      ],
+      "collections": [
+        "southeastasia"
+      ],
+      "ongoing": true
+    },
+    {
+      "id": "rx-lanxang",
+      "title": "Lan Xang kingdom",
+      "region": "eastasia",
+      "dates": "1353–1707 CE · conventional range",
+      "start": 1353,
+      "end": 1707,
+      "category": "history",
+      "location": "Mekong region · mainly present-day Laos and adjoining areas",
+      "note": "Lan Xang developed around interconnected courts and Buddhist centres, including Luang Prabang and later Vientiane. Internal divisions and external pressures changed royal power; partition produced distinct successor kingdoms. Its territory and communities do not map directly onto modern national borders.",
+      "wikiTitle": "Lan Xang",
+      "sources": [
+        "laochronology",
+        "laocountry",
+        "lanxang"
+      ],
+      "collections": [
+        "southeastasia"
+      ]
+    },
+    {
+      "id": "rx-laos",
+      "title": "Laos · independence and republic",
+      "region": "eastasia",
+      "dates": "1953–present",
+      "start": 1953,
+      "end": 2027,
+      "category": "history",
+      "location": "Mainland Southeast Asia",
+      "note": "The 1953 treaty removed the remaining French restrictions on independence, following earlier autonomy within the French Union. Civil war and extensive bombing shaped later decades. The monarchy ended with proclamation of the Lao People’s Democratic Republic in 1975.",
+      "wikiTitle": "Laos",
+      "sources": [
+        "laocountry",
+        "laos"
+      ],
+      "collections": [
+        "southeastasia"
+      ],
+      "ongoing": true
+    },
+    {
+      "id": "rx-timor-leste",
+      "title": "Timor-Leste · restored independence",
+      "region": "eastasia",
+      "dates": "2002–present",
+      "start": 2002,
+      "end": 2027,
+      "category": "history",
+      "location": "Eastern Timor, Oecusse and neighbouring islands",
+      "note": "Independence was declared in 1975, followed by Indonesian invasion and occupation. The 1999 referendum led to a United Nations-administered transition and restoration of independence on 20 May 2002. This modern-state date does not begin Timorese history.",
+      "wikiTitle": "Timor-Leste",
+      "sources": [
+        "timor"
+      ],
+      "collections": [
+        "southeastasia"
+      ],
+      "ongoing": true
+    },
+    {
+      "id": "rx-karen-communities",
+      "title": "Karen communities · living heritage",
+      "region": "eastasia",
+      "dates": "Historical roots–present",
+      "start": null,
+      "end": 2027,
+      "category": "culture",
+      "location": "Myanmar, Thailand and diaspora communities",
+      "note": "Karen is an umbrella for diverse communities rather than one state or uniform identity. Weaving, language, ecological knowledge and community institutions continue across borders and displacement. The selected sources document people sustaining these traditions today; no single origin date is assigned.",
+      "wikiTitle": "Karen peoples",
+      "sources": [
+        "karen",
+        "karenheritage"
+      ],
+      "collections": [
+        "southeastasia"
+      ],
+      "ongoing": true
+    }
+  ],
+  "memberships": {
+    "southeastasia": [
+      "angkor",
+      "srivijaya",
+      "majapahit",
+      "indonesia",
+      "vietnammodern",
+      "ea-voc",
+      "ea-dutch-indies",
+      "ea-japan-indies",
+      "ea-post-angkor",
+      "ea-french-cambodia",
+      "ea-cambodia-kingdom1",
+      "ea-khmer-republic",
+      "ea-democratic-kampuchea",
+      "ea-prk-cambodia",
+      "ea-cambodia-modern",
+      "ea-nguyen",
+      "ea-french-indochina",
+      "ea-vietnam-north",
+      "ea-vietnam-south",
+      "reading-angkorwat"
+    ]
+  }
+}

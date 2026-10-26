@@ -1,0 +1,2704 @@
+{
+  "scope": "Named histories, phases, milestones, landmarks, era labels and country flags transcribed from the supplied reference poster. Each maps to a dedicated entry; corrections are explicit. Decorative slogans and branding are not reproduced.",
+  "items": [
+    {
+      "id": "item-0",
+      "label": "Celtic Era",
+      "entryId": "poster-europe-001",
+      "category": "history",
+      "correction": "Selected pre-Roman Iron Age frame; Celtic languages and identities did not disappear in 43 CE. Stonehenge belongs to the much earlier Neolithic and Bronze Age, rather than to the origin of a Celtic state.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-1",
+      "label": "Lusitanians and Other Tribes",
+      "entryId": "poster-europe-002",
+      "category": "history",
+      "correction": "An approximate Iron Age frame, not a single kingdom founded in 600 BCE. Roman writers attest Lusitanians later; the Lusitanian War ended in 139 BCE but regional conquest continued.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-2",
+      "label": "Iberian & Celtic Tribes",
+      "entryId": "poster-europe-003",
+      "category": "history",
+      "correction": "A broad grouping of distinct peoples, languages and regional societies. Iberian culture is usually identified from the first millennium BCE; Rome completed its wider Iberian conquests in 19 BCE, not in 218 BCE.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-3",
+      "label": "Carthaginian Era",
+      "entryId": "poster-europe-004",
+      "category": "history",
+      "correction": "Selected Barcid territorial phase beginning with Hamilcar Barca in 237 BCE. Phoenician and Punic settlements predate it; Rome expelled the main Carthaginian forces from Iberia in 206 BCE.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-4",
+      "label": "Gaul",
+      "entryId": "poster-europe-005",
+      "category": "history",
+      "correction": "An approximate regional Iron Age frame, not one Celtic state. Caesar campaigned in 58–50 BCE; southern Gaul had already come under Roman rule.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-5",
+      "label": "Italic Tribes",
+      "entryId": "poster-europe-006",
+      "category": "history",
+      "correction": "An approximate early grouping of several languages and peoples. Etruscans were not linguistically Italic, Greek colonies were distinct, and Italic communities continued after the Roman monarchy began.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-6",
+      "label": "Roman Kingdom",
+      "entryId": "poster-europe-007",
+      "category": "history",
+      "correction": "753 BCE and 509 BCE are traditional foundation and transition dates transmitted by later Roman historians, not archaeologically proven day-one boundaries.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-7",
+      "label": "Roman Republic",
+      "entryId": "romanrepublic",
+      "category": "history",
+      "correction": "Traditional republican frame; the Republic conquered territories at different times rather than inheriting all the coloured columns at its foundation.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-8",
+      "label": "Roman Republic",
+      "entryId": "period-roman-republic-iberian-band",
+      "category": "period",
+      "correction": "Roman intervention began in 218 BCE, but conquest lasted into the Augustan period. This is a regional phase of the Republic, not a second Roman state.",
+      "representation": "Named period in the index and related history reader"
+    },
+    {
+      "id": "item-9",
+      "label": "Roman Republic",
+      "entryId": "period-roman-republic-gallic-band",
+      "category": "period",
+      "correction": "The poster marks 58 BCE. Caesar’s wars ran through 50 BCE, while Roman rule in southern Gaul began earlier.",
+      "representation": "Named period in the index and related history reader"
+    },
+    {
+      "id": "item-10",
+      "label": "Celtic & Germanic Tribes",
+      "entryId": "poster-europe-011",
+      "category": "history",
+      "correction": "A regional, approximate cultural frame spanning many communities. These categories are linguistic and historical labels, not one government or an unbroken ethnic ancestry.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-11",
+      "label": "Hallstatt Culture",
+      "entryId": "poster-europe-012",
+      "category": "history",
+      "correction": "The selected Iron Age Hallstatt C–D phases date approximately 800–450 BCE. Broader Hallstatt A–B material belongs to the earlier Bronze Age; the culture was not a unitary state.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-12",
+      "label": "Celtic Kingdom of Noricum",
+      "entryId": "poster-europe-013",
+      "category": "history",
+      "correction": "The Norican kingdom or federation consolidated around the second century BCE; the poster’s c. 400 BCE better describes earlier regional Celtic culture. Roman annexation began in 15 BCE; later provincial institutions continued.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-13",
+      "label": "Aegean Civilizations",
+      "entryId": "poster-europe-014",
+      "category": "history",
+      "correction": "An archaeological umbrella including Cycladic, Minoan and Mycenaean cultures with different chronologies; it was not one empire or an exclusive origin story for later Greeks.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-16",
+      "label": "Mycenaean Civilization",
+      "entryId": "mycenaean",
+      "category": "history",
+      "correction": "An archaeological period of multiple mainland palace centres, rather than a single uniformly governed Greek nation.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-17",
+      "label": "Greek Dark Age",
+      "entryId": "poster-europe-018",
+      "category": "history",
+      "correction": "A conventional archaeological period following palace collapse. The label does not imply an absence of communities, creativity or contact; boundaries vary between regions.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-18",
+      "label": "Classical Greek City-States",
+      "entryId": "greece",
+      "category": "history",
+      "correction": "The poster starts this label around 800 BCE, combining Archaic and Classical Greece. Classical Greece conventionally begins around 480 BCE; city-states were independent and often at war.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-20",
+      "label": "Macedonian Empire",
+      "entryId": "poster-europe-021",
+      "category": "period",
+      "correction": "338 BCE marks Philip II’s victory at Chaeronea. Alexander’s Asian conquests began in 334 BCE; his death in 323 BCE initiated succession struggles, rather than instantly creating stable successor states.",
+      "representation": "Named period in the index and related history reader"
+    },
+    {
+      "id": "item-21",
+      "label": "Hellenistic Age",
+      "entryId": "hellenistic",
+      "category": "history",
+      "correction": "The poster’s Greek column ends at Roman conquest in 146 BCE. Hellenistic kingdoms elsewhere continued; 31 BCE is a common wider period endpoint, with Egypt annexed in 30 BCE.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-22",
+      "label": "Roman Republic",
+      "entryId": "period-roman-republic-greek-band",
+      "category": "period",
+      "correction": "The destruction of Corinth in 146 BCE is a conventional marker; incorporation and provincial organisation occurred in stages. This is a regional phase of the Roman Republic.",
+      "representation": "Named period in the index and related history reader"
+    },
+    {
+      "id": "item-23",
+      "label": "Roman Empire",
+      "entryId": "rome",
+      "category": "history",
+      "correction": "27 BCE marks the conventional beginning of the principate. 476 CE concerns western imperial government; the Eastern Roman state continued. The poster’s cross-column shape is not a precise territorial map.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-24",
+      "label": "Sub-Roman Britain",
+      "entryId": "poster-europe-025",
+      "category": "history",
+      "correction": "Approximate transition after the withdrawal of Roman imperial administration, conventionally around 410. Regional British polities continued alongside incoming and established communities; 500 is not a universal end date.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-25",
+      "label": "Anglo-Saxon Era",
+      "entryId": "poster-europe-026",
+      "category": "period",
+      "correction": "Approximate settlement and early English kingdom frame. It overlaps British polities, Scandinavian rule and the later unified kingdom, rather than replacing every inhabitant.",
+      "representation": "Named period in the index and related history reader"
+    },
+    {
+      "id": "item-26",
+      "label": "Wessex Dynasty",
+      "entryId": "poster-europe-027",
+      "category": "period",
+      "correction": "802 marks Ecgberht’s accession in Wessex; 829 was a temporary supremacy, not the founding of a united England. The selected dynasty frame includes interruptions by Danish rulers; unification is conventionally placed in 927.",
+      "representation": "Named period in the index and related history reader"
+    },
+    {
+      "id": "item-27",
+      "label": "Norman Dynasty",
+      "entryId": "poster-europe-028",
+      "category": "period",
+      "correction": "The Norman conquest began in 1066. This selected royal period ends with Henry II’s accession in 1154 and does not mean England and Normandy always had identical institutions.",
+      "representation": "Named period in the index and related history reader"
+    },
+    {
+      "id": "item-28",
+      "label": "Plantagenet Dynasty",
+      "entryId": "poster-europe-029",
+      "category": "period",
+      "correction": "A broad dynastic convention including Angevin, Lancaster and York branches. It does not describe a single stable government or peaceful succession.",
+      "representation": "Named period in the index and related history reader"
+    },
+    {
+      "id": "item-29",
+      "label": "Tudor Dynasty",
+      "entryId": "poster-europe-030",
+      "category": "period",
+      "correction": "The Tudor royal period runs from Henry VII’s victory in 1485 to Elizabeth I’s death in 1603. Wales, Ireland and England had different relationships to royal government.",
+      "representation": "Named period in the index and related history reader"
+    },
+    {
+      "id": "item-30",
+      "label": "Stuart Dynasty",
+      "entryId": "poster-europe-031",
+      "category": "period",
+      "correction": "The shared crowns began in 1603; England and Scotland remained separate kingdoms until 1707. Republican rule interrupted the monarchy in 1649–1660, and William III was of the House of Orange.",
+      "representation": "Named period in the index and related history reader"
+    },
+    {
+      "id": "item-31",
+      "label": "Hanoverian Dynasty",
+      "entryId": "poster-europe-032",
+      "category": "period",
+      "correction": "The British Hanoverian royal period runs 1714–1901, not to the poster’s 1917 boundary. Shared monarchy with Hanover ended in 1837 because succession laws differed.",
+      "representation": "Named period in the index and related history reader"
+    },
+    {
+      "id": "item-32",
+      "label": "United Kingdom",
+      "entryId": "unitedkingdom",
+      "category": "history",
+      "correction": "The United Kingdom was created in 1801, not 1917. Most of Ireland left in 1922; the present state name dates to 1927. The royal family adopted the Windsor name in 1917.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-33",
+      "label": "United Kingdom",
+      "entryId": "poster-europe-034",
+      "category": "period",
+      "correction": "1917 marks the adoption of the royal house name Windsor. It is a dynastic phase within the United Kingdom, not the state’s foundation.",
+      "representation": "Named period in the index and related history reader"
+    },
+    {
+      "id": "item-34",
+      "label": "First County of Portugal",
+      "entryId": "poster-europe-035",
+      "category": "history",
+      "correction": "A conventional first-county frame beginning with the recovery of Porto in 868. The first comital line ended with Nuno Mendes’s defeat in 1071. Royal administration and later reorganisation preceded Henry of Burgundy’s county around 1096; this was not an uninterrupted independent state.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-35",
+      "label": "Second County of Portugal",
+      "entryId": "poster-europe-036",
+      "category": "history",
+      "correction": "The second county is usually dated from Henry of Burgundy’s appointment around 1096. Afonso Henriques’ kingship in 1139 and recognition in 1143 and 1179 mark different steps toward independence.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-36",
+      "label": "Kingdom of Portugal",
+      "entryId": "cn-portugal",
+      "category": "history",
+      "correction": "1139 is a traditional royal foundation convention; Zamora in 1143 and papal recognition in 1179 are other milestones. The kingdom’s institutional and territorial extent changed considerably.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-37",
+      "label": "Iberian Union",
+      "entryId": "poster-europe-038",
+      "category": "period",
+      "correction": "Portugal and the Spanish crowns shared Habsburg monarchs. Separate laws, institutions and overseas possessions persisted; this was not complete administrative fusion.",
+      "representation": "Named period in the index and related history reader"
+    },
+    {
+      "id": "item-38",
+      "label": "Restored Kingdom of Portugal",
+      "entryId": "poster-europe-039",
+      "category": "period",
+      "correction": "1640 began the restored Portuguese monarchy and the war for recognition, which Spain accepted in 1668. The restored kingdom continued beyond this war and was not newly founded again in 1807.",
+      "representation": "Named period in the index and related history reader"
+    },
+    {
+      "id": "item-39",
+      "label": "Constitutional Monarchy",
+      "entryId": "poster-europe-040",
+      "category": "period",
+      "correction": "The Liberal Revolution of 1820 began the constitutional transition; the first constitution followed in 1822. Civil war and absolutist restoration interrupted constitutional government before 1834. The poster’s 1807 start belongs to the French invasions.",
+      "representation": "Named period in the index and related history reader"
+    },
+    {
+      "id": "item-40",
+      "label": "First Portuguese Republic",
+      "entryId": "poster-europe-041",
+      "category": "period",
+      "correction": "The First Republic began with the revolution of 5 October 1910 and ended in the military coup of 1926; it did not continue unbroken until Estado Novo in 1933.",
+      "representation": "Named period in the index and related history reader"
+    },
+    {
+      "id": "item-41",
+      "label": "Estado Novo",
+      "entryId": "poster-europe-042",
+      "category": "period",
+      "correction": "The authoritarian Estado Novo was institutionalised in 1933 and overthrown in the Carnation Revolution of 25 April 1974. A military dictatorship preceded it in 1926–1933.",
+      "representation": "Named period in the index and related history reader"
+    },
+    {
+      "id": "item-42",
+      "label": "Portugal",
+      "entryId": "portugalmodern",
+      "category": "history",
+      "correction": "A modern country frame including the First Republic, military and Estado Novo dictatorships, and the democratic transition. Democracy began after 1974; the present constitution took effect in 1976.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-43",
+      "label": "Portugal",
+      "entryId": "poster-europe-044",
+      "category": "period",
+      "correction": "The democratic transition began in 1974 and the constitution took effect in 1976; the poster uses the constitutional date.",
+      "representation": "Named period in the index and related history reader"
+    },
+    {
+      "id": "item-44",
+      "label": "Suebi Kingdom",
+      "entryId": "poster-europe-045",
+      "category": "history",
+      "correction": "The Suebi established rule in northwestern Iberia after crossing the Rhine and entering Iberia. The Visigoths annexed their kingdom in 585; this was not a kingdom encompassing all Iberia.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-45",
+      "label": "Visigothic Kingdom",
+      "entryId": "poster-europe-046",
+      "category": "history",
+      "correction": "The kingdom began in Aquitaine in 418 and shifted toward Iberia. The Suebi were annexed in 585; Byzantine-controlled southern areas remained separate until the seventh century. After 711, remnants continued in Septimania into the 720s.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-46",
+      "label": "Al-Andalus",
+      "entryId": "poster-europe-047",
+      "category": "history",
+      "correction": "An umbrella for changing Muslim-ruled Iberian territories, not a single state lasting throughout 711–1492. The emirate, caliphate, taifas and later dynasties overlap with northern Christian kingdoms.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-47",
+      "label": "Kingdom of Asturias",
+      "entryId": "poster-europe-048",
+      "category": "history",
+      "correction": "718 is a traditional royal origin date. The court and political centre shifted to León in 910, while distinct Asturian royal claims continued to 924; chronology depends on whether one tracks title, court or territory.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-48",
+      "label": "Kingdom of León",
+      "entryId": "poster-europe-049",
+      "category": "history",
+      "correction": "A selected independent royal frame. León and Castile were joined and separated at several points; permanent dynastic union in 1230 did not erase León’s regional institutions.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-49",
+      "label": "Late Reconquista",
+      "entryId": "poster-europe-050",
+      "category": "period",
+      "correction": "1238 marks the Nasrid foundation convention selected by the poster. Reconquista is a retrospective, contested umbrella rather than one continuous national war; Christian and Muslim rulers also allied across religious boundaries.",
+      "representation": "Named period in the index and related history reader"
+    },
+    {
+      "id": "item-50",
+      "label": "Unification of Spain",
+      "entryId": "period-unification-of-spain",
+      "category": "period",
+      "correction": "1479 marks the shared rule of Isabella of Castile and Ferdinand of Aragon after Ferdinand’s Aragonese accession. The crowns retained separate institutions; this was not instant state or territorial unification.",
+      "representation": "Named period in the index and related history reader"
+    },
+    {
+      "id": "item-51",
+      "label": "Habsburg Spain",
+      "entryId": "poster-europe-052",
+      "category": "period",
+      "correction": "A composite monarchy under the Spanish Habsburgs. Charles I’s accession in 1516 is the selected start; the crowns and territories retained distinct laws and institutions.",
+      "representation": "Named period in the index and related history reader"
+    },
+    {
+      "id": "item-52",
+      "label": "Bourbon Reforms",
+      "entryId": "poster-europe-053",
+      "category": "period",
+      "correction": "A selected eighteenth-century reform frame under Bourbon rulers, with a major overseas dimension. The reforms were introduced in different territories at different times; not every reform began in 1700.",
+      "representation": "Named period in the index and related history reader"
+    },
+    {
+      "id": "item-53",
+      "label": "Constitutional Era",
+      "entryId": "poster-europe-054",
+      "category": "period",
+      "correction": "Spain’s first national constitution dates to 1812, not 1808; the Bayonne Statute was imposed under Napoleonic influence. The period includes restored absolutism, constitutional monarchies, republics and dictatorship.",
+      "representation": "Named period in the index and related history reader"
+    },
+    {
+      "id": "item-54",
+      "label": "Francoist Spain",
+      "entryId": "poster-europe-055",
+      "category": "period",
+      "correction": "The regime emerged during the Civil War from 1936 and controlled the whole country after 1939. Franco died in 1975, followed by a democratic transition; the 1978 constitution is a separate milestone.",
+      "representation": "Named period in the index and related history reader"
+    },
+    {
+      "id": "item-55",
+      "label": "Spain",
+      "entryId": "spainmodern",
+      "category": "history",
+      "correction": "Country-level frame that distinguishes the late medieval dynastic union from later monarchy, republican, dictatorial and democratic governments.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-56",
+      "label": "Spain",
+      "entryId": "poster-europe-057",
+      "category": "period",
+      "correction": "The democratic transition followed Franco’s death in 1975; the constitution was approved in 1978. This frame does not imply that Spain came into existence in 1978.",
+      "representation": "Named period in the index and related history reader"
+    },
+    {
+      "id": "item-57",
+      "label": "Frankish Kingdom",
+      "entryId": "poster-europe-058",
+      "category": "history",
+      "correction": "481 marks Clovis I’s accession, not the first existence of Franks. Frankish realms were repeatedly divided; imperial coronation in 800 and partition in 843 are distinct events.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-58",
+      "label": "West Francia",
+      "entryId": "cn-westfrancia",
+      "category": "history",
+      "correction": "The western share established at Verdun in 843; 987 is a conventional Capetian transition, not an instant replacement of population or institutions.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-59",
+      "label": "Kingdom of France",
+      "entryId": "francekingdom",
+      "category": "history",
+      "correction": "987 marks Hugh Capet’s accession and the selected royal frame. France was not a uniformly centralised nation-state throughout this period.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-60",
+      "label": "Bourbon France",
+      "entryId": "poster-europe-061",
+      "category": "period",
+      "correction": "Henry IV’s accession in 1589 begins the selected Bourbon royal frame. Bourbon restoration in 1814–1830 is a later phase, interrupted by Napoleon’s Hundred Days.",
+      "representation": "Named period in the index and related history reader"
+    },
+    {
+      "id": "item-61",
+      "label": "First French Republic",
+      "entryId": "poster-europe-062",
+      "category": "period",
+      "correction": "The monarchy was abolished in 1792. The republic included the Convention, Directory and Consulate before Napoleon’s imperial title in 1804.",
+      "representation": "Named period in the index and related history reader"
+    },
+    {
+      "id": "item-62",
+      "label": "First French Empire",
+      "entryId": "poster-europe-063",
+      "category": "period",
+      "correction": "Napoleon’s empire lasted 1804–1814 and returned during the Hundred Days in 1815. The poster’s long black band crosses countries with different occupation dates and incorrectly suggests uniform annexation.",
+      "representation": "Named period in the index and related history reader"
+    },
+    {
+      "id": "item-63",
+      "label": "First French Empire",
+      "entryId": "poster-europe-064",
+      "category": "period",
+      "correction": "Three French invasions occurred in 1807–1811. Portugal was not permanently annexed to the First French Empire; the royal court moved to Brazil and Anglo-Portuguese forces resisted.",
+      "representation": "Named period in the index and related history reader"
+    },
+    {
+      "id": "item-64",
+      "label": "First French Empire",
+      "entryId": "poster-europe-065",
+      "category": "period",
+      "correction": "Joseph Bonaparte’s imposed monarchy and French occupation faced competing Spanish governments and armed resistance. The whole country was never securely governed as one French province.",
+      "representation": "Named period in the index and related history reader"
+    },
+    {
+      "id": "item-65",
+      "label": "First French Empire",
+      "entryId": "poster-europe-066",
+      "category": "period",
+      "correction": "A northern Italian kingdom under Napoleon, not the whole peninsula. Other areas were annexed to France, governed by allied states or remained outside his rule.",
+      "representation": "Named period in the index and related history reader"
+    },
+    {
+      "id": "item-66",
+      "label": "First French Empire",
+      "entryId": "poster-europe-067",
+      "category": "period",
+      "correction": "A confederation of German states under Napoleon’s protection, not wholesale French annexation of Germany. The Holy Roman Empire ended in 1806.",
+      "representation": "Named period in the index and related history reader"
+    },
+    {
+      "id": "item-67",
+      "label": "Republican France",
+      "entryId": "poster-europe-068",
+      "category": "period",
+      "correction": "The poster’s label is inaccurate: restored monarchies ruled in 1815–1848 and the Second Empire in 1852–1870. The period also includes the Second and Third Republics, occupation, Vichy and provisional government.",
+      "representation": "Named period in the index and related history reader"
+    },
+    {
+      "id": "item-68",
+      "label": "France",
+      "entryId": "francemodern",
+      "category": "history",
+      "correction": "Modern France includes republics, empires and restored monarchies. The poster’s 1946 boundary is the Fourth Republic; the Fifth Republic began in 1958.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-69",
+      "label": "France",
+      "entryId": "poster-europe-070",
+      "category": "period",
+      "correction": "The Fourth Republic lasted 1946–1958, followed by the Fifth Republic. This country phase is not a single unchanging constitution.",
+      "representation": "Named period in the index and related history reader"
+    },
+    {
+      "id": "item-70",
+      "label": "Western Roman Empire",
+      "entryId": "cn-westrome",
+      "category": "history",
+      "correction": "The 395 division concerned imperial courts and administration, not a clean cultural split. The western imperial title ended conventionally in 476, with Julius Nepos retaining a claim until 480.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-71",
+      "label": "Ostrogothic Kingdom",
+      "entryId": "poster-europe-072",
+      "category": "history",
+      "correction": "Theodoric took control of Italy in 493. 553 is a conventional endpoint after Byzantine victories; warfare and residual resistance continued.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-72",
+      "label": "Byzantine Italy",
+      "entryId": "poster-europe-073",
+      "category": "period",
+      "correction": "Justinian’s reconquest began in 535; Byzantine rule survived in changing parts of Italy until Bari fell in 1071. The poster’s 553–774 band is only a selected phase, not the full duration.",
+      "representation": "Named period in the index and related history reader"
+    },
+    {
+      "id": "item-73",
+      "label": "Lombard Kingdom",
+      "entryId": "poster-europe-074",
+      "category": "history",
+      "correction": "The Lombard kingdom ruled much of the peninsula after 568 and was conquered by Charlemagne in 774. Southern Lombard duchies continued afterward.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-74",
+      "label": "Medieval Italian States",
+      "entryId": "poster-europe-075",
+      "category": "history",
+      "correction": "A regional umbrella for many states, cities and jurisdictions, not one state. Venice, Genoa, the Papal States, imperial territories and southern kingdoms had distinct histories.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-75",
+      "label": "Kingdom of Sicily",
+      "entryId": "poster-europe-076",
+      "category": "history",
+      "correction": "Founded in 1130. After 1282 the island and mainland crowns were politically divided, with both claiming Sicilian titles; they were formally combined as the Two Sicilies in 1816. The poster’s 1494 boundary is not the kingdom’s end.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-76",
+      "label": "The Age of Divided Italy",
+      "entryId": "poster-europe-077",
+      "category": "period",
+      "correction": "1494 marks the start of the Italian Wars, not the first division of Italy. Regional states and competing foreign powers continued through the early modern period, with major changes during the Napoleonic wars.",
+      "representation": "Named period in the index and related history reader"
+    },
+    {
+      "id": "item-77",
+      "label": "Bourbon Sicily",
+      "entryId": "poster-europe-078",
+      "category": "history",
+      "correction": "The poster’s 1815 restoration relates to the post-Napoleonic settlement. The unified Kingdom of the Two Sicilies was formally created in 1816 and incorporated into the Kingdom of Italy in 1861.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-78",
+      "label": "Kingdom of Italy",
+      "entryId": "poster-europe-079",
+      "category": "period",
+      "correction": "The kingdom was proclaimed in 1861; Venice joined in 1866 and Rome in 1870. Fascist dictatorship developed within the monarchy; the republican referendum took place in 1946.",
+      "representation": "Named period in the index and related history reader"
+    },
+    {
+      "id": "item-79",
+      "label": "Italy",
+      "entryId": "italymodern",
+      "category": "history",
+      "correction": "A modern country frame beginning with proclamation of the kingdom. The republic dates to 1946, and the republican constitution entered into effect in 1948.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-80",
+      "label": "Italy",
+      "entryId": "poster-europe-081",
+      "category": "period",
+      "correction": "The referendum of 2 June 1946 chose a republic; official confirmation followed in June, and the constitution took effect on 1 January 1948.",
+      "representation": "Named period in the index and related history reader"
+    },
+    {
+      "id": "item-81",
+      "label": "Germanic Tribes",
+      "entryId": "poster-europe-082",
+      "category": "history",
+      "correction": "A selected late antique migration frame encompassing many groups and political formations. Language labels do not imply one people, one kingdom or an unbroken ancestry for modern Germany.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-82",
+      "label": "Migration Period",
+      "entryId": "poster-europe-083",
+      "category": "history",
+      "correction": "A broad conventional span used by the Metropolitan Museum; other historians use narrower fourth-to-sixth-century ranges. Migration involved warfare, settlement, Roman service and changing identities rather than a single population replacement.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-83",
+      "label": "Post-Roman Germanic Kingdoms",
+      "entryId": "poster-europe-084",
+      "category": "history",
+      "correction": "A selected regional transition among successor authorities, including Ostrogothic influence and emerging Bavarian power. It is not a single named kingdom founded in 476.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-84",
+      "label": "Duchy of Bavaria",
+      "entryId": "poster-europe-085",
+      "category": "history",
+      "correction": "The first Bavarian duchy is conventionally traced to the mid-sixth century; Charlemagne deposed Tassilo III in 788. Later Bavarian duchies continued under different political arrangements.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-85",
+      "label": "East Francia",
+      "entryId": "cn-eastfrancia",
+      "category": "history",
+      "correction": "The eastern realm created at Verdun in 843 developed into the medieval German kingdom. The 962 imperial coronation is a selected transition, not the disappearance of its people or institutions.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-86",
+      "label": "Holy Roman Empire",
+      "entryId": "holyroman",
+      "category": "history",
+      "correction": "Otto I’s 962 coronation is the selected start; some imperial narratives begin with 800. This was a changing framework of many states and cities, not a modern German nation-state.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-87",
+      "label": "Kingdom of Prussia",
+      "entryId": "poster-europe-088",
+      "category": "period",
+      "correction": "The royal title was adopted in 1701. Prussia did not cease in 1871: it became the largest constituent kingdom of the German Empire and its monarchy ended in 1918.",
+      "representation": "Named period in the index and related history reader"
+    },
+    {
+      "id": "item-88",
+      "label": "German Confederation",
+      "entryId": "poster-europe-089",
+      "category": "period",
+      "correction": "A loose confederation established at Vienna in 1815 and dissolved in 1866; it was not a united Germany. The North German Confederation followed in 1867 before imperial unification in 1871.",
+      "representation": "Named period in the index and related history reader"
+    },
+    {
+      "id": "item-89",
+      "label": "German Empire",
+      "entryId": "poster-europe-090",
+      "category": "period",
+      "correction": "The German Empire was proclaimed in 1871 and its monarchy fell in 1918. The 1919 constitution belongs to the subsequent republic, not the continuation of imperial monarchy.",
+      "representation": "Named period in the index and related history reader"
+    },
+    {
+      "id": "item-90",
+      "label": "Weimar Republic",
+      "entryId": "poster-europe-091",
+      "category": "period",
+      "correction": "Republican government was proclaimed in November 1918; the Weimar constitution followed in 1919. Nazi dictatorship developed after Hitler’s appointment in January 1933.",
+      "representation": "Named period in the index and related history reader"
+    },
+    {
+      "id": "item-91",
+      "label": "Nazi Germany",
+      "entryId": "poster-europe-092",
+      "category": "period",
+      "correction": "Nazi rule lasted 1933–1945, with escalating dictatorship, aggressive war and genocide. Territorial extent changed; occupation zones followed military defeat.",
+      "representation": "Named period in the index and related history reader"
+    },
+    {
+      "id": "item-92",
+      "label": "East and West Germany",
+      "entryId": "poster-europe-093",
+      "category": "period",
+      "correction": "Allied occupation began in 1945; the Federal Republic and German Democratic Republic were founded separately in 1949. The poster’s 1945 label must not imply that both states already existed then.",
+      "representation": "Named period in the index and related history reader"
+    },
+    {
+      "id": "item-93",
+      "label": "Germany",
+      "entryId": "germanymodern",
+      "category": "history",
+      "correction": "A broad modern frame including empire, republic, dictatorship, occupation, two states and reunification in 1990. It is not one uninterrupted government.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-94",
+      "label": "Germany",
+      "entryId": "poster-europe-095",
+      "category": "period",
+      "correction": "The GDR acceded to the Federal Republic on 3 October 1990. The Federal Republic itself dates from 1949; modern German history did not begin in 1990.",
+      "representation": "Named period in the index and related history reader"
+    },
+    {
+      "id": "item-95",
+      "label": "Margraviate of Austria",
+      "entryId": "poster-europe-096",
+      "category": "history",
+      "correction": "The Babenberg march was established in 976 and elevated to a duchy in 1156. This was a frontier territory within a wider imperial framework, not an independent modern Austria.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-96",
+      "label": "Duchy of Austria",
+      "entryId": "poster-europe-097",
+      "category": "history",
+      "correction": "The Privilegium Minus elevated the march to a duchy in 1156. The archducal title was invented in the fourteenth century but officially recognised in 1453.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-97",
+      "label": "Habsburg Austria",
+      "entryId": "poster-europe-098",
+      "category": "history",
+      "correction": "1453 marks formal recognition of the archducal title, not the beginning of Habsburg rule in Austria (which dates to the late thirteenth century). The wider Habsburg monarchy accumulated distinct crowns and territories.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-98",
+      "label": "Austrian Empire",
+      "entryId": "poster-europe-099",
+      "category": "history",
+      "correction": "The Austrian imperial title was proclaimed in 1804, while the Holy Roman Empire still existed until 1806. The Dual Monarchy replaced this framework in 1867.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-99",
+      "label": "Austria-Hungary",
+      "entryId": "poster-europe-100",
+      "category": "history",
+      "correction": "The 1867 Compromise established a dual monarchy with separate Austrian and Hungarian institutions and shared affairs. Its dissolution in 1918 produced several successor states, not simply modern Austria.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-100",
+      "label": "First Austrian Republic",
+      "entryId": "poster-europe-101",
+      "category": "period",
+      "correction": "Republican Austria emerged in 1918; democratic parliamentary government was dismantled in 1933 and the authoritarian Federal State replaced the constitutional republic in 1934. Nazi annexation followed in 1938.",
+      "representation": "Named period in the index and related history reader"
+    },
+    {
+      "id": "item-101",
+      "label": "Second Austrian Republic",
+      "entryId": "poster-europe-102",
+      "category": "period",
+      "correction": "The republic was restored in 1945, not in 1955. Allied occupation ended under the 1955 State Treaty, followed by constitutional permanent neutrality.",
+      "representation": "Named period in the index and related history reader"
+    },
+    {
+      "id": "item-102",
+      "label": "Austria",
+      "entryId": "austriamodern",
+      "category": "history",
+      "correction": "A modern country frame covering the First Republic, authoritarian Federal State, Nazi annexation, restored republic and Allied occupation. Full sovereignty was restored in 1955, not the first existence of the republic.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-103",
+      "label": "Austria",
+      "entryId": "poster-europe-104",
+      "category": "period",
+      "correction": "The 1955 State Treaty ended Allied occupation. The Second Republic had already been restored in 1945, and the neutrality law was a separate act of October 1955.",
+      "representation": "Named period in the index and related history reader"
+    },
+    {
+      "id": "item-104",
+      "label": "Byzantine Empire",
+      "entryId": "byzantium",
+      "category": "history",
+      "correction": "The empire was Roman in its own identity. The poster’s 395 start marks a division of imperial courts; Constantinople’s dedication in 330 is the website’s selected frame. The Latin conquest interrupted rule in Constantinople in 1204–1261.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-105",
+      "label": "Greek Successor States",
+      "entryId": "poster-europe-106",
+      "category": "period",
+      "correction": "After the Fourth Crusade, Nicaea, Epirus and Trebizond were distinct successor powers. Nicaea recovered Constantinople in 1261; Trebizond survived until 1461. This was not one state ending uniformly in 1453.",
+      "representation": "Named period in the index and related history reader"
+    },
+    {
+      "id": "item-109",
+      "label": "Latin Empire",
+      "entryId": "poster-europe-110",
+      "category": "period",
+      "correction": "The crusader-founded Latin Empire occupied Constantinople after the Fourth Crusade. It was distinct from the Byzantine successor states and ended there with the city’s recovery in 1261.",
+      "representation": "Named period in the index and related history reader"
+    },
+    {
+      "id": "item-111",
+      "label": "Kingdom of Greece",
+      "entryId": "poster-europe-112",
+      "category": "period",
+      "correction": "The monarchy was established in 1832 after the independence struggle and international recognition. Borders expanded later; the Second Hellenic Republic replaced the monarchy in 1924.",
+      "representation": "Named period in the index and related history reader"
+    },
+    {
+      "id": "item-112",
+      "label": "Greek Republic",
+      "entryId": "poster-europe-113",
+      "category": "period",
+      "correction": "The republic lasted 1924–1935 and faced coups and instability. Monarchy was restored in 1935.",
+      "representation": "Named period in the index and related history reader"
+    },
+    {
+      "id": "item-113",
+      "label": "Kingdom of Greece",
+      "entryId": "poster-europe-114",
+      "category": "period",
+      "correction": "The restored royal period included Metaxas dictatorship, Axis occupation, civil war and the 1967 military coup. The junta abolished the monarchy in 1973; democratic institutions returned in 1974.",
+      "representation": "Named period in the index and related history reader"
+    },
+    {
+      "id": "item-114",
+      "label": "Greece",
+      "entryId": "greecemodern",
+      "category": "history",
+      "correction": "Independence was internationally recognised in 1830 and the kingdom established in 1832. The democratic Third Republic dates to 1974, with its constitution in 1975; the poster’s 1973 marker refers to a junta-controlled abolition of monarchy.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-115",
+      "label": "Greece",
+      "entryId": "poster-europe-116",
+      "category": "period",
+      "correction": "The junta proclaimed a republic in 1973, but democratic transition began in July 1974; a free December 1974 referendum rejected monarchy and the constitution followed in June 1975.",
+      "representation": "Named period in the index and related history reader"
+    },
+    {
+      "id": "item-116",
+      "label": "Restored Byzantine Empire",
+      "entryId": "poster-europe-117",
+      "category": "period",
+      "correction": "Michael VIII recovered Constantinople in 1261. The restored empire occupied a reduced and changing territory and ended in Constantinople in 1453; some Byzantine successor territories survived later.",
+      "representation": "Named period in the index and related history reader"
+    },
+    {
+      "id": "item-117",
+      "label": "Early Dynastic Period",
+      "entryId": "egypt-early-dynastic",
+      "category": "period",
+      "correction": "Approximate dynastic chronology. Egypt had substantial predynastic societies before unification; this is not the beginning of Egyptian culture.",
+      "representation": "Named period in the index and related history reader"
+    },
+    {
+      "id": "item-118",
+      "label": "Old Kingdom",
+      "entryId": "egypt-old-kingdom",
+      "category": "period",
+      "correction": "Approximate traditional chronology; the pyramid-building era, not an uninterrupted ethnic or national founding.",
+      "representation": "Named period in the index and related history reader"
+    },
+    {
+      "id": "item-119",
+      "label": "First Intermediate Period",
+      "entryId": "egypt-first-intermediate",
+      "category": "period",
+      "correction": "Regional dynasties overlapped. Alternative chronologies put the Middle Kingdom reunification around 2030 BCE.",
+      "representation": "Named period in the index and related history reader"
+    },
+    {
+      "id": "item-120",
+      "label": "Middle Kingdom",
+      "entryId": "egypt-middle-kingdom",
+      "category": "period",
+      "correction": "Approximate Egyptian ministry periodization; other scholarly chronologies begin around 2030 BCE or use a narrower end date.",
+      "representation": "Named period in the index and related history reader"
+    },
+    {
+      "id": "item-121",
+      "label": "Second Intermediate Period",
+      "entryId": "egypt-second-intermediate",
+      "category": "period",
+      "correction": "Regional courts, including Hyksos rule in the north and the Theban kingdom in the south, coexisted; not a single dynasty.",
+      "representation": "Named period in the index and related history reader"
+    },
+    {
+      "id": "item-122",
+      "label": "New Kingdom",
+      "entryId": "egypt-new-kingdom",
+      "category": "period",
+      "correction": "Approximate dynastic period, traditionally Dynasties 18–20.",
+      "representation": "Named period in the index and related history reader"
+    },
+    {
+      "id": "item-123",
+      "label": "Third Intermediate Period",
+      "entryId": "egypt-third-intermediate",
+      "category": "period",
+      "correction": "Competing royal lines and regional powers overlapped; the poster’s 1070 is a rounded alternative.",
+      "representation": "Named period in the index and related history reader"
+    },
+    {
+      "id": "item-124",
+      "label": "Late Period",
+      "entryId": "egypt-late-period",
+      "category": "period",
+      "correction": "The poster truncates this at the first Persian conquest 525 BCE. The full Late Period conventionally includes Persian and restored native dynasties through 332 BCE.",
+      "representation": "Named period in the index and related history reader"
+    },
+    {
+      "id": "item-125",
+      "label": "Ptolemaic Kingdom",
+      "entryId": "cn-ptolemaic",
+      "category": "history",
+      "correction": "Ptolemy took the royal title 305 BCE; his Egyptian governorship began 323 BCE. Ends with Roman annexation 30 BCE.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-126",
+      "label": "Arab Caliphate",
+      "entryId": "early-caliphates",
+      "category": "period",
+      "correction": "The poster uses 633,641 and 651 for regional conquests. The Rashidun 632–661 and Umayyad 661–750 states are separate, already represented histories; Egypt conquered 639–642 and Sasanian defeat unfolded 633–651.",
+      "representation": "Named period in the index and related history reader"
+    },
+    {
+      "id": "item-127",
+      "label": "Fatimid Caliphate",
+      "entryId": "fatimid",
+      "category": "history",
+      "correction": "Founded in North Africa 909; conquest of Egypt and establishment of Cairo occurred 969. The poster’s 969 start represents the Egyptian phase, not the caliphate’s founding.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-128",
+      "label": "Ayyubid Sultanate",
+      "entryId": "ayyubid",
+      "category": "history",
+      "correction": "Ayyubid government ended in Egypt 1250; regional Ayyubid rulers in Syria continued through 1260 and some local branches longer. Use 1171–1250 for a strictly Egyptian subperiod.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-129",
+      "label": "Mamluk Sultanate",
+      "entryId": "mamluk",
+      "category": "history",
+      "correction": "Egyptian rule began 1250; control of Syria expanded by 1260. Ottoman conquest 1516–1517 ended the sultanate, although Mamluk elites persisted.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-130",
+      "label": "Muhammad Ali Dynasty",
+      "entryId": "muhammad-ali",
+      "category": "history",
+      "correction": "The dynasty continued across the British occupation, protectorate and Kingdom of Egypt; these were overlapping political dimensions. The poster cuts the dynasty at 1882.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-131",
+      "label": "Colonial Egypt",
+      "entryId": "egypt-british",
+      "category": "period",
+      "correction": "Occupation began 1882; the formal protectorate lasted 1914–1922. British influence, treaty rights and forces persisted after limited independence 1922.",
+      "representation": "Named period in the index and related history reader"
+    },
+    {
+      "id": "item-132",
+      "label": "Kingdom of Egypt",
+      "entryId": "egypt-kingdom",
+      "category": "period",
+      "correction": "Independence declared 1922 with important British reservations; monarchy abolished 1953.",
+      "representation": "Named period in the index and related history reader"
+    },
+    {
+      "id": "item-133",
+      "label": "Egypt",
+      "entryId": "egypt-republic",
+      "category": "period",
+      "correction": "Republic proclaimed 1953. The existing broad modern-Egypt entry begins 1922; this adds its republican phase explicitly.",
+      "representation": "Named period in the index and related history reader"
+    },
+    {
+      "id": "item-134",
+      "label": "Hittite Empire",
+      "entryId": "hittite",
+      "category": "history",
+      "correction": "Kingdom begins around 1650 BCE, not simply 1700; the imperial New Kingdom is a narrower phase.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-135",
+      "label": "Neo-Hittite Kingdoms",
+      "entryId": "neo-hittite",
+      "category": "history",
+      "correction": "Multiple Luwian and Aramaean kingdoms followed the Hittite imperial collapse; no single successor empire. Final incorporation into Assyria varied by kingdom.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-136",
+      "label": "Kingdom of Lydia",
+      "entryId": "lydia",
+      "category": "history",
+      "correction": "Selected well-attested Mermnad phase begins around 680 BCE. Earlier Lydian traditions and rulers predate it; Cyrus’s conquest is conventionally dated 547/546 BCE.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-137",
+      "label": "Sumerian Civilization",
+      "entryId": "sumer",
+      "category": "history",
+      "correction": "Selected urban Sumerian cultural history, not a single united empire. The poster’s 4500 BCE start is an overly precise ethnic-cultural founding date: Ubaid settlement traditions are earlier, while Uruk urbanization and writing developed during the fourth millennium. Ur III ended 2004 BCE; Sumerian language and traditions persisted.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-138",
+      "label": "Akkadian Empire",
+      "entryId": "akkad",
+      "category": "history",
+      "correction": "Middle-chronology conventional dates; competing chronologies differ. Existing chart uses rounded 2350–2150 BCE.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-139",
+      "label": "Sumerian Renaissance",
+      "entryId": "ur-third-dynasty",
+      "category": "period",
+      "correction": "The poster’s 2154–1894 frame conflates several post-Akkadian dynasties. Ur III is 2112–2004 BCE; earlier Lagash II and later Isin-Larsa states are distinct.",
+      "representation": "Named period in the index and related history reader"
+    },
+    {
+      "id": "item-140",
+      "label": "Old Babylonian Kingdom",
+      "entryId": "oldbab",
+      "category": "history",
+      "correction": "Selected First Dynasty of Babylon, not all southern Mesopotamian states in this era.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-141",
+      "label": "Kassite Babylon",
+      "entryId": "kassite",
+      "category": "history",
+      "correction": "Traditional period boundary 1595 BCE reflects the Hittite sack; the earliest establishment of Kassite rule is imperfectly documented.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-142",
+      "label": "Assyrian Empire",
+      "entryId": "middle-assyrian",
+      "category": "history",
+      "correction": "The poster’s broad Assyrian band combines Middle and Neo-Assyrian periods. This earlier phase complements existing Neo-Assyria; power and territory fluctuated.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-143",
+      "label": "Assyrian Empire",
+      "entryId": "assyria",
+      "category": "history",
+      "correction": "Nineveh fell 612 BCE; remaining Assyrian royal resistance at Harran continued until 609 BCE. Existing entry uses 612 for the fall of its capital.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-144",
+      "label": "Neo-Babylonian Empire",
+      "entryId": "neo-babylonian",
+      "category": "history",
+      "correction": "Nabopolassar’s kingdom began 626 BCE; imperial expansion followed Assyria’s collapse 612–609. Conquered by Cyrus 539 BCE.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-145",
+      "label": "Elamite Civilization",
+      "entryId": "elam",
+      "category": "history",
+      "correction": "A sequence of kingdoms and cultural phases, not one uninterrupted empire. Elamite history did not simply end 1500 BCE with the appearance of Iranian-speaking groups; these histories overlapped.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-146",
+      "label": "Iranian Tribes",
+      "entryId": "early-iranian-peoples",
+      "category": "history",
+      "correction": "A selected approximate pre-Achaemenid frame, not a state or a single dated migration. Western-Iranian groups are securely attested in Assyrian records by the ninth centuryBCE; their languages and societies continued after 550 BCE.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-147",
+      "label": "Median Empire",
+      "entryId": "medes",
+      "category": "history",
+      "correction": "Conventional traditional frame only. The extent, political unity and chronology of a Median empire remain debated; no claim that a securely documented empire was founded in 678 BCE.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-148",
+      "label": "Persian Empire",
+      "entryId": "persia",
+      "category": "history",
+      "correction": "The poster steps conquest dates across regions: Lydia 546, Egypt 525, Babylon 539. These are accessions of territory, not multiple founding dates; Iranian rule continued under successor powers.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-149",
+      "label": "Macedonian Empire",
+      "entryId": "cn-alexander",
+      "category": "history",
+      "correction": "Alexander became king 336 BCE; Asian invasion began 334, Babylon fell 331 and Achaemenid kingship ended 330. This selected personal reign must not be equated with the full earlier Macedonian kingdom.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-150",
+      "label": "Hellenistic Kingdoms",
+      "entryId": "hellenistic",
+      "category": "history",
+      "correction": "A family of rival states following Alexander; selected separate Ptolemaic, Seleucid and Parthian histories are required for the poster’s named blocks.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-151",
+      "label": "Seleucid Empire",
+      "entryId": "cn-seleucid",
+      "category": "history",
+      "correction": "Conventional era starts 312 BCE; Seleucus assumed royal title 305. Territory contracted in stages, especially with Parthian expansion.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-152",
+      "label": "Parthian Empire",
+      "entryId": "cn-parthian",
+      "category": "history",
+      "correction": "Arsacid origins conventionally 247 BCE;141 BCE in the poster is conquest of Babylonia, not the empire’s foundation.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-153",
+      "label": "Sasanian Empire",
+      "entryId": "sasanian",
+      "category": "history",
+      "correction": "Founded 224. Arab conquest proceeded over several decades;651 marks the death of YazdegerdIII, not the disappearance of Iranian society.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-154",
+      "label": "Abbasid Caliphate",
+      "entryId": "abbasid",
+      "category": "history",
+      "correction": "Cairo-based Abbasid caliphs later continued under Mamluk patronage 1261–1517; Baghdad’s fall 1258 ends this selected ruling phase.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-155",
+      "label": "Sultanate of Rum",
+      "entryId": "sultanate-rum",
+      "category": "history",
+      "correction": "An Anatolian Seljuk state distinct from the Great Seljuq Empire already in the chart. Autonomy weakened after defeat by the Mongols 1243.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-156",
+      "label": "Post-Abbasid Regional Dynasties",
+      "entryId": "post-abbasid-dynasties",
+      "category": "history",
+      "correction": "A regional overview, not a single successor state. Includes Ilkhanid, Jalayirid, Timurid and Turkmen powers with different and overlapping dates; Ilkhanid rule began before 1258 and several regional histories continued after 1501.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-157",
+      "label": "Post-Abbasid Regional Dynasties",
+      "entryId": "cn-ilkhanate",
+      "category": "history",
+      "correction": "Specific state within the poster’s broad regional band; rule begins before the 1258 sack of Baghdad. Later rival Ilkhan claimants continued after 1335.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-158",
+      "label": "Post-Abbasid Regional Dynasties",
+      "entryId": "timurid",
+      "category": "history",
+      "correction": "Specific major power within the poster’s umbrella band; western Iranian territory also passed to Turkmen dynasties. Their dates do not define a single 1258–1501 empire.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-159",
+      "label": "Safavid Empire",
+      "entryId": "safavid",
+      "category": "history",
+      "correction": "Conventional dynasty 1501–1736. Effective control collapsed after the Afghan conquest 1722; residual Safavid claimants and restoration attempts continued until Nader’s coronation.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-160",
+      "label": "Afsharid Empire",
+      "entryId": "afsharid",
+      "category": "history",
+      "correction": "Nader Shah’s empire fragmented after his death 1747. Afsharid government in Khorasan survived until 1796, overlapping the Zands and rising Qajars.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-161",
+      "label": "Qajar Dynasty",
+      "entryId": "qajar",
+      "category": "history",
+      "correction": "Start dates 1786,1789,1794 and 1796 reflect different stages of consolidation and coronation. Use conventional 1789 for the dynasty and explain 1796 coronation; the poster selects 1796.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-162",
+      "label": "Pahlavi Dynasty",
+      "entryId": "iran-pahlavi",
+      "category": "period",
+      "correction": "Reza Khan’s 1921 coup preceded the foundation of the Pahlavi monarchy 1925. Monarchy overthrown 1979.",
+      "representation": "Named period in the index and related history reader"
+    },
+    {
+      "id": "item-163",
+      "label": "Iran",
+      "entryId": "iran-islamic-republic",
+      "category": "period",
+      "correction": "Revolution and Islamic Republic established 1979; the broader history of Iran and its society long predates this constitutional phase.",
+      "representation": "Named period in the index and related history reader"
+    },
+    {
+      "id": "item-164",
+      "label": "Ottoman Empire",
+      "entryId": "ottoman",
+      "category": "history",
+      "correction": "Conventional origin around 1299; Ottoman expansion into Byzantine, Mamluk and Iraqi territories occurred at different dates. Sultanate abolished 1922; republic proclaimed 1923.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-165",
+      "label": "Turkey",
+      "entryId": "turkiye",
+      "category": "history",
+      "correction": "Republic proclaimed 1923; the empire and republic are distinct phases.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-166",
+      "label": "Kingdom of Iraq",
+      "entryId": "iraq-kingdom",
+      "category": "history",
+      "correction": "Monarchy established 1921 under British control; mandate ended and independence recognized 1932. Monarchy overthrown 14 July 1958.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-167",
+      "label": "Iraq",
+      "entryId": "iraqmodern",
+      "category": "history",
+      "correction": "A succession of republics and regimes, with major changes 1968,2003 and 2005. The state and Iraqi society did not originate 1958.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-168",
+      "label": "Indus Valley Civilization",
+      "entryId": "indus",
+      "category": "history",
+      "correction": "The poster’s 3300 BCE start is Early Harappan, while the existing chart shows Mature Harappan 2600–1900 BCE. Add Early and Late phases explicitly; decline of urban centres did not end all Harappan traditions 1500 BCE.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-169",
+      "label": "Vedic Period",
+      "entryId": "vedic",
+      "category": "history",
+      "correction": "Conventional textual-cultural frame 1500–500 BCE; dates are approximate, regional and debated. Vedic cultures coexisted with Late Harappan and other traditions; not a single state.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-170",
+      "label": "Mahajanapadas",
+      "entryId": "mahajanapadas",
+      "category": "history",
+      "correction": "Multiple kingdoms and oligarchic republics, principally in northern South Asia; conventional sixth–fourth centuryBCE frame. Mauryan expansion incorporated different states at different times.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-171",
+      "label": "Maurya Empire",
+      "entryId": "maurya",
+      "category": "history",
+      "correction": "Traditional dates 322/321–185 BCE; exact founding chronology varies. Not an empire covering every part of the Indian subcontinent.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-172",
+      "label": "Post-Mauryan Kingdoms",
+      "entryId": "post-mauryan",
+      "category": "history",
+      "correction": "Period overview containing Shunga, Kanva, Indo-Greek, Shaka, Satavahana and Kushan powers; many coexisted. Existing Kushan history provides one named example.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-173",
+      "label": "Gupta Empire",
+      "entryId": "gupta",
+      "category": "history",
+      "correction": "Conventional imperial/art-historical phase; political decline and regional artistic influence have different end dates.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-174",
+      "label": "Post-Gupta Kingdoms",
+      "entryId": "post-gupta",
+      "category": "history",
+      "correction": "A selected transition frame, not one polity. Regional kingdoms and post-Gupta artistic traditions began before and continued after Harsha; avoid a blanket replacement at 606.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-175",
+      "label": "Harsha’s Empire",
+      "entryId": "harsha",
+      "category": "history",
+      "correction": "Harsha ruled parts of northern India 606–647, not all South Asia; southern powers including the Chalukyas remained independent.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-176",
+      "label": "Regional Kingdoms",
+      "entryId": "india-regional-kingdoms",
+      "category": "history",
+      "correction": "A broad selected frame, not one state or a cultural vacuum. Includes Pala, Pratihara, Rashtrakuta, Chalukya, Chola and Rajput polities with overlapping dates; southern kingdoms continued after 1206.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-177",
+      "label": "Delhi Sultanate",
+      "entryId": "delhi",
+      "category": "history",
+      "correction": "Several ruling dynasties with shifting territories; a northern Indian political frame rather than all-India rule.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-178",
+      "label": "Mughal Empire",
+      "entryId": "mughal",
+      "category": "history",
+      "correction": "Interrupted by the Sur dynasty 1540–1555. Imperial power contracted greatly before 1858, while regional kingdoms and Company rule overlapped.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-179",
+      "label": "Colonial India",
+      "entryId": "britishraj",
+      "category": "history",
+      "correction": "The poster correctly uses 1858 for Crown rule. Company territorial rule began earlier and is separately represented; princely states had distinct arrangements.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-180",
+      "label": "Pakistan",
+      "entryId": "pakistan",
+      "category": "history",
+      "correction": "Independence 1947; East Pakistan became Bangladesh 1971. Constitutions and political regimes changed within this continuing national history.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-181",
+      "label": "India",
+      "entryId": "indiamodern",
+      "category": "history",
+      "correction": "Independent Dominion 1947–1950, Republic from 1950. Independence is a political milestone, not the beginning of Indian cultures.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-182",
+      "label": "Liangzhu Culture",
+      "entryId": "liangzhu",
+      "category": "history",
+      "correction": "Archaeological culture 3300–2300 BCE; the poster uses 3000 and extends it toward Xia. Liangzhu is not a dynastic predecessor ruling all China.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-183",
+      "label": "Xia Dynasty",
+      "entryId": "xia",
+      "category": "history",
+      "correction": "These are traditional/modelled dates, not secure contemporary attestations. No surviving contemporary inscription securely identifies Erlitou as Xia; historicity and archaeological identification remain debated.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-184",
+      "label": "Shang Dynasty",
+      "entryId": "shang",
+      "category": "history",
+      "correction": "The later Shang is securely attested by oracle-bone writing. The beginning around 1600 BCE and transition date 1046 are conventional archaeological-historical dates.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-185",
+      "label": "Zhou Dynasty",
+      "entryId": "zhou",
+      "category": "history",
+      "correction": "Western and Eastern Zhou with changing royal power; Spring and Autumn and Warring States polities coexisted under increasingly nominal Zhou kingship.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-186",
+      "label": "Qin Dynasty",
+      "entryId": "qin",
+      "category": "history",
+      "correction": "Unification 221 BCE, correcting the poster’s tiny 217 BCE label. Qin as a regional state existed much earlier.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-187",
+      "label": "Han Dynasty",
+      "entryId": "han",
+      "category": "history",
+      "correction": "Western and Eastern Han, interrupted by the Xin dynasty 9–23 CE and subsequent civil war. Territorial reach and rule varied.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-188",
+      "label": "Age of Division",
+      "entryId": "china-division",
+      "category": "history",
+      "correction": "An umbrella period, not one government. Includes Three Kingdoms, Western/Eastern Jin, Sixteen Kingdoms and Northern/Southern dynasties; brief Western Jin reunification 280–316 interrupts any claim of continuous division.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-189",
+      "label": "Sui Dynasty",
+      "entryId": "sui",
+      "category": "history",
+      "correction": "Dynasty founded 581; reunification of north and south 589. The poster uses 589 for the territorial milestone.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-190",
+      "label": "Tang Dynasty",
+      "entryId": "tang",
+      "category": "history",
+      "correction": "Interrupted by Wu Zhou 690–705; regional warlords and rival states increasingly constrained late-Tang rule.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-191",
+      "label": "Five Dynasties Period",
+      "entryId": "five-dynasties",
+      "category": "history",
+      "correction": "Northern Five Dynasties traditionally end 960 with Song’s foundation, while southern independent kingdoms continued until 979. A network of concurrent states, not five rulers of all China.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-192",
+      "label": "Song Dynasty",
+      "entryId": "song",
+      "category": "history",
+      "correction": "Northern Song 960–1127 and Southern Song 1127–1279 coexisted with Liao, Western Xia and Jin powers. Yuan proclaimed 1271 before Song’s final defeat 1279.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-193",
+      "label": "Yuan Dynasty",
+      "entryId": "yuan",
+      "category": "history",
+      "correction": "Proclaimed 1271, Southern Song conquered 1279. Ming seized Dadu 1368 but Northern Yuan rule continued beyond the poster’s endpoint.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-194",
+      "label": "Ming Dynasty",
+      "entryId": "ming",
+      "category": "history",
+      "correction": "Beijing fell 1644, while Southern Ming regimes continued to 1662 and related resistance longer. Ming did not simply become Qing everywhere at once.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-195",
+      "label": "Qing Dynasty",
+      "entryId": "qing",
+      "category": "history",
+      "correction": "Qing dynastic name proclaimed 1636 before its 1644 seizure of Beijing; conquest continued regionally thereafter. Abdication 1912.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-196",
+      "label": "Republic of China",
+      "entryId": "republicchina",
+      "category": "history",
+      "correction": "Founded 1912. The government relocated to Taiwan 1949 and the Republic of China continues there; it did not cease to exist with the PRC’s mainland victory.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-197",
+      "label": "China",
+      "entryId": "prchina",
+      "category": "history",
+      "correction": "PRC proclaimed 1949. Its government has never administered Taiwan; the site’s separate Taiwan/ROC history preserves this distinction.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-198",
+      "label": "Jōmon Period",
+      "entryId": "jomon",
+      "category": "history",
+      "correction": "Starts many millennia before the chart window. The transition to Yayoi was regionally gradual from roughly 900 BCE; Jōmon traditions persisted later in northern areas. This is not Japan’s first human occupation.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-199",
+      "label": "Yayoi Period",
+      "entryId": "yayoi",
+      "category": "history",
+      "correction": "Dates vary by region and dating method. Newer chronologies place wet-rice-based Yayoi society from around 900 BCE in northern Kyushu, while older general surveys use 300 BCE. Do not present the poster’s 300 BCE as a universal secure start.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-200",
+      "label": "Yamato State",
+      "entryId": "yamato",
+      "category": "history",
+      "correction": "A broad conventional Kofun/Asuka frame; the Yamato court consolidated gradually.250 is an archaeological-period anchor, not a known single state-founding date.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-201",
+      "label": "Nara Period",
+      "entryId": "nara",
+      "category": "history",
+      "correction": "Capital established at Heijō-kyō710; court moved to Heian-kyō794, with a brief intervening Nagaoka phase 784–794.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-202",
+      "label": "Heian Period",
+      "entryId": "heian",
+      "category": "history",
+      "correction": "Conventional ending 1185 with the emergence of warrior government;1192 is another common boundary emphasizing the shogunal appointment.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-203",
+      "label": "Kamakura Shogunate",
+      "entryId": "kamakura",
+      "category": "history",
+      "correction": "1185 marks military victory and establishment of rule;1192 marks Minamoto no Yoritomo’s shogunal title. Shogunate ended 1333.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-204",
+      "label": "Muromachi Shogunate",
+      "entryId": "muromachi",
+      "category": "history",
+      "correction": "Ashikaga regime 1336–1573, with a rival Southern Court 1336–1392. The later Sengoku wars overlap it; the shogunate did not continue to 1603.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-205",
+      "label": "Sengoku Period",
+      "entryId": "sengoku",
+      "category": "period",
+      "correction": "Conventional broad Warring States frame from the Ōnin War; proposed end dates 1568,1573,1600 or 1615 depend on the event emphasized.1603 is the Tokugawa establishment, not a universally agreed period end.",
+      "representation": "Named period in the index and related history reader"
+    },
+    {
+      "id": "item-206",
+      "label": "Tokugawa Shogunate",
+      "entryId": "edo",
+      "category": "history",
+      "correction": "Tokugawa shogunal rule began 1603 and ended 1867–1868. International contact was controlled and restricted, never wholly absent.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-207",
+      "label": "Meiji Era",
+      "entryId": "japan-meiji",
+      "category": "period",
+      "correction": "Meiji is an imperial era within modern imperial Japan, not a separate state preceding the empire.",
+      "representation": "Named period in the index and related history reader"
+    },
+    {
+      "id": "item-208",
+      "label": "Empire of Japan",
+      "entryId": "japan-empire",
+      "category": "period",
+      "correction": "The poster starts 1912, which omits the Meiji imperial state. Broad constitutional-political frame 1868–1947; defeat 1945 and constitutional change 1947 are distinct endpoints.",
+      "representation": "Named period in the index and related history reader"
+    },
+    {
+      "id": "item-209",
+      "label": "Japan",
+      "entryId": "japan-postwar",
+      "category": "period",
+      "correction": "Current constitution effective 3 May 1947. Allied occupation began 1945 and ended 1952 for most of Japan;1947 is not independence or the creation of Japan.",
+      "representation": "Named period in the index and related history reader"
+    },
+    {
+      "id": "item-210",
+      "label": "Indus Valley Civilization",
+      "entryId": "indus-early",
+      "category": "period",
+      "correction": "A regionalization period including Ravi/Hakra and Kot Diji phases; dates and material traditions vary by site. Complements the existing Mature Harappan band.",
+      "representation": "Named period in the index and related history reader"
+    },
+    {
+      "id": "item-211",
+      "label": "Indus Valley Civilization",
+      "entryId": "indus-late",
+      "category": "period",
+      "correction": "Urban decentralization and regional cultural continuities after the Mature phase; site chronologies vary. This does not imply the disappearance of people or traditions.",
+      "representation": "Named period in the index and related history reader"
+    },
+    {
+      "id": "item-212",
+      "label": "Indigenous Era · Native American Civilizations (Iroquois, Pueblo, etc.)",
+      "entryId": "topic-native-america",
+      "category": "culture",
+      "correction": "The poster groups many peoples into one band. Indigenous histories long predate the United States and continue today. There is no single founding year or collective end at European settlement; archaeological societies and living nations have their own histories.",
+      "representation": "Context article"
+    },
+    {
+      "id": "item-213",
+      "label": "Iroquois",
+      "entryId": "topic-haudenosaunee",
+      "category": "culture",
+      "correction": "Haudenosaunee is the confederacy’s own name. Oral traditions and scholarly chronologies differ about its foundation; no disputed date is treated as settled. The Six Nations and their political and cultural traditions continue.",
+      "representation": "Context article"
+    },
+    {
+      "id": "item-214",
+      "label": "Pueblo",
+      "entryId": "topic-pueblo",
+      "category": "culture",
+      "correction": "Pueblo peoples include distinct contemporary communities with ancestral ties to sites such as Mesa Verde and Chaco. The abandonment of a settlement is not the disappearance of its people.",
+      "representation": "Context article"
+    },
+    {
+      "id": "item-215",
+      "label": "Indigenous Era · Inuit, First Nations & Métis",
+      "entryId": "topic-indigenous-canada",
+      "category": "culture",
+      "correction": "First Nations, Inuit and Métis are distinct groups, not one ancient state or a culture that ended at colonisation. Métis communities formed in particular colonial-era historical contexts; their identity should not be projected unchanged into antiquity.",
+      "representation": "Context article"
+    },
+    {
+      "id": "item-216",
+      "label": "Inuit",
+      "entryId": "topic-inuit",
+      "category": "culture",
+      "correction": "Inuit histories span different Arctic regions and communities. This cultural entry has no single founding year and does not date all earlier Arctic peoples as Inuit.",
+      "representation": "Context article"
+    },
+    {
+      "id": "item-217",
+      "label": "First Nations",
+      "entryId": "topic-firstnations",
+      "category": "culture",
+      "correction": "First Nations is a collective term for many distinct Indigenous peoples in Canada; it does not include Inuit or Métis and is not the name of a single ancient state.",
+      "representation": "Context article"
+    },
+    {
+      "id": "item-218",
+      "label": "Métis",
+      "entryId": "topic-metis",
+      "category": "culture",
+      "correction": "Métis peoples and nationhood developed in specific historical communities, particularly in the eighteenth and nineteenth centuries. The poster’s continuous ancient-to-colonial band must not be read as a date for Métis origins.",
+      "representation": "Context article"
+    },
+    {
+      "id": "item-219",
+      "label": "Indigenous Era · Olmec, Maya, Aztec & Other Civilizations",
+      "entryId": "topic-mesoamerica",
+      "category": "culture",
+      "correction": "Olmec traditions, Maya societies, Teotihuacan and the Mexica-led Triple Alliance belong to different places and periods. The poster’s shared band is not one uninterrupted empire, and Indigenous societies continue after Spanish conquest.",
+      "representation": "Context article"
+    },
+    {
+      "id": "item-220",
+      "label": "Olmec",
+      "entryId": "olmec",
+      "category": "history",
+      "correction": "Olmec is an archaeological designation, not proof of one empire controlling all Mesoamerica.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-221",
+      "label": "Maya",
+      "entryId": "maya",
+      "category": "history",
+      "correction": "900 CE marks a period boundary, not the disappearance of Maya peoples. Maya communities and languages continue today.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-222",
+      "label": "Aztec",
+      "entryId": "mexica",
+      "category": "history",
+      "correction": "1521 marks conquest of Tenochtitlan by Spanish and Indigenous allied forces; it did not end Nahua people or culture.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-223",
+      "label": "Teotihuacan",
+      "entryId": "teotihuacan",
+      "category": "history",
+      "correction": "Selected monumental urban phase; settlement and later engagement with the site extend beyond this range.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-224",
+      "label": "Indigenous Era · Māori & Other Indigenous Cultures",
+      "entryId": "topic-indigenous-oceania",
+      "category": "culture",
+      "correction": "Māori settlement of Aotearoa New Zealand dates to approximately the late thirteenth century; other Pacific populations have their own earlier and later settlement histories. This broad label is not a single state, people or shared founding date.",
+      "representation": "Context article"
+    },
+    {
+      "id": "item-225",
+      "label": "Māori",
+      "entryId": "maori",
+      "category": "history",
+      "correction": "First settlement is dated to approximately 1250–1300 CE. The bar uses 1250 as a plotting anchor, not an exact arrival date.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-226",
+      "label": "Indigenous Era · Aboriginal and Torres Strait Islander Cultures",
+      "entryId": "topic-indigenous-australia",
+      "category": "culture",
+      "correction": "Aboriginal peoples and Torres Strait Islander peoples are distinct cultural groups comprising many communities. European colonisation and federation did not end their histories or identities.",
+      "representation": "Context article"
+    },
+    {
+      "id": "item-227",
+      "label": "Aboriginal",
+      "entryId": "australia",
+      "category": "history",
+      "correction": "The deep-time date is an approximate archaeological anchor, not a precise founding year. The bar extends before and beyond the displayed window.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-228",
+      "label": "Torres Strait Islander",
+      "entryId": "topic-torresstrait",
+      "category": "culture",
+      "correction": "Torres Strait Islander peoples have distinct island homelands, languages and histories. They are not simply another name for Aboriginal Australians.",
+      "representation": "Context article"
+    },
+    {
+      "id": "item-229",
+      "label": "Colonial America",
+      "entryId": "britishamerica",
+      "category": "history",
+      "correction": "This groups English and later British colonies before the 1783 peace settlement. Britain retained colonies afterward. It is not a state called Anglo-America, and it does not replace Indigenous histories.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-230",
+      "label": "Colonial Canada · French and British Colonial Settlements",
+      "entryId": "poster-colonial-canada",
+      "category": "period",
+      "correction": "1608 marks the founding of Quebec, not the first European presence or the beginning of the region’s history. French and British rule followed different territorial timelines; Canada’s Confederation in 1867 was a later partial union, not immediate full independence. See New France and British northern colonies for distinct frames.",
+      "representation": "Named period in the index and related history reader"
+    },
+    {
+      "id": "item-231",
+      "label": "Colonial Era · Mexico",
+      "entryId": "poster-newspain",
+      "category": "history",
+      "correction": "1521 marks the fall of Tenochtitlan; the Viceroyalty of New Spain was established in 1535. Its jurisdiction extended far beyond present-day Mexico and changed over time. Spanish conquest did not end Indigenous peoples or cultures.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-232",
+      "label": "Colonial Era · Argentina",
+      "entryId": "poster-colonial-argentina",
+      "category": "history",
+      "correction": "1536 marks the first, short-lived Buenos Aires settlement, not continuous control of present-day Argentina. The second foundation was in 1580. The Viceroyalty of the Río de la Plata existed only from 1776, and the independence process began in 1810 before the 1816 declaration. Indigenous territories were not uniformly controlled.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-233",
+      "label": "Colonial Australia",
+      "entryId": "poster-colonial-australia",
+      "category": "history",
+      "correction": "The British colony of New South Wales began in 1788; other colonies were established or separated later. Six colonies federated in 1901. Colonial expansion involved dispossession and conflict, while Aboriginal and Torres Strait Islander histories continued.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-234",
+      "label": "United States",
+      "entryId": "unitedstates",
+      "category": "history",
+      "correction": "1776 marks the declaration of independence; British recognition followed in 1783 and the present Constitution took effect in 1789. Anglo-America is a variable cultural-geographic term, not a unified country, empire or description of every inhabitant.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-235",
+      "label": "Canada",
+      "entryId": "canada",
+      "category": "history",
+      "correction": "Confederation in 1867 created the Dominion of Canada. Autonomy and territory developed in stages, including the Statute of Westminster in 1931 and constitutional patriation in 1982. Canada is not wholly English-speaking.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-236",
+      "label": "Mexico",
+      "entryId": "mexicomodern",
+      "category": "history",
+      "correction": "1821 marks independence from Spain. Empires, republics, civil conflicts and changing borders followed; this is not the beginning of the region’s peoples or cultures.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-237",
+      "label": "Argentina",
+      "entryId": "argentinamodern",
+      "category": "history",
+      "correction": "1816 marks the declaration of independence by the United Provinces, following the 1810 revolution. The Argentine state, its constitutional arrangements and territorial control developed through later conflicts and agreements. This is not an unchanged republic from 1816.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-238",
+      "label": "Australia",
+      "entryId": "australiamodern",
+      "category": "history",
+      "correction": "1901 marks federation of six British colonies. Constitutional independence developed gradually; Aboriginal and Torres Strait Islander histories long predate the federation and continue alongside it.",
+      "representation": "Timeline history"
+    },
+    {
+      "id": "item-239",
+      "label": "Bronze Age",
+      "entryId": "guide-bronze",
+      "category": "guide",
+      "correction": "An archaeological period defined by particular technologies and social changes, with different dates in different regions. A single global date band cannot describe every society on this timeline.",
+      "representation": "Context article"
+    },
+    {
+      "id": "item-240",
+      "label": "Early Bronze Age",
+      "entryId": "guide-early-bronze",
+      "category": "guide",
+      "correction": "A regional subdivision of the Bronze Age, especially used in Near Eastern and European chronologies. It does not begin and end everywhere at the same date.",
+      "representation": "Context article"
+    },
+    {
+      "id": "item-241",
+      "label": "Iron Age",
+      "entryId": "guide-iron",
+      "category": "guide",
+      "correction": "An archaeological period whose chronology varies regionally. Ironworking spread through different societies over a long period; it is not a global change occurring in one year.",
+      "representation": "Context article"
+    },
+    {
+      "id": "item-242",
+      "label": "Classical Antiquity",
+      "entryId": "guide-classical",
+      "category": "guide",
+      "correction": "A conventional period focused on the ancient Mediterranean. Its boundaries are approximate and it should not be treated as the name for every contemporary society worldwide.",
+      "representation": "Context article"
+    },
+    {
+      "id": "item-243",
+      "label": "The Middle Ages",
+      "entryId": "guide-medieval",
+      "category": "guide",
+      "correction": "A conventional European period, often approximately the fifth to fifteenth centuries. Histories elsewhere use their own periodisations; the chart’s common date scale allows comparison without assigning all societies to a European age.",
+      "representation": "Context article"
+    },
+    {
+      "id": "item-244",
+      "label": "The Modern Era",
+      "entryId": "guide-modern",
+      "category": "guide",
+      "correction": "A broad historical convention, often beginning around 1500 in European periodisation. The Modern era chart starts at 1450 to include major transitions; this is a viewing window rather than a single worldwide beginning.",
+      "representation": "Context article"
+    },
+    {
+      "id": "item-245",
+      "label": "BCE / CE date axis",
+      "entryId": "guide-dates",
+      "category": "guide",
+      "correction": "BCE and CE use the same year numbering as BC and AD. There is no year zero. Approximate dates and scholarly disagreements are explained in individual entries; the chart uses one linear scale.",
+      "representation": "Context article"
+    },
+    {
+      "id": "item-246",
+      "label": "Historical Landmark · legend",
+      "entryId": "guide-landmarks",
+      "category": "guide",
+      "correction": "Landmarks have their own construction, use and alteration histories. Their placement beside a political period in the reference poster is not evidence that the place originated in that period. Select Landmarks in the index for the dated entries.",
+      "representation": "Context article"
+    },
+    {
+      "id": "item-247",
+      "label": "Landmark illustrations and symbols",
+      "entryId": "guide-illustrations",
+      "category": "guide",
+      "correction": "The poster’s decorative monument illustrations are not chronological evidence. In particular a later Japanese pagoda should not be read as a Jōmon-period building. This atlas separates monument histories from the surrounding political and archaeological periods.",
+      "representation": "Context article"
+    },
+    {
+      "id": "item-248",
+      "label": "National flags · country labels",
+      "entryId": "guide-flags",
+      "category": "guide",
+      "correction": "The flags identify the modern countries in the poster’s bottom row. They do not represent ancient polities, imply continuous borders or establish direct descent from every earlier society. The country shortcuts in the index open the corresponding modern histories.",
+      "representation": "Context article"
+    },
+    {
+      "id": "item-249",
+      "label": "Moon Landing",
+      "entryId": "event-moonlanding",
+      "category": "milestone",
+      "correction": "Apollo 11 landed on 20 July UTC; the first steps followed on 21 July UTC. Earlier robotic lunar missions were uncrewed.",
+      "representation": "Key event article"
+    },
+    {
+      "id": "item-250",
+      "label": "Digital Revolution",
+      "entryId": "poster-digital",
+      "category": "milestone",
+      "correction": "A long worldwide transition involving electronics, computers and networks, not a single national invention or founding date. The transistor of 1947 is one precursor.",
+      "representation": "Milestone article"
+    },
+    {
+      "id": "item-251",
+      "label": "Discovery of Insulin",
+      "entryId": "poster-insulin",
+      "category": "milestone",
+      "correction": "The Toronto work involved Frederick Banting, Charles Best, J. J. R. Macleod and James Collip, alongside earlier international research; not the achievement of one person alone.",
+      "representation": "Milestone article"
+    },
+    {
+      "id": "item-252",
+      "label": "Maize Cultivation",
+      "entryId": "poster-maize",
+      "category": "milestone",
+      "correction": "A gradual Indigenous domestication process, not an invention by one later empire. Its beginning predates this timeline’s 3500 BCE start.",
+      "representation": "Milestone article"
+    },
+    {
+      "id": "item-253",
+      "label": "Maya Astronomy",
+      "entryId": "poster-mayaastronomy",
+      "category": "milestone",
+      "correction": "No single invention date is justified. Maya observations, calendars and eclipse tables developed over centuries; surviving Dresden Codex astronomy reflects a later manuscript tradition.",
+      "representation": "Milestone article"
+    },
+    {
+      "id": "item-254",
+      "label": "Tango",
+      "entryId": "poster-tango",
+      "category": "milestone",
+      "correction": "Developed in Buenos Aires and Montevideo from multiple cultural traditions. It belongs to both Argentina and Uruguay, rather than one country alone.",
+      "representation": "Milestone article"
+    },
+    {
+      "id": "item-255",
+      "label": "Wi-Fi Innovation",
+      "entryId": "poster-wifi",
+      "category": "milestone",
+      "correction": "CSIRO’s Australian team made an important high-speed wireless LAN contribution. Wi-Fi as a whole involved many inventors, companies and IEEE standards; “Australia invented all Wi-Fi” overstates it.",
+      "representation": "Milestone article"
+    },
+    {
+      "id": "item-256",
+      "label": "Laws of Motion & Gravity",
+      "entryId": "poster-newton",
+      "category": "milestone",
+      "correction": "Newton formulated these in the Principia, building on earlier mathematical and physical work. This is not the first human awareness of motion or gravity.",
+      "representation": "Milestone article"
+    },
+    {
+      "id": "item-257",
+      "label": "Watt’s Steam Engine",
+      "entryId": "poster-watt",
+      "category": "milestone",
+      "correction": "Watt greatly improved steam-engine efficiency; he did not invent the first steam engine. Newcomen and other predecessors must not disappear from the account.",
+      "representation": "Milestone article"
+    },
+    {
+      "id": "item-258",
+      "label": "Natural Selection",
+      "entryId": "poster-naturalselection",
+      "category": "milestone",
+      "correction": "Darwin and Alfred Russel Wallace independently developed explanations of natural selection and their work was jointly presented in 1858.",
+      "representation": "Milestone article"
+    },
+    {
+      "id": "item-259",
+      "label": "Route to India",
+      "entryId": "poster-routetoindia",
+      "category": "milestone",
+      "correction": "This opened a Portuguese Cape route to India, entering existing African, Arab, South Asian and other Indian Ocean trade networks. It was not the discovery of India or the first sea route there.",
+      "representation": "Milestone article"
+    },
+    {
+      "id": "item-260",
+      "label": "Discovery of the Americas",
+      "entryId": "event-atlanticvoyage",
+      "category": "milestone",
+      "correction": "The Americas already had diverse Indigenous populations; Norse voyagers reached North America earlier. The label describes Columbus’s voyage and its consequences, rather than a universal “discovery.”",
+      "representation": "Key event article"
+    },
+    {
+      "id": "item-261",
+      "label": "Rights of Man",
+      "entryId": "poster-rightsofman",
+      "category": "milestone",
+      "correction": "This French revolutionary declaration is a particular document, not the beginning of all rights traditions. Its stated universality coexisted with exclusions in political and colonial practice.",
+      "representation": "Milestone article"
+    },
+    {
+      "id": "item-262",
+      "label": "Metric System",
+      "entryId": "poster-metric",
+      "category": "milestone",
+      "correction": "The French metric reforms and modern SI are related but not identical. SI was established in 1960 and continues to develop.",
+      "representation": "Milestone article"
+    },
+    {
+      "id": "item-263",
+      "label": "Renaissance",
+      "entryId": "poster-renaissance",
+      "category": "milestone",
+      "correction": "A broad cultural and intellectual period with regional variation, drawing on classical, Byzantine, Islamic and other knowledge transmissions; not one event or a universal historical stage.",
+      "representation": "Milestone article"
+    },
+    {
+      "id": "item-264",
+      "label": "Printing Press",
+      "entryId": "event-printing",
+      "category": "milestone",
+      "correction": "Gutenberg’s European metal-type system transformed European printing. Chinese woodblock printing and East Asian movable type preceded it by centuries.",
+      "representation": "Key event article"
+    },
+    {
+      "id": "item-265",
+      "label": "Automobile",
+      "entryId": "poster-automobile",
+      "category": "milestone",
+      "correction": "The Benz Patent-Motorwagen is an early practical petrol automobile. Earlier steam road vehicles and parallel work by other inventors mean “first automobile” needs qualification.",
+      "representation": "Milestone article"
+    },
+    {
+      "id": "item-266",
+      "label": "Theory of Relativity",
+      "entryId": "poster-relativity",
+      "category": "milestone",
+      "correction": "These are two connected theories, not a single publication. Einstein’s work developed within a wider mathematical and physical research community.",
+      "representation": "Milestone article"
+    },
+    {
+      "id": "item-267",
+      "label": "Classical Music",
+      "entryId": "poster-classicalmusic",
+      "category": "milestone",
+      "correction": "“Classical music” also names a much broader Western tradition. These dates refer to the Classical period associated with Haydn, Mozart and Beethoven, not all classical traditions worldwide.",
+      "representation": "Milestone article"
+    },
+    {
+      "id": "item-268",
+      "label": "Olympic Games",
+      "entryId": "poster-olympics",
+      "category": "milestone",
+      "correction": "776 BCE is the traditional recorded starting point, not proof that athletic festivals began then. Modern Olympic Games began in Athens in 1896.",
+      "representation": "Milestone article"
+    },
+    {
+      "id": "item-269",
+      "label": "Birth of Democracy",
+      "entryId": "poster-democracy",
+      "category": "milestone",
+      "correction": "Athenian democracy developed in stages. Political participation excluded women, enslaved people and resident foreigners; the date does not describe modern universal suffrage or every participatory tradition.",
+      "representation": "Milestone article"
+    },
+    {
+      "id": "item-270",
+      "label": "Justinian Code",
+      "entryId": "poster-justinian",
+      "category": "milestone",
+      "correction": "The Code is one part of the wider Corpus Juris Civilis, alongside the Digest and Institutes and later Novels. It compiled and revised a long Roman legal tradition.",
+      "representation": "Milestone article"
+    },
+    {
+      "id": "item-271",
+      "label": "Pyramids",
+      "entryId": "poster-pyramids",
+      "category": "milestone",
+      "correction": "Djoser’s Step Pyramid precedes the great Giza pyramids. Pyramid-shaped monuments also arose in other societies; the poster’s Egyptian marker is not a universal beginning.",
+      "representation": "Milestone article"
+    },
+    {
+      "id": "item-272",
+      "label": "Code of Hammurabi",
+      "entryId": "poster-hammurabi",
+      "category": "milestone",
+      "correction": "A major surviving Babylonian legal collection, not the world’s earliest law code. Earlier Mesopotamian legal collections survive.",
+      "representation": "Milestone article"
+    },
+    {
+      "id": "item-273",
+      "label": "Yoga",
+      "entryId": "poster-yoga",
+      "category": "milestone",
+      "correction": "Yoga developed across Hindu, Buddhist, Jain and other traditions. There is no agreed single origin date; interpreting Indus images as proof of modern yoga is uncertain.",
+      "representation": "Milestone article"
+    },
+    {
+      "id": "item-274",
+      "label": "The Concept of Zero",
+      "entryId": "poster-zero",
+      "category": "milestone",
+      "correction": "Distinguish placeholder symbols from zero as an arithmetic number. Babylonian, Maya and South Asian developments cannot be reduced to a single inventor or place; 628 is an anchor for one important Indian text.",
+      "representation": "Milestone article"
+    },
+    {
+      "id": "item-275",
+      "label": "Papermaking",
+      "entryId": "poster-paper",
+      "category": "milestone",
+      "correction": "Cai Lun is traditionally credited with improving and reporting the process, not necessarily making the very first paper. Archaeological paper predates 105 CE.",
+      "representation": "Milestone article"
+    },
+    {
+      "id": "item-276",
+      "label": "Compass",
+      "entryId": "poster-compass",
+      "category": "milestone",
+      "correction": "Ancient lodestone direction-finding and medieval navigational compasses are distinct stages. The approximate year 1100 is an ordering anchor for documented Song-era navigation, not a single invention date.",
+      "representation": "Milestone article"
+    },
+    {
+      "id": "item-277",
+      "label": "Lean Manufacturing",
+      "entryId": "poster-lean",
+      "category": "milestone",
+      "correction": "Toyota’s just-in-time and jidoka practices developed over decades and drew on earlier production ideas. “Lean” is a later term; no single invention year is adequate.",
+      "representation": "Milestone article"
+    },
+    {
+      "id": "item-278",
+      "label": "Bullet Train",
+      "entryId": "poster-bullettrain",
+      "category": "milestone",
+      "correction": "The Shinkansen opened a purpose-built high-speed passenger railway; this does not mean trains or high-speed experiments began in 1964.",
+      "representation": "Milestone article"
+    },
+    {
+      "id": "item-279",
+      "label": "Great Pyramid of Giza",
+      "entryId": "reading-giza",
+      "category": "landmark",
+      "correction": "The poster names the Great Pyramid; the linked complex includes the pyramids of Khufu, Khafre and Menkaure. These were built in the Old Kingdom, not at its opening boundary.",
+      "representation": "Landmark article and related history reader"
+    },
+    {
+      "id": "item-280",
+      "label": "Karnak",
+      "entryId": "poster-karnak",
+      "category": "landmark",
+      "correction": "A temple complex expanded over many reigns, especially in the New Kingdom, rather than one Middle Kingdom construction.",
+      "representation": "Landmark article and related history reader"
+    },
+    {
+      "id": "item-281",
+      "label": "Abu Simbel",
+      "entryId": "poster-abusimbel",
+      "category": "landmark",
+      "correction": "Ramesside rock-cut temples, relocated during the UNESCO Nubian monuments campaign in the 20th century.",
+      "representation": "Landmark article and related history reader"
+    },
+    {
+      "id": "item-282",
+      "label": "Ziggurat of Ur",
+      "entryId": "poster-zigguratur",
+      "category": "landmark",
+      "correction": "Associated with Ur-Nammu and the Third Dynasty of Ur, not the entire loosely named “Sumerian Renaissance.”",
+      "representation": "Landmark article and related history reader"
+    },
+    {
+      "id": "item-283",
+      "label": "Mohenjo-daro",
+      "entryId": "poster-mohenjodaro",
+      "category": "landmark",
+      "correction": "The city belongs to the Mature Harappan phase. A poster placement near 3000 BCE should not imply that every surviving structure dates to then.",
+      "representation": "Landmark article and related history reader"
+    },
+    {
+      "id": "item-284",
+      "label": "Chogha Zanbil",
+      "entryId": "poster-choghazanbil",
+      "category": "landmark",
+      "correction": "An Elamite sacred complex built under Untash-Napirisha, not a monument constructed by later Iranian-speaking tribes.",
+      "representation": "Landmark article and related history reader"
+    },
+    {
+      "id": "item-285",
+      "label": "Taxila",
+      "entryId": "poster-taxila",
+      "category": "landmark",
+      "correction": "A serial archaeological landscape with different cities and Buddhist institutions, not one Vedic-period monument.",
+      "representation": "Landmark article and related history reader"
+    },
+    {
+      "id": "item-286",
+      "label": "Persepolis",
+      "entryId": "poster-persepolis",
+      "category": "landmark",
+      "correction": "Founded under Darius I and expanded by successors; damaged in Alexander’s conquest.",
+      "representation": "Landmark article and related history reader"
+    },
+    {
+      "id": "item-287",
+      "label": "Great Wall of China",
+      "entryId": "poster-greatwall",
+      "category": "landmark",
+      "correction": "A network built and rebuilt across many periods. The familiar surviving brick sections are largely Ming, not all Zhou or Qin.",
+      "representation": "Landmark article and related history reader"
+    },
+    {
+      "id": "item-288",
+      "label": "Terracotta Army",
+      "entryId": "reading-terracotta",
+      "category": "landmark",
+      "correction": "Belongs to the Qin imperial burial complex, not a Zhou-period monument.",
+      "representation": "Landmark article and related history reader"
+    },
+    {
+      "id": "item-289",
+      "label": "Hallstatt",
+      "entryId": "poster-hallstattsite",
+      "category": "landmark",
+      "correction": "Hallstatt is an archaeological site and the name used for a broader material-culture period. The site’s long history should not be compressed into one culture-start date.",
+      "representation": "Landmark article and related history reader"
+    },
+    {
+      "id": "item-290",
+      "label": "Temple of Saturn",
+      "entryId": "poster-saturn",
+      "category": "landmark",
+      "correction": "Traditionally dedicated in 497 BCE. The visible remains reflect later rebuilding; it was also associated with Rome’s treasury.",
+      "representation": "Landmark article and related history reader"
+    },
+    {
+      "id": "item-291",
+      "label": "Parthenon",
+      "entryId": "poster-parthenon",
+      "category": "landmark",
+      "correction": "A Classical Athenian temple on the Acropolis, with a long subsequent history of religious use and transformation.",
+      "representation": "Landmark article and related history reader"
+    },
+    {
+      "id": "item-292",
+      "label": "Cave of Altamira",
+      "entryId": "poster-altamira",
+      "category": "landmark",
+      "correction": "The paintings predate the Celtic/Iberian societies beside which the poster places them. BP/years-ago dating must not be copied directly as BCE; this site predates the chart’s range.",
+      "representation": "Landmark article and related history reader"
+    },
+    {
+      "id": "item-293",
+      "label": "Lascaux Cave",
+      "entryId": "poster-lascaux",
+      "category": "landmark",
+      "correction": "Not a monument built by Iron Age Gauls. Research has proposed different prehistoric dates; all are many millennia before 3500 BCE and the chart’s range.",
+      "representation": "Landmark article and related history reader"
+    },
+    {
+      "id": "item-294",
+      "label": "Dolmens of Antequera",
+      "entryId": "poster-antequera",
+      "category": "landmark",
+      "correction": "Prehistoric megalithic tombs, not monuments constructed by the much later Lusitanian tribes beside which the poster places them.",
+      "representation": "Landmark article and related history reader"
+    },
+    {
+      "id": "item-295",
+      "label": "Stonehenge",
+      "entryId": "poster-stonehenge",
+      "category": "landmark",
+      "correction": "Built long before the Celtic era. The poster’s Celtic attribution and late placement should be corrected, not reproduced.",
+      "representation": "Landmark article and related history reader"
+    },
+    {
+      "id": "item-296",
+      "label": "Chichen Itza",
+      "entryId": "poster-chichenitza",
+      "category": "landmark",
+      "correction": "The monument icon’s placement high in the poster’s ancient column is not its construction date. Major flowering was much later than the earliest Maya communities.",
+      "representation": "Landmark article and related history reader"
+    },
+    {
+      "id": "item-297",
+      "label": "Teotihuacan",
+      "entryId": "poster-teotihuacansite",
+      "category": "landmark",
+      "correction": "The city predates the Mexica/Aztec Empire; later peoples named and revered its ruins.",
+      "representation": "Landmark article and related history reader"
+    },
+    {
+      "id": "item-298",
+      "label": "Uluru",
+      "entryId": "poster-uluru",
+      "category": "landmark",
+      "correction": "A natural landform and sacred cultural landscape, not a constructed monument or a place founded around year 1. Aṉangu custodianship and Tjukurpa continue.",
+      "representation": "Landmark article and related history reader"
+    },
+    {
+      "id": "item-299",
+      "label": "Colosseum",
+      "entryId": "reading-colosseum",
+      "category": "landmark",
+      "correction": "Built under the Flavian emperors; inaugurated in 80 CE and altered later.",
+      "representation": "Landmark article and related history reader"
+    },
+    {
+      "id": "item-300",
+      "label": "Roman Forum",
+      "entryId": "poster-romanforum",
+      "category": "landmark",
+      "correction": "A civic and religious area with buildings of many dates. It is not a single building erected at the poster marker’s vertical position.",
+      "representation": "Landmark article and related history reader"
+    },
+    {
+      "id": "item-301",
+      "label": "Mesa Verde",
+      "entryId": "poster-mesaverde",
+      "category": "landmark",
+      "correction": "The celebrated cliff dwellings largely belong to the final centuries of this sequence. Living Pueblo communities maintain connections with these ancestral places.",
+      "representation": "Landmark article and related history reader"
+    },
+    {
+      "id": "item-302",
+      "label": "Head-Smashed-In Buffalo Jump",
+      "entryId": "poster-buffalojump",
+      "category": "landmark",
+      "correction": "A communal bison-hunting landscape associated with Plains Indigenous peoples, especially Blackfoot histories. Its use long predates its low placement in the poster.",
+      "representation": "Landmark article and related history reader"
+    },
+    {
+      "id": "item-303",
+      "label": "Chaco Culture",
+      "entryId": "poster-chacoculture",
+      "category": "landmark",
+      "correction": "Chaco is a network of Ancestral Pueblo places, connected to living Pueblo peoples; not a vanished single tribe.",
+      "representation": "Landmark article and related history reader"
+    },
+    {
+      "id": "item-304",
+      "label": "Cahokia Mounds",
+      "entryId": "poster-cahokiamounds",
+      "category": "landmark",
+      "correction": "A major Indigenous urban and ceremonial centre. Its significance must not be reduced to generic pre-US background.",
+      "representation": "Landmark article and related history reader"
+    },
+    {
+      "id": "item-305",
+      "label": "Mont-Saint-Michel",
+      "entryId": "poster-montsaintmichel",
+      "category": "landmark",
+      "correction": "Its buildings span many centuries and should not be dated solely by the Frankish block in which the icon appears.",
+      "representation": "Landmark article and related history reader"
+    },
+    {
+      "id": "item-306",
+      "label": "Hagia Sophia",
+      "entryId": "reading-hagiasophia",
+      "category": "landmark",
+      "correction": "The surviving main building is Justinianic, with earlier churches and later alterations; its religious use changed over time.",
+      "representation": "Landmark article and related history reader"
+    },
+    {
+      "id": "item-307",
+      "label": "Windsor Castle",
+      "entryId": "poster-windsor",
+      "category": "landmark",
+      "correction": "Founded under William the Conqueror; it is not a single completed Norman building.",
+      "representation": "Landmark article and related history reader"
+    },
+    {
+      "id": "item-308",
+      "label": "Notre-Dame de Paris",
+      "entryId": "poster-notredame",
+      "category": "landmark",
+      "correction": "A Gothic cathedral with later restorations. The construction dates must be distinguished from modern reopening dates.",
+      "representation": "Landmark article and related history reader"
+    },
+    {
+      "id": "item-309",
+      "label": "Louvre Museum",
+      "entryId": "poster-louvre",
+      "category": "landmark",
+      "correction": "The poster places the museum in the medieval French kingdom, but the public museum opened during the Revolution. The medieval date belongs to the fortress.",
+      "representation": "Landmark article and related history reader"
+    },
+    {
+      "id": "item-310",
+      "label": "Leaning Tower of Pisa",
+      "entryId": "poster-pisa",
+      "category": "landmark",
+      "correction": "The tower was built in medieval Pisa; its placement beside a later Sicilian kingdom must not imply that kingdom constructed it.",
+      "representation": "Landmark article and related history reader"
+    },
+    {
+      "id": "item-311",
+      "label": "Cologne Cathedral",
+      "entryId": "poster-cologne",
+      "category": "landmark",
+      "correction": "Started in the Holy Roman Empire and completed in the German Empire. It was not wholly constructed in one medieval period.",
+      "representation": "Landmark article and related history reader"
+    },
+    {
+      "id": "item-312",
+      "label": "St. Stephen’s Cathedral",
+      "entryId": "poster-stephens",
+      "category": "landmark",
+      "correction": "The current cathedral combines phases; substantial Gothic works date to the later Middle Ages.",
+      "representation": "Landmark article and related history reader"
+    },
+    {
+      "id": "item-313",
+      "label": "Alhambra",
+      "entryId": "poster-alhambra",
+      "category": "landmark",
+      "correction": "The Alhambra is associated principally with Nasrid Granada, rather than being a monument created by the Christian “Reconquista.”",
+      "representation": "Landmark article and related history reader"
+    },
+    {
+      "id": "item-314",
+      "label": "Jerónimos Monastery",
+      "entryId": "poster-jeronimos",
+      "category": "landmark",
+      "correction": "The foundation stone is dated to 1501 or 1502 in official accounts. Its 16th-century building should not be dated by its earlier vertical position in the poster.",
+      "representation": "Landmark article and related history reader"
+    },
+    {
+      "id": "item-315",
+      "label": "Belém Tower",
+      "entryId": "poster-belem",
+      "category": "landmark",
+      "correction": "A fortified tower from the reign of Manuel I, not a 15th-century monument.",
+      "representation": "Landmark article and related history reader"
+    },
+    {
+      "id": "item-316",
+      "label": "Kinkaku-ji",
+      "entryId": "poster-kinkakuji",
+      "category": "landmark",
+      "correction": "The Golden Pavilion is associated with Ashikaga Yoshimitsu. The present pavilion is a reconstruction following the 1950 fire.",
+      "representation": "Landmark article and related history reader"
+    },
+    {
+      "id": "item-317",
+      "label": "Forbidden City",
+      "entryId": "reading-forbiddencity",
+      "category": "landmark",
+      "correction": "Built under the Ming Yongle emperor and subsequently used and altered under Qing rule.",
+      "representation": "Landmark article and related history reader"
+    },
+    {
+      "id": "item-318",
+      "label": "Blue Mosque",
+      "entryId": "poster-bluemosque",
+      "category": "landmark",
+      "correction": "An Ottoman mosque commissioned by Sultan Ahmed I; the familiar name refers to its blue interior tiles.",
+      "representation": "Landmark article and related history reader"
+    },
+    {
+      "id": "item-319",
+      "label": "Naqsh-e Jahan Square",
+      "entryId": "poster-naqsh",
+      "category": "landmark",
+      "correction": "The square and its surrounding monuments developed under Safavid patronage, especially Shah Abbas I.",
+      "representation": "Landmark article and related history reader"
+    },
+    {
+      "id": "item-320",
+      "label": "Taj Mahal",
+      "entryId": "reading-tajmahal",
+      "category": "landmark",
+      "correction": "Commissioned by Shah Jahan in memory of Mumtaz Mahal; different parts of the complex were completed at different times.",
+      "representation": "Landmark article and related history reader"
+    },
+    {
+      "id": "item-321",
+      "label": "Himeji Castle",
+      "entryId": "poster-himeji",
+      "category": "landmark",
+      "correction": "The famous surviving castle is largely early Edo construction with earlier roots, rather than a single generic Tokugawa monument.",
+      "representation": "Landmark article and related history reader"
+    },
+    {
+      "id": "item-322",
+      "label": "Palace of Versailles",
+      "entryId": "poster-versailles",
+      "category": "landmark",
+      "correction": "Versailles was expanded across several reigns. Louis XIV’s court moved there in 1682.",
+      "representation": "Landmark article and related history reader"
+    },
+    {
+      "id": "item-323",
+      "label": "Schönbrunn Palace",
+      "entryId": "poster-schonbrunn",
+      "category": "landmark",
+      "correction": "The present palace reflects Habsburg construction and major rebuilding, including Maria Theresa’s reign.",
+      "representation": "Landmark article and related history reader"
+    },
+    {
+      "id": "item-324",
+      "label": "Parliament Hill",
+      "entryId": "poster-parliamenthill",
+      "category": "landmark",
+      "correction": "The original Centre Block was destroyed by fire in 1916 and rebuilt. The complex has several construction phases.",
+      "representation": "Landmark article and related history reader"
+    },
+    {
+      "id": "item-325",
+      "label": "Statue of Liberty",
+      "entryId": "poster-liberty",
+      "category": "landmark",
+      "correction": "A French-designed gift to the United States; its modern placement must not be read as an 18th-century independence-era construction.",
+      "representation": "Landmark article and related history reader"
+    },
+    {
+      "id": "item-326",
+      "label": "Obelisk of Buenos Aires",
+      "entryId": "poster-obelisco",
+      "category": "landmark",
+      "correction": "The monument commemorates the fourth centenary of the first Spanish foundation; it was not constructed at Argentine independence.",
+      "representation": "Landmark article and related history reader"
+    },
+    {
+      "id": "item-327",
+      "label": "Big Ben",
+      "entryId": "poster-bigben",
+      "category": "landmark",
+      "correction": "Strictly, Big Ben is the Great Bell. The tower was renamed Elizabeth Tower in 2012; the familiar name is often used for the whole structure.",
+      "representation": "Landmark article and related history reader"
+    },
+    {
+      "id": "item-328",
+      "label": "Eiffel Tower",
+      "entryId": "poster-eiffel",
+      "category": "landmark",
+      "correction": "Built for the 1889 Exposition Universelle; not a general marker for every French republic.",
+      "representation": "Landmark article and related history reader"
+    },
+    {
+      "id": "item-329",
+      "label": "Sagrada Familia",
+      "entryId": "poster-sagrada",
+      "category": "landmark",
+      "correction": "The foundation predates Francoist Spain and modern constitutional Spain. No unsupported completion date should be inferred from the poster.",
+      "representation": "Landmark article and related history reader"
+    },
+    {
+      "id": "item-330",
+      "label": "Sydney Opera House",
+      "entryId": "poster-sydneyopera",
+      "category": "landmark",
+      "correction": "Designed by Danish architect Jørn Utzon with contributions by later teams; the cultural landmark is not evidence of one nation’s isolated invention.",
+      "representation": "Landmark article and related history reader"
+    }
+  ],
+  "countries": [
+    {
+      "flag": "🇺🇸",
+      "title": "United States",
+      "id": "unitedstates"
+    },
+    {
+      "flag": "🇨🇦",
+      "title": "Canada",
+      "id": "canada"
+    },
+    {
+      "flag": "🇲🇽",
+      "title": "Mexico",
+      "id": "mexicomodern"
+    },
+    {
+      "flag": "🇦🇷",
+      "title": "Argentina",
+      "id": "argentinamodern"
+    },
+    {
+      "flag": "🇦🇺",
+      "title": "Australia",
+      "id": "australiamodern"
+    },
+    {
+      "flag": "🇬🇧",
+      "title": "United Kingdom",
+      "id": "unitedkingdom"
+    },
+    {
+      "flag": "🇵🇹",
+      "title": "Portugal",
+      "id": "portugalmodern"
+    },
+    {
+      "flag": "🇪🇸",
+      "title": "Spain",
+      "id": "spainmodern"
+    },
+    {
+      "flag": "🇫🇷",
+      "title": "France",
+      "id": "francemodern"
+    },
+    {
+      "flag": "🇮🇹",
+      "title": "Italy",
+      "id": "italymodern"
+    },
+    {
+      "flag": "🇩🇪",
+      "title": "Germany",
+      "id": "germanymodern"
+    },
+    {
+      "flag": "🇦🇹",
+      "title": "Austria",
+      "id": "austriamodern"
+    },
+    {
+      "flag": "🇬🇷",
+      "title": "Greece",
+      "id": "greecemodern"
+    },
+    {
+      "flag": "🇹🇷",
+      "title": "Türkiye",
+      "id": "turkiye"
+    },
+    {
+      "flag": "🇪🇬",
+      "title": "Egypt",
+      "id": "egyptmodern"
+    },
+    {
+      "flag": "🇮🇶",
+      "title": "Iraq",
+      "id": "iraqmodern"
+    },
+    {
+      "flag": "🇮🇷",
+      "title": "Iran",
+      "id": "iranmodern"
+    },
+    {
+      "flag": "🇵🇰",
+      "title": "Pakistan",
+      "id": "pakistan"
+    },
+    {
+      "flag": "🇮🇳",
+      "title": "India",
+      "id": "indiamodern"
+    },
+    {
+      "flag": "🇨🇳",
+      "title": "China",
+      "id": "prchina"
+    },
+    {
+      "flag": "🇯🇵",
+      "title": "Japan",
+      "id": "japanmodern"
+    }
+  ]
+}

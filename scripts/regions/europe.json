@@ -1,0 +1,1474 @@
+{
+  "sources": {
+    "euAegean": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "Beyond Babylon: Art, Trade, and Diplomacy in the Second Millennium BCE",
+      "url": "https://www.metmuseum.org/met-publications/beyond-babylon-art-trade-and-diplomacy-in-the-second-millenium-bc"
+    },
+    "euMycenaean": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "Mycenaean Civilization",
+      "url": "https://www.metmuseum.org/essays/mycenaean-civilization"
+    },
+    "euGeometric": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "Geometric Art in Ancient Greece",
+      "url": "https://www.metmuseum.org/essays/geometric-art-in-ancient-greece"
+    },
+    "euGreekChronology": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "Ancient Greece, 1000 BCE–1 CE",
+      "url": "https://www.metmuseum.org/toah/ht/04/eusb.html"
+    },
+    "euClassical": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "The Art of Classical Greece, ca. 480–323 BCE",
+      "url": "https://www.metmuseum.org/essays/the-art-of-classical-greece-ca-480-323-b-c"
+    },
+    "euHellenistic": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "Art of the Hellenistic Age and the Hellenistic Tradition",
+      "url": "https://www.metmuseum.org/essays/art-of-the-hellenistic-age-and-the-hellenistic-tradition"
+    },
+    "euGreekIndependence": {
+      "publisher": "Hellenic Ministry of Foreign Affairs, Diplomatic and Historical Archives",
+      "title": "International Treaties and Protocols: Greek independence",
+      "url": "https://200years.mfa.gr/en/international-treaties-en/"
+    },
+    "euRepublic": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "The Roman Republic",
+      "url": "https://www.metmuseum.org/essays/the-roman-republic"
+    },
+    "euItalyAncient": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "Italian Peninsula, 1000 BCE–1 CE",
+      "url": "https://www.metmuseum.org/toah/ht/04/eust.html"
+    },
+    "euBritainRoman": {
+      "publisher": "English Heritage",
+      "title": "Roman Britain",
+      "url": "https://www.english-heritage.org.uk/learn/story-of-england/romans/"
+    },
+    "euBritainEarly": {
+      "publisher": "English Heritage",
+      "title": "An Introduction to Early Medieval England, c.410–1066",
+      "url": "https://www.english-heritage.org.uk/learn/story-of-england/early-medieval/introduction/"
+    },
+    "euGaul": {
+      "publisher": "Musée d’Archéologie nationale",
+      "title": "Vercingetorix and Alesia",
+      "url": "https://musee-archeologienationale.fr/en/node/1592"
+    },
+    "euIberiaAncient": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "Iberian Peninsula, 1000 BCE–1 CE",
+      "url": "https://www.metmuseum.org/toah/ht/04/eusi.html"
+    },
+    "euLusitania": {
+      "publisher": "Museu Nacional de Arqueologia",
+      "title": "De Ulisses a Viriato: O Primeiro Milénio a.C.",
+      "url": "https://museunacionalarqueologia.gov.pt/?p=4140"
+    },
+    "euNoricum": {
+      "publisher": "Naturhistorisches Museum Wien",
+      "title": "Hallstatt: Roman age",
+      "url": "https://www.nhm.at/hallstatt/en/site/roman_age"
+    },
+    "euHallstatt": {
+      "publisher": "National Museum, Prague",
+      "title": "The Celts exhibition",
+      "url": "https://www.nm.cz/en/historical-museum/the-celts"
+    },
+    "euRomanFrontiers": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "Western and Central Europe, 1–500 CE",
+      "url": "https://www.metmuseum.org/toah/ht/05/euw.html"
+    },
+    "euSuebi": {
+      "publisher": "Museu do Dinheiro, Banco de Portugal",
+      "title": "Museum guide: Visigothic incorporation of Suevic territories",
+      "url": "https://www.museudodinheiro.pt/sites/default/files/2022-05/GuiaRoteiro_net_Actual%20abril%202020_compressed.pdf"
+    },
+    "euIberiaMedieval": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "Iberian Peninsula, 500–1000 CE",
+      "url": "https://www.metmuseum.org/toah/ht/06/eusi.html"
+    },
+    "euCastile": {
+      "publisher": "Ministerio de Cultura, Gobierno de España",
+      "title": "Crown of Castile: definitive dynastic union in 1230",
+      "url": "https://tesauros.cultura.gob.es/tesauros/contextosculturales/1172659.html"
+    },
+    "euPortugalCounties": {
+      "publisher": "Sociedade Histórica da Independência de Portugal",
+      "title": "Portugal: 900 years, historical commemorative programme",
+      "url": "https://sociedadehistorica.pt/wp-content/uploads/PORTUGAL-900-ANOS.pdf"
+    },
+    "euAfonso": {
+      "publisher": "Assembleia da República, Portugal",
+      "title": "D. Afonso Henriques",
+      "url": "https://www.parlamento.pt/VisitaParlamento/Paginas/BiogDAfonsoHenriques.aspx"
+    },
+    "euGranada": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "Iberian Peninsula, 1400–1600 CE",
+      "url": "https://www.metmuseum.org/toah/ht/08/eusi.html"
+    },
+    "euMigration": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "Migration Art, AD 300–800",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Migration_Art_AD_300_800.pdf"
+    },
+    "euFranks": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "Frankish Art in American Collections",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Frankish_Art_in_American_Collections.pdf"
+    },
+    "euCarolingian": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "Central Europe, 500–1000 CE",
+      "url": "https://www.metmuseum.org/toah/ht/06/euwc.html"
+    },
+    "euBavaria": {
+      "publisher": "Haus der Bayerischen Geschichte",
+      "title": "Political history of Bavaria: the Agilolfing dukes",
+      "url": "https://www.hdbg.de/polges/pages/kap1b.htm"
+    },
+    "euBavaria788": {
+      "publisher": "Haus der Bayerischen Geschichte",
+      "title": "Political history of Bavaria: Carolingian incorporation",
+      "url": "https://archiv.hdbg.de/polges/pages/kap1c.htm"
+    },
+    "euAustria": {
+      "publisher": "Schönbrunn Group, Die Welt der Habsburger",
+      "title": "Ostarrîchi: Austria under the Babenbergs",
+      "url": "https://www.habsburger.net/en/chapter/ostarrichi-austria-under-babenbergs"
+    },
+    "euArchduchy": {
+      "publisher": "Schönbrunn Group, Die Welt der Habsburger",
+      "title": "Almost a crown: the Austrian archducal coronet",
+      "url": "https://www.habsburger.net/en/chapter/almost-crown-austrian-archducal-coronet"
+    },
+    "euEmpire1804": {
+      "publisher": "Schönbrunn Group, Die Welt der Habsburger",
+      "title": "The foundation of the Empire of Austria in 1804",
+      "url": "https://www.habsburger.net/en/events/foundation-empire-austria-1804"
+    },
+    "euItalyEarly": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "Italian Peninsula, 500–1000 CE",
+      "url": "https://www.metmuseum.org/toah/ht/06/eust.html"
+    },
+    "euItalyCommunes": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "Italian Peninsula, 1000–1400 CE",
+      "url": "https://www.metmuseum.org/toah/ht/07/eust.html"
+    },
+    "euSicily1816": {
+      "publisher": "Ministero della Cultura, Archivi di Stato",
+      "title": "Regno delle Due Sicilie, 1816–1860: institutional history",
+      "url": "https://sias-archivi.cultura.gov.it/cgi-bin/pagina.pl?Chiave=29&TipoPag=contesto"
+    },
+    "euItaly1861": {
+      "publisher": "Uffizi Galleries",
+      "title": "Viva l’Italia: 19th-century unification of Italy",
+      "url": "https://www.uffizi.it/en/online-exhibitions/19th-century-unification-of-italy"
+    },
+    "euItalyRecognition": {
+      "publisher": "US Department of State, Office of the Historian",
+      "title": "Italy: historical recognition",
+      "url": "https://history.state.gov/countries/italy/summary"
+    },
+    "euRusByzantium": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "Kyivan Rus’ temple pendants: Byzantine adoption and Mongol invasion",
+      "url": "https://www.metmuseum.org/art/collection/search/464577"
+    },
+    "euRusPrincipalities": {
+      "publisher": "Harvard Ukrainian Research Institute, MAPA",
+      "title": "The Golden Age of Kyivan Rus’",
+      "url": "https://www.gis.huri.harvard.edu/golden-age-kyivan-rus"
+    },
+    "euRusHistory": {
+      "publisher": "Cambridge University Press",
+      "title": "Ukraine not “the” Ukraine: Rus’ principalities and later polities",
+      "url": "https://www.cambridge.org/core/elements/ukraine-not-the-ukraine/1A0CC1D8913162C5A65763614CCC39E1"
+    },
+    "euRusLithuania": {
+      "publisher": "Canadian Institute of Ukrainian Studies, University of Alberta",
+      "title": "Lithuania: expansion into Rus’ lands",
+      "url": "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CL%5CI%5CLithuania.htm"
+    },
+    "euPortucale1071": {
+      "publisher": "University of Coimbra · Mário de Gouveia",
+      "title": "Nuno Mendes (?-1071): o último conde de Portucale (2013)",
+      "url": "https://doi.org/10.14195/0870-4147_44_7"
+    }
+  },
+  "extras": [
+    {
+      "id": "cx-anglosaxon-realms",
+      "title": "Anglo-Saxon kingdoms and settlement",
+      "region": "europe",
+      "dates": "c. 5th–10th centuries CE",
+      "wikiTitle": "Anglo-Saxon England",
+      "location": "Britain, especially present-day England",
+      "note": "Several kingdoms formed amid migration, conflict and interaction with existing British communities; this was never one united state spanning the full frame.",
+      "sources": [
+        "euBritainEarly"
+      ]
+    },
+    {
+      "id": "cx-rus-principalities",
+      "title": "Rus’ principalities · regional realms",
+      "region": "europe",
+      "dates": "12th–14th centuries CE · selected frame",
+      "wikiTitle": "Kievan Rus'",
+      "location": "Eastern Europe",
+      "note": "An overlapping network of principalities, not a state created at one partition. Their later histories fed into several countries and cannot be assigned exclusively to modern Russia, Ukraine or Belarus.",
+      "sources": [
+        "euRusHistory",
+        "euRusPrincipalities"
+      ]
+    },
+    {
+      "id": "cx-grandduchy-lithuania",
+      "title": "Grand Duchy of Lithuania",
+      "region": "europe",
+      "dates": "13th century–1795 CE",
+      "wikiTitle": "Grand Duchy of Lithuania",
+      "location": "Eastern and northeastern Europe",
+      "note": "A multiethnic polity that incorporated many western and southern Rus’ lands. It entered dynastic union with Poland and later the Polish–Lithuanian Commonwealth; this map selects its relationship with Rus’, not its entire history.",
+      "sources": [
+        "euRusLithuania"
+      ]
+    }
+  ],
+  "maps": [
+    {
+      "id": "aegean-greek-worlds",
+      "title": "Aegean networks, Greek worlds & modern independence",
+      "region": "europe",
+      "nodes": [
+        {
+          "id": "poster-europe-014"
+        },
+        {
+          "id": "minoan"
+        },
+        {
+          "id": "mycenaean"
+        },
+        {
+          "id": "egypt"
+        },
+        {
+          "id": "poster-europe-018"
+        },
+        {
+          "id": "archaic"
+        },
+        {
+          "id": "greece"
+        },
+        {
+          "id": "persia"
+        },
+        {
+          "id": "cn-alexander"
+        },
+        {
+          "id": "hellenistic"
+        },
+        {
+          "id": "romanrepublic"
+        },
+        {
+          "id": "ottoman"
+        },
+        {
+          "id": "greecemodern"
+        }
+      ],
+      "connections": [
+        {
+          "id": "eu-aegean-egypt",
+          "from": [
+            "poster-europe-014"
+          ],
+          "to": [
+            "egypt"
+          ],
+          "type": "contact",
+          "label": "Bronze Age trade networks",
+          "dates": "2nd millennium BCE",
+          "summary": "Aegean communities exchanged objects, materials and diplomatic gifts with Egypt and West Asian courts.",
+          "note": "The Aegean entry is a regional cultural frame, not a united empire or the origin of Egyptian civilization.",
+          "sources": [
+            "euAegean"
+          ]
+        },
+        {
+          "id": "eu-minoan-mycenaean",
+          "from": [
+            "minoan"
+          ],
+          "to": [
+            "mycenaean"
+          ],
+          "type": "contact",
+          "label": "Crete–mainland exchange",
+          "dates": "c. 1600–1400 BCE",
+          "summary": "Minoan Cretan art and exchange strongly influenced emerging Mycenaean court cultures.",
+          "note": "Interaction did not mean that all Minoans became Mycenaeans or that either label describes one state.",
+          "sources": [
+            "euMycenaean"
+          ]
+        },
+        {
+          "id": "eu-palaces-earlyiron",
+          "from": [
+            "mycenaean"
+          ],
+          "to": [
+            "poster-europe-018"
+          ],
+          "type": "continuation",
+          "label": "Palace collapse & local change",
+          "dates": "c. 1200–1050 BCE",
+          "summary": "The disintegration of Mycenaean palace systems was followed by regional early Iron Age societies.",
+          "note": "A gradual and uneven archaeological transition; people and practices persisted and no single invasion is asserted as its cause.",
+          "sources": [
+            "euMycenaean",
+            "euGreekChronology"
+          ]
+        },
+        {
+          "id": "eu-earlyiron-archaic",
+          "from": [
+            "poster-europe-018"
+          ],
+          "to": [
+            "archaic"
+          ],
+          "type": "contact",
+          "label": "Cities, writing & wider trade",
+          "dates": "c. 900–700 BCE",
+          "summary": "City-states, alphabetic writing and wider overseas networks developed during the Geometric and early Archaic centuries.",
+          "note": "The period labels overlap in scholarly usage; this is cultural and institutional change, not a succession between two kingdoms.",
+          "sources": [
+            "euGeometric"
+          ]
+        },
+        {
+          "id": "eu-archaic-classical",
+          "from": [
+            "archaic"
+          ],
+          "to": [
+            "greece"
+          ],
+          "type": "continuation",
+          "label": "Archaic → Classical convention",
+          "dates": "c. 480 BCE",
+          "summary": "The Persian Wars mark the conventional transition from Archaic to Classical Greek periodisation.",
+          "note": "Greek city-states remained politically distinct and neither period boundary marks the origin or disappearance of Greek people.",
+          "sources": [
+            "euClassical"
+          ]
+        },
+        {
+          "id": "eu-persian-greek-wars",
+          "from": [
+            "persia"
+          ],
+          "to": [
+            "greece"
+          ],
+          "type": "contact",
+          "label": "Persian–Greek wars",
+          "dates": "490–479 BCE",
+          "summary": "Achaemenid campaigns and Greek resistance reshaped relations among Persian rulers and Greek city-states.",
+          "note": "The node groups many city-states, which pursued different alliances; this was not a war between two modern nation-states.",
+          "sources": [
+            "euClassical"
+          ]
+        },
+        {
+          "id": "eu-classical-macedonian",
+          "from": [
+            "greece"
+          ],
+          "to": [
+            "cn-alexander"
+          ],
+          "type": "contact",
+          "label": "Macedonian predominance",
+          "dates": "4th century BCE",
+          "summary": "Macedonian royal power under Philip II provided the military and political base for Alexander’s conquests.",
+          "note": "Macedonia was one kingdom in the wider Greek world; the arrow does not turn every Greek city into a direct predecessor of his empire.",
+          "sources": [
+            "euClassical"
+          ]
+        },
+        {
+          "id": "eu-alexander-hellenistic",
+          "from": [
+            "cn-alexander"
+          ],
+          "to": [
+            "hellenistic"
+          ],
+          "type": "division",
+          "label": "Successor kingdoms emerge",
+          "dates": "After 323 BCE",
+          "summary": "Wars among Alexander’s successors produced multiple Hellenistic kingdoms and leagues.",
+          "note": "Hellenistic kingdoms is an umbrella period; it includes several dynasties and independent city alliances, not a single successor empire.",
+          "sources": [
+            "euHellenistic"
+          ]
+        },
+        {
+          "id": "eu-hellenistic-roman",
+          "from": [
+            "hellenistic"
+          ],
+          "to": [
+            "romanrepublic"
+          ],
+          "type": "conquest",
+          "label": "Roman expansion in Greek East",
+          "dates": "2nd–1st centuries BCE",
+          "summary": "Rome progressively defeated or annexed Hellenistic powers, with Ptolemaic Egypt annexed in 30 BCE.",
+          "note": "Different states fell at different dates; Hellenistic cultures and artistic production continued under Roman government.",
+          "sources": [
+            "euHellenistic",
+            "euRepublic"
+          ]
+        },
+        {
+          "id": "eu-greek-ottoman-liberation",
+          "from": [
+            "ottoman"
+          ],
+          "to": [
+            "greecemodern"
+          ],
+          "type": "independence",
+          "label": "War & independence recognition",
+          "dates": "1821–1832 CE",
+          "summary": "The Greek war of independence led to international recognition of an independent Greek state in 1830 and subsequent settlement in 1832.",
+          "note": "The initial state comprised only part of present-day Greece; earlier Byzantine and ancient Greek histories were not one continuous sovereign state.",
+          "sources": [
+            "euGreekIndependence"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "iron-age-roman-encounters",
+      "title": "Iron Age communities, Rome & post-Roman Britain",
+      "region": "europe",
+      "nodes": [
+        {
+          "id": "poster-europe-012"
+        },
+        {
+          "id": "poster-europe-011"
+        },
+        {
+          "id": "poster-europe-013"
+        },
+        {
+          "id": "poster-europe-001"
+        },
+        {
+          "id": "poster-europe-002"
+        },
+        {
+          "id": "poster-europe-003"
+        },
+        {
+          "id": "poster-europe-004"
+        },
+        {
+          "id": "poster-europe-005"
+        },
+        {
+          "id": "poster-europe-006"
+        },
+        {
+          "id": "poster-europe-007"
+        },
+        {
+          "id": "romanrepublic"
+        },
+        {
+          "id": "rome"
+        },
+        {
+          "id": "poster-europe-025"
+        },
+        {
+          "id": "cx-anglosaxon-realms"
+        },
+        {
+          "id": "england"
+        }
+      ],
+      "connections": [
+        {
+          "id": "eu-hallstatt-networks",
+          "from": [
+            "poster-europe-012"
+          ],
+          "to": [
+            "poster-europe-011"
+          ],
+          "type": "contact",
+          "label": "Central European material networks",
+          "dates": "c. 800–450 BCE",
+          "summary": "Hallstatt-period communities participated in the changing Iron Age networks represented by the wider central European frame.",
+          "note": "Hallstatt is an archaeological label; it cannot be equated with every Celtic or Germanic-speaking population or with a single ethnic homeland.",
+          "sources": [
+            "euHallstatt"
+          ]
+        },
+        {
+          "id": "eu-noricum-annexation",
+          "from": [
+            "poster-europe-013"
+          ],
+          "to": [
+            "rome"
+          ],
+          "type": "conquest",
+          "label": "Noricum enters Roman rule",
+          "dates": "c. 15 BCE",
+          "summary": "The Norican kingdom was incorporated into Roman rule around 15 BCE.",
+          "note": "The transition was largely peaceful in the museum account; formal provincial administration developed later, and this did not erase local communities.",
+          "sources": [
+            "euNoricum"
+          ]
+        },
+        {
+          "id": "eu-central-europe-rome",
+          "from": [
+            "poster-europe-011"
+          ],
+          "to": [
+            "rome"
+          ],
+          "type": "contact",
+          "label": "Rhine–Danube frontier exchange",
+          "dates": "1st–4th centuries CE",
+          "summary": "Roman goods, diplomacy and military encounters connected imperial provinces with communities beyond the Rhine and Danube.",
+          "note": "Some regions were conquered and others remained outside Roman control; the arrow does not annex every society in the broad cultural frame.",
+          "sources": [
+            "euRomanFrontiers"
+          ]
+        },
+        {
+          "id": "eu-britain-conquest",
+          "from": [
+            "poster-europe-001"
+          ],
+          "to": [
+            "rome"
+          ],
+          "type": "conquest",
+          "label": "Claudius invades Britain",
+          "dates": "43 CE onward",
+          "summary": "Roman armies invaded in 43 CE and progressively conquered much of present-day England and Wales.",
+          "note": "Conquest involved local allies and resistance and did not encompass the whole island; Iron Age communities did not disappear in 43.",
+          "sources": [
+            "euBritainRoman"
+          ]
+        },
+        {
+          "id": "eu-lusitanian-rome",
+          "from": [
+            "poster-europe-002"
+          ],
+          "to": [
+            "romanrepublic"
+          ],
+          "type": "conquest",
+          "label": "Resistance & Roman expansion",
+          "dates": "2nd–1st centuries BCE",
+          "summary": "Roman expansion into western Iberia met prolonged resistance before imperial control consolidated.",
+          "note": "The cultural block’s 139 BCE endpoint follows Viriathus’ death, not the end of Lusitanian communities or the completion of conquest.",
+          "sources": [
+            "euLusitania"
+          ]
+        },
+        {
+          "id": "eu-iberian-rome",
+          "from": [
+            "poster-europe-003"
+          ],
+          "to": [
+            "romanrepublic"
+          ],
+          "type": "conquest",
+          "label": "Long conquest of Hispania",
+          "dates": "218–19 BCE",
+          "summary": "Roman expansion gradually incorporated Iberian and Celtiberian communities across many separate campaigns.",
+          "note": "The last campaigns occurred under Augustus after the Republic’s conventional endpoint; languages, settlements and identities did not abruptly vanish.",
+          "sources": [
+            "euIberiaAncient"
+          ]
+        },
+        {
+          "id": "eu-carthaginian-rome",
+          "from": [
+            "poster-europe-004"
+          ],
+          "to": [
+            "romanrepublic"
+          ],
+          "type": "conquest",
+          "label": "Carthaginian possessions lost",
+          "dates": "218–201 BCE",
+          "summary": "Rome displaced Carthaginian power in Iberia during the Second Punic War.",
+          "note": "The struggle did not immediately bring the entire peninsula under Roman control or end Indigenous resistance.",
+          "sources": [
+            "euIberiaAncient"
+          ]
+        },
+        {
+          "id": "eu-gaul-rome",
+          "from": [
+            "poster-europe-005"
+          ],
+          "to": [
+            "romanrepublic"
+          ],
+          "type": "conquest",
+          "label": "Alésia & Roman conquest",
+          "dates": "52 BCE · selected turning point",
+          "summary": "Caesar’s victory over Vercingetorix and his allies at Alésia was a major stage in the conquest of Gaul.",
+          "note": "This is a selected campaign episode, not the disappearance of Gallic people or an instant conquest of every region.",
+          "sources": [
+            "euGaul"
+          ]
+        },
+        {
+          "id": "eu-italic-rome",
+          "from": [
+            "poster-europe-006"
+          ],
+          "to": [
+            "poster-europe-007"
+          ],
+          "type": "contact",
+          "label": "Rome among Italian communities",
+          "dates": "8th–6th centuries BCE",
+          "summary": "Early Rome developed within the culturally and linguistically diverse Italian peninsula.",
+          "note": "Italic peoples is a collective label including Latins; it does not include every early Italian culture, and Rome was not their united kingdom.",
+          "sources": [
+            "euItalyAncient",
+            "euRepublic"
+          ]
+        },
+        {
+          "id": "eu-kings-republic",
+          "from": [
+            "poster-europe-007"
+          ],
+          "to": [
+            "romanrepublic"
+          ],
+          "type": "continuation",
+          "label": "Monarchy → republic",
+          "dates": "509 BCE · traditional chronology",
+          "summary": "Roman tradition dates the replacement of royal rule by republican government to 509 BCE.",
+          "note": "Early Roman chronology combines archaeology and much later literary accounts; 753 BCE is a traditional foundation date, not a securely documented founding event.",
+          "sources": [
+            "euRepublic"
+          ]
+        },
+        {
+          "id": "eu-republic-westimperial",
+          "from": [
+            "romanrepublic"
+          ],
+          "to": [
+            "rome"
+          ],
+          "type": "continuation",
+          "label": "Augustan principate",
+          "dates": "27 BCE",
+          "summary": "Augustus’ settlement marks the conventional transition to imperial government within the Roman state.",
+          "note": "The western timeline entry overlaps the shared Roman Empire frame used in other maps; it is not a separate state founded alongside it in 27 BCE.",
+          "sources": [
+            "euRepublic"
+          ]
+        },
+        {
+          "id": "eu-britain-roman-end",
+          "from": [
+            "rome"
+          ],
+          "to": [
+            "poster-europe-025"
+          ],
+          "type": "division",
+          "label": "Roman government ends in Britain",
+          "dates": "Early 5th century CE",
+          "summary": "Central Roman government in Britain ended and local authorities and kingdoms developed.",
+          "note": "The empire continued elsewhere; Sub-Roman Britain is a regional frame, not a new united British kingdom or a total population replacement.",
+          "sources": [
+            "euBritainEarly"
+          ]
+        },
+        {
+          "id": "eu-britain-settlement",
+          "from": [
+            "poster-europe-025"
+          ],
+          "to": [
+            "cx-anglosaxon-realms"
+          ],
+          "type": "contact",
+          "label": "Settlement, conflict & coexistence",
+          "dates": "5th–7th centuries CE",
+          "summary": "Migrants from continental northern Europe and existing British communities interacted as several Anglo-Saxon kingdoms formed.",
+          "note": "This overlaps the Sub-Roman frame, includes conflict and coexistence, and does not describe the whole island becoming Anglo-Saxon.",
+          "sources": [
+            "euBritainEarly"
+          ]
+        },
+        {
+          "id": "eu-anglosaxon-england",
+          "from": [
+            "cx-anglosaxon-realms"
+          ],
+          "to": [
+            "england"
+          ],
+          "type": "union",
+          "label": "English kingdom consolidates",
+          "dates": "10th century CE",
+          "summary": "Kings of Wessex and their successors consolidated territories into a kingdom of England during the tenth century.",
+          "note": "A protracted process involving Mercian, Northumbrian, Scandinavian and other territories, rather than a voluntary merger of all Britain; British kingdoms continued elsewhere.",
+          "sources": [
+            "euBritainEarly"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "medieval-iberian-realms",
+      "title": "Iberian kingdoms, al-Andalus & Portugal",
+      "region": "europe",
+      "nodes": [
+        {
+          "id": "rome"
+        },
+        {
+          "id": "poster-europe-045"
+        },
+        {
+          "id": "poster-europe-046"
+        },
+        {
+          "id": "poster-europe-047"
+        },
+        {
+          "id": "poster-europe-048"
+        },
+        {
+          "id": "poster-europe-049"
+        },
+        {
+          "id": "poster-europe-035"
+        },
+        {
+          "id": "poster-europe-036"
+        },
+        {
+          "id": "cn-portugal"
+        },
+        {
+          "id": "cn-castile"
+        },
+        {
+          "id": "spainmodern"
+        }
+      ],
+      "connections": [
+        {
+          "id": "eu-suebi-in-hispania",
+          "from": [
+            "rome"
+          ],
+          "to": [
+            "poster-europe-045"
+          ],
+          "type": "continuation",
+          "label": "Suevic kingdom in former provinces",
+          "dates": "5th century CE",
+          "summary": "Suevic rulers established a kingdom in northwestern Iberian lands formerly under Roman authority.",
+          "note": "Changing rule over a selected region, not succession to the whole Roman Empire or disappearance of its provincial population.",
+          "sources": [
+            "euSuebi",
+            "euIberiaMedieval"
+          ]
+        },
+        {
+          "id": "eu-suebi-visigoth",
+          "from": [
+            "poster-europe-045"
+          ],
+          "to": [
+            "poster-europe-046"
+          ],
+          "type": "conquest",
+          "label": "Suevic realm incorporated",
+          "dates": "585 CE",
+          "summary": "Visigothic rule incorporated the Suevic kingdom in 585.",
+          "note": "This ended a separate government, not its population or all local religious institutions.",
+          "sources": [
+            "euSuebi"
+          ]
+        },
+        {
+          "id": "eu-visigoth-andalus",
+          "from": [
+            "poster-europe-046"
+          ],
+          "to": [
+            "poster-europe-047"
+          ],
+          "type": "conquest",
+          "label": "Umayyad conquest",
+          "dates": "From 711 CE",
+          "summary": "Arab and Berber armies defeated Visigothic royal forces and conquered most of Iberia.",
+          "note": "Al-Andalus includes many later governments, while northern Christian realms and frontier zones followed different histories.",
+          "sources": [
+            "euIberiaMedieval"
+          ]
+        },
+        {
+          "id": "eu-andalus-asturias",
+          "from": [
+            "poster-europe-047"
+          ],
+          "to": [
+            "poster-europe-048"
+          ],
+          "type": "contact",
+          "label": "Northern frontier kingdoms",
+          "dates": "8th–10th centuries CE",
+          "summary": "The Asturian monarchy developed in the north while Umayyad rulers governed much of Iberia.",
+          "note": "A frontier relationship with warfare, settlement and exchange; Asturias was not a complete successor to al-Andalus or all Visigothic territory.",
+          "sources": [
+            "euIberiaMedieval"
+          ]
+        },
+        {
+          "id": "eu-asturias-leon",
+          "from": [
+            "poster-europe-048"
+          ],
+          "to": [
+            "poster-europe-049"
+          ],
+          "type": "continuation",
+          "label": "Royal centre moves to León",
+          "dates": "910 CE onward",
+          "summary": "The royal centre shifted from Oviedo to León and the monarchy became known as the kingdom of León.",
+          "note": "Asturian and Leonese labels overlap; this was a change of political centre within a developing monarchy, not replacement of one people by another.",
+          "sources": [
+            "euIberiaMedieval"
+          ]
+        },
+        {
+          "id": "eu-asturias-portugalcounty",
+          "from": [
+            "poster-europe-048"
+          ],
+          "to": [
+            "poster-europe-035"
+          ],
+          "type": "contact",
+          "label": "Portucale within northern expansion",
+          "dates": "From 868 CE",
+          "summary": "The recovery of Porto formed the setting for the first Portucalense county under the northern Christian monarchy.",
+          "note": "A regional county within changing royal authority; its exact endpoints vary, and it was not an independent kingdom of Portugal.",
+          "sources": [
+            "euPortugalCounties"
+          ]
+        },
+        {
+          "id": "eu-portugal-county-regrant",
+          "from": [
+            "poster-europe-035"
+          ],
+          "to": [
+            "poster-europe-036"
+          ],
+          "type": "continuation",
+          "label": "County reconstituted",
+          "dates": "1096 CE",
+          "summary": "A new Portucalense county was assigned to Henry of Burgundy in 1096.",
+          "note": "Nuno Mendes’s defeat in 1071 ended the first comital line. Royal administration and later reorganisation preceded Henry’s county; these entries do not indicate an unbroken independent state.",
+          "sources": [
+            "euPortugalCounties",
+            "euPortucale1071"
+          ]
+        },
+        {
+          "id": "eu-portugal-kingship",
+          "from": [
+            "poster-europe-036"
+          ],
+          "to": [
+            "cn-portugal"
+          ],
+          "type": "independence",
+          "label": "Afonso adopts kingship",
+          "dates": "1139–1179 CE",
+          "summary": "Afonso Henriques adopted royal status after 1139, followed by Leonese recognition in 1143 and papal recognition in 1179.",
+          "note": "Kingship, recognition and territorial consolidation were separate stages; the kingdom’s borders and institutions continued to change.",
+          "sources": [
+            "euAfonso",
+            "euPortugalCounties"
+          ]
+        },
+        {
+          "id": "eu-leon-castile",
+          "from": [
+            "poster-europe-049"
+          ],
+          "to": [
+            "cn-castile"
+          ],
+          "type": "union",
+          "label": "Castile–León dynastic union",
+          "dates": "1230 CE",
+          "summary": "Ferdinand III united the crowns of Castile and León in 1230.",
+          "note": "León retained a recognised royal identity within the composite crown; dynastic union did not instantly homogenise its institutions or population.",
+          "sources": [
+            "euCastile"
+          ]
+        },
+        {
+          "id": "eu-granada-monarchy",
+          "from": [
+            "poster-europe-047"
+          ],
+          "to": [
+            "spainmodern"
+          ],
+          "type": "conquest",
+          "label": "Granada surrendered",
+          "dates": "1492 CE",
+          "summary": "Ferdinand and Isabella’s forces took Granada, the last Muslim-ruled Iberian kingdom, in 1492.",
+          "note": "This ended the Nasrid government, not Muslim people or culture; conversion, persecution, expulsions and continuing communities belong to later histories.",
+          "sources": [
+            "euGranada"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "frankish-alpine-worlds",
+      "title": "Migration, Frankish kingdoms & Alpine Austria",
+      "region": "europe",
+      "nodes": [
+        {
+          "id": "poster-europe-082"
+        },
+        {
+          "id": "poster-europe-083"
+        },
+        {
+          "id": "cn-westrome"
+        },
+        {
+          "id": "poster-europe-084"
+        },
+        {
+          "id": "poster-europe-058"
+        },
+        {
+          "id": "poster-europe-085"
+        },
+        {
+          "id": "carolingian"
+        },
+        {
+          "id": "holyroman"
+        },
+        {
+          "id": "poster-europe-096"
+        },
+        {
+          "id": "poster-europe-097"
+        },
+        {
+          "id": "poster-europe-098"
+        },
+        {
+          "id": "poster-europe-099"
+        }
+      ],
+      "connections": [
+        {
+          "id": "eu-migration-context",
+          "from": [
+            "poster-europe-082"
+          ],
+          "to": [
+            "poster-europe-083"
+          ],
+          "type": "contact",
+          "label": "Movement into Roman territories",
+          "dates": "4th–6th centuries CE",
+          "summary": "Germanic-speaking groups were among the many populations that migrated, fought and settled within and beyond the Roman frontier.",
+          "note": "Migration Period is a broad historical frame, not a tribe or successor state; it also involves Huns, Slavs and others.",
+          "sources": [
+            "euMigration"
+          ]
+        },
+        {
+          "id": "eu-frankish-consolidation",
+          "from": [
+            "poster-europe-082"
+          ],
+          "to": [
+            "poster-europe-058"
+          ],
+          "type": "contact",
+          "label": "Frankish kings consolidate Gaul",
+          "dates": "Late 5th–6th centuries CE",
+          "summary": "Clovis and later Frankish rulers consolidated kingdoms in former Roman Gaul.",
+          "note": "The Franks were one set of Germanic-speaking groups; the broad cultural label did not turn into a single Frankish nation.",
+          "sources": [
+            "euFranks"
+          ]
+        },
+        {
+          "id": "eu-alpine-postroman",
+          "from": [
+            "cn-westrome"
+          ],
+          "to": [
+            "poster-europe-084"
+          ],
+          "type": "continuation",
+          "label": "Post-imperial Alpine authorities",
+          "dates": "Late 5th–6th centuries CE",
+          "summary": "The end of western imperial rule left changing authorities in the eastern Alpine provinces.",
+          "note": "The selected regional frame includes Ostrogothic influence and local continuity; it was never one kingdom called Alpine kingdoms.",
+          "sources": [
+            "euItalyEarly",
+            "euBavaria"
+          ]
+        },
+        {
+          "id": "eu-alpine-bavarian",
+          "from": [
+            "poster-europe-084"
+          ],
+          "to": [
+            "poster-europe-085"
+          ],
+          "type": "contact",
+          "label": "Bavarian dukes attested",
+          "dates": "By c. 555 CE",
+          "summary": "Agilolfing dukes are attested in the Bavarian region during the sixth century.",
+          "note": "Bavarian political formation was gradual; no secure single founding event or direct succession from every post-Roman Alpine authority is asserted.",
+          "sources": [
+            "euBavaria"
+          ]
+        },
+        {
+          "id": "eu-bavaria-franks",
+          "from": [
+            "poster-europe-085"
+          ],
+          "to": [
+            "poster-europe-058"
+          ],
+          "type": "conquest",
+          "label": "Tassilo deposed",
+          "dates": "788 CE",
+          "summary": "Charlemagne deposed Duke Tassilo III and incorporated Bavaria under direct Carolingian authority.",
+          "note": "Bavaria remained a recognisable region and later duchy; the act did not end Bavarian communities.",
+          "sources": [
+            "euBavaria788"
+          ]
+        },
+        {
+          "id": "eu-frankish-imperial-title",
+          "from": [
+            "poster-europe-058"
+          ],
+          "to": [
+            "carolingian"
+          ],
+          "type": "continuation",
+          "label": "Charlemagne crowned emperor",
+          "dates": "800 CE",
+          "summary": "Charlemagne received the imperial title in Rome in 800 while ruling the Frankish realm.",
+          "note": "The imperial-period block overlaps the broader Frankish entry; Carolingian kingship began earlier and the coronation did not absorb the Byzantine Empire.",
+          "sources": [
+            "euCarolingian"
+          ]
+        },
+        {
+          "id": "eu-austrian-march",
+          "from": [
+            "holyroman"
+          ],
+          "to": [
+            "poster-europe-096"
+          ],
+          "type": "continuation",
+          "label": "Babenberg frontier appointment",
+          "dates": "976 CE",
+          "summary": "The emperor assigned the eastern march to Liutpold of the Babenberg family in 976.",
+          "note": "The march was a subordinate frontier jurisdiction associated with Bavaria, not an independent state replacing the empire.",
+          "sources": [
+            "euAustria"
+          ]
+        },
+        {
+          "id": "eu-march-duchy",
+          "from": [
+            "poster-europe-096"
+          ],
+          "to": [
+            "poster-europe-097"
+          ],
+          "type": "continuation",
+          "label": "Austria raised to a duchy",
+          "dates": "1156 CE",
+          "summary": "The Privilegium minus raised Austria to a duchy and separated its ducal authority from Bavaria.",
+          "note": "It remained within the Holy Roman Empire; this was a legal and dynastic change rather than the birth of the modern republic.",
+          "sources": [
+            "euAustria"
+          ]
+        },
+        {
+          "id": "eu-duchy-archduchy",
+          "from": [
+            "poster-europe-097"
+          ],
+          "to": [
+            "poster-europe-098"
+          ],
+          "type": "continuation",
+          "label": "Archducal privileges confirmed",
+          "dates": "1453 CE",
+          "summary": "Emperor Frederick III confirmed privileges that recognised the Austrian archducal title.",
+          "note": "The claims originated in Rudolf IV’s fourteenth-century forgery; the Habsburg dynasty had already ruled Austria since the late thirteenth century.",
+          "sources": [
+            "euArchduchy"
+          ]
+        },
+        {
+          "id": "eu-habsburg-austrianempire",
+          "from": [
+            "poster-europe-098"
+          ],
+          "to": [
+            "poster-europe-099"
+          ],
+          "type": "continuation",
+          "label": "Austrian imperial title created",
+          "dates": "1804 CE",
+          "summary": "Francis adopted the hereditary title Emperor of Austria over the Habsburg lands in 1804.",
+          "note": "The new empire overlapped the Holy Roman Empire until the latter’s dissolution in 1806; its constituent lands were not all identical with the Austrian archduchy.",
+          "sources": [
+            "euEmpire1804"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "italian-rule-unification",
+      "title": "Italian kingdoms, communes & unification",
+      "region": "europe",
+      "nodes": [
+        {
+          "id": "poster-europe-072"
+        },
+        {
+          "id": "byzantium"
+        },
+        {
+          "id": "poster-europe-074"
+        },
+        {
+          "id": "carolingian"
+        },
+        {
+          "id": "holyroman"
+        },
+        {
+          "id": "poster-europe-075"
+        },
+        {
+          "id": "poster-europe-076"
+        },
+        {
+          "id": "poster-europe-078"
+        },
+        {
+          "id": "italymodern"
+        }
+      ],
+      "connections": [
+        {
+          "id": "eu-gothic-war",
+          "from": [
+            "poster-europe-072"
+          ],
+          "to": [
+            "byzantium"
+          ],
+          "type": "conquest",
+          "label": "Eastern Roman reconquest",
+          "dates": "535–554 CE",
+          "summary": "Justinian’s armies defeated the Ostrogothic kingdom through a prolonged war in Italy.",
+          "note": "Campaign endpoints differ by definition; reconquest damaged the peninsula and did not produce lasting control of all Italy.",
+          "sources": [
+            "euItalyEarly"
+          ]
+        },
+        {
+          "id": "eu-lombard-invasion",
+          "from": [
+            "byzantium"
+          ],
+          "to": [
+            "poster-europe-074"
+          ],
+          "type": "conquest",
+          "label": "Lombard invasion",
+          "dates": "568 CE onward",
+          "summary": "Lombards conquered substantial parts of Italy while the Eastern Romans retained other territories.",
+          "note": "Italy remained divided; this was not a complete transfer of Byzantine Italy or a conquest of the Byzantine Empire.",
+          "sources": [
+            "euItalyEarly"
+          ]
+        },
+        {
+          "id": "eu-frankish-lombards",
+          "from": [
+            "poster-europe-074"
+          ],
+          "to": [
+            "carolingian"
+          ],
+          "type": "conquest",
+          "label": "Charlemagne takes Lombard crown",
+          "dates": "774 CE",
+          "summary": "Charlemagne conquered the northern Lombard kingdom and assumed its royal title.",
+          "note": "Southern Lombard principalities survived, and the imperial title represented by the Carolingian-period node followed in 800.",
+          "sources": [
+            "euItalyEarly"
+          ]
+        },
+        {
+          "id": "eu-italian-communes",
+          "from": [
+            "holyroman"
+          ],
+          "to": [
+            "poster-europe-075"
+          ],
+          "type": "independence",
+          "label": "Communal autonomy expands",
+          "dates": "c. 1080–1183 CE",
+          "summary": "Northern and central Italian communes asserted autonomy against imperial authority, later recognised in the Peace of Constance.",
+          "note": "The Italian-states entry is a broader regional frame including varied governments; not all gained autonomy together or broke every legal tie with the empire.",
+          "sources": [
+            "euItalyCommunes"
+          ]
+        },
+        {
+          "id": "eu-sicily-regionalcontext",
+          "from": [
+            "poster-europe-075"
+          ],
+          "to": [
+            "poster-europe-076"
+          ],
+          "type": "contact",
+          "label": "Communes & southern monarchy coexist",
+          "dates": "12th–14th centuries CE",
+          "summary": "Independent communes, papal lands and the southern Sicilian monarchy formed contrasting centres of power in medieval Italy.",
+          "note": "This is a contemporary regional relationship, not a claim that northern communes merged to create the Sicilian kingdom or shared one ruler.",
+          "sources": [
+            "euItalyCommunes"
+          ]
+        },
+        {
+          "id": "eu-sicily-twosicilies",
+          "from": [
+            "poster-europe-076"
+          ],
+          "to": [
+            "poster-europe-078"
+          ],
+          "type": "union",
+          "label": "Naples–Sicily legal union",
+          "dates": "1816 CE",
+          "summary": "The Bourbon ruler formally combined the kingdoms of Naples and Sicily as the Kingdom of the Two Sicilies.",
+          "note": "The Sicily timeline entry groups the crowns’ changing history after the 1282 division; their shared monarch did not make them one unchanged state before 1816.",
+          "sources": [
+            "euSicily1816"
+          ]
+        },
+        {
+          "id": "eu-twosicilies-italy",
+          "from": [
+            "poster-europe-078"
+          ],
+          "to": [
+            "italymodern"
+          ],
+          "type": "conquest",
+          "label": "Southern annexation & Italian kingdom",
+          "dates": "1860–1861 CE",
+          "summary": "Garibaldi’s campaigns and Sardinian intervention brought the Two Sicilies into the new Kingdom of Italy.",
+          "note": "Unification also involved other states; Venetia joined in 1866 and Rome in 1870, and Italy became a republic in 1946.",
+          "sources": [
+            "euSicily1816",
+            "euItaly1861",
+            "euItalyRecognition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rus-byzantium-steppe",
+      "title": "Kyivan Rus’, Byzantium & regional principalities",
+      "region": "europe",
+      "nodes": [
+        {
+          "id": "byzantium"
+        },
+        {
+          "id": "rus"
+        },
+        {
+          "id": "cx-rus-principalities"
+        },
+        {
+          "id": "cn-goldenhorde"
+        },
+        {
+          "id": "cn-muscovy"
+        },
+        {
+          "id": "cx-grandduchy-lithuania"
+        }
+      ],
+      "connections": [
+        {
+          "id": "eu-rus-christianity",
+          "from": [
+            "byzantium"
+          ],
+          "to": [
+            "rus"
+          ],
+          "type": "contact",
+          "label": "Christianisation & court connections",
+          "dates": "988 CE onward",
+          "summary": "Volodymyr’s adoption of Christianity strengthened ecclesiastical and artistic connections between Rus’ and Byzantium.",
+          "note": "A religious and diplomatic relationship, not incorporation into the Byzantine state or the beginning of all Rus’ settlement.",
+          "sources": [
+            "euRusByzantium"
+          ]
+        },
+        {
+          "id": "eu-rus-regionalisation",
+          "from": [
+            "rus"
+          ],
+          "to": [
+            "cx-rus-principalities"
+          ],
+          "type": "division",
+          "label": "Regional principalities consolidate",
+          "dates": "12th–13th centuries CE",
+          "summary": "Political authority became increasingly dispersed among competing Rus’ principalities.",
+          "note": "A gradual and overlapping development, not one dated partition into the modern nations of Ukraine, Russia and Belarus.",
+          "sources": [
+            "euRusHistory",
+            "euRusPrincipalities"
+          ]
+        },
+        {
+          "id": "eu-rus-mongol-conquest",
+          "from": [
+            "cx-rus-principalities"
+          ],
+          "to": [
+            "cn-goldenhorde"
+          ],
+          "type": "conquest",
+          "label": "Mongol invasion & tributary power",
+          "dates": "1237–1242 CE",
+          "summary": "Mongol conquest, including the sack of Kyiv in 1240, subjected many Rus’ principalities to tribute under the Jochid realm.",
+          "note": "Rulers, cities and communities survived; not every Rus’ territory experienced identical control, and the Horde was not a renamed Rus’.",
+          "sources": [
+            "euRusByzantium",
+            "euRusHistory"
+          ]
+        },
+        {
+          "id": "eu-rus-muscovy",
+          "from": [
+            "cx-rus-principalities"
+          ],
+          "to": [
+            "cn-muscovy"
+          ],
+          "type": "contact",
+          "label": "Moscow expands among principalities",
+          "dates": "13th–15th centuries CE",
+          "summary": "Moscow developed within northeastern Rus’ and expanded amid competition with other principalities under Horde supremacy.",
+          "note": "One regional path only; Moscow did not inherit every Rus’ land, and the shared medieval history is not exclusive ancestry or a modern territorial entitlement.",
+          "sources": [
+            "euRusHistory"
+          ]
+        },
+        {
+          "id": "eu-rus-lithuania",
+          "from": [
+            "cx-rus-principalities"
+          ],
+          "to": [
+            "cx-grandduchy-lithuania"
+          ],
+          "type": "conquest",
+          "label": "Western Rus’ lands incorporated",
+          "dates": "13th–14th centuries CE",
+          "summary": "Lithuanian expansion incorporated extensive western and southern Rus’ territories through changing military and dynastic relationships.",
+          "note": "Ruthenian legal and cultural traditions continued; these lands were not all incorporated at once, and Lithuania did not inherit the whole Kyivan realm.",
+          "sources": [
+            "euRusLithuania"
+          ]
+        }
+      ]
+    }
+  ],
+  "unconnected": [],
+  "audit": {
+    "assignedUnmappedEurope": 42,
+    "coveredUnmappedEurope": 42,
+    "maps": 6,
+    "relationships": 56,
+    "newGraphNodes": 3,
+    "note": "All nodes have at least one sourced relationship. Shared anchors provide onward navigation to other maps; the maps deliberately distinguish cultural frames from political states."
+  }
+}

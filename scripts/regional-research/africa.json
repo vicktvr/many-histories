@@ -1,0 +1,678 @@
+{
+  "sources": {
+    "carthage": {
+      "publisher": "UNESCO World Heritage Centre",
+      "title": "Archaeological Site of Carthage",
+      "url": "https://whc.unesco.org/en/list/37/"
+    },
+    "amazigh": {
+      "publisher": "UNESCO",
+      "title": "Indigenous Peoples and Water Management in Africa",
+      "url": "https://www.unesco.org/sites/default/files/medias/fichiers/2025/04/UNESCO-IPACC-Pub_IndigenousPeoplesWaterAfrica_EN.pdf"
+    },
+    "ahellil": {
+      "publisher": "UNESCO Intangible Cultural Heritage",
+      "title": "Ahellil of Gourara",
+      "url": "https://ich.unesco.org/en/RL/ahallil-of-gourara-00121"
+    },
+    "marrakesh": {
+      "publisher": "UNESCO World Heritage Centre",
+      "title": "Medina of Marrakesh",
+      "url": "https://whc.unesco.org/en/list/331/"
+    },
+    "maghrib": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "Western North Africa (The Maghrib), 1000–1400 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/07/afw"
+    },
+    "morocco-dynastic": {
+      "publisher": "Moroccan National Tourist Office",
+      "title": "Dynastic history of Morocco",
+      "url": "https://www.visitmorocco.com/en/discover-morocco/dynastic-history-of-morocco"
+    },
+    "morocco-modern": {
+      "publisher": "US Department of State, Office of the Historian",
+      "title": "Morocco: recognition and diplomatic relations",
+      "url": "https://history.state.gov/countries/morocco"
+    },
+    "hausa-history": {
+      "publisher": "Cambridge University Press",
+      "title": "A History of Nigeria: Early states and societies, 9000 BCE–1500 CE",
+      "url": "https://www.cambridge.org/core/books/history-of-nigeria/early-states-and-societies-9000-bce-1500-ce/BCE106CA7807B3742B8EA0DE9F68EBB7"
+    },
+    "sokoto": {
+      "publisher": "Cambridge University Press",
+      "title": "Plantation Slavery in the Sokoto Caliphate: Introduction",
+      "url": "https://www.cambridge.org/core/books/abs/plantation-slavery-in-the-sokoto-caliphate/introduction/96535706D7A22D4CF377E9654E54FD7B"
+    },
+    "sokoto-jihad": {
+      "publisher": "Cambridge University Press",
+      "title": "Warfare in the Sokoto Caliphate: The Jihad Period, c. 1790–1817",
+      "url": "https://www.cambridge.org/core/books/abs/warfare-in-the-sokoto-caliphate/jihad-period-c-17901817/8776D88823C4676FC376A2473324222A"
+    },
+    "kano-durbar": {
+      "publisher": "UNESCO Intangible Cultural Heritage",
+      "title": "Durbar in Kano",
+      "url": "https://ich.unesco.org/en/RL/durbar-in-kano-01895"
+    },
+    "zulu-archaeology": {
+      "publisher": "Zulu Kingdom Archaeology Project",
+      "title": "Research on life in the Zulu Kingdom",
+      "url": "https://zulukingdomarchaeology.com/"
+    },
+    "zulu-living": {
+      "publisher": "Statistics South Africa",
+      "title": "South Africa’s Evolving Cultural Landscape: A 26-Year Transformation",
+      "url": "https://www.statssa.gov.za/?p=18173"
+    },
+    "zulu-monarchy": {
+      "publisher": "National Archives and Records Service of South Africa",
+      "title": "The Case of the Zulu Monarchy",
+      "url": "https://www.nationalarchives.gov.za/sites/default/files/ITEM_COD-0074-0040-_-004.pdf"
+    },
+    "madagascar-settlement": {
+      "publisher": "Proceedings of the National Academy of Sciences",
+      "title": "Ancient crops provide first archaeological signature of the westward Austronesian expansion",
+      "url": "https://doi.org/10.1073/pnas.1522714113"
+    },
+    "madagascar-review": {
+      "publisher": "Quaternary Science Reviews",
+      "title": "A critical review of radiocarbon dates clarifies the human settlement of Madagascar",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0277379119303282"
+    },
+    "madagascar-kingdoms": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "Kingdoms of Madagascar: Maroserana and Merina",
+      "url": "https://www.metmuseum.org/essays/kingdoms-of-madagascar-maroserana-and-merina"
+    },
+    "merina-archives": {
+      "publisher": "British Library",
+      "title": "The diplomatic connections of Madagascar between 1861 and 1897",
+      "url": "https://searcharchives.bl.uk/?f%5Bproject_collections_ssim%5D%5B%5D=The+diplomatic+connections+of+Madagascar+between+1861+and+1897"
+    },
+    "madagascar-archives": {
+      "publisher": "French Ministry for Europe and Foreign Affairs, Diplomatic Archives",
+      "title": "Madagascar: diplomatic archives, 1960–1998",
+      "url": "https://archivesdiplomatiques.diplomatie.gouv.fr/ark:/14366/prbmqv05jnt8"
+    },
+    "ambohimanga": {
+      "publisher": "UNESCO World Heritage Centre",
+      "title": "Royal Hill of Ambohimanga",
+      "url": "https://whc.unesco.org/en/list/950/"
+    },
+    "igbo-ukwu": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "Igbo-Ukwu (ca. 9th Century)",
+      "url": "https://www.metmuseum.org/essays/igbo-ukwu-ca-9th-century"
+    },
+    "kilwa": {
+      "publisher": "UNESCO World Heritage Centre",
+      "title": "Ruins of Kilwa Kisiwani and Ruins of Songo Mnara",
+      "url": "https://whc.unesco.org/en/list/144/"
+    },
+    "lamu": {
+      "publisher": "UNESCO World Heritage Centre",
+      "title": "Lamu Old Town",
+      "url": "https://whc.unesco.org/en/list/1055/"
+    },
+    "yoruba": {
+      "publisher": "UNESCO World Heritage Centre",
+      "title": "Osun-Osogbo Sacred Grove",
+      "url": "https://whc.unesco.org/en/list/1118/"
+    },
+    "edo": {
+      "publisher": "Smithsonian National Museum of African Art",
+      "title": "The Ancient West African City of Benin, A.D. 1300–1897",
+      "url": "https://www.si.edu/exhibitions/ancient-west-african-city-benin-ad-1300-1897:event-exhib-1235"
+    },
+    "shona": {
+      "publisher": "UNESCO Intangible Cultural Heritage",
+      "title": "Art of crafting and playing Mbira/Sansi",
+      "url": "https://ich.unesco.org/en/RL/art-of-crafting-and-playing-mbira-sansi-the-finger-plucking-traditional-musical-instrument-in-malawi-and-zimbabwe-01541"
+    },
+    "madagascar-republic-archives": {
+      "publisher": "French Ministry for Europe and Foreign Affairs, Diplomatic Archives",
+      "title": "Proclamation of the Malagasy Republic, 1958",
+      "url": "https://archivesdiplomatiques.diplomatie.gouv.fr/ark:/14366/l9231pxbw7vr"
+    },
+    "igbo-ukwu-bm": {
+      "publisher": "British Museum",
+      "title": "Igbo-Ukwu pendant-mask and archaeological context",
+      "url": "https://www.britishmuseum.org/collection/object/E_Af1956-15-1"
+    },
+    "gelede": {
+      "publisher": "UNESCO Intangible Cultural Heritage",
+      "title": "Oral heritage of Gelede",
+      "url": "https://ich.unesco.org/en/RL/oral-heritage-of-gelede-00002"
+    }
+  },
+  "entries": [
+    {
+      "id": "rx-carthage",
+      "title": "Carthage · Punic city and power",
+      "region": "africa",
+      "dates": "c. 9th century–146 BCE",
+      "start": -850,
+      "end": -146,
+      "category": "history",
+      "location": "Gulf of Tunis · present-day Tunisia, with wider Mediterranean connections",
+      "note": "A Phoenician-founded city developed into a major North African and Mediterranean power. The start is an approximate ninth-century plotting anchor, not the legendary foundation year treated as certain. Roman destruction in 146 BCE ended this selected Punic political phase; Roman Carthage later flourished on the site.",
+      "wikiTitle": "Ancient Carthage",
+      "sources": [
+        "carthage"
+      ],
+      "collections": [
+        "africa"
+      ]
+    },
+    {
+      "id": "rx-amazigh",
+      "title": "Amazigh peoples · living cultures",
+      "region": "africa",
+      "dates": "20th century–present · selected modern frame",
+      "start": 1901,
+      "end": 2027,
+      "category": "culture",
+      "location": "North Africa · communities across several present-day states and diasporas",
+      "note": "A selected modern reading window for diverse Indigenous North African communities and languages, not a date for their origins. Amazigh histories long predate the medieval dynasties and modern borders. Living heritage includes Zenete Ahellil traditions in Gourara; no single state or uniform identity is implied.",
+      "wikiTitle": "Berbers",
+      "sources": [
+        "amazigh",
+        "ahellil"
+      ],
+      "collections": [
+        "africa"
+      ],
+      "ongoing": true
+    },
+    {
+      "id": "rx-almoravid",
+      "title": "Almoravid dynasty and realms",
+      "region": "africa",
+      "dates": "1056–1147 CE · conventional ruling phase",
+      "start": 1056,
+      "end": 1147,
+      "category": "history",
+      "location": "Western Sahara, Morocco, parts of Algeria and Iberia",
+      "note": "A Sanhaja Amazigh movement established a realm linking Saharan routes, the Maghrib and al-Andalus. Uses UNESCO’s 1056–1147 dynastic convention. Other chronologies begin with the earlier movement or the later consolidation around Marrakesh; territorial control changed considerably.",
+      "wikiTitle": "Almoravid dynasty",
+      "sources": [
+        "marrakesh",
+        "maghrib"
+      ],
+      "collections": [
+        "africa"
+      ]
+    },
+    {
+      "id": "rx-almohad",
+      "title": "Almohad dynasty and realms",
+      "region": "africa",
+      "dates": "1147–1269 CE · Marrakesh ruling phase",
+      "start": 1147,
+      "end": 1269,
+      "category": "history",
+      "location": "Maghrib and al-Andalus · changing territories",
+      "note": "An Amazigh-led religious and political movement displaced Almoravid rule and expanded across the Maghrib. This window begins with the capture of Marrakesh, rather than the movement’s earlier beginnings. Its territorial losses and collapse unfolded in stages.",
+      "wikiTitle": "Almohad Caliphate",
+      "sources": [
+        "maghrib",
+        "marrakesh"
+      ],
+      "collections": [
+        "africa"
+      ]
+    },
+    {
+      "id": "rx-marinid",
+      "title": "Marinid Morocco",
+      "region": "africa",
+      "dates": "1269–1465 CE · selected consolidated phase",
+      "start": 1269,
+      "end": 1465,
+      "category": "history",
+      "location": "Centred on Fez · present-day Morocco, with wider campaigns",
+      "note": "The Marinids developed Fez and sponsored architecture and learning. The plotting window follows the Met’s consolidated Moroccan ruling phase after the fall of Marrakesh; the dynasty’s earlier rise began before 1269. It did not govern the entire Maghrib continuously.",
+      "wikiTitle": "Marinid Sultanate",
+      "sources": [
+        "maghrib"
+      ],
+      "collections": [
+        "africa"
+      ]
+    },
+    {
+      "id": "rx-alaouite",
+      "title": "Alaouite dynasty",
+      "region": "africa",
+      "dates": "1666 CE–present · dynastic continuity",
+      "start": 1666,
+      "end": 2027,
+      "category": "history",
+      "location": "Morocco · changing political institutions and territorial authority",
+      "note": "A dynastic frame beginning with the conventional consolidation date. The continuation of the royal house is not uninterrupted independent government: French and Spanish protectorates overlapped it in the twentieth century. The modern constitutional state is a separate, overlapping reading.",
+      "wikiTitle": "Alawi dynasty",
+      "sources": [
+        "morocco-dynastic",
+        "morocco-modern"
+      ],
+      "collections": [
+        "africa"
+      ],
+      "ongoing": true
+    },
+    {
+      "id": "rx-french-morocco",
+      "title": "Morocco · French protectorate",
+      "region": "africa",
+      "dates": "1912–1956 CE",
+      "start": 1912,
+      "end": 1956,
+      "category": "period",
+      "location": "Much of present-day Morocco · distinct from the Spanish zones and Tangier",
+      "note": "The Treaty of Fez established the French protectorate. Spanish-controlled zones and Tangier had different arrangements; this block does not put all Morocco under one French jurisdiction. Moroccan institutions and resistance continued, and independence was recognised in 1956.",
+      "wikiTitle": "French protectorate in Morocco",
+      "sources": [
+        "morocco-modern"
+      ],
+      "collections": [
+        "africa"
+      ]
+    },
+    {
+      "id": "rx-morocco-modern",
+      "title": "Morocco · independent modern era",
+      "region": "africa",
+      "dates": "1956 CE–present",
+      "start": 1956,
+      "end": 2027,
+      "category": "history",
+      "location": "Northwest Africa · Morocco",
+      "note": "1956 marks the end of the French protectorate and recognition of independence, not the beginning of Moroccan society or monarchy. Decolonisation and territorial questions unfolded through several later stages; this date does not settle disputed boundaries.",
+      "wikiTitle": "Morocco",
+      "sources": [
+        "morocco-modern"
+      ],
+      "collections": [
+        "africa"
+      ],
+      "ongoing": true
+    },
+    {
+      "id": "rx-hausa-states",
+      "title": "Hausa states · late medieval and early modern",
+      "region": "africa",
+      "dates": "c. 1400–1804 CE · selected pre-jihad frame",
+      "start": 1400,
+      "end": 1804,
+      "category": "history",
+      "location": "Hausaland · principally present-day northern Nigeria and southern Niger",
+      "note": "Kano, Katsina, Zaria, Gobir and other states developed distinct courts, markets and political histories. This selected phase starts with their documented ascendancy by the fifteenth century and ends at the start of the Sokoto jihad. It is not one Hausa empire, nor a claim that every state began in 1400 or disappeared in 1804.",
+      "wikiTitle": "Hausa Kingdoms",
+      "sources": [
+        "hausa-history",
+        "sokoto-jihad"
+      ],
+      "collections": [
+        "africa"
+      ]
+    },
+    {
+      "id": "rx-sokoto",
+      "title": "Sokoto Caliphate",
+      "region": "africa",
+      "dates": "1804–1903 CE",
+      "start": 1804,
+      "end": 1903,
+      "category": "history",
+      "location": "Central Sahel · principally present-day northern Nigeria and neighbouring regions",
+      "note": "A jihad beginning in 1804 transformed the regional political order and established a multiethnic network of emirates. Enslavement and slave labour were central to its economy. British conquest ended independent caliphal authority in 1903; communities and some emirate institutions continued under changed conditions.",
+      "wikiTitle": "Sokoto Caliphate",
+      "sources": [
+        "sokoto",
+        "sokoto-jihad"
+      ],
+      "collections": [
+        "africa"
+      ]
+    },
+    {
+      "id": "rx-hausa-living",
+      "title": "Hausa communities · continuing histories",
+      "region": "africa",
+      "dates": "20th century–present · selected modern frame",
+      "start": 1901,
+      "end": 2027,
+      "category": "culture",
+      "location": "Northern Nigeria, southern Niger, wider West Africa and diasporas",
+      "note": "A selected modern window, not an origin date. Hausa-speaking communities continued through colonial rule and independence across state boundaries. Kano’s living Durbar traditions exemplify cultural transmission and adaptation; neither the Sokoto Caliphate nor colonial Nigeria contains the whole Hausa story.",
+      "wikiTitle": "Hausa people",
+      "sources": [
+        "kano-durbar",
+        "hausa-history"
+      ],
+      "collections": [
+        "africa"
+      ],
+      "ongoing": true
+    },
+    {
+      "id": "rx-zulu-kingdom",
+      "title": "Zulu Kingdom · independent phase",
+      "region": "africa",
+      "dates": "c. 1816–1879 CE",
+      "start": 1816,
+      "end": 1879,
+      "category": "history",
+      "location": "Southeastern Africa · present-day KwaZulu-Natal, South Africa",
+      "note": "Shaka and subsequent rulers consolidated a kingdom through alliances and force. The dates delimit the selected independent political phase to British military defeat and partition. Later resistance and institutional changes continued; 1879 did not end Zulu people or culture.",
+      "wikiTitle": "Zulu Kingdom",
+      "sources": [
+        "zulu-archaeology",
+        "zulu-monarchy"
+      ],
+      "collections": [
+        "africa"
+      ]
+    },
+    {
+      "id": "rx-zulu-living",
+      "title": "Zulu communities · colonial and modern histories",
+      "region": "africa",
+      "dates": "1879 CE–present · selected continuity frame",
+      "start": 1879,
+      "end": 2027,
+      "category": "culture",
+      "location": "South Africa · especially KwaZulu-Natal, with wider communities",
+      "note": "This reading begins at the loss of the kingdom’s independence to make continuing history visible, not to date the origins of Zulu identity. Communities, isiZulu and royal institutions persisted through colonialism, apartheid and democratic South Africa. Language, cultural identity and political allegiance are not interchangeable.",
+      "wikiTitle": "Zulu people",
+      "sources": [
+        "zulu-monarchy",
+        "zulu-living"
+      ],
+      "collections": [
+        "africa"
+      ],
+      "ongoing": true
+    },
+    {
+      "id": "rx-madagascar-settlement",
+      "title": "Madagascar · early settlement networks",
+      "region": "africa",
+      "dates": "c. 600–1200 CE · selected archaeological phase",
+      "start": 600,
+      "end": 1200,
+      "category": "period",
+      "location": "Madagascar, the Comoros and western Indian Ocean connections",
+      "note": "Archaeology, crops, languages and ancestry reveal African and Southeast Asian contributions to Malagasy histories. Late-first- and early-second-millennium settlements provide an important evidence window. The first human arrival, earlier foraging evidence and the timing of different migrations remain debated; 600 is not a proven first landing, and 1200 is not an end to settlement.",
+      "wikiTitle": "History of Madagascar",
+      "sources": [
+        "madagascar-settlement",
+        "madagascar-review"
+      ],
+      "collections": [
+        "africa"
+      ]
+    },
+    {
+      "id": "rx-maroserana",
+      "title": "Maroserana, Sakalava and Mahafaly kingdoms",
+      "region": "africa",
+      "dates": "c. 1600–1800 CE · selected formation phase",
+      "start": 1600,
+      "end": 1800,
+      "category": "history",
+      "location": "Western and southern Madagascar",
+      "note": "Maroserana-associated rulers consolidated several kingdoms, including Menabé and Boina, among diverse local communities. This selected seventeenth- and eighteenth-century window shows political formation and expansion, not a single island-wide state. The end of the window does not end Sakalava or Mahafaly communities and institutions.",
+      "wikiTitle": "Sakalava people",
+      "sources": [
+        "madagascar-kingdoms"
+      ],
+      "collections": [
+        "africa"
+      ]
+    },
+    {
+      "id": "rx-merina",
+      "title": "Merina kingdoms and Kingdom of Madagascar",
+      "region": "africa",
+      "dates": "c. 1600–1897 CE · changing kingdoms and monarchy",
+      "start": 1600,
+      "end": 1897,
+      "category": "history",
+      "location": "Central highlands and, later, much of Madagascar",
+      "note": "A broad frame for highland consolidation, subsequent division and late-eighteenth-century reunification, followed by wider expansion. Not all Madagascar was always under Merina control. France annexed the island in 1896; 1897 marks the monarchy’s final colonial removal, not the disappearance of Merina communities.",
+      "wikiTitle": "Merina Kingdom",
+      "sources": [
+        "madagascar-kingdoms",
+        "merina-archives",
+        "madagascar-archives"
+      ],
+      "collections": [
+        "africa"
+      ]
+    },
+    {
+      "id": "rx-madagascar-colonial",
+      "title": "Madagascar · French colonial rule and transition",
+      "region": "africa",
+      "dates": "1896–1960 CE",
+      "start": 1896,
+      "end": 1960,
+      "category": "period",
+      "location": "Madagascar · changing colonial and autonomous arrangements",
+      "note": "French annexation in 1896 opened this selected colonial frame. Resistance, coercion and institutional change belong within it. The republic proclaimed in 1958 preceded full independence in 1960, so these dates do not describe one unchanging legal arrangement.",
+      "wikiTitle": "French Madagascar",
+      "sources": [
+        "madagascar-archives",
+        "madagascar-republic-archives"
+      ],
+      "collections": [
+        "africa"
+      ]
+    },
+    {
+      "id": "rx-madagascar-modern",
+      "title": "Madagascar · independent eras",
+      "region": "africa",
+      "dates": "1960 CE–present",
+      "start": 1960,
+      "end": 2027,
+      "category": "history",
+      "location": "Madagascar · Indian Ocean",
+      "note": "Independence was proclaimed on 26 June 1960. This frame includes successive republican and political eras rather than one uninterrupted regime. Malagasy cultural histories extend across and before these modern constitutional boundaries.",
+      "wikiTitle": "Madagascar",
+      "sources": [
+        "madagascar-archives",
+        "ambohimanga"
+      ],
+      "collections": [
+        "africa"
+      ],
+      "ongoing": true
+    },
+    {
+      "id": "rx-igbo-ukwu",
+      "title": "Igbo-Ukwu · archaeological metalwork",
+      "region": "africa",
+      "dates": "c. 9th–10th centuries CE",
+      "start": 800,
+      "end": 1000,
+      "category": "culture",
+      "location": "Southeastern Nigeria · Igbo-Ukwu",
+      "note": "Excavated ritual and burial contexts contain sophisticated copper-alloy vessels, regalia and imported beads. The range is an approximate archaeological plotting window; the ninth-century dating has been debated. It does not identify a documented empire or date the beginning or end of Igbo history.",
+      "wikiTitle": "Igbo-Ukwu",
+      "sources": [
+        "igbo-ukwu",
+        "igbo-ukwu-bm"
+      ],
+      "collections": [
+        "africa"
+      ]
+    },
+    {
+      "id": "rx-swahili-living",
+      "title": "Swahili peoples and coastal cultures",
+      "region": "africa",
+      "dates": "c. 9th century CE–present · broad cultural frame",
+      "start": 800,
+      "end": 2027,
+      "category": "culture",
+      "location": "East African coast, islands and wider Indian Ocean connections",
+      "note": "A broad reading frame for African coastal communities participating in Indian Ocean exchange, not a single empire. Kilwa is one selected city, not the whole coast. Coastal cultures and Kiswahili-speaking communities continued through Portuguese, Omani and European colonial interventions and remain living traditions, as at Lamu.",
+      "wikiTitle": "Swahili people",
+      "sources": [
+        "kilwa",
+        "lamu"
+      ],
+      "collections": [
+        "africa"
+      ],
+      "ongoing": true
+    },
+    {
+      "id": "rx-yoruba-living",
+      "title": "Yoruba communities · living cultures",
+      "region": "africa",
+      "dates": "20th century–present · selected modern frame",
+      "start": 1901,
+      "end": 2027,
+      "category": "culture",
+      "location": "Nigeria, Benin, Togo and wider diasporas",
+      "note": "A selected modern reading window, not an origin date. Yoruba histories extend beyond the political phases of Ife and Oyo. Osun-Osogbo’s living sacred landscape and evolving annual festival are one example of continuing cultural practice; no single faith or state represents all Yoruba people.",
+      "wikiTitle": "Yoruba people",
+      "sources": [
+        "yoruba",
+        "gelede"
+      ],
+      "collections": [
+        "africa"
+      ],
+      "ongoing": true
+    },
+    {
+      "id": "rx-edo-living",
+      "title": "Edo communities · continuing Benin traditions",
+      "region": "africa",
+      "dates": "1897 CE–present · selected continuity frame",
+      "start": 1897,
+      "end": 2027,
+      "category": "culture",
+      "location": "Benin City and wider Edo communities · Nigeria and diasporas",
+      "note": "The selected frame begins with British conquest and looting to show that Edo society and artistic traditions continued afterwards. The cultural community and royal institution are not the same as the formerly independent state. This is unrelated to the modern Republic of Benin’s name.",
+      "wikiTitle": "Edo people",
+      "sources": [
+        "edo"
+      ],
+      "collections": [
+        "africa"
+      ],
+      "ongoing": true
+    },
+    {
+      "id": "rx-shona-living",
+      "title": "Shona communities · living cultures",
+      "region": "africa",
+      "dates": "20th century–present · selected modern frame",
+      "start": 1901,
+      "end": 2027,
+      "category": "culture",
+      "location": "Zimbabwe and neighbouring countries, with wider diasporas",
+      "note": "A selected modern window, not a date for the origins of Shona communities. Great Zimbabwe’s medieval urban phase is one part of a longer regional history. Living mbira traditions illustrate continuity and change, and are also practised by communities other than Shona; no uniform state or unchanging identity is implied.",
+      "wikiTitle": "Shona people",
+      "sources": [
+        "shona"
+      ],
+      "collections": [
+        "africa"
+      ],
+      "ongoing": true
+    }
+  ],
+  "memberships": {
+    "africa": [
+      "af-angola",
+      "af-cape",
+      "af-egypt-regional",
+      "af-eritrea",
+      "af-ethiopia-republican",
+      "af-german-eastafrica",
+      "af-goldcoast",
+      "af-kenya-colonial",
+      "af-natal",
+      "af-orange-colony",
+      "af-portuguese-angola",
+      "af-southafrica-democratic",
+      "af-tanganyika",
+      "af-tanganyika-territory",
+      "af-tanzania",
+      "af-transvaal-colony",
+      "af-zagwe",
+      "af-zanzibar-coast",
+      "af-zanzibar-independent",
+      "afsu-alodia",
+      "afsu-condominium",
+      "afsu-funj",
+      "afsu-mahdist",
+      "afsu-makuria",
+      "afsu-nobatia",
+      "afsu-southsudan",
+      "afsu-sudan",
+      "afsu-turcoegyptian",
+      "aksum",
+      "asante",
+      "ayyubid",
+      "benin",
+      "bornu",
+      "cn-colonial-nigeria",
+      "cn-frenchsudan",
+      "cn-mali-federation",
+      "cn-mali-modern",
+      "cn-nigerianorth",
+      "cn-nigeriasouth",
+      "cn-ptolemaic",
+      "cn-saadi",
+      "cn-sahel-regional",
+      "cn-senegal",
+      "colonialafrica",
+      "egypt",
+      "egypt-british",
+      "egypt-early-dynastic",
+      "egypt-first-intermediate",
+      "egypt-kingdom",
+      "egypt-late-period",
+      "egypt-middle-kingdom",
+      "egypt-new-kingdom",
+      "egypt-old-kingdom",
+      "egypt-republic",
+      "egypt-second-intermediate",
+      "egypt-third-intermediate",
+      "egyptmodern",
+      "ethiopia",
+      "fatimid",
+      "ghana",
+      "ghanamodern",
+      "ife",
+      "jenne",
+      "kanem",
+      "kenya",
+      "kilwa",
+      "kongo",
+      "mali",
+      "mamluk",
+      "muhammad-ali",
+      "nigeria",
+      "nok",
+      "nubia",
+      "oyo",
+      "poster-abusimbel",
+      "poster-karnak",
+      "poster-pyramids",
+      "reading-giza",
+      "reading-timbuktu",
+      "songhai",
+      "southafricamodern",
+      "zimbabwe"
+    ]
+  }
+}

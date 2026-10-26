@@ -1,0 +1,125 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1764" width="1600" height="1764" role="group" aria-labelledby="map-title-seljuqs-anatolia map-desc-seljuqs-anatolia"><title id="map-title-seljuqs-anatolia">Seljuqs, Anatolia &amp; Iran</title><desc id="map-desc-seljuqs-anatolia">Selected, sourced connections. Arrows label unions, divisions, conquest, independence, changes in rule, and contact. Node positions do not measure time or ancestry.  Select a node for Wikipedia or an arrow for its sources.</desc><defs>
+<marker id="arrow-seljuqs-anatolia-union" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#3b8274"/></marker>
+<marker id="arrow-seljuqs-anatolia-division" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#b88636"/></marker>
+<marker id="arrow-seljuqs-anatolia-conquest" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#aa6355"/></marker>
+<marker id="arrow-seljuqs-anatolia-independence" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#638350"/></marker>
+<marker id="arrow-seljuqs-anatolia-continuation" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#5d7f9d"/></marker>
+<marker id="arrow-seljuqs-anatolia-contact" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#8b7297"/></marker>
+<marker id="arrow-seljuqs-anatolia-colonial" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#9a8055"/></marker>
+<marker id="arrow-seljuqs-anatolia-context" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#92917a"/></marker>
+<marker id="arrow-seljuqs-anatolia-period" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#7d8c6f"/></marker>
+</defs><style>text{font-family:Arial,Helvetica,sans-serif;fill:#25372c}.map-node,.map-edge{cursor:pointer;outline:none}.map-node rect{stroke:#fffdf8;stroke-width:2}.map-node:hover rect,.map-node:focus rect{stroke:#3c5441;stroke-width:3}.map-label{font-size:21px;font-weight:600;pointer-events:none}.map-date{font-size:12px;fill:#617056;pointer-events:none}.edge-line{fill:none;stroke-width:2.5;stroke-linejoin:round;stroke-linecap:round}.edge-hit{fill:none;stroke:transparent;stroke-width:36;vector-effect:non-scaling-stroke}.map-edge:hover .edge-label-bg,.map-edge:focus .edge-label-bg{stroke:#334d3c;stroke-width:2}.map-edge:hover .edge-line,.map-edge:focus .edge-line{stroke-width:4}.edge-label{font-size:15px;font-weight:500;pointer-events:none}.map-heading{font-size:47px;font-weight:700;letter-spacing:-1.2px}.map-subtitle{font-size:24px;fill:#67785a}.map-micro{font-size:13px;fill:#8a977d}.map-node.dim{opacity:.15}.map-node.hit rect{stroke:#294332;stroke-width:4}.map-node.selected rect{stroke:#294332;stroke-width:4}.map-edge.related .edge-line{stroke-width:4.5}</style><rect width="100%" height="100%" fill="#fdfcf8"/><text class="map-heading" x="800" y="74" text-anchor="middle">EMPIRES &amp; CONNECTIONS</text><text class="map-subtitle" x="800" y="117" text-anchor="middle">Seljuqs, Anatolia &amp; Iran</text><text class="map-micro" x="800" y="154" text-anchor="middle">Tap a node to read · Tap an arrow for the event and sources</text>
+<g class="map-edge" id="map-edge-seljuqs-anatolia-ws-seljuq-baghdad" data-connection="ws-seljuq-baghdad" data-map="seljuqs-anatolia" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Abbasid caliphate · Baghdad to Great Seljuq Empire: Seljuqs take Baghdad. Open relationship details." style="--edge-color:#aa6355"><title>Conquest: Seljuqs take Baghdad</title>
+<path class="edge-hit" d="M387.5 314.34C387.5 340.33 387.5 371.16 387.5 389.62"/><path class="edge-line" stroke="#aa6355"  d="M387.5 314.34C387.5 340.33 387.5 371.16 387.5 389.62"/>
+<path class="edge-hit" d="M387.5 424.37C387.5 442.86 387.5 473.77 387.5 499.8"/><path class="edge-line" stroke="#aa6355"  d="M387.5 424.37C387.5 442.86 387.5 473.77 387.5 499.8" marker-end="url(#arrow-seljuqs-anatolia-conquest)"/>
+<rect class="edge-label-bg" x="297.5" y="390" width="180" height="34" rx="7" fill="#fdfcf8" stroke="#aa6355" stroke-opacity=".28"/>
+<text class="edge-label" x="387.5" y="412" text-anchor="middle">Seljuqs take Baghdad</text>
+</g>
+<g class="map-edge" id="map-edge-seljuqs-anatolia-ws-seljuq-byzantium" data-connection="ws-seljuq-byzantium" data-map="seljuqs-anatolia" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Great Seljuq Empire to Eastern Roman / Byzantine Empire: Battle of Manzikert. Open relationship details." style="--edge-color:#aa6355"><title>Conquest: Battle of Manzikert</title>
+<path class="edge-hit" d="M361.31 594.34C346.62 620.33 329.19 651.16 318.76 669.62"/><path class="edge-line" stroke="#aa6355"  d="M361.31 594.34C346.62 620.33 329.19 651.16 318.76 669.62"/>
+<path class="edge-hit" d="M309.5 704.37C309.5 722.86 309.5 753.77 309.5 779.8"/><path class="edge-line" stroke="#aa6355"  d="M309.5 704.37C309.5 722.86 309.5 753.77 309.5 779.8" marker-end="url(#arrow-seljuqs-anatolia-conquest)"/>
+<rect class="edge-label-bg" x="223.25" y="670" width="172.5" height="34" rx="7" fill="#fdfcf8" stroke="#aa6355" stroke-opacity=".28"/>
+<text class="edge-label" x="309.5" y="692" text-anchor="middle">Battle of Manzikert</text>
+</g>
+<g class="map-edge" id="map-edge-seljuqs-anatolia-ws-seljuq-rum" data-connection="ws-seljuq-rum" data-map="seljuqs-anatolia" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Great Seljuq Empire to Sultanate of Rum: Anatolian branch. Open relationship details." style="--edge-color:#b88636"><title>Division: Anatolian branch</title>
+<path class="edge-hit" d="M431.15 594.34C455.64 620.33 484.68 651.16 502.07 669.62"/><path class="edge-line" stroke="#b88636"  d="M431.15 594.34C455.64 620.33 484.68 651.16 502.07 669.62"/>
+<path class="edge-hit" d="M534.7 704.37C554.13 722.86 586.61 753.77 613.96 779.8"/><path class="edge-line" stroke="#b88636"  d="M534.7 704.37C554.13 722.86 586.61 753.77 613.96 779.8" marker-end="url(#arrow-seljuqs-anatolia-division)"/>
+<rect class="edge-label-bg" x="442.5" y="670" width="150" height="34" rx="7" fill="#fdfcf8" stroke="#b88636" stroke-opacity=".28"/>
+<text class="edge-label" x="517.5" y="692" text-anchor="middle">Anatolian branch</text>
+</g>
+<g class="map-edge" id="map-edge-seljuqs-anatolia-ws-mongol-rum" data-connection="ws-mongol-rum" data-map="seljuqs-anatolia" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Mongol Empire · unified phase to Sultanate of Rum: Köse Dağ &amp; overlordship. Open relationship details." style="--edge-color:#aa6355"><title>Conquest: Köse Dağ &amp; overlordship</title>
+<path class="edge-hit" d="M740.5 594.34C740.5 620.33 740.5 651.16 740.5 669.62"/><path class="edge-line" stroke="#aa6355"  d="M740.5 594.34C740.5 620.33 740.5 651.16 740.5 669.62"/>
+<path class="edge-hit" d="M731.25 704.37C720.79 722.86 703.33 753.77 688.61 779.8"/><path class="edge-line" stroke="#aa6355"  d="M731.25 704.37C720.79 722.86 703.33 753.77 688.61 779.8" marker-end="url(#arrow-seljuqs-anatolia-conquest)"/>
+<rect class="edge-label-bg" x="639.25" y="670" width="202.5" height="34" rx="7" fill="#fdfcf8" stroke="#aa6355" stroke-opacity=".28"/>
+<text class="edge-label" x="740.5" y="692" text-anchor="middle">Köse Dağ &amp; overlordship</text>
+</g>
+<g class="map-edge" id="map-edge-seljuqs-anatolia-ws-rum-beyliks" data-connection="ws-rum-beyliks" data-map="seljuqs-anatolia" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Sultanate of Rum to Anatolian beyliks: Regional principalities. Open relationship details." style="--edge-color:#b88636"><title>Division: Regional principalities</title>
+<path class="edge-hit" d="M662.5 874.34C662.5 900.33 662.5 931.16 662.5 949.62"/><path class="edge-line" stroke="#b88636"  d="M662.5 874.34C662.5 900.33 662.5 931.16 662.5 949.62"/>
+<path class="edge-hit" d="M662.5 984.37C662.5 1002.86 662.5 1033.77 662.5 1059.8"/><path class="edge-line" stroke="#b88636"  d="M662.5 984.37C662.5 1002.86 662.5 1033.77 662.5 1059.8" marker-end="url(#arrow-seljuqs-anatolia-division)"/>
+<rect class="edge-label-bg" x="561.25" y="950" width="202.5" height="34" rx="7" fill="#fdfcf8" stroke="#b88636" stroke-opacity=".28"/>
+<text class="edge-label" x="662.5" y="972" text-anchor="middle">Regional principalities</text>
+</g>
+<g class="map-edge" id="map-edge-seljuqs-anatolia-ws-beylik-ottoman" data-connection="ws-beylik-ottoman" data-map="seljuqs-anatolia" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Anatolian beyliks to Ottoman Empire: Ottoman expansion. Open relationship details." style="--edge-color:#5d7f9d"><title>Change of rule: Ottoman expansion</title>
+<path class="edge-hit" d="M662.5 1154.34C662.5 1180.33 662.5 1211.16 662.5 1229.62"/><path class="edge-line" stroke="#5d7f9d"  d="M662.5 1154.34C662.5 1180.33 662.5 1211.16 662.5 1229.62"/>
+<path class="edge-hit" d="M662.5 1264.37C662.5 1282.86 662.5 1313.77 662.5 1339.8"/><path class="edge-line" stroke="#5d7f9d"  d="M662.5 1264.37C662.5 1282.86 662.5 1313.77 662.5 1339.8" marker-end="url(#arrow-seljuqs-anatolia-continuation)"/>
+<rect class="edge-label-bg" x="583.75" y="1230" width="157.5" height="34" rx="7" fill="#fdfcf8" stroke="#5d7f9d" stroke-opacity=".28"/>
+<text class="edge-label" x="662.5" y="1252" text-anchor="middle">Ottoman expansion</text>
+</g>
+<g class="map-edge" id="map-edge-seljuqs-anatolia-ws-regional-ilkhanate" data-connection="ws-regional-ilkhanate" data-map="seljuqs-anatolia" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Ilkhanate to Post-Abbasid Regional Dynasties: Regional dynastic context. Open relationship details." style="--edge-color:#8b7297"><title>Contact / influence: Regional dynastic context</title>
+<path class="edge-hit" d="M1015.5 314.34C1015.5 340.33 1015.5 371.16 1015.5 389.62"/><path class="edge-line" stroke="#8b7297" stroke-dasharray="6 6" d="M1015.5 314.34C1015.5 340.33 1015.5 371.16 1015.5 389.62"/>
+<path class="edge-hit" d="M1015.5 424.37C1015.5 442.86 1015.5 473.77 1015.5 499.8"/><path class="edge-line" stroke="#8b7297" stroke-dasharray="6 6" d="M1015.5 424.37C1015.5 442.86 1015.5 473.77 1015.5 499.8" marker-end="url(#arrow-seljuqs-anatolia-contact)"/>
+<rect class="edge-label-bg" x="906.75" y="390" width="217.5" height="34" rx="7" fill="#fdfcf8" stroke="#8b7297" stroke-opacity=".28"/>
+<text class="edge-label" x="1015.5" y="412" text-anchor="middle">Regional dynastic context</text>
+</g>
+<g class="map-edge" id="map-edge-seljuqs-anatolia-ws-regional-timur" data-connection="ws-regional-timur" data-map="seljuqs-anatolia" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Post-Abbasid Regional Dynasties to Timurid Empire: Timur’s campaigns. Open relationship details." style="--edge-color:#aa6355"><title>Conquest: Timur’s campaigns</title>
+<path class="edge-hit" d="M1015.5 594.34C1015.5 620.33 1015.5 651.16 1015.5 669.62"/><path class="edge-line" stroke="#aa6355"  d="M1015.5 594.34C1015.5 620.33 1015.5 651.16 1015.5 669.62"/>
+<path class="edge-hit" d="M1015.5 704.37C1015.5 722.86 1015.5 753.77 1015.5 779.8"/><path class="edge-line" stroke="#aa6355"  d="M1015.5 704.37C1015.5 722.86 1015.5 753.77 1015.5 779.8" marker-end="url(#arrow-seljuqs-anatolia-conquest)"/>
+<rect class="edge-label-bg" x="936.75" y="670" width="157.5" height="34" rx="7" fill="#fdfcf8" stroke="#aa6355" stroke-opacity=".28"/>
+<text class="edge-label" x="1015.5" y="692" text-anchor="middle">Timur’s campaigns</text>
+</g>
+<g class="map-edge" id="map-edge-seljuqs-anatolia-ws-qajar-modern" data-connection="ws-qajar-modern" data-map="seljuqs-anatolia" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Qajar Dynasty to Iran · modern: Pahlavi dynasty. Open relationship details." style="--edge-color:#5d7f9d"><title>Change of rule: Pahlavi dynasty</title>
+<path class="edge-hit" d="M1290.5 314.34C1290.5 340.33 1290.5 371.16 1290.5 389.62"/><path class="edge-line" stroke="#5d7f9d"  d="M1290.5 314.34C1290.5 340.33 1290.5 371.16 1290.5 389.62"/>
+<path class="edge-hit" d="M1290.5 424.37C1290.5 442.86 1290.5 473.77 1290.5 499.8"/><path class="edge-line" stroke="#5d7f9d"  d="M1290.5 424.37C1290.5 442.86 1290.5 473.77 1290.5 499.8" marker-end="url(#arrow-seljuqs-anatolia-continuation)"/>
+<rect class="edge-label-bg" x="1219.25" y="390" width="142.5" height="34" rx="7" fill="#fdfcf8" stroke="#5d7f9d" stroke-opacity=".28"/>
+<text class="edge-label" x="1290.5" y="412" text-anchor="middle">Pahlavi dynasty</text>
+</g>
+<g class="map-node" id="map-node-seljuqs-anatolia-abbasid" data-history="abbasid" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Abbasid caliphate · Baghdad, 750–1258 CE. Open Wikipedia." data-map="seljuqs-anatolia"><title>Abbasid caliphate · Baghdad · 750–1258 CE</title><rect x="273.5" y="220" width="228" height="94" rx="10" fill="#e1ce82"/>
+<text class="map-label" style="font-size:21px" x="387.5" y="251" text-anchor="middle">Abbasid caliphate ·</text>
+<text class="map-label" style="font-size:21px" x="387.5" y="275" text-anchor="middle">Baghdad</text>
+<text class="map-date" x="387.5" y="299" text-anchor="middle">750–1258</text></g>
+<g class="map-node" id="map-node-seljuqs-anatolia-seljuq" data-history="seljuq" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Great Seljuq Empire, 1037 CE–1194 CE. Open Wikipedia." data-map="seljuqs-anatolia"><title>Great Seljuq Empire · 1037 CE–1194 CE</title><rect x="273.5" y="500" width="228" height="94" rx="10" fill="#9bc6b5"/>
+<text class="map-label" style="font-size:20px" x="387.5" y="543" text-anchor="middle">Great Seljuq Empire</text>
+<text class="map-date" x="387.5" y="579" text-anchor="middle">1037–1194</text></g>
+<g class="map-node" id="map-node-seljuqs-anatolia-byzantium" data-history="byzantium" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Eastern Roman / Byzantine Empire, 330–1453 CE. Open Wikipedia." data-map="seljuqs-anatolia"><title>Eastern Roman / Byzantine Empire · 330–1453 CE</title><rect x="195.5" y="780" width="228" height="94" rx="10" fill="#ee9792"/>
+<text class="map-label" style="font-size:21px" x="309.5" y="811" text-anchor="middle">Eastern Roman /</text>
+<text class="map-label" style="font-size:21px" x="309.5" y="835" text-anchor="middle">Byzantine Empire</text>
+<text class="map-date" x="309.5" y="859" text-anchor="middle">330–1453</text></g>
+<g class="map-node" id="map-node-seljuqs-anatolia-sultanate-rum" data-history="sultanate-rum" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Sultanate of Rûm, 1077 CE–1308 CE. Open Wikipedia." data-map="seljuqs-anatolia"><title>Sultanate of Rûm · 1077 CE–1308 CE</title><rect x="548.5" y="780" width="228" height="94" rx="10" fill="#e9c56b"/>
+<text class="map-label" style="font-size:21px" x="662.5" y="823" text-anchor="middle">Sultanate of Rum</text>
+<text class="map-date" x="662.5" y="859" text-anchor="middle">1077–1308</text></g>
+<g class="map-node" id="map-node-seljuqs-anatolia-mongol" data-history="mongol" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Mongol Empire · unified phase, 1206 CE–1260 CE. Open Wikipedia." data-map="seljuqs-anatolia"><title>Mongol Empire · unified phase · 1206 CE–1260 CE</title><rect x="626.5" y="500" width="228" height="94" rx="10" fill="#efc675"/>
+<text class="map-label" style="font-size:21px" x="740.5" y="531" text-anchor="middle">Mongol Empire ·</text>
+<text class="map-label" style="font-size:21px" x="740.5" y="555" text-anchor="middle">unified phase</text>
+<text class="map-date" x="740.5" y="579" text-anchor="middle">1206–1260</text></g>
+<g class="map-node" id="map-node-seljuqs-anatolia-ws-anatolian-beyliks" data-history="ws-anatolian-beyliks" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Anatolian beyliks, 13th–15th centuries · selected polities. Open Wikipedia." data-map="seljuqs-anatolia"><title>Anatolian beyliks · 13th–15th centuries · selected polities</title><rect x="548.5" y="1060" width="228" height="94" rx="10" fill="#86b5c2"/>
+<text class="map-label" style="font-size:21px" x="662.5" y="1103" text-anchor="middle">Anatolian beyliks</text>
+<text class="map-date" x="662.5" y="1139" text-anchor="middle">13th–15th centuries · selected po…</text></g>
+<g class="map-node" id="map-node-seljuqs-anatolia-ottoman" data-history="ottoman" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Ottoman Empire, c. 1299–1922 CE. Open Wikipedia." data-map="seljuqs-anatolia"><title>Ottoman Empire · c. 1299–1922 CE</title><rect x="548.5" y="1340" width="228" height="94" rx="10" fill="#86b5c2"/>
+<text class="map-label" style="font-size:21px" x="662.5" y="1383" text-anchor="middle">Ottoman Empire</text>
+<text class="map-date" x="662.5" y="1419" text-anchor="middle">c. 1299–1922</text></g>
+<g class="map-node" id="map-node-seljuqs-anatolia-cn-ilkhanate" data-history="cn-ilkhanate" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Ilkhanate, 1256–1335 CE · united dynasty. Open Wikipedia." data-map="seljuqs-anatolia"><title>Ilkhanate · 1256–1335 CE · united dynasty</title><rect x="901.5" y="220" width="228" height="94" rx="10" fill="#eab18d"/>
+<text class="map-label" style="font-size:21px" x="1015.5" y="263" text-anchor="middle">Ilkhanate</text>
+<text class="map-date" x="1015.5" y="299" text-anchor="middle">1256–1335 · united dynasty</text></g>
+<g class="map-node" id="map-node-seljuqs-anatolia-post-abbasid-dynasties" data-history="post-abbasid-dynasties" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Iran and Iraq · Mongol and regional dynasties, 1258 CE–1501 CE. Open Wikipedia." data-map="seljuqs-anatolia"><title>Iran and Iraq · Mongol and regional dynasties · 1258 CE–1501 CE</title><rect x="901.5" y="500" width="228" height="94" rx="10" fill="#e1ce82"/>
+<text class="map-label" style="font-size:21px" x="1015.5" y="531" text-anchor="middle">Post-Abbasid</text>
+<text class="map-label" style="font-size:21px" x="1015.5" y="555" text-anchor="middle">Regional Dynasties</text>
+<text class="map-date" x="1015.5" y="579" text-anchor="middle">1258–1501</text></g>
+<g class="map-node" id="map-node-seljuqs-anatolia-timurid" data-history="timurid" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Timurid Empire, 1370 CE–1507 CE. Open Wikipedia." data-map="seljuqs-anatolia"><title>Timurid Empire · 1370 CE–1507 CE</title><rect x="901.5" y="780" width="228" height="94" rx="10" fill="#e1ce82"/>
+<text class="map-label" style="font-size:21px" x="1015.5" y="823" text-anchor="middle">Timurid Empire</text>
+<text class="map-date" x="1015.5" y="859" text-anchor="middle">1370–1507</text></g>
+<g class="map-node" id="map-node-seljuqs-anatolia-qajar" data-history="qajar" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Qajar Iran, 1789 CE–1925 CE. Open Wikipedia." data-map="seljuqs-anatolia"><title>Qajar Iran · 1789 CE–1925 CE</title><rect x="1176.5" y="220" width="228" height="94" rx="10" fill="#e1ce82"/>
+<text class="map-label" style="font-size:21px" x="1290.5" y="263" text-anchor="middle">Qajar Dynasty</text>
+<text class="map-date" x="1290.5" y="299" text-anchor="middle">1789–1925</text></g>
+<g class="map-node" id="map-node-seljuqs-anatolia-iranmodern" data-history="iranmodern" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Iran · Pahlavi and republican eras, 1925 CE–present. Open Wikipedia." data-map="seljuqs-anatolia"><title>Iran · Pahlavi and republican eras · 1925 CE–present</title><rect x="1176.5" y="500" width="228" height="94" rx="10" fill="#e1ce82"/>
+<text class="map-label" style="font-size:21px" x="1290.5" y="543" text-anchor="middle">Iran · modern</text>
+<text class="map-date" x="1290.5" y="579" text-anchor="middle">1925–present</text></g>
+<text class="map-micro" x="800" y="1555" text-anchor="middle">Continue this history on another map</text>
+<g class="map-continuation" id="map-jump-seljuqs-anatolia-0" role="button" tabindex="0" data-map-target="iran-modern" data-map-history="cn-ilkhanate" aria-label="From the Ilkhanate to modern Iran"><rect x="68" y="1569" width="477.3333333333333" height="70" rx="8" fill="#edf3e5" stroke="#bdcdb1"/>
+<text x="306.66666666666663" y="1605" text-anchor="middle" style="font-size:16px">From the Ilkhanate to modern Iran</text>
+</g>
+<g class="map-continuation" id="map-jump-seljuqs-anatolia-1" role="button" tabindex="0" data-map-target="west-asia" data-map-history="abbasid" aria-label="Persian, Hellenistic &amp; Islamic realms"><rect x="561.3333333333333" y="1569" width="477.3333333333333" height="70" rx="8" fill="#edf3e5" stroke="#bdcdb1"/>
+<text x="799.9999999999999" y="1605" text-anchor="middle" style="font-size:16px">Persian, Hellenistic &amp; Islamic realms</text>
+</g>
+<g class="map-continuation" id="map-jump-seljuqs-anatolia-2" role="button" tabindex="0" data-map-target="modern-levant" data-map-history="ottoman" aria-label="Mandates, Israel &amp; Palestine"><rect x="1054.6666666666665" y="1569" width="477.3333333333333" height="70" rx="8" fill="#edf3e5" stroke="#bdcdb1"/>
+<text x="1293.3333333333333" y="1605" text-anchor="middle" style="font-size:16px">Mandates, Israel &amp; Palestine</text>
+</g>
+<path d="M70 1675h20" stroke="#3b8274" stroke-width="3"/><text x="98" y="1680" style="font-size:14px;fill:#6b7b5e">Union</text>
+<path d="M362 1675h20" stroke="#b88636" stroke-width="3"/><text x="390" y="1680" style="font-size:14px;fill:#6b7b5e">Division</text>
+<path d="M654 1675h20" stroke="#aa6355" stroke-width="3"/><text x="682" y="1680" style="font-size:14px;fill:#6b7b5e">Conquest</text>
+<path d="M946 1675h20" stroke="#638350" stroke-width="3"/><text x="974" y="1680" style="font-size:14px;fill:#6b7b5e">Independence</text>
+<path d="M1238 1675h20" stroke="#5d7f9d" stroke-width="3"/><text x="1266" y="1680" style="font-size:14px;fill:#6b7b5e">Change of rule</text>
+<path d="M70 1701h20" stroke="#8b7297" stroke-width="3"/><text x="98" y="1706" style="font-size:14px;fill:#6b7b5e">Contact / influence</text>
+<path d="M362 1701h20" stroke="#9a8055" stroke-width="3"/><text x="390" y="1706" style="font-size:14px;fill:#6b7b5e">Colonial rule</text>
+<path d="M654 1701h20" stroke="#92917a" stroke-width="3"/><text x="682" y="1706" style="font-size:14px;fill:#6b7b5e">Context / overlap</text>
+<path d="M946 1701h20" stroke="#7d8c6f" stroke-width="3"/><text x="974" y="1706" style="font-size:14px;fill:#6b7b5e">Period transition</text>
+<text class="map-micro" x="800" y="1742" text-anchor="middle">Selected connections · Layout is not a time, territory or ancestry scale</text></svg>

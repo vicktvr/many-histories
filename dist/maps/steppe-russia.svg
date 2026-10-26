@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 2520" width="1600" height="2520" role="group" aria-labelledby="map-title-steppe-russia map-desc-steppe-russia"><title id="map-title-steppe-russia">Golden Horde, Muscovy &amp; Soviet successor states</title><desc id="map-desc-steppe-russia">Selected, sourced connections. Arrows label unions, divisions, conquest, independence, changes in rule, and contact. Node positions do not measure time or ancestry.  Select a node for Wikipedia or an arrow for its sources.</desc><defs>
+<marker id="arrow-steppe-russia-union" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#3b8274"/></marker>
+<marker id="arrow-steppe-russia-division" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#b88636"/></marker>
+<marker id="arrow-steppe-russia-conquest" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#aa6355"/></marker>
+<marker id="arrow-steppe-russia-independence" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#638350"/></marker>
+<marker id="arrow-steppe-russia-continuation" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#5d7f9d"/></marker>
+<marker id="arrow-steppe-russia-contact" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#8b7297"/></marker>
+<marker id="arrow-steppe-russia-colonial" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#9a8055"/></marker>
+<marker id="arrow-steppe-russia-context" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#92917a"/></marker>
+<marker id="arrow-steppe-russia-period" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#7d8c6f"/></marker>
+</defs><style>text{font-family:Arial,Helvetica,sans-serif;fill:#25372c}.map-node,.map-edge{cursor:pointer;outline:none}.map-node rect{stroke:#fffdf8;stroke-width:2}.map-node:hover rect,.map-node:focus rect{stroke:#3c5441;stroke-width:3}.map-label{font-size:21px;font-weight:600;pointer-events:none}.map-date{font-size:12px;fill:#617056;pointer-events:none}.edge-line{fill:none;stroke-width:2.5;stroke-linejoin:round;stroke-linecap:round}.edge-hit{fill:none;stroke:transparent;stroke-width:36;vector-effect:non-scaling-stroke}.map-edge:hover .edge-label-bg,.map-edge:focus .edge-label-bg{stroke:#334d3c;stroke-width:2}.map-edge:hover .edge-line,.map-edge:focus .edge-line{stroke-width:4}.edge-label{font-size:15px;font-weight:500;pointer-events:none}.map-heading{font-size:47px;font-weight:700;letter-spacing:-1.2px}.map-subtitle{font-size:24px;fill:#67785a}.map-micro{font-size:13px;fill:#8a977d}.map-node.dim{opacity:.15}.map-node.hit rect{stroke:#294332;stroke-width:4}.map-node.selected rect{stroke:#294332;stroke-width:4}.map-edge.related .edge-line{stroke-width:4.5}</style><rect width="100%" height="100%" fill="#fdfcf8"/><text class="map-heading" x="800" y="74" text-anchor="middle">EMPIRES &amp; CONNECTIONS</text><text class="map-subtitle" x="800" y="117" text-anchor="middle">Golden Horde, Muscovy &amp; Soviet successor states</text><text class="map-micro" x="800" y="154" text-anchor="middle">Tap a node to read · Tap an arrow for the event and sources</text>
+<g class="map-edge" id="map-edge-steppe-russia-horde-fragmentation" data-connection="horde-fragmentation" data-map="steppe-russia" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Golden Horde to Khanate of Kazan + Great Horde: 1400s · several successor khanates. Open relationship details." style="--edge-color:#b88636"><title>Division: 1400s · several successor khanates</title>
+<path class="edge-hit" d="M714 314C714 420 714 420 714 420"/><path class="edge-line" stroke="#b88636"  d="M714 314C714 420 714 420 714 420"/>
+<path class="edge-hit" d="M714 420C314 420 314 420 314 510"/><path class="edge-line" stroke="#b88636"  d="M714 420C314 420 314 420 314 510" marker-end="url(#arrow-steppe-russia-division)"/>
+<path class="edge-hit" d="M714 420C1114 420 1114 420 1114 510"/><path class="edge-line" stroke="#b88636"  d="M714 420C1114 420 1114 420 1114 510" marker-end="url(#arrow-steppe-russia-division)"/>
+<rect class="edge-label-bg" x="571.5" y="403" width="285" height="34" rx="7" fill="#fdfcf8" stroke="#b88636" stroke-opacity=".28"/>
+<text class="edge-label" x="714" y="425" text-anchor="middle">1400s · several successor khanates</text>
+</g>
+<g class="map-edge" id="map-edge-steppe-russia-ugra1480" data-connection="ugra1480" data-map="steppe-russia" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Great Horde to Muscovy: 1480 · Ugra standoff. Open relationship details." style="--edge-color:#8b7297"><title>Contact / influence: 1480 · Ugra standoff</title>
+<path class="edge-hit" d="M1114 604C1114 700 1114 700 1114 700"/><path class="edge-line" stroke="#8b7297" stroke-dasharray="6 6" d="M1114 604C1114 700 1114 700 1114 700"/>
+<path class="edge-hit" d="M1114 700C714 700 714 700 714 800"/><path class="edge-line" stroke="#8b7297" stroke-dasharray="6 6" d="M1114 700C714 700 714 700 714 800" marker-end="url(#arrow-steppe-russia-contact)"/>
+<rect class="edge-label-bg" x="1024" y="683" width="180" height="34" rx="7" fill="#fdfcf8" stroke="#8b7297" stroke-opacity=".28"/>
+<text class="edge-label" x="1114" y="705" text-anchor="middle">1480 · Ugra standoff</text>
+</g>
+<g class="map-edge" id="map-edge-steppe-russia-tsar1547" data-connection="tsar1547" data-map="steppe-russia" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Muscovy to Tsardom of Russia: 1547 · Ivan IV crowned tsar. Open relationship details." style="--edge-color:#5d7f9d"><title>Change of rule: 1547 · Ivan IV crowned tsar</title>
+<path class="edge-hit" d="M714 894C714 1000 714 1000 714 1000"/><path class="edge-line" stroke="#5d7f9d"  d="M714 894C714 1000 714 1000 714 1000"/>
+<path class="edge-hit" d="M714 1000C714 1000 714 1000 714 1100"/><path class="edge-line" stroke="#5d7f9d"  d="M714 1000C714 1000 714 1000 714 1100" marker-end="url(#arrow-steppe-russia-continuation)"/>
+<rect class="edge-label-bg" x="597.75" y="983" width="232.5" height="34" rx="7" fill="#fdfcf8" stroke="#5d7f9d" stroke-opacity=".28"/>
+<text class="edge-label" x="714" y="1005" text-anchor="middle">1547 · Ivan IV crowned tsar</text>
+</g>
+<g class="map-edge" id="map-edge-steppe-russia-kazan-conquest" data-connection="kazan-conquest" data-map="steppe-russia" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Khanate of Kazan to Tsardom of Russia: 1552 · Kazan conquered. Open relationship details." style="--edge-color:#aa6355"><title>Conquest: 1552 · Kazan conquered</title>
+<path class="edge-hit" d="M314 604C314 1000 314 1000 314 1000"/><path class="edge-line" stroke="#aa6355"  d="M314 604C314 1000 314 1000 314 1000"/>
+<path class="edge-hit" d="M314 1000C314 1147 530 1147 600 1147"/><path class="edge-line" stroke="#aa6355"  d="M314 1000C314 1147 530 1147 600 1147" marker-end="url(#arrow-steppe-russia-conquest)"/>
+<rect class="edge-label-bg" x="216.5" y="983" width="195" height="34" rx="7" fill="#fdfcf8" stroke="#aa6355" stroke-opacity=".28"/>
+<text class="edge-label" x="314" y="1005" text-anchor="middle">1552 · Kazan conquered</text>
+</g>
+<g class="map-edge" id="map-edge-steppe-russia-russian-empire1721" data-connection="russian-empire1721" data-map="steppe-russia" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Tsardom of Russia to Russian Empire: 1721 · imperial title. Open relationship details." style="--edge-color:#5d7f9d"><title>Change of rule: 1721 · imperial title</title>
+<path class="edge-hit" d="M714 1194C714 1300 714 1300 714 1300"/><path class="edge-line" stroke="#5d7f9d"  d="M714 1194C714 1300 714 1300 714 1300"/>
+<path class="edge-hit" d="M714 1300C714 1300 714 1300 714 1400"/><path class="edge-line" stroke="#5d7f9d"  d="M714 1300C714 1300 714 1300 714 1400" marker-end="url(#arrow-steppe-russia-continuation)"/>
+<rect class="edge-label-bg" x="620.25" y="1283" width="187.5" height="34" rx="7" fill="#fdfcf8" stroke="#5d7f9d" stroke-opacity=".28"/>
+<text class="edge-label" x="714" y="1305" text-anchor="middle">1721 · imperial title</text>
+</g>
+<g class="map-edge" id="map-edge-steppe-russia-russian-revolutions" data-connection="russian-revolutions" data-map="steppe-russia" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Russian Empire to Soviet Union: 1917–22 · revolutions, war &amp; new union. Open relationship details." style="--edge-color:#5d7f9d"><title>Change of rule: 1917–22 · revolutions, war &amp; new union</title>
+<path class="edge-hit" d="M714 1494C714 1600 714 1600 714 1600"/><path class="edge-line" stroke="#5d7f9d"  d="M714 1494C714 1600 714 1600 714 1600"/>
+<path class="edge-hit" d="M714 1600C714 1600 714 1600 714 1700"/><path class="edge-line" stroke="#5d7f9d"  d="M714 1600C714 1600 714 1600 714 1700" marker-end="url(#arrow-steppe-russia-continuation)"/>
+<rect class="edge-label-bg" x="556.5" y="1583" width="315" height="34" rx="7" fill="#fdfcf8" stroke="#5d7f9d" stroke-opacity=".28"/>
+<text class="edge-label" x="714" y="1605" text-anchor="middle">1917–22 · revolutions, war &amp; new union</text>
+</g>
+<g class="map-edge" id="map-edge-steppe-russia-soviet-successors1991" data-connection="soviet-successors1991" data-map="steppe-russia" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Soviet Union to Russian Federation + Ukraine + Kazakhstan: 1991 · fifteen independent states. Open relationship details." style="--edge-color:#b88636"><title>Division: 1991 · fifteen independent states</title>
+<path class="edge-hit" d="M714 1794C714 1930 714 1930 764 1930"/><path class="edge-line" stroke="#b88636"  d="M714 1794C714 1930 714 1930 764 1930"/>
+<path class="edge-hit" d="M764 1930C214 1930 214 1930 214 2050"/><path class="edge-line" stroke="#b88636"  d="M764 1930C214 1930 214 1930 214 2050" marker-end="url(#arrow-steppe-russia-division)"/>
+<path class="edge-hit" d="M764 1930C764 1930 764 1930 764 2050"/><path class="edge-line" stroke="#b88636"  d="M764 1930C764 1930 764 1930 764 2050" marker-end="url(#arrow-steppe-russia-division)"/>
+<path class="edge-hit" d="M764 1930C1294 1930 1294 1930 1294 2050"/><path class="edge-line" stroke="#b88636"  d="M764 1930C1294 1930 1294 1930 1294 2050" marker-end="url(#arrow-steppe-russia-division)"/>
+<rect class="edge-label-bg" x="625.25" y="1913" width="277.5" height="34" rx="7" fill="#fdfcf8" stroke="#b88636" stroke-opacity=".28"/>
+<text class="edge-label" x="764" y="1935" text-anchor="middle">1991 · fifteen independent states</text>
+</g>
+<g class="map-node" id="map-node-steppe-russia-cn-goldenhorde" data-history="cn-goldenhorde" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Golden Horde, 13th century–1502 CE. Open Wikipedia." data-map="steppe-russia"><title>Golden Horde · 13th century–1502 CE</title><rect x="600" y="220" width="228" height="94" rx="10" fill="#edbc75"/>
+<text class="map-label" style="font-size:21px" x="714" y="263" text-anchor="middle">Golden Horde</text>
+<text class="map-date" x="714" y="299" text-anchor="middle">13th century–1502</text></g>
+<g class="map-node" id="map-node-steppe-russia-cn-kazan" data-history="cn-kazan" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Khanate of Kazan, c. 1438–1552 CE. Open Wikipedia." data-map="steppe-russia"><title>Khanate of Kazan · c. 1438–1552 CE</title><rect x="200" y="510" width="228" height="94" rx="10" fill="#edbc75"/>
+<text class="map-label" style="font-size:21px" x="314" y="553" text-anchor="middle">Khanate of Kazan</text>
+<text class="map-date" x="314" y="589" text-anchor="middle">c. 1438–1552</text></g>
+<g class="map-node" id="map-node-steppe-russia-cn-greathorde" data-history="cn-greathorde" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Great Horde, 15th century–1502 CE. Open Wikipedia." data-map="steppe-russia"><title>Great Horde · 15th century–1502 CE</title><rect x="1000" y="510" width="228" height="94" rx="10" fill="#ee9792"/>
+<text class="map-label" style="font-size:21px" x="1114" y="553" text-anchor="middle">Great Horde</text>
+<text class="map-date" x="1114" y="589" text-anchor="middle">15th century–1502</text></g>
+<g class="map-node" id="map-node-steppe-russia-cn-muscovy" data-history="cn-muscovy" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Grand Principality of Moscow, c. 1263–1547 CE. Open Wikipedia." data-map="steppe-russia"><title>Grand Principality of Moscow · c. 1263–1547 CE</title><rect x="600" y="800" width="228" height="94" rx="10" fill="#edbc75"/>
+<text class="map-label" style="font-size:21px" x="714" y="843" text-anchor="middle">Muscovy</text>
+<text class="map-date" x="714" y="879" text-anchor="middle">c. 1263–1547</text></g>
+<g class="map-node" id="map-node-steppe-russia-cn-tsardom" data-history="cn-tsardom" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Tsardom of Russia, 1547–1721 CE. Open Wikipedia." data-map="steppe-russia"><title>Tsardom of Russia · 1547–1721 CE</title><rect x="600" y="1100" width="228" height="94" rx="10" fill="#edbc75"/>
+<text class="map-label" style="font-size:21px" x="714" y="1143" text-anchor="middle">Tsardom of Russia</text>
+<text class="map-date" x="714" y="1179" text-anchor="middle">1547–1721</text></g>
+<g class="map-node" id="map-node-steppe-russia-russianempire" data-history="russianempire" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Russian Empire, 1721 CE–1917 CE. Open Wikipedia." data-map="steppe-russia"><title>Russian Empire · 1721 CE–1917 CE</title><rect x="600" y="1400" width="228" height="94" rx="10" fill="#ee9792"/>
+<text class="map-label" style="font-size:21px" x="714" y="1443" text-anchor="middle">Russian Empire</text>
+<text class="map-date" x="714" y="1479" text-anchor="middle">1721–1917</text></g>
+<g class="map-node" id="map-node-steppe-russia-sovietunion" data-history="sovietunion" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Soviet Union / USSR, 1922 CE–1991 CE. Open Wikipedia." data-map="steppe-russia"><title>Soviet Union / USSR · 1922 CE–1991 CE</title><rect x="600" y="1700" width="228" height="94" rx="10" fill="#ee9792"/>
+<text class="map-label" style="font-size:21px" x="714" y="1743" text-anchor="middle">Soviet Union</text>
+<text class="map-date" x="714" y="1779" text-anchor="middle">1922–1991</text></g>
+<g class="map-node" id="map-node-steppe-russia-russiafederation" data-history="russiafederation" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Russian Federation, 1991 CE–present. Open Wikipedia." data-map="steppe-russia"><title>Russian Federation · 1991 CE–present</title><rect x="100" y="2050" width="228" height="94" rx="10" fill="#c4afd1"/>
+<text class="map-label" style="font-size:21px" x="214" y="2093" text-anchor="middle">Russian Federation</text>
+<text class="map-date" x="214" y="2129" text-anchor="middle">1991–present</text></g>
+<g class="map-node" id="map-node-steppe-russia-cn-ukraine" data-history="cn-ukraine" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Ukraine · independent state, 1991 CE–present. Open Wikipedia." data-map="steppe-russia"><title>Ukraine · independent state · 1991 CE–present</title><rect x="650" y="2050" width="228" height="94" rx="10" fill="#92c4bd"/>
+<text class="map-label" style="font-size:21px" x="764" y="2093" text-anchor="middle">Ukraine</text>
+<text class="map-date" x="764" y="2129" text-anchor="middle">1991–present</text></g>
+<g class="map-node" id="map-node-steppe-russia-cn-kazakhstan" data-history="cn-kazakhstan" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Kazakhstan · independent state, 1991 CE–present. Open Wikipedia." data-map="steppe-russia"><title>Kazakhstan · independent state · 1991 CE–present</title><rect x="1180" y="2050" width="228" height="94" rx="10" fill="#d4b7d4"/>
+<text class="map-label" style="font-size:21px" x="1294" y="2093" text-anchor="middle">Kazakhstan</text>
+<text class="map-date" x="1294" y="2129" text-anchor="middle">1991–present</text></g>
+<text class="map-micro" x="800" y="2311" text-anchor="middle">Continue this history on another map</text>
+<g class="map-continuation" id="map-jump-steppe-russia-0" role="button" tabindex="0" data-map-target="mongols-china" data-map-history="cn-goldenhorde" aria-label="Earlier: the Mongol khanates"><rect x="68" y="2325" width="477.3333333333333" height="70" rx="8" fill="#edf3e5" stroke="#bdcdb1"/>
+<text x="306.66666666666663" y="2361" text-anchor="middle" style="font-size:16px">Earlier: the Mongol khanates</text>
+</g>
+<g class="map-continuation" id="map-jump-steppe-russia-1" role="button" tabindex="0" data-map-target="soviet-europe" data-map-history="sovietunion" aria-label="Soviet dissolution · Russia and eastern Europe"><rect x="561.3333333333333" y="2325" width="477.3333333333333" height="70" rx="8" fill="#edf3e5" stroke="#bdcdb1"/>
+<text x="799.9999999999999" y="2361" text-anchor="middle" style="font-size:16px">Soviet dissolution · Russia and eastern Europe</text>
+</g>
+<g class="map-continuation" id="map-jump-steppe-russia-2" role="button" tabindex="0" data-map-target="rus-byzantium-steppe" data-map-history="cn-goldenhorde" aria-label="Kyivan Rus’, Byzantium &amp; regional principalities"><rect x="1054.6666666666665" y="2325" width="477.3333333333333" height="70" rx="8" fill="#edf3e5" stroke="#bdcdb1"/>
+<text x="1293.3333333333333" y="2361" text-anchor="middle" style="font-size:16px">Kyivan Rus’, Byzantium &amp; regional principalities</text>
+</g>
+<path d="M70 2431h20" stroke="#3b8274" stroke-width="3"/><text x="98" y="2436" style="font-size:14px;fill:#6b7b5e">Union</text>
+<path d="M362 2431h20" stroke="#b88636" stroke-width="3"/><text x="390" y="2436" style="font-size:14px;fill:#6b7b5e">Division</text>
+<path d="M654 2431h20" stroke="#aa6355" stroke-width="3"/><text x="682" y="2436" style="font-size:14px;fill:#6b7b5e">Conquest</text>
+<path d="M946 2431h20" stroke="#638350" stroke-width="3"/><text x="974" y="2436" style="font-size:14px;fill:#6b7b5e">Independence</text>
+<path d="M1238 2431h20" stroke="#5d7f9d" stroke-width="3"/><text x="1266" y="2436" style="font-size:14px;fill:#6b7b5e">Change of rule</text>
+<path d="M70 2457h20" stroke="#8b7297" stroke-width="3"/><text x="98" y="2462" style="font-size:14px;fill:#6b7b5e">Contact / influence</text>
+<path d="M362 2457h20" stroke="#9a8055" stroke-width="3"/><text x="390" y="2462" style="font-size:14px;fill:#6b7b5e">Colonial rule</text>
+<path d="M654 2457h20" stroke="#92917a" stroke-width="3"/><text x="682" y="2462" style="font-size:14px;fill:#6b7b5e">Context / overlap</text>
+<path d="M946 2457h20" stroke="#7d8c6f" stroke-width="3"/><text x="974" y="2462" style="font-size:14px;fill:#6b7b5e">Period transition</text>
+<text class="map-micro" x="800" y="2498" text-anchor="middle">Selected connections · Layout is not a time, territory or ancestry scale</text></svg>

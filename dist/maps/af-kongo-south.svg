@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2374 1484" width="2374" height="1484" role="group" aria-labelledby="map-title-af-kongo-south map-desc-af-kongo-south"><title id="map-title-af-kongo-south">Kongo, Atlantic contacts and southern African states</title><desc id="map-desc-af-kongo-south">Selected, sourced connections. Arrows label unions, divisions, conquest, independence, changes in rule, and contact. Node positions do not measure time or ancestry.  Select a node for Wikipedia or an arrow for its sources.</desc><defs>
+<marker id="arrow-af-kongo-south-union" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#3b8274"/></marker>
+<marker id="arrow-af-kongo-south-division" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#b88636"/></marker>
+<marker id="arrow-af-kongo-south-conquest" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#aa6355"/></marker>
+<marker id="arrow-af-kongo-south-independence" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#638350"/></marker>
+<marker id="arrow-af-kongo-south-continuation" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#5d7f9d"/></marker>
+<marker id="arrow-af-kongo-south-contact" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#8b7297"/></marker>
+<marker id="arrow-af-kongo-south-colonial" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#9a8055"/></marker>
+<marker id="arrow-af-kongo-south-context" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#92917a"/></marker>
+<marker id="arrow-af-kongo-south-period" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#7d8c6f"/></marker>
+</defs><style>text{font-family:Arial,Helvetica,sans-serif;fill:#25372c}.map-node,.map-edge{cursor:pointer;outline:none}.map-node rect{stroke:#fffdf8;stroke-width:2}.map-node:hover rect,.map-node:focus rect{stroke:#3c5441;stroke-width:3}.map-label{font-size:21px;font-weight:600;pointer-events:none}.map-date{font-size:12px;fill:#617056;pointer-events:none}.edge-line{fill:none;stroke-width:2.5;stroke-linejoin:round;stroke-linecap:round}.edge-hit{fill:none;stroke:transparent;stroke-width:36;vector-effect:non-scaling-stroke}.map-edge:hover .edge-label-bg,.map-edge:focus .edge-label-bg{stroke:#334d3c;stroke-width:2}.map-edge:hover .edge-line,.map-edge:focus .edge-line{stroke-width:4}.edge-label{font-size:15px;font-weight:500;pointer-events:none}.map-heading{font-size:47px;font-weight:700;letter-spacing:-1.2px}.map-subtitle{font-size:24px;fill:#67785a}.map-micro{font-size:13px;fill:#8a977d}.map-node.dim{opacity:.15}.map-node.hit rect{stroke:#294332;stroke-width:4}.map-node.selected rect{stroke:#294332;stroke-width:4}.map-edge.related .edge-line{stroke-width:4.5}</style><rect width="100%" height="100%" fill="#fdfcf8"/><text class="map-heading" x="1187" y="74" text-anchor="middle">EMPIRES &amp; CONNECTIONS</text><text class="map-subtitle" x="1187" y="117" text-anchor="middle">Kongo, Atlantic contacts and southern African states</text><text class="map-micro" x="1187" y="154" text-anchor="middle">Tap a node to read · Tap an arrow for the event and sources</text>
+<g class="map-edge" id="map-edge-af-kongo-south-af-kongo-portugal" data-connection="af-kongo-portugal" data-map="af-kongo-south" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Kingdom of Kongo to Kingdom of Portugal: Diplomacy and Christian exchange. Open relationship details." style="--edge-color:#8b7297"><title>Contact / influence: Diplomacy and Christian exchange</title>
+<path class="edge-hit" d="M420.84 314.34C356.79 340.33 280.85 371.16 235.36 389.62"/><path class="edge-line" stroke="#8b7297" stroke-dasharray="6 6" d="M420.84 314.34C356.79 340.33 280.85 371.16 235.36 389.62" marker-start="url(#arrow-af-kongo-south-contact)"/>
+<path class="edge-hit" d="M195 424.37C195 442.86 195 473.77 195 499.8"/><path class="edge-line" stroke="#8b7297" stroke-dasharray="6 6" d="M195 424.37C195 442.86 195 473.77 195 499.8" marker-end="url(#arrow-af-kongo-south-contact)"/>
+<rect class="edge-label-bg" x="60" y="390" width="270" height="34" rx="7" fill="#fdfcf8" stroke="#8b7297" stroke-opacity=".28"/>
+<text class="edge-label" x="195" y="412" text-anchor="middle">Diplomacy and Christian exchange</text>
+</g>
+<g class="map-edge" id="map-edge-af-kongo-south-af-kongo-colonial" data-connection="af-kongo-colonial" data-map="af-kongo-south" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Kingdom of Kongo to Portuguese Angola: Colonial expansion in the Kongo region. Open relationship details." style="--edge-color:#9a8055"><title>Colonial rule: Colonial expansion in the Kongo region</title>
+<path class="edge-hit" d="M535 314.34C535 340.33 535 371.16 535 389.62"/><path class="edge-line" stroke="#9a8055"  d="M535 314.34C535 340.33 535 371.16 535 389.62"/>
+<path class="edge-hit" d="M534.29 424.37C533.48 442.86 532.14 473.77 531.01 499.8"/><path class="edge-line" stroke="#9a8055"  d="M534.29 424.37C533.48 442.86 532.14 473.77 531.01 499.8" marker-end="url(#arrow-af-kongo-south-colonial)"/>
+<rect class="edge-label-bg" x="377.5" y="390" width="315" height="34" rx="7" fill="#fdfcf8" stroke="#9a8055" stroke-opacity=".28"/>
+<text class="edge-label" x="535" y="412" text-anchor="middle">Colonial expansion in the Kongo region</text>
+</g>
+<g class="map-edge" id="map-edge-af-kongo-south-af-angola-independence" data-connection="af-angola-independence" data-map="af-kongo-south" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Portuguese Angola to Angola: independent state: Angola independent. Open relationship details." style="--edge-color:#638350"><title>Independence: Angola independent</title>
+<path class="edge-hit" d="M527.99 594.34C527.43 620.33 526.76 651.16 526.36 669.62"/><path class="edge-line" stroke="#638350"  d="M527.99 594.34C527.43 620.33 526.76 651.16 526.36 669.62"/>
+<path class="edge-hit" d="M556.02 704.37C589.85 722.83 646.36 753.65 694.02 779.65"/><path class="edge-line" stroke="#638350"  d="M556.02 704.37C589.85 722.83 646.36 753.65 694.02 779.65" marker-end="url(#arrow-af-kongo-south-independence)"/>
+<rect class="edge-label-bg" x="443.5" y="670" width="165" height="34" rx="7" fill="#fdfcf8" stroke="#638350" stroke-opacity=".28"/>
+<text class="edge-label" x="526" y="692" text-anchor="middle">Angola independent</text>
+</g>
+<g class="map-edge" id="map-edge-af-kongo-south-af-kongo-modern-heritage" data-connection="af-kongo-modern-heritage" data-map="af-kongo-south" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Kingdom of Kongo to Angola: independent state: Mbanza Kongo: living heritage. Open relationship details." style="--edge-color:#92917a"><title>Context / overlap: Mbanza Kongo: living heritage</title>
+<path class="edge-hit" d="M632.05 314.29C663.19 333.61 695.01 358.9 716 390C777.73 481.45 780.58 622.05 779.61 669.62"/><path class="edge-line" stroke="#92917a" stroke-dasharray="6 6" d="M632.05 314.29C663.19 333.61 695.01 358.9 716 390C777.73 481.45 780.58 622.05 779.61 669.62"/>
+<path class="edge-hit" d="M779 704.37C779 722.86 779 753.77 779 779.8"/><path class="edge-line" stroke="#92917a" stroke-dasharray="6 6" d="M779 704.37C779 722.86 779 753.77 779 779.8" marker-end="url(#arrow-af-kongo-south-context)"/>
+<rect class="edge-label-bg" x="655.25" y="670" width="247.5" height="34" rx="7" fill="#fdfcf8" stroke="#92917a" stroke-opacity=".28"/>
+<text class="edge-label" x="779" y="692" text-anchor="middle">Mbanza Kongo: living heritage</text>
+</g>
+<g class="map-edge" id="map-edge-af-kongo-south-af-cape-british" data-connection="af-cape-british" data-map="af-kongo-south" role="button" tabindex="0" aria-haspopup="dialog" aria-label="British Empire to Cape Colony: British occupation of the Cape. Open relationship details." style="--edge-color:#9a8055"><title>Colonial rule: British occupation of the Cape</title>
+<path class="edge-hit" d="M1375 314.34C1375 340.33 1375 371.16 1375 389.62"/><path class="edge-line" stroke="#9a8055"  d="M1375 314.34C1375 340.33 1375 371.16 1375 389.62"/>
+<path class="edge-hit" d="M1375 424.37C1375 442.86 1375 473.77 1375 499.8"/><path class="edge-line" stroke="#9a8055"  d="M1375 424.37C1375 442.86 1375 473.77 1375 499.8" marker-end="url(#arrow-af-kongo-south-colonial)"/>
+<rect class="edge-label-bg" x="1247.5" y="390" width="255" height="34" rx="7" fill="#fdfcf8" stroke="#9a8055" stroke-opacity=".28"/>
+<text class="edge-label" x="1375" y="412" text-anchor="middle">British occupation of the Cape</text>
+</g>
+<g class="map-edge" id="map-edge-af-kongo-south-af-southafrican-union" data-connection="af-southafrican-union" data-map="af-kongo-south" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Cape Colony + Colony of Natal + Transvaal Colony + Orange River Colony to South Africa: Four colonies form the Union. Open relationship details." style="--edge-color:#3b8274"><title>Union: Four colonies form the Union</title>
+<path class="edge-hit" d="M1489.49 586.35C1571.17 613.71 1676.93 649.13 1737.85 669.54"/><path class="edge-line" stroke="#3b8274"  d="M1489.49 586.35C1571.17 613.71 1676.93 649.13 1737.85 669.54"/>
+<path class="edge-hit" d="M1696 594.34C1721.81 620.33 1752.41 651.16 1770.74 669.62"/><path class="edge-line" stroke="#3b8274"  d="M1696 594.34C1721.81 620.33 1752.41 651.16 1770.74 669.62"/>
+<path class="edge-hit" d="M1878.66 594.34C1852.67 620.33 1821.84 651.16 1803.38 669.62"/><path class="edge-line" stroke="#3b8274"  d="M1878.66 594.34C1852.67 620.33 1821.84 651.16 1803.38 669.62"/>
+<path class="edge-hit" d="M2085.63 586.42C2077.97 588.99 2070.38 591.53 2063 594C1983.73 620.52 1891.6 651.2 1836.37 669.58"/><path class="edge-line" stroke="#3b8274"  d="M2085.63 586.42C2077.97 588.99 2070.38 591.53 2063 594C1983.73 620.52 1891.6 651.2 1836.37 669.58"/>
+<path class="edge-hit" d="M1787 704.37C1787 722.86 1787 753.77 1787 779.8"/><path class="edge-line" stroke="#3b8274"  d="M1787 704.37C1787 722.86 1787 753.77 1787 779.8" marker-end="url(#arrow-af-kongo-south-union)"/>
+<rect class="edge-label-bg" x="1667" y="670" width="240" height="34" rx="7" fill="#fdfcf8" stroke="#3b8274" stroke-opacity=".28"/>
+<text class="edge-label" x="1787" y="692" text-anchor="middle">Four colonies form the Union</text>
+</g>
+<g class="map-edge" id="map-edge-af-kongo-south-af-southafrican-democracy" data-connection="af-southafrican-democracy" data-map="af-kongo-south" role="button" tabindex="0" aria-haspopup="dialog" aria-label="South Africa to South Africa: democratic constitutional era: Transition to universal suffrage. Open relationship details." style="--edge-color:#5d7f9d"><title>Change of rule: Transition to universal suffrage</title>
+<path class="edge-hit" d="M1787 874.34C1787 900.33 1787 931.16 1787 949.62"/><path class="edge-line" stroke="#5d7f9d"  d="M1787 874.34C1787 900.33 1787 931.16 1787 949.62"/>
+<path class="edge-hit" d="M1787 984.37C1787 1002.86 1787 1033.77 1787 1059.8"/><path class="edge-line" stroke="#5d7f9d"  d="M1787 984.37C1787 1002.86 1787 1033.77 1787 1059.8" marker-end="url(#arrow-af-kongo-south-continuation)"/>
+<rect class="edge-label-bg" x="1652" y="950" width="270" height="34" rx="7" fill="#fdfcf8" stroke="#5d7f9d" stroke-opacity=".28"/>
+<text class="edge-label" x="1787" y="972" text-anchor="middle">Transition to universal suffrage</text>
+</g>
+<g class="map-edge" id="map-edge-af-kongo-south-af-colonial-decolonization" data-connection="af-colonial-decolonization" data-map="af-kongo-south" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Colonial era to Ghana + Kenya + Angola: independent state: Different paths out of colonial rule. Open relationship details." style="--edge-color:#92917a"><title>Context / overlap: Different paths out of colonial rule</title>
+<path class="edge-hit" d="M1100 594.34C1100 620.33 1100 651.16 1100 669.62"/><path class="edge-line" stroke="#92917a" stroke-dasharray="6 6" d="M1100 594.34C1100 620.33 1100 651.16 1100 669.62"/>
+<path class="edge-hit" d="M1097.27 704.37C1094.19 722.86 1089.04 753.77 1084.7 779.8"/><path class="edge-line" stroke="#92917a" stroke-dasharray="6 6" d="M1097.27 704.37C1094.19 722.86 1089.04 753.77 1084.7 779.8" marker-end="url(#arrow-af-kongo-south-context)"/>
+<path class="edge-hit" d="M1129.9 704.37C1163.6 722.83 1219.89 753.65 1267.36 779.65"/><path class="edge-line" stroke="#92917a" stroke-dasharray="6 6" d="M1129.9 704.37C1163.6 722.83 1219.89 753.65 1267.36 779.65" marker-end="url(#arrow-af-kongo-south-context)"/>
+<path class="edge-hit" d="M1061.92 704.37C1018.99 722.83 947.29 753.65 886.81 779.65"/><path class="edge-line" stroke="#92917a" stroke-dasharray="6 6" d="M1061.92 704.37C1018.99 722.83 947.29 753.65 886.81 779.65" marker-end="url(#arrow-af-kongo-south-context)"/>
+<rect class="edge-label-bg" x="950" y="670" width="300" height="34" rx="7" fill="#fdfcf8" stroke="#92917a" stroke-opacity=".28"/>
+<text class="edge-label" x="1100" y="692" text-anchor="middle">Different paths out of colonial rule</text>
+</g>
+<g class="map-node" id="map-node-af-kongo-south-kongo" data-history="kongo" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Kingdom of Kongo, c. 1390 CE–1914 CE. Open Wikipedia." data-map="af-kongo-south"><title>Kingdom of Kongo · c. 1390 CE–1914 CE</title><rect x="421" y="220" width="228" height="94" rx="10" fill="#f2d27b"/>
+<text class="map-label" style="font-size:21px" x="535" y="263" text-anchor="middle">Kingdom of Kongo</text>
+<text class="map-date" x="535" y="299" text-anchor="middle">c. 1390–1914</text></g>
+<g class="map-node" id="map-node-af-kongo-south-cn-portugal" data-history="cn-portugal" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Kingdom of Portugal, 1139–1910 CE. Open Wikipedia." data-map="af-kongo-south"><title>Kingdom of Portugal · 1139–1910 CE</title><rect x="81" y="500" width="228" height="94" rx="10" fill="#ee9792"/>
+<text class="map-label" style="font-size:20px" x="195" y="543" text-anchor="middle">Kingdom of Portugal</text>
+<text class="map-date" x="195" y="579" text-anchor="middle">1139–1910</text></g>
+<g class="map-node" id="map-node-af-kongo-south-af-portuguese-angola" data-history="af-portuguese-angola" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Portuguese Angola, 16th century–1975 CE · changing colonial control. Open Wikipedia." data-map="af-kongo-south"><title>Portuguese Angola · 16th century–1975 CE · changing colonial control</title><rect x="415" y="500" width="228" height="94" rx="10" fill="#efb34c"/>
+<text class="map-label" style="font-size:21px" x="529" y="543" text-anchor="middle">Portuguese Angola</text>
+<text class="map-date" x="529" y="579" text-anchor="middle">16th century–1975 · changing colo…</text></g>
+<g class="map-node" id="map-node-af-kongo-south-af-angola" data-history="af-angola" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Angola: independent state, 1975 CE–present. Open Wikipedia." data-map="af-kongo-south"><title>Angola: independent state · 1975 CE–present</title><rect x="665" y="780" width="228" height="94" rx="10" fill="#efb34c"/>
+<text class="map-label" style="font-size:19px" x="779" y="811" text-anchor="middle">Angola: independent</text>
+<text class="map-label" style="font-size:19px" x="779" y="835" text-anchor="middle">state</text>
+<text class="map-date" x="779" y="859" text-anchor="middle">1975–present</text></g>
+<g class="map-node" id="map-node-af-kongo-south-britishempire" data-history="britishempire" role="button" tabindex="0" aria-haspopup="dialog" aria-label="British Empire · major overseas phase, 1607 CE–1997 CE. Open Wikipedia." data-map="af-kongo-south"><title>British Empire · major overseas phase · 1607 CE–1997 CE</title><rect x="1261" y="220" width="228" height="94" rx="10" fill="#edbc75"/>
+<text class="map-label" style="font-size:21px" x="1375" y="263" text-anchor="middle">British Empire</text>
+<text class="map-date" x="1375" y="299" text-anchor="middle">1607–1997</text></g>
+<g class="map-node" id="map-node-af-kongo-south-af-cape" data-history="af-cape" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Cape Colony, 1652–1910 CE · Dutch and British stages. Open Wikipedia." data-map="af-kongo-south"><title>Cape Colony · 1652–1910 CE · Dutch and British stages</title><rect x="1261" y="500" width="228" height="94" rx="10" fill="#b8cf7a"/>
+<text class="map-label" style="font-size:21px" x="1375" y="543" text-anchor="middle">Cape Colony</text>
+<text class="map-date" x="1375" y="579" text-anchor="middle">1652–1910 · Dutch and British sta…</text></g>
+<g class="map-node" id="map-node-af-kongo-south-af-natal" data-history="af-natal" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Colony of Natal, 1843–1910 CE. Open Wikipedia." data-map="af-kongo-south"><title>Colony of Natal · 1843–1910 CE</title><rect x="1536" y="500" width="228" height="94" rx="10" fill="#efb34c"/>
+<text class="map-label" style="font-size:21px" x="1650" y="543" text-anchor="middle">Colony of Natal</text>
+<text class="map-date" x="1650" y="579" text-anchor="middle">1843–1910</text></g>
+<g class="map-node" id="map-node-af-kongo-south-af-transvaal-colony" data-history="af-transvaal-colony" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Transvaal Colony, 1902–1910 CE. Open Wikipedia." data-map="af-kongo-south"><title>Transvaal Colony · 1902–1910 CE</title><rect x="1811" y="500" width="228" height="94" rx="10" fill="#e6ac5c"/>
+<text class="map-label" style="font-size:21px" x="1925" y="543" text-anchor="middle">Transvaal Colony</text>
+<text class="map-date" x="1925" y="579" text-anchor="middle">1902–1910</text></g>
+<g class="map-node" id="map-node-af-kongo-south-af-orange-colony" data-history="af-orange-colony" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Orange River Colony, 1902–1910 CE. Open Wikipedia." data-map="af-kongo-south"><title>Orange River Colony · 1902–1910 CE</title><rect x="2086" y="500" width="228" height="94" rx="10" fill="#8ebfd1"/>
+<text class="map-label" style="font-size:19px" x="2200" y="543" text-anchor="middle">Orange River Colony</text>
+<text class="map-date" x="2200" y="579" text-anchor="middle">1902–1910</text></g>
+<g class="map-node" id="map-node-af-kongo-south-southafricamodern" data-history="southafricamodern" role="button" tabindex="0" aria-haspopup="dialog" aria-label="South Africa · union and republic, 1910 CE–present. Open Wikipedia." data-map="af-kongo-south"><title>South Africa · union and republic · 1910 CE–present</title><rect x="1673" y="780" width="228" height="94" rx="10" fill="#e8a4a1"/>
+<text class="map-label" style="font-size:21px" x="1787" y="823" text-anchor="middle">South Africa</text>
+<text class="map-date" x="1787" y="859" text-anchor="middle">1910–present</text></g>
+<g class="map-node" id="map-node-af-kongo-south-af-southafrica-democratic" data-history="af-southafrica-democratic" role="button" tabindex="0" aria-haspopup="dialog" aria-label="South Africa: democratic constitutional era, 1994 CE–present. Open Wikipedia." data-map="af-kongo-south"><title>South Africa: democratic constitutional era · 1994 CE–present</title><rect x="1673" y="1060" width="228" height="94" rx="10" fill="#87c5ae"/>
+<text class="map-label" style="font-size:18px" x="1787" y="1081" text-anchor="middle">South Africa:</text>
+<text class="map-label" style="font-size:18px" x="1787" y="1103" text-anchor="middle">democratic</text>
+<text class="map-label" style="font-size:18px" x="1787" y="1125" text-anchor="middle">constitutional era</text>
+<text class="map-date" x="1787" y="1139" text-anchor="middle">1994–present</text></g>
+<g class="map-node" id="map-node-af-kongo-south-colonialafrica" data-history="colonialafrica" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Africa · high colonial era, 1880 CE–1960 CE. Open Wikipedia." data-map="af-kongo-south"><title>Africa · high colonial era · 1880 CE–1960 CE</title><rect x="986" y="500" width="228" height="94" rx="10" fill="#91c399"/>
+<text class="map-label" style="font-size:21px" x="1100" y="543" text-anchor="middle">Colonial era</text>
+<text class="map-date" x="1100" y="579" text-anchor="middle">1880–1960</text></g>
+<g class="map-node" id="map-node-af-kongo-south-ghanamodern" data-history="ghanamodern" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Ghana · independent state, 1957 CE–present. Open Wikipedia." data-map="af-kongo-south"><title>Ghana · independent state · 1957 CE–present</title><rect x="963" y="780" width="228" height="94" rx="10" fill="#87c5ae"/>
+<text class="map-label" style="font-size:21px" x="1077" y="823" text-anchor="middle">Ghana</text>
+<text class="map-date" x="1077" y="859" text-anchor="middle">1957–present</text></g>
+<g class="map-node" id="map-node-af-kongo-south-kenya" data-history="kenya" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Kenya · independent state, 1963 CE–present. Open Wikipedia." data-map="af-kongo-south"><title>Kenya · independent state · 1963 CE–present</title><rect x="1238" y="780" width="228" height="94" rx="10" fill="#b8cf7a"/>
+<text class="map-label" style="font-size:21px" x="1352" y="823" text-anchor="middle">Kenya</text>
+<text class="map-date" x="1352" y="859" text-anchor="middle">1963–present</text></g>
+<text class="map-micro" x="1187" y="1275" text-anchor="middle">Continue this history on another map</text>
+<g class="map-continuation" id="map-jump-af-kongo-south-0" role="button" tabindex="0" data-map-target="af-horn-indian-ocean" data-map-history="cn-portugal" aria-label="Horn of Africa and the Indian Ocean coast"><rect x="151" y="1289" width="680" height="70" rx="8" fill="#edf3e5" stroke="#bdcdb1"/>
+<text x="491" y="1325" text-anchor="middle" style="font-size:16px">Horn of Africa and the Indian Ocean coast</text>
+</g>
+<g class="map-continuation" id="map-jump-af-kongo-south-1" role="button" tabindex="0" data-map-target="af-sahel-forest" data-map-history="colonialafrica" aria-label="Sahel, Yoruba cities and the Gold Coast"><rect x="847" y="1289" width="680" height="70" rx="8" fill="#edf3e5" stroke="#bdcdb1"/>
+<text x="1187" y="1325" text-anchor="middle" style="font-size:16px">Sahel, Yoruba cities and the Gold Coast</text>
+</g>
+<g class="map-continuation" id="map-jump-af-kongo-south-2" role="button" tabindex="0" data-map-target="af-nile-egypt" data-map-history="britishempire" aria-label="Nile Valley: Egypt, Nubia and changing rulers"><rect x="1543" y="1289" width="680" height="70" rx="8" fill="#edf3e5" stroke="#bdcdb1"/>
+<text x="1883" y="1325" text-anchor="middle" style="font-size:16px">Nile Valley: Egypt, Nubia and changing rulers</text>
+</g>
+<path d="M70 1395h20" stroke="#3b8274" stroke-width="3"/><text x="98" y="1400" style="font-size:14px;fill:#6b7b5e">Union</text>
+<path d="M516.8 1395h20" stroke="#b88636" stroke-width="3"/><text x="544.8" y="1400" style="font-size:14px;fill:#6b7b5e">Division</text>
+<path d="M963.6 1395h20" stroke="#aa6355" stroke-width="3"/><text x="991.6" y="1400" style="font-size:14px;fill:#6b7b5e">Conquest</text>
+<path d="M1410.4 1395h20" stroke="#638350" stroke-width="3"/><text x="1438.4" y="1400" style="font-size:14px;fill:#6b7b5e">Independence</text>
+<path d="M1857.2 1395h20" stroke="#5d7f9d" stroke-width="3"/><text x="1885.2" y="1400" style="font-size:14px;fill:#6b7b5e">Change of rule</text>
+<path d="M70 1421h20" stroke="#8b7297" stroke-width="3"/><text x="98" y="1426" style="font-size:14px;fill:#6b7b5e">Contact / influence</text>
+<path d="M516.8 1421h20" stroke="#9a8055" stroke-width="3"/><text x="544.8" y="1426" style="font-size:14px;fill:#6b7b5e">Colonial rule</text>
+<path d="M963.6 1421h20" stroke="#92917a" stroke-width="3"/><text x="991.6" y="1426" style="font-size:14px;fill:#6b7b5e">Context / overlap</text>
+<path d="M1410.4 1421h20" stroke="#7d8c6f" stroke-width="3"/><text x="1438.4" y="1426" style="font-size:14px;fill:#6b7b5e">Period transition</text>
+<text class="map-micro" x="1187" y="1462" text-anchor="middle">Selected connections · Layout is not a time, territory or ancestry scale</text></svg>

@@ -1,0 +1,1976 @@
+{
+  "sources": {
+    "ws_mesoearly": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "Mesopotamia, 8000–2000 BCE",
+      "url": "https://www.metmuseum.org/ru/toah/ht/02/wam.html"
+    },
+    "ws_oldbab": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "The Isin-Larsa and Old Babylonian Periods",
+      "url": "https://www.metmuseum.org/de/essays/the-isin-larsa-and-old-babylonian-periods-2004-1595-b-c"
+    },
+    "ws_kassite": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "The Middle Babylonian / Kassite Period",
+      "url": "https://www.metmuseum.org/ko/essays/the-middle-babylonian-kassite-period-ca-1595-1155-b-c-in-mesopotamia"
+    },
+    "ws_mesoiron": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "Mesopotamia, 1000 BCE–1 CE",
+      "url": "https://82nd-and-fifth.metmuseum.org/toah/ht/04/wam.html"
+    },
+    "ws_iranbronze": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "Iran, 2000–1000 BCE",
+      "url": "https://82nd-and-fifth.metmuseum.org/toah/ht/03/wai.html"
+    },
+    "ws_achaemenidadmin": {
+      "publisher": "Encyclopaedia Iranica",
+      "title": "Achaemenid Dynasty II: administration",
+      "url": "https://www.iranicaonline.org/articles/achaemenid-dynasty/achaemenid-dynasty-ii-the-empire/"
+    },
+    "ws_levantiron": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "The Eastern Mediterranean and Syria, 1000 BCE–1 CE",
+      "url": "https://www.metmuseum.org/fr/toah/ht/04/wae.html"
+    },
+    "ws_ilkhanid": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "The Art of the Ilkhanid Period",
+      "url": "https://www.metmuseum.org/de/essays/the-art-of-the-ilkhanid-period-1256-1353"
+    },
+    "ws_iraqmedieval": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "Iraq, 1000–1400 CE",
+      "url": "https://82nd-and-fifth.metmuseum.org/toah/ht/07/wam.html"
+    },
+    "ws_iraniron": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "Iran, 1000 BCE–1 CE",
+      "url": "https://82nd-and-fifth.metmuseum.org/toah/ht/04/wai.html"
+    },
+    "ws_media": {
+      "publisher": "Encyclopaedia Iranica",
+      "title": "Media: evidence and debate",
+      "url": "https://www.iranicaonline.org/articles/media/"
+    },
+    "ws_anatoliabronze": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "Anatolia and the Caucasus, 2000–1000 BCE",
+      "url": "https://82nd-and-fifth.metmuseum.org/toah/ht/03/waa.html"
+    },
+    "ws_anatoliairon": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "Anatolia and the Caucasus, 1000 BCE–1 CE",
+      "url": "https://82nd-and-fifth.metmuseum.org/toah/ht/04/waa.html"
+    },
+    "ws_neohittite": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "Neo-Hittite orthostat relief: lion-hunt scene",
+      "url": "https://www.metmuseum.org/art/collection/search/324008"
+    },
+    "ws_phoenicia": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "The Phoenicians, 1500–300 BCE",
+      "url": "https://www.metmuseum.org/ja/essays/the-phoenicians-1500-300-b-c"
+    },
+    "ws_samaria": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "Assyria to Iberia: exchanges across the Iron Age",
+      "url": "https://www.metmuseum.org/exhibitions/listings/2014/assyria-to-iberia"
+    },
+    "ws_hasmonean": {
+      "publisher": "University of Edinburgh / Benedikt Eckhardt",
+      "title": "The Hasmoneans and their rivals in Seleucid and Post-Seleucid Judea",
+      "url": "https://www.research.ed.ac.uk/en/publications/the-hasmoneans-and-their-rivals-in-seleucid-and-post-seleucid-jud/"
+    },
+    "ws_herod": {
+      "publisher": "British Museum",
+      "title": "Herod the Great: Roman-supported conquest of Jerusalem",
+      "url": "https://www.britishmuseum.org/collection/term/BIOG71600"
+    },
+    "ws_seljuq": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "The Art of the Seljuq Period in Anatolia",
+      "url": "https://www.metmuseum.org/ko/essays/the-art-of-the-seljuq-period-in-anatolia-1081-1307"
+    },
+    "ws_anatoliamedieval": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "Anatolia and the Caucasus, 1000–1400 CE",
+      "url": "https://www.metmuseum.org/pt/toah/ht/07/waa.html"
+    },
+    "ws_ottomanrise": {
+      "publisher": "Cambridge University Press / The Cambridge History of Turkey",
+      "title": "Anatolia, 1300–1451",
+      "url": "https://www.cambridge.org/core/books/abs/cambridge-history-of-turkey/anatolia-13001451/71691A45EAABF8F09B64EB28C1C680EB"
+    },
+    "ws_timur": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "The Art of the Timurid Period",
+      "url": "https://www.metmuseum.org/ko/essays/the-art-of-the-timurid-period-ca-1370-1507"
+    },
+    "ws_iraqmandate": {
+      "publisher": "The National Archives, UK",
+      "title": "Iraqi identities and journeys in the 1920s",
+      "url": "https://www.nationalarchives.gov.uk/iraqi-identities-and-journeys/"
+    },
+    "ws_iraqrepublic": {
+      "publisher": "Embassy of the Republic of Iraq",
+      "title": "Monarchy to Republic",
+      "url": "https://iraqiembassy.us/monarchy-to-republic/"
+    },
+    "ws_iraqcoup": {
+      "publisher": "US Department of State, Office of the Historian",
+      "title": "Editorial note: Iraq, 14 July 1958",
+      "url": "https://history.state.gov/historicaldocuments/frus1958-60v12/d20"
+    },
+    "ws_saudi": {
+      "publisher": "Saudipedia / Saudi Ministry of Media",
+      "title": "Timeline of the Unification of Saudi Arabia",
+      "url": "https://saudipedia.com/en/timeline-of-the-unification-of-saudi-arabia"
+    },
+    "ws_saudiname": {
+      "publisher": "Saudi Ministry of Foreign Affairs",
+      "title": "KSA History",
+      "url": "https://www.mofa.gov.sa/en/ksa/Pages/history.aspx"
+    },
+    "ws_mandates": {
+      "publisher": "United Nations",
+      "title": "The Origins and Evolution of the Palestine Problem, Part I",
+      "url": "https://www.un.org/unispal/document/auto-insert-199840/"
+    },
+    "ws_israeldeclaration": {
+      "publisher": "Harry S. Truman Presidential Library and Museum",
+      "title": "Statement Announcing Recognition of the State of Israel, 14 May 1948",
+      "url": "https://www.trumanlibrary.gov/library/public-papers/100/statement-president-announcing-recognition-state-israel"
+    },
+    "ws_ploformation": {
+      "publisher": "United Nations",
+      "title": "The Palestine Question: A Brief History",
+      "url": "https://www.un.org/unispal/document/auto-insert-206581/"
+    },
+    "ws_cholaregion": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "Southeast Asia, 1000–1400 CE",
+      "url": "https://82nd-and-fifth.metmuseum.org/toah/ht/07/sse.html"
+    },
+    "ws_palestinehistory": {
+      "publisher": "United Nations",
+      "title": "History of the Question of Palestine",
+      "url": "https://www.un.org/unispal/history/"
+    },
+    "ws_palestinedeclaration": {
+      "publisher": "United Nations General Assembly",
+      "title": "General Assembly resolution 43/177, 1988",
+      "url": "https://digitallibrary.un.org/record/53922?ln=en"
+    },
+    "ws_jordan": {
+      "publisher": "US Department of State, Office of the Historian",
+      "title": "Trans-Jordan and the United Nations, 1946",
+      "url": "https://history.state.gov/historicaldocuments/frus1946v01/d220"
+    },
+    "ws_syria": {
+      "publisher": "US Department of State, archived background note",
+      "title": "Syria: historical background, 2005",
+      "url": "https://2009-2017.state.gov/outofdate/bgn/syria/54661.htm"
+    },
+    "ws_lebanon": {
+      "publisher": "US Department of State, archived background note",
+      "title": "Lebanon: historical background, 2002",
+      "url": "https://2009-2017.state.gov/outofdate/bgn/lebanon/26329.htm"
+    },
+    "ws_indusclimate": {
+      "publisher": "Giosan et al., PNAS / Harappa research archive",
+      "title": "Fluvial Landscapes of the Harappan Civilization",
+      "url": "https://www.harappa.com/content/fluvial-landscapes-harappan-civilization"
+    },
+    "ws_vedic": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "South Asia, 2000–1000 BCE",
+      "url": "https://82nd-and-fifth.metmuseum.org/toah/ht/03/ssa.html"
+    },
+    "ws_maurya": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "South Asia, 1000 BCE–1 CE",
+      "url": "https://www.metmuseum.org/fr/toah/ht/04/ssa"
+    },
+    "ws_kushangupta": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "South Asia, 1–500 CE",
+      "url": "https://www.metmuseum.org/es/toah/ht/05/ssa"
+    },
+    "ws_kushan": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "Kushan Empire",
+      "url": "https://www.metmuseum.org/pt/essays/kushan-empire-ca-second-century-b-c-third-century-a-d"
+    },
+    "ws_postgupta": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "South Asia: North, 500–1000 CE",
+      "url": "https://www.metmuseum.org/ko/toah/ht/06/ssn"
+    },
+    "ws_southmedieval": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "South Asia: South, 500–1000 CE",
+      "url": "https://www.metmuseum.org/toah/ht/06/sss.html"
+    },
+    "ws_northmedieval": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "South Asia: North, 1000–1400 CE",
+      "url": "https://www.metmuseum.org/pt/toah/ht/07/ssn"
+    },
+    "ws_chola": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "South Asia: South, 1000–1400 CE",
+      "url": "https://82nd-and-fifth.metmuseum.org/toah/ht/07/sss.html"
+    },
+    "ws_vijayanagara": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "Sultans of Deccan India: exhibition galleries",
+      "url": "https://www.metmuseum.org/exhibitions/listings/2015/deccan-sultans/exhibition-galleries"
+    },
+    "ws_mughal": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "South Asia, 1400–1600 CE",
+      "url": "https://www.metmuseum.org/de/toah/ht/08/ssa"
+    },
+    "ws_iranmodern": {
+      "publisher": "Library of Congress, Federal Research Division",
+      "title": "Iran: a country study, Pahlavi rule",
+      "url": "https://tile.loc.gov/storage-services/master/frd/frdcstdy/ir/irancountrystudy00curt_0/irancountrystudy00curt_0.pdf"
+    },
+    "ws_afghancrs": {
+      "publisher": "Congressional Research Service",
+      "title": "Afghanistan: Background and U.S. Policy, Appendix A",
+      "url": "https://www.congress.gov/crs_external_products/R/PDF/R45818/R45818.2.pdf"
+    },
+    "ws_afghan1919": {
+      "publisher": "National Army Museum",
+      "title": "Third Afghan War and the Revolt in Waziristan",
+      "url": "https://www.nam.ac.uk/explore/third-afghan-war-and-revolt-waziristan"
+    },
+    "ws_afghan2021": {
+      "publisher": "United Nations Assistance Mission in Afghanistan",
+      "title": "UNAMA report: Afghanistan after the August 2021 takeover",
+      "url": "https://afghanistan.un.org/en/191046-un-releases-report-human-rights-afghanistan"
+    }
+  },
+  "extras": [
+    {
+      "id": "ws-herodian-judea",
+      "title": "Herodian Judea",
+      "region": "westasia",
+      "dates": "37 BCE–6 CE · selected phase",
+      "wikiTitle": "Herodian kingdom",
+      "location": "Southern Levant",
+      "note": "A Roman client kingdom; dates combine Herod’s kingdom and Archelaus’s reduced ethnarchy.",
+      "sources": [
+        "ws_herod"
+      ]
+    },
+    {
+      "id": "ws-anatolian-beyliks",
+      "title": "Anatolian beyliks",
+      "region": "westasia",
+      "dates": "13th–15th centuries · selected polities",
+      "wikiTitle": "Anatolian beyliks",
+      "location": "Anatolia",
+      "note": "Many rival principalities emerged in a landscape of weakening Seljuq, Mongol, and Byzantine control.",
+      "sources": [
+        "ws_anatoliamedieval",
+        "ws_ottomanrise"
+      ]
+    },
+    {
+      "id": "ws-british-iraq",
+      "title": "British occupation & mandate project in Iraq",
+      "region": "westasia",
+      "dates": "1914–1932 · changing arrangements",
+      "wikiTitle": "Mandatory Iraq",
+      "location": "Mesopotamia / Iraq",
+      "note": "Wartime occupation, a mandate project, and treaty supervision overlapped with the monarchy established in 1921.",
+      "sources": [
+        "ws_iraqmandate",
+        "ws_iraqrepublic"
+      ]
+    },
+    {
+      "id": "ws-french-levant",
+      "title": "French mandate: Syria & Lebanon",
+      "region": "westasia",
+      "dates": "1920s–1940s · multiple administrations",
+      "wikiTitle": "Mandate for Syria and the Lebanon",
+      "location": "Eastern Mediterranean",
+      "note": "French rule created and reorganized several administrations, not one enduring national state.",
+      "sources": [
+        "ws_syria",
+        "ws_lebanon"
+      ]
+    },
+    {
+      "id": "ws-lebanon",
+      "title": "Lebanon · independent state",
+      "region": "westasia",
+      "dates": "1943–present",
+      "wikiTitle": "Lebanon",
+      "location": "Eastern Mediterranean",
+      "note": "Independence in 1943 and final French troop withdrawal in 1946 were separate milestones.",
+      "sources": [
+        "ws_lebanon"
+      ]
+    },
+    {
+      "id": "ws-syria",
+      "title": "Syria · independent state",
+      "region": "westasia",
+      "dates": "1940s–present",
+      "wikiTitle": "Syria",
+      "location": "Eastern Mediterranean",
+      "note": "Independence involved wartime recognition and transfer of power followed by French withdrawal in 1946.",
+      "sources": [
+        "ws_syria"
+      ]
+    },
+    {
+      "id": "ws-hejaz-nejd",
+      "title": "Kingdom of Hejaz & Nejd",
+      "region": "westasia",
+      "dates": "1926–1932",
+      "wikiTitle": "Kingdom of Hejaz and Nejd",
+      "location": "Arabian Peninsula",
+      "note": "Ibn Saud’s dominions followed conquest and consolidation of distinct regions; this was not all Arabia.",
+      "sources": [
+        "ws_saudi",
+        "ws_saudiname"
+      ]
+    },
+    {
+      "id": "ws-mandate-palestine",
+      "title": "British Mandate for Palestine",
+      "region": "westasia",
+      "dates": "1920s–1948",
+      "wikiTitle": "Mandatory Palestine",
+      "location": "Eastern Mediterranean · west of the Jordan River",
+      "note": "British administration followed Ottoman defeat; Transjordan was administered separately.",
+      "sources": [
+        "ws_mandates"
+      ]
+    },
+    {
+      "id": "ws-transjordan",
+      "title": "Emirate of Transjordan",
+      "region": "westasia",
+      "dates": "1921–1946",
+      "wikiTitle": "Emirate of Transjordan",
+      "location": "East of the Jordan River",
+      "note": "An autonomous Arab administration within the mandate framework; its provisions differed from Palestine west of the Jordan.",
+      "sources": [
+        "ws_jordan"
+      ]
+    },
+    {
+      "id": "ws-jordan",
+      "title": "Jordan · independent kingdom",
+      "region": "westasia",
+      "dates": "1946–present",
+      "wikiTitle": "Jordan",
+      "location": "East of the Jordan River",
+      "note": "Independent as Transjordan in 1946, later renamed Jordan; borders and territorial claims changed.",
+      "sources": [
+        "ws_jordan"
+      ]
+    },
+    {
+      "id": "ws-plo",
+      "title": "Palestine Liberation Organization",
+      "region": "westasia",
+      "dates": "1964–present",
+      "wikiTitle": "Palestine Liberation Organization",
+      "location": "Palestinian national movement",
+      "note": "A national representative organization, not a country or an unchanged government.",
+      "sources": [
+        "ws_ploformation"
+      ]
+    },
+    {
+      "id": "ws-deccan-sultanates",
+      "title": "Deccan sultanates",
+      "region": "southasia",
+      "dates": "late 15th–17th centuries · several states",
+      "wikiTitle": "Deccan sultanates",
+      "location": "Deccan Plateau",
+      "note": "Five major sultanates succeeded Bahmanid fragmentation; their political relations changed repeatedly.",
+      "sources": [
+        "ws_vijayanagara"
+      ]
+    },
+    {
+      "id": "ws-durrani",
+      "title": "Durrani Empire",
+      "region": "southasia",
+      "dates": "1747–1823 · principal phase",
+      "wikiTitle": "Durrani Empire",
+      "location": "Afghanistan and adjoining regions",
+      "note": "Durrani rule had regional continuations and a British-backed restoration after this principal phase.",
+      "sources": [
+        "ws_afghancrs"
+      ]
+    },
+    {
+      "id": "ws-barakzai",
+      "title": "Afghanistan · Barakzai rule",
+      "region": "southasia",
+      "dates": "1826–1973 · interrupted",
+      "wikiTitle": "Barakzai dynasty",
+      "location": "Afghanistan",
+      "note": "Emirs and kings ruled with interruptions; territory and foreign-policy independence changed.",
+      "sources": [
+        "ws_afghancrs"
+      ]
+    },
+    {
+      "id": "ws-afghanistan-later",
+      "title": "Afghanistan · later regimes",
+      "region": "southasia",
+      "dates": "1973–present · selected eras",
+      "wikiTitle": "History of Afghanistan",
+      "location": "Afghanistan",
+      "note": "Groups republican, communist, wartime, and Taliban governments; these are distinct regimes, including Taliban takeover in 2021.",
+      "sources": [
+        "ws_afghancrs",
+        "ws_afghan2021"
+      ]
+    }
+  ],
+  "maps": [
+    {
+      "id": "mesopotamia-iran",
+      "title": "Mesopotamia & early Iran",
+      "region": "westasia",
+      "nodes": [
+        {
+          "id": "sumer"
+        },
+        {
+          "id": "uruk"
+        },
+        {
+          "id": "mesop"
+        },
+        {
+          "id": "akkad"
+        },
+        {
+          "id": "oldbab"
+        },
+        {
+          "id": "hittite"
+        },
+        {
+          "id": "kassite"
+        },
+        {
+          "id": "middle-assyrian"
+        },
+        {
+          "id": "elam"
+        },
+        {
+          "id": "assyria"
+        },
+        {
+          "id": "medes"
+        },
+        {
+          "id": "neo-babylonian"
+        },
+        {
+          "id": "early-iranian-peoples"
+        },
+        {
+          "id": "persia"
+        }
+      ],
+      "connections": [
+        {
+          "id": "ws-sumer-uruk",
+          "from": [
+            "sumer"
+          ],
+          "to": [
+            "uruk"
+          ],
+          "type": "contact",
+          "label": "Urban culture",
+          "dates": "4th millennium BCE",
+          "summary": "Uruk was a major center within the wider Sumerian urban landscape.",
+          "note": "This is cultural overlap, not one state succeeding another.",
+          "sources": [
+            "ws_mesoearly"
+          ]
+        },
+        {
+          "id": "ws-uruk-citystates",
+          "from": [
+            "uruk"
+          ],
+          "to": [
+            "mesop"
+          ],
+          "type": "continuation",
+          "label": "Later city-state period",
+          "dates": "c. 3000–2900 BCE",
+          "summary": "The Uruk urban phase preceded the Early Dynastic landscape of competing cities.",
+          "note": "Archaeological periods overlap locally; Uruk itself continued to exist.",
+          "sources": [
+            "ws_mesoearly"
+          ]
+        },
+        {
+          "id": "ws-sargon-conquest",
+          "from": [
+            "mesop"
+          ],
+          "to": [
+            "akkad"
+          ],
+          "type": "conquest",
+          "label": "Sargon’s conquests",
+          "dates": "c. 24th century BCE",
+          "summary": "Sargon brought numerous Mesopotamian city-states under Akkadian imperial rule.",
+          "note": "Conquest did not erase Sumerian cities or language.",
+          "sources": [
+            "ws_mesoearly"
+          ]
+        },
+        {
+          "id": "ws-sumer-babylon",
+          "from": [
+            "sumer"
+          ],
+          "to": [
+            "oldbab"
+          ],
+          "type": "contact",
+          "label": "Scribal inheritance",
+          "dates": "early 2nd millennium BCE",
+          "summary": "Old Babylonian scribes copied and transmitted Sumerian literature.",
+          "note": "A cultural relationship spanning intervening dynasties, not immediate political succession.",
+          "sources": [
+            "ws_oldbab"
+          ]
+        },
+        {
+          "id": "ws-hittite-babylon",
+          "from": [
+            "hittite"
+          ],
+          "to": [
+            "oldbab"
+          ],
+          "type": "conquest",
+          "label": "Sack of Babylon",
+          "dates": "c. 1595 BCE",
+          "summary": "A Hittite raid ended Babylon’s first dynasty.",
+          "note": "The attackers withdrew; this was not permanent Hittite rule of Babylonia.",
+          "sources": [
+            "ws_oldbab"
+          ]
+        },
+        {
+          "id": "ws-kassite-rise",
+          "from": [
+            "oldbab"
+          ],
+          "to": [
+            "kassite"
+          ],
+          "type": "continuation",
+          "label": "Kassite consolidation",
+          "dates": "after c. 1595 BCE",
+          "summary": "Kassite rulers gradually consolidated Babylonia after the first dynasty’s collapse.",
+          "note": "The transition is obscure and included rival southern rulers.",
+          "sources": [
+            "ws_kassite"
+          ]
+        },
+        {
+          "id": "ws-assyria-kassites",
+          "from": [
+            "middle-assyrian"
+          ],
+          "to": [
+            "kassite"
+          ],
+          "type": "conquest",
+          "label": "Assyrian occupation",
+          "dates": "c. 1225 BCE",
+          "summary": "Tukulti-Ninurta I conquered Babylon during Kassite rule.",
+          "note": "The Kassite dynasty survived this intervention.",
+          "sources": [
+            "ws_kassite"
+          ]
+        },
+        {
+          "id": "ws-elam-kassites",
+          "from": [
+            "elam"
+          ],
+          "to": [
+            "kassite"
+          ],
+          "type": "conquest",
+          "label": "Elamite campaigns",
+          "dates": "c. 1155 BCE",
+          "summary": "Elamite attacks brought the Kassite dynasty to an end.",
+          "note": "Subsequent Babylonian dynasties, not lasting Elamite annexation, followed.",
+          "sources": [
+            "ws_kassite",
+            "ws_iranbronze"
+          ]
+        },
+        {
+          "id": "ws-assyrian-periods",
+          "from": [
+            "middle-assyrian"
+          ],
+          "to": [
+            "assyria"
+          ],
+          "type": "continuation",
+          "label": "Renewed expansion",
+          "dates": "c. 911 BCE onward",
+          "summary": "Later Assyrian kings renewed expansion after a period of contraction.",
+          "note": "Middle and Neo-Assyrian are modern period labels, not a single dated founding event.",
+          "sources": [
+            "ws_mesoiron"
+          ]
+        },
+        {
+          "id": "ws-assyria-babylonia",
+          "from": [
+            "assyria"
+          ],
+          "to": [
+            "medes",
+            "neo-babylonian"
+          ],
+          "type": "conquest",
+          "label": "Fall of Nineveh",
+          "dates": "612 BCE",
+          "summary": "Babylonian and Median forces destroyed the Assyrian capital of Nineveh.",
+          "note": "Assyrian resistance continued after 612; neither the people nor their culture vanished.",
+          "sources": [
+            "ws_mesoiron"
+          ]
+        },
+        {
+          "id": "ws-iranian-medes",
+          "from": [
+            "early-iranian-peoples"
+          ],
+          "to": [
+            "medes"
+          ],
+          "type": "contact",
+          "label": "Iranian languages",
+          "dates": "9th–6th centuries BCE",
+          "summary": "The Medes were among the Iranian-speaking groups recorded in western Iran.",
+          "note": "A linguistic category is not a unified ancestral empire.",
+          "sources": [
+            "ws_iraniron",
+            "ws_media"
+          ]
+        },
+        {
+          "id": "ws-medes-persia",
+          "from": [
+            "medes"
+          ],
+          "to": [
+            "persia"
+          ],
+          "type": "conquest",
+          "label": "Cyrus defeats Astyages",
+          "dates": "c. 550 BCE",
+          "summary": "Cyrus overthrew the Median ruler and incorporated Media into his growing empire.",
+          "note": "The extent and organization of an earlier Median empire remain debated.",
+          "sources": [
+            "ws_media",
+            "ws_mesoiron"
+          ]
+        },
+        {
+          "id": "ws-babylon-persia",
+          "from": [
+            "neo-babylonian"
+          ],
+          "to": [
+            "persia"
+          ],
+          "type": "conquest",
+          "label": "Capture of Babylon",
+          "dates": "539 BCE",
+          "summary": "Cyrus captured Babylon and incorporated Babylonia into Achaemenid rule.",
+          "note": "Local institutions and traditions continued under new imperial government.",
+          "sources": [
+            "ws_mesoiron"
+          ]
+        },
+        {
+          "id": "ws-elam-persia",
+          "from": [
+            "elam"
+          ],
+          "to": [
+            "persia"
+          ],
+          "type": "contact",
+          "label": "Susa & administration",
+          "dates": "6th century BCE onward",
+          "summary": "Susa and Elamite administrative traditions became important within Achaemenid government.",
+          "note": "Elam’s diverse earlier kingdoms are not one dynasty directly replaced on a single date.",
+          "sources": [
+            "ws_achaemenidadmin"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ancient-anatolia-levant",
+      "title": "Ancient Anatolia & Levant",
+      "region": "westasia",
+      "nodes": [
+        {
+          "id": "hittite"
+        },
+        {
+          "id": "neo-hittite"
+        },
+        {
+          "id": "assyria"
+        },
+        {
+          "id": "lydia"
+        },
+        {
+          "id": "persia"
+        },
+        {
+          "id": "phoenicia"
+        },
+        {
+          "id": "israel-samaria"
+        },
+        {
+          "id": "judah"
+        },
+        {
+          "id": "neo-babylonian"
+        },
+        {
+          "id": "cn-seleucid"
+        },
+        {
+          "id": "hasmonean-judea"
+        },
+        {
+          "id": "ws-herodian-judea"
+        },
+        {
+          "id": "romanrepublic"
+        }
+      ],
+      "connections": [
+        {
+          "id": "ws-hittite-neohittite",
+          "from": [
+            "hittite"
+          ],
+          "to": [
+            "neo-hittite"
+          ],
+          "type": "division",
+          "label": "Regional successor states",
+          "dates": "after c. 1180 BCE",
+          "summary": "Independent southeastern states preserved some Hittite dynastic and cultural traditions after the empire fell.",
+          "note": "These included Luwian and Aramaean polities, not a single restored Hittite empire.",
+          "sources": [
+            "ws_anatoliabronze",
+            "ws_neohittite"
+          ]
+        },
+        {
+          "id": "ws-neohittite-assyria",
+          "from": [
+            "neo-hittite"
+          ],
+          "to": [
+            "assyria"
+          ],
+          "type": "conquest",
+          "label": "Assyrian expansion",
+          "dates": "9th–8th centuries BCE",
+          "summary": "Assyrian expansion progressively absorbed Syro-Hittite kingdoms.",
+          "note": "Different kingdoms were conquered at different times.",
+          "sources": [
+            "ws_neohittite",
+            "ws_anatoliairon"
+          ]
+        },
+        {
+          "id": "ws-lydia-persia",
+          "from": [
+            "lydia"
+          ],
+          "to": [
+            "persia"
+          ],
+          "type": "conquest",
+          "label": "Fall of Croesus",
+          "dates": "c. 547/546 BCE",
+          "summary": "Cyrus defeated Lydia and brought western Anatolia under Persian rule.",
+          "note": "The conventional dating varies slightly across chronologies.",
+          "sources": [
+            "ws_anatoliairon"
+          ]
+        },
+        {
+          "id": "ws-phoenician-samaria",
+          "from": [
+            "phoenicia"
+          ],
+          "to": [
+            "israel-samaria"
+          ],
+          "type": "contact",
+          "label": "Artistic exchange",
+          "dates": "9th–8th centuries BCE",
+          "summary": "Samaria’s ivories show exchanges with Phoenician and Syrian neighbors.",
+          "note": "Shared artistic forms do not prove a shared political identity.",
+          "sources": [
+            "ws_samaria"
+          ]
+        },
+        {
+          "id": "ws-samaria-assyria",
+          "from": [
+            "israel-samaria"
+          ],
+          "to": [
+            "assyria"
+          ],
+          "type": "conquest",
+          "label": "Capture of Samaria",
+          "dates": "722/721 BCE",
+          "summary": "Assyrian conquest ended the northern kingdom and deported part of its population.",
+          "note": "People remained in the region; this was not the disappearance of all Israelites.",
+          "sources": [
+            "ws_mesoiron"
+          ]
+        },
+        {
+          "id": "ws-judah-babylon",
+          "from": [
+            "judah"
+          ],
+          "to": [
+            "neo-babylonian"
+          ],
+          "type": "conquest",
+          "label": "Jerusalem destroyed",
+          "dates": "587/586 BCE",
+          "summary": "Babylonian forces destroyed Jerusalem’s temple and deported part of Judah’s population.",
+          "note": "The exiles were not all inhabitants, and Jewish history continued in several places.",
+          "sources": [
+            "ws_mesoiron"
+          ]
+        },
+        {
+          "id": "ws-phoenician-empire",
+          "from": [
+            "phoenicia"
+          ],
+          "to": [
+            "persia"
+          ],
+          "type": "colonial",
+          "label": "Persian imperial rule",
+          "dates": "6th–4th centuries BCE",
+          "summary": "Phoenician cities came under Achaemenid rule while maintaining important maritime roles.",
+          "note": "Their earlier city-state independence was already constrained by several empires.",
+          "sources": [
+            "ws_levantiron"
+          ]
+        },
+        {
+          "id": "ws-seleucid-hasmonean",
+          "from": [
+            "cn-seleucid"
+          ],
+          "to": [
+            "hasmonean-judea"
+          ],
+          "type": "independence",
+          "label": "Hasmonean autonomy",
+          "dates": "2nd century BCE",
+          "summary": "Hasmonean rulers gained autonomy amid Seleucid conflict and declining control of Judea.",
+          "note": "The revolt and independence were processes involving competing local factions.",
+          "sources": [
+            "ws_hasmonean"
+          ]
+        },
+        {
+          "id": "ws-hasmonean-herod",
+          "from": [
+            "hasmonean-judea"
+          ],
+          "to": [
+            "ws-herodian-judea"
+          ],
+          "type": "conquest",
+          "label": "Roman-backed Herod",
+          "dates": "37 BCE",
+          "summary": "Herod captured Jerusalem with Roman support and displaced the last Hasmonean ruler.",
+          "note": "Roman involvement in Judea had begun earlier; Herod ruled as a client king.",
+          "sources": [
+            "ws_herod"
+          ]
+        },
+        {
+          "id": "ws-rome-herod",
+          "from": [
+            "romanrepublic"
+          ],
+          "to": [
+            "ws-herodian-judea"
+          ],
+          "type": "contact",
+          "label": "Roman patronage",
+          "dates": "40–37 BCE",
+          "summary": "Roman political and military support enabled Herod’s kingship.",
+          "note": "This relationship concerns Roman patronage, not an equal alliance.",
+          "sources": [
+            "ws_herod"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "seljuqs-anatolia",
+      "title": "Seljuqs, Anatolia & Iran",
+      "region": "westasia",
+      "nodes": [
+        {
+          "id": "abbasid"
+        },
+        {
+          "id": "seljuq"
+        },
+        {
+          "id": "byzantium"
+        },
+        {
+          "id": "sultanate-rum"
+        },
+        {
+          "id": "mongol"
+        },
+        {
+          "id": "ws-anatolian-beyliks"
+        },
+        {
+          "id": "ottoman"
+        },
+        {
+          "id": "cn-ilkhanate"
+        },
+        {
+          "id": "post-abbasid-dynasties"
+        },
+        {
+          "id": "timurid"
+        },
+        {
+          "id": "qajar"
+        },
+        {
+          "id": "iranmodern"
+        }
+      ],
+      "connections": [
+        {
+          "id": "ws-seljuq-baghdad",
+          "from": [
+            "abbasid"
+          ],
+          "to": [
+            "seljuq"
+          ],
+          "type": "conquest",
+          "label": "Seljuqs take Baghdad",
+          "dates": "1055",
+          "summary": "Seljuq rulers took Baghdad and exercised military power alongside the Abbasid caliphate.",
+          "note": "The caliphate continued; the Seljuqs did not become a replacement caliphate.",
+          "sources": [
+            "ws_seljuq"
+          ]
+        },
+        {
+          "id": "ws-seljuq-byzantium",
+          "from": [
+            "seljuq"
+          ],
+          "to": [
+            "byzantium"
+          ],
+          "type": "conquest",
+          "label": "Battle of Manzikert",
+          "dates": "1071",
+          "summary": "Seljuq forces defeated the Byzantine army at Manzikert, accelerating changes across Anatolia.",
+          "note": "Byzantium survived; settlement and political transformation took decades.",
+          "sources": [
+            "ws_seljuq"
+          ]
+        },
+        {
+          "id": "ws-seljuq-rum",
+          "from": [
+            "seljuq"
+          ],
+          "to": [
+            "sultanate-rum"
+          ],
+          "type": "division",
+          "label": "Anatolian branch",
+          "dates": "late 11th century",
+          "summary": "A Seljuq branch established the Sultanate of Rûm in Anatolia.",
+          "note": "Related dynastic branches overlapped rather than splitting in a single treaty.",
+          "sources": [
+            "ws_seljuq"
+          ]
+        },
+        {
+          "id": "ws-mongol-rum",
+          "from": [
+            "mongol"
+          ],
+          "to": [
+            "sultanate-rum"
+          ],
+          "type": "conquest",
+          "label": "Köse Dağ & overlordship",
+          "dates": "1243 onward",
+          "summary": "Mongol victory at Köse Dağ reduced the Sultanate of Rûm to dependent status.",
+          "note": "The Ilkhanate was established later; the 1243 attackers were a Mongol imperial army.",
+          "sources": [
+            "ws_seljuq"
+          ]
+        },
+        {
+          "id": "ws-rum-beyliks",
+          "from": [
+            "sultanate-rum"
+          ],
+          "to": [
+            "ws-anatolian-beyliks"
+          ],
+          "type": "division",
+          "label": "Regional principalities",
+          "dates": "13th–14th centuries",
+          "summary": "Declining Seljuq authority accompanied the growth of rival Anatolian principalities.",
+          "note": "Not every beylik originated in the same way or at the same time.",
+          "sources": [
+            "ws_anatoliamedieval"
+          ]
+        },
+        {
+          "id": "ws-beylik-ottoman",
+          "from": [
+            "ws-anatolian-beyliks"
+          ],
+          "to": [
+            "ottoman"
+          ],
+          "type": "continuation",
+          "label": "Ottoman expansion",
+          "dates": "c. 1300–15th century",
+          "summary": "The Ottoman principality grew among these rivals and progressively absorbed many of them.",
+          "note": "The Ottomans were one beylik among several, not the automatic successor to all Seljuq lands.",
+          "sources": [
+            "ws_ottomanrise",
+            "ws_anatoliamedieval"
+          ]
+        },
+        {
+          "id": "ws-regional-ilkhanate",
+          "from": [
+            "cn-ilkhanate"
+          ],
+          "to": [
+            "post-abbasid-dynasties"
+          ],
+          "type": "contact",
+          "label": "Regional dynastic context",
+          "dates": "1258–1501",
+          "summary": "The Ilkhanate and later regional dynasties form parts of this broad Iran–Iraq period.",
+          "note": "This umbrella entry is not a separate successor state.",
+          "sources": [
+            "ws_ilkhanid",
+            "ws_iraqmedieval"
+          ]
+        },
+        {
+          "id": "ws-regional-timur",
+          "from": [
+            "post-abbasid-dynasties"
+          ],
+          "to": [
+            "timurid"
+          ],
+          "type": "conquest",
+          "label": "Timur’s campaigns",
+          "dates": "late 14th century",
+          "summary": "Timur conquered much of Iran and Iraq amid competing regional dynasties.",
+          "note": "The umbrella period includes multiple polities and overlapping zones of rule.",
+          "sources": [
+            "ws_timur"
+          ]
+        },
+        {
+          "id": "ws-qajar-modern",
+          "from": [
+            "qajar"
+          ],
+          "to": [
+            "iranmodern"
+          ],
+          "type": "continuation",
+          "label": "Pahlavi dynasty",
+          "dates": "1925",
+          "summary": "The Pahlavi dynasty replaced Qajar rule in Iran.",
+          "note": "The endpoint groups Pahlavi and later republican eras; the dedicated Iran map distinguishes 1979.",
+          "sources": [
+            "ws_iranmodern"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ottoman-arab-states",
+      "title": "Ottoman lands & Arab states",
+      "region": "westasia",
+      "nodes": [
+        {
+          "id": "ottoman"
+        },
+        {
+          "id": "ws-british-iraq"
+        },
+        {
+          "id": "iraq-kingdom"
+        },
+        {
+          "id": "iraqmodern"
+        },
+        {
+          "id": "ws-french-levant"
+        },
+        {
+          "id": "ws-syria"
+        },
+        {
+          "id": "ws-lebanon"
+        },
+        {
+          "id": "ws-hejaz-nejd"
+        },
+        {
+          "id": "saudiarabia"
+        }
+      ],
+      "connections": [
+        {
+          "id": "ws-ottoman-iraq",
+          "from": [
+            "ottoman"
+          ],
+          "to": [
+            "ws-british-iraq"
+          ],
+          "type": "colonial",
+          "label": "British wartime occupation",
+          "dates": "1914–1920s",
+          "summary": "British conquest of Ottoman Mesopotamia was followed by a mandate project and treaty arrangements.",
+          "note": "Postwar borders and institutions were contested, including during the Iraqi revolt of 1920.",
+          "sources": [
+            "ws_iraqmandate"
+          ]
+        },
+        {
+          "id": "ws-iraq-monarchy",
+          "from": [
+            "ws-british-iraq"
+          ],
+          "to": [
+            "iraq-kingdom"
+          ],
+          "type": "continuation",
+          "label": "Faisal’s monarchy",
+          "dates": "1921; independence 1932",
+          "summary": "Faisal became king in 1921 while British supervision continued until formal independence in 1932.",
+          "note": "The monarchy overlapped with British control rather than beginning after it ended.",
+          "sources": [
+            "ws_iraqrepublic"
+          ]
+        },
+        {
+          "id": "ws-iraq-coup",
+          "from": [
+            "iraq-kingdom"
+          ],
+          "to": [
+            "iraqmodern"
+          ],
+          "type": "continuation",
+          "label": "Republican coup",
+          "dates": "14 July 1958",
+          "summary": "Army officers overthrew the Hashemite monarchy and proclaimed a republican government.",
+          "note": "Later republican regimes are grouped by the timeline, not treated as one unchanged government.",
+          "sources": [
+            "ws_iraqcoup"
+          ]
+        },
+        {
+          "id": "ws-ottoman-french-levant",
+          "from": [
+            "ottoman"
+          ],
+          "to": [
+            "ws-french-levant"
+          ],
+          "type": "colonial",
+          "label": "French mandate rule",
+          "dates": "1918–1923",
+          "summary": "After Ottoman defeat and contested postwar settlement, Syria and Lebanon came under French mandate rule.",
+          "note": "This schematic omits the short-lived Arab Kingdom of Syria and several mandate subdivisions.",
+          "sources": [
+            "ws_syria",
+            "ws_lebanon"
+          ]
+        },
+        {
+          "id": "ws-levant-independence",
+          "from": [
+            "ws-french-levant"
+          ],
+          "to": [
+            "ws-syria",
+            "ws-lebanon"
+          ],
+          "type": "independence",
+          "label": "Independence & withdrawal",
+          "dates": "1943–1946",
+          "summary": "Syria and Lebanon achieved independence through separate processes, completed by French troop withdrawal.",
+          "note": "Lebanon commemorates 1943; Syria commemorates the 1946 evacuation.",
+          "sources": [
+            "ws_syria",
+            "ws_lebanon"
+          ]
+        },
+        {
+          "id": "ws-ottoman-saudi",
+          "from": [
+            "ottoman"
+          ],
+          "to": [
+            "ws-hejaz-nejd"
+          ],
+          "type": "conquest",
+          "label": "Territorial consolidation",
+          "dates": "1913–1920s",
+          "summary": "Ibn Saud’s expansion included taking al-Ahsa from Ottoman forces before later consolidating his dominions.",
+          "note": "Not all Saudi territories had been directly administered by the Ottomans.",
+          "sources": [
+            "ws_saudi"
+          ]
+        },
+        {
+          "id": "ws-saudi-name",
+          "from": [
+            "ws-hejaz-nejd"
+          ],
+          "to": [
+            "saudiarabia"
+          ],
+          "type": "union",
+          "label": "Kingdom proclaimed",
+          "dates": "23 September 1932",
+          "summary": "The consolidated dominions were proclaimed the Kingdom of Saudi Arabia.",
+          "note": "The proclamation followed years of conquest and administration; it was not a union of all Arabian states.",
+          "sources": [
+            "ws_saudiname"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "modern-levant",
+      "title": "Mandates, Israel & Palestine",
+      "region": "westasia",
+      "nodes": [
+        {
+          "id": "ottoman"
+        },
+        {
+          "id": "ws-mandate-palestine"
+        },
+        {
+          "id": "ws-transjordan"
+        },
+        {
+          "id": "ws-jordan"
+        },
+        {
+          "id": "israel"
+        },
+        {
+          "id": "ws-plo"
+        },
+        {
+          "id": "palestine"
+        }
+      ],
+      "connections": [
+        {
+          "id": "ws-ottoman-palestine",
+          "from": [
+            "ottoman"
+          ],
+          "to": [
+            "ws-mandate-palestine"
+          ],
+          "type": "colonial",
+          "label": "British administration",
+          "dates": "1917–1923",
+          "summary": "British military conquest was followed by League of Nations mandate administration in Palestine.",
+          "note": "The population’s political rights and future were contested; this was not a consensual union.",
+          "sources": [
+            "ws_mandates"
+          ]
+        },
+        {
+          "id": "ws-palestine-transjordan",
+          "from": [
+            "ws-mandate-palestine"
+          ],
+          "to": [
+            "ws-transjordan"
+          ],
+          "type": "contact",
+          "label": "Separate administrations",
+          "dates": "1921–1922",
+          "summary": "Transjordan developed under a separate Arab administration within the wider mandate framework.",
+          "note": "The map’s Palestine node denotes territory west of the Jordan, not a claim that the emirate was carved from an already independent state.",
+          "sources": [
+            "ws_jordan"
+          ]
+        },
+        {
+          "id": "ws-transjordan-independence",
+          "from": [
+            "ws-transjordan"
+          ],
+          "to": [
+            "ws-jordan"
+          ],
+          "type": "independence",
+          "label": "Independent kingdom",
+          "dates": "1946",
+          "summary": "British recognition of Transjordan’s independence ended the mandate relationship there.",
+          "note": "Recognition, treaty effect, and the kingdom’s proclamation had different dates within 1946.",
+          "sources": [
+            "ws_jordan"
+          ]
+        },
+        {
+          "id": "ws-israel-declaration",
+          "from": [
+            "ws-mandate-palestine"
+          ],
+          "to": [
+            "israel"
+          ],
+          "type": "independence",
+          "label": "Israel proclaimed",
+          "dates": "14 May 1948",
+          "summary": "Israel was proclaimed as British rule ended, amid war in the former mandate territory.",
+          "note": "The 1947 UN partition proposal did not produce two functioning states as envisaged.",
+          "sources": [
+            "ws_israeldeclaration",
+            "ws_palestinehistory"
+          ]
+        },
+        {
+          "id": "ws-palestinian-movement",
+          "from": [
+            "ws-mandate-palestine"
+          ],
+          "to": [
+            "ws-plo"
+          ],
+          "type": "contact",
+          "label": "Displacement & organizing",
+          "dates": "1948–1964",
+          "summary": "War, Palestinian displacement, and continuing national mobilization preceded the PLO’s establishment.",
+          "note": "A contextual political history link, not a transfer of British governmental authority to the PLO.",
+          "sources": [
+            "ws_palestinehistory",
+            "ws_ploformation"
+          ]
+        },
+        {
+          "id": "ws-palestine-declaration",
+          "from": [
+            "ws-plo"
+          ],
+          "to": [
+            "palestine"
+          ],
+          "type": "continuation",
+          "label": "Palestine proclaimed",
+          "dates": "15 November 1988",
+          "summary": "The Palestine National Council proclaimed the State of Palestine, acknowledged by the UN General Assembly.",
+          "note": "Declaration and diplomatic recognition did not establish full territorial sovereignty or end occupation.",
+          "sources": [
+            "ws_palestinedeclaration"
+          ]
+        },
+        {
+          "id": "ws-oslo-recognition",
+          "from": [
+            "israel"
+          ],
+          "to": [
+            "ws-plo"
+          ],
+          "type": "contact",
+          "label": "Mutual recognition & Oslo",
+          "dates": "1993",
+          "summary": "Israel and the PLO exchanged recognition and signed interim self-government arrangements.",
+          "note": "The accords did not settle final borders or create a sovereign Palestinian state.",
+          "sources": [
+            "ws_palestinehistory"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "south-asia-early-medieval",
+      "title": "South Asia: early & medieval",
+      "region": "southasia",
+      "nodes": [
+        {
+          "id": "indus"
+        },
+        {
+          "id": "sumer"
+        },
+        {
+          "id": "vedic"
+        },
+        {
+          "id": "mahajanapadas"
+        },
+        {
+          "id": "maurya"
+        },
+        {
+          "id": "cn-seleucid"
+        },
+        {
+          "id": "post-mauryan"
+        },
+        {
+          "id": "kushan"
+        },
+        {
+          "id": "gupta"
+        },
+        {
+          "id": "post-gupta"
+        },
+        {
+          "id": "harsha"
+        },
+        {
+          "id": "tang"
+        },
+        {
+          "id": "india-regional-kingdoms"
+        },
+        {
+          "id": "chola"
+        },
+        {
+          "id": "srivijaya"
+        },
+        {
+          "id": "delhi"
+        },
+        {
+          "id": "vijayanagara"
+        },
+        {
+          "id": "mughal"
+        },
+        {
+          "id": "ws-deccan-sultanates"
+        }
+      ],
+      "connections": [
+        {
+          "id": "ws-indus-sumer",
+          "from": [
+            "indus"
+          ],
+          "to": [
+            "sumer"
+          ],
+          "type": "contact",
+          "label": "Long-distance trade",
+          "dates": "3rd millennium BCE",
+          "summary": "Indus and Mesopotamian societies participated in long-distance exchange networks.",
+          "note": "Trade links do not establish political union or population identity.",
+          "sources": [
+            "ws_mesoearly"
+          ]
+        },
+        {
+          "id": "ws-indus-vedic",
+          "from": [
+            "indus"
+          ],
+          "to": [
+            "vedic"
+          ],
+          "type": "contact",
+          "label": "Overlapping transformations",
+          "dates": "c. 1900–1300 BCE",
+          "summary": "Late Harappan communities overlapped with changing Indo-Gangetic cultural landscapes.",
+          "note": "This is not a conquest or simple Harappan-to-Vedic state succession; language and identity remain research questions.",
+          "sources": [
+            "ws_vedic",
+            "ws_indusclimate"
+          ]
+        },
+        {
+          "id": "ws-vedic-states",
+          "from": [
+            "vedic"
+          ],
+          "to": [
+            "mahajanapadas"
+          ],
+          "type": "continuation",
+          "label": "Later regional states",
+          "dates": "1st millennium BCE",
+          "summary": "Later Vedic textual traditions developed alongside the emergence of regional states in northern South Asia.",
+          "note": "Culture, texts, and states have different chronologies; there was no single Vedic empire.",
+          "sources": [
+            "ws_vedic",
+            "ws_maurya"
+          ]
+        },
+        {
+          "id": "ws-mahajanapadas-maurya",
+          "from": [
+            "mahajanapadas"
+          ],
+          "to": [
+            "maurya"
+          ],
+          "type": "conquest",
+          "label": "Magadhan consolidation",
+          "dates": "4th century BCE",
+          "summary": "The Magadhan political core of the mahājanapadas was incorporated into the Mauryan imperial project.",
+          "note": "Not every mahājanapada survived until, or was conquered by, the Mauryas in the same way.",
+          "sources": [
+            "ws_maurya"
+          ]
+        },
+        {
+          "id": "ws-maurya-seleucid",
+          "from": [
+            "maurya"
+          ],
+          "to": [
+            "cn-seleucid"
+          ],
+          "type": "contact",
+          "label": "Treaty & frontier",
+          "dates": "c. 305–303 BCE",
+          "summary": "Chandragupta Maurya and Seleucus established a negotiated frontier after conflict.",
+          "note": "A selected interstate encounter, not the descent of one empire from the other.",
+          "sources": [
+            "ws_maurya"
+          ]
+        },
+        {
+          "id": "ws-maurya-regional",
+          "from": [
+            "maurya"
+          ],
+          "to": [
+            "post-mauryan"
+          ],
+          "type": "division",
+          "label": "Regional dynasties",
+          "dates": "after c. 185 BCE",
+          "summary": "After Mauryan power ended, numerous regional dynasties governed different parts of South Asia.",
+          "note": "The endpoint is a modern grouping, not one successor kingdom.",
+          "sources": [
+            "ws_maurya",
+            "ws_kushan"
+          ]
+        },
+        {
+          "id": "ws-postmaurya-kushan",
+          "from": [
+            "post-mauryan"
+          ],
+          "to": [
+            "kushan"
+          ],
+          "type": "contact",
+          "label": "Northwestern imperial setting",
+          "dates": "1st–3rd centuries CE",
+          "summary": "Kushan power formed one important part of the diverse post-Mauryan political landscape.",
+          "note": "An umbrella-to-member context link, not a single dynasty changing its name.",
+          "sources": [
+            "ws_kushan"
+          ]
+        },
+        {
+          "id": "ws-kushan-gupta",
+          "from": [
+            "kushan"
+          ],
+          "to": [
+            "gupta"
+          ],
+          "type": "continuation",
+          "label": "Changing northern powers",
+          "dates": "3rd–4th centuries CE",
+          "summary": "As Kushan power contracted, Gupta rulers consolidated parts of northern India.",
+          "note": "Regional successors and intervening rulers existed; there was no wholesale handover of all Kushan lands.",
+          "sources": [
+            "ws_kushangupta"
+          ]
+        },
+        {
+          "id": "ws-gupta-breakup",
+          "from": [
+            "gupta"
+          ],
+          "to": [
+            "post-gupta"
+          ],
+          "type": "division",
+          "label": "Regional rule expands",
+          "dates": "5th–6th centuries CE",
+          "summary": "Gupta power fragmented as invasions and regional autonomy reshaped northern India.",
+          "note": "The post-Gupta label groups different kingdoms rather than one political successor.",
+          "sources": [
+            "ws_postgupta"
+          ]
+        },
+        {
+          "id": "ws-harsha-postgupta",
+          "from": [
+            "post-gupta"
+          ],
+          "to": [
+            "harsha"
+          ],
+          "type": "contact",
+          "label": "Harsha’s northern realm",
+          "dates": "606–647 CE",
+          "summary": "Harsha’s kingdom was one major polity within the wider post-Gupta landscape.",
+          "note": "It did not reunite all former Gupta territories or govern all South Asia.",
+          "sources": [
+            "ws_postgupta"
+          ]
+        },
+        {
+          "id": "ws-harsha-tang",
+          "from": [
+            "harsha"
+          ],
+          "to": [
+            "tang"
+          ],
+          "type": "contact",
+          "label": "Diplomatic missions",
+          "dates": "7th century CE",
+          "summary": "Harsha exchanged diplomatic missions with Tang China.",
+          "note": "Diplomatic contact is not territorial continuity.",
+          "sources": [
+            "ws_postgupta"
+          ]
+        },
+        {
+          "id": "ws-harsha-regional",
+          "from": [
+            "harsha"
+          ],
+          "to": [
+            "india-regional-kingdoms"
+          ],
+          "type": "division",
+          "label": "Regional courts",
+          "dates": "after 647 CE",
+          "summary": "Following Harsha’s death, northern power again rested with multiple regional courts.",
+          "note": "Many kingdoms already existed beyond his control; this umbrella spans the wider subcontinent.",
+          "sources": [
+            "ws_postgupta"
+          ]
+        },
+        {
+          "id": "ws-regional-chola",
+          "from": [
+            "india-regional-kingdoms"
+          ],
+          "to": [
+            "chola"
+          ],
+          "type": "contact",
+          "label": "Southern imperial center",
+          "dates": "9th–13th centuries CE",
+          "summary": "The Cholas rose within a competitive southern landscape of regional dynasties.",
+          "note": "They were not the sole successors to northern post-Gupta kingdoms.",
+          "sources": [
+            "ws_southmedieval",
+            "ws_chola"
+          ]
+        },
+        {
+          "id": "ws-chola-srivijaya",
+          "from": [
+            "chola"
+          ],
+          "to": [
+            "srivijaya"
+          ],
+          "type": "conquest",
+          "label": "Maritime raids",
+          "dates": "1025 CE",
+          "summary": "Chola naval forces attacked Srivijayan ports and centers in Southeast Asia.",
+          "note": "A campaign did not create permanent Chola rule over the whole Srivijayan maritime world.",
+          "sources": [
+            "ws_cholaregion"
+          ]
+        },
+        {
+          "id": "ws-regional-delhi",
+          "from": [
+            "india-regional-kingdoms"
+          ],
+          "to": [
+            "delhi"
+          ],
+          "type": "conquest",
+          "label": "Northern sultanate expands",
+          "dates": "late 12th–13th centuries",
+          "summary": "Conquest and consolidation established Delhi sultanate rule across parts of northern India.",
+          "note": "Many regional kingdoms survived; this was not the end of all pre-existing South Asian states.",
+          "sources": [
+            "ws_northmedieval"
+          ]
+        },
+        {
+          "id": "ws-delhi-vijayanagara",
+          "from": [
+            "delhi"
+          ],
+          "to": [
+            "vijayanagara"
+          ],
+          "type": "contact",
+          "label": "Deccan political setting",
+          "dates": "14th century CE",
+          "summary": "Vijayanagara emerged amid Delhi’s southern campaigns and a changing Deccan political landscape.",
+          "note": "This is regional context, not a claim that Vijayanagara was simply a renamed Delhi province.",
+          "sources": [
+            "ws_chola"
+          ]
+        },
+        {
+          "id": "ws-delhi-mughal",
+          "from": [
+            "delhi"
+          ],
+          "to": [
+            "mughal"
+          ],
+          "type": "conquest",
+          "label": "Babur’s victory",
+          "dates": "1526",
+          "summary": "Babur defeated the Lodi ruler at Panipat and established Mughal rule in northern India.",
+          "note": "Mughal consolidation was prolonged and interrupted by Sur rule.",
+          "sources": [
+            "ws_mughal"
+          ]
+        },
+        {
+          "id": "ws-vijayanagara-talikota",
+          "from": [
+            "vijayanagara"
+          ],
+          "to": [
+            "ws-deccan-sultanates"
+          ],
+          "type": "conquest",
+          "label": "Battle of Talikota",
+          "dates": "1565",
+          "summary": "A coalition of Deccan sultanates defeated Vijayanagara and devastated its capital.",
+          "note": "The Vijayanagara dynasty continued from other capitals after 1565.",
+          "sources": [
+            "ws_vijayanagara"
+          ]
+        },
+        {
+          "id": "ws-deccan-mughal",
+          "from": [
+            "ws-deccan-sultanates"
+          ],
+          "to": [
+            "mughal"
+          ],
+          "type": "conquest",
+          "label": "Mughal annexations",
+          "dates": "17th century CE",
+          "summary": "Mughal campaigns absorbed major Deccan sultanates, culminating in the late 1680s.",
+          "note": "Different sultanates ended at different dates; this is a grouped regional account.",
+          "sources": [
+            "ws_vijayanagara"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "afghanistan-regional-powers",
+      "title": "Afghanistan & regional powers",
+      "region": "southasia",
+      "nodes": [
+        {
+          "id": "afsharid"
+        },
+        {
+          "id": "ws-durrani"
+        },
+        {
+          "id": "ws-barakzai"
+        },
+        {
+          "id": "companyindia"
+        },
+        {
+          "id": "britishraj"
+        },
+        {
+          "id": "ws-afghanistan-later"
+        }
+      ],
+      "connections": [
+        {
+          "id": "ws-afsharid-durrani",
+          "from": [
+            "afsharid"
+          ],
+          "to": [
+            "ws-durrani"
+          ],
+          "type": "independence",
+          "label": "Durrani state emerges",
+          "dates": "1747",
+          "summary": "Ahmad Shah Durrani established a realm after Nader Shah’s death.",
+          "note": "Afsharid fragmentation produced several regional powers.",
+          "sources": [
+            "ws_afghancrs"
+          ]
+        },
+        {
+          "id": "ws-durrani-barakzai",
+          "from": [
+            "ws-durrani"
+          ],
+          "to": [
+            "ws-barakzai"
+          ],
+          "type": "continuation",
+          "label": "Dost Mohammad in Kabul",
+          "dates": "1826",
+          "summary": "Dost Mohammad consolidated Barakzai rule in Kabul after Durrani fragmentation.",
+          "note": "Regional rivals and later Durrani restoration complicate a simple dynasty-to-dynasty chain.",
+          "sources": [
+            "ws_afghancrs"
+          ]
+        },
+        {
+          "id": "ws-company-afghan",
+          "from": [
+            "companyindia"
+          ],
+          "to": [
+            "ws-barakzai"
+          ],
+          "type": "conquest",
+          "label": "First Anglo-Afghan War",
+          "dates": "1839–1842",
+          "summary": "British forces deposed Dost Mohammad and restored a Durrani ruler, then withdrew.",
+          "note": "Dost Mohammad subsequently returned to power.",
+          "sources": [
+            "ws_afghancrs"
+          ]
+        },
+        {
+          "id": "ws-raj-afghan-independence",
+          "from": [
+            "britishraj"
+          ],
+          "to": [
+            "ws-barakzai"
+          ],
+          "type": "independence",
+          "label": "Foreign-policy independence",
+          "dates": "1919",
+          "summary": "The Treaty of Rawalpindi recognized Afghanistan’s full foreign-policy independence after war.",
+          "note": "Afghanistan had not been an annexed province of British India.",
+          "sources": [
+            "ws_afghan1919"
+          ]
+        },
+        {
+          "id": "ws-afghan-republic",
+          "from": [
+            "ws-barakzai"
+          ],
+          "to": [
+            "ws-afghanistan-later"
+          ],
+          "type": "continuation",
+          "label": "Monarchy overthrown",
+          "dates": "1973",
+          "summary": "Daoud overthrew the monarchy and proclaimed a republic.",
+          "note": "The endpoint groups subsequent governments; it is not one unchanged republican regime.",
+          "sources": [
+            "ws_afghancrs"
+          ]
+        }
+      ]
+    }
+  ],
+  "unconnected": []
+}

@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 2604" width="1600" height="2604" role="group" aria-labelledby="map-title-afsu-sudan-nile map-desc-afsu-sudan-nile"><title id="map-title-afsu-sudan-nile">Sudan and South Sudan: kingdoms, conquest and independence</title><desc id="map-desc-afsu-sudan-nile">Selected, sourced connections. Arrows label unions, divisions, conquest, independence, changes in rule, and contact. Node positions do not measure time or ancestry.  Select a node for Wikipedia or an arrow for its sources.</desc><defs>
+<marker id="arrow-afsu-sudan-nile-union" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#3b8274"/></marker>
+<marker id="arrow-afsu-sudan-nile-division" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#b88636"/></marker>
+<marker id="arrow-afsu-sudan-nile-conquest" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#aa6355"/></marker>
+<marker id="arrow-afsu-sudan-nile-independence" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#638350"/></marker>
+<marker id="arrow-afsu-sudan-nile-continuation" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#5d7f9d"/></marker>
+<marker id="arrow-afsu-sudan-nile-contact" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#8b7297"/></marker>
+<marker id="arrow-afsu-sudan-nile-colonial" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#9a8055"/></marker>
+<marker id="arrow-afsu-sudan-nile-context" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#92917a"/></marker>
+<marker id="arrow-afsu-sudan-nile-period" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#7d8c6f"/></marker>
+</defs><style>text{font-family:Arial,Helvetica,sans-serif;fill:#25372c}.map-node,.map-edge{cursor:pointer;outline:none}.map-node rect{stroke:#fffdf8;stroke-width:2}.map-node:hover rect,.map-node:focus rect{stroke:#3c5441;stroke-width:3}.map-label{font-size:21px;font-weight:600;pointer-events:none}.map-date{font-size:12px;fill:#617056;pointer-events:none}.edge-line{fill:none;stroke-width:2.5;stroke-linejoin:round;stroke-linecap:round}.edge-hit{fill:none;stroke:transparent;stroke-width:36;vector-effect:non-scaling-stroke}.map-edge:hover .edge-label-bg,.map-edge:focus .edge-label-bg{stroke:#334d3c;stroke-width:2}.map-edge:hover .edge-line,.map-edge:focus .edge-line{stroke-width:4}.edge-label{font-size:15px;font-weight:500;pointer-events:none}.map-heading{font-size:47px;font-weight:700;letter-spacing:-1.2px}.map-subtitle{font-size:24px;fill:#67785a}.map-micro{font-size:13px;fill:#8a977d}.map-node.dim{opacity:.15}.map-node.hit rect{stroke:#294332;stroke-width:4}.map-node.selected rect{stroke:#294332;stroke-width:4}.map-edge.related .edge-line{stroke-width:4.5}</style><rect width="100%" height="100%" fill="#fdfcf8"/><text class="map-heading" x="800" y="74" text-anchor="middle">EMPIRES &amp; CONNECTIONS</text><text class="map-subtitle" x="800" y="117" text-anchor="middle">Sudan and South Sudan: kingdoms, conquest and independence</text><text class="map-micro" x="800" y="154" text-anchor="middle">Tap a node to read · Tap an arrow for the event and sources</text>
+<g class="map-edge" id="map-edge-afsu-sudan-nile-afsu-postmeroe" data-connection="afsu-postmeroe" data-map="afsu-sudan-nile" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Nubian kingdoms to Nobatia + Makuria + Alodia / Alwa: Context: later Nubian kingdoms. Open relationship details." style="--edge-color:#92917a"><title>Context / overlap: Context: later Nubian kingdoms</title>
+<path class="edge-hit" d="M550.4 314.34C550.4 340.33 550.4 371.16 550.4 389.62"/><path class="edge-line" stroke="#92917a" stroke-dasharray="6 6" d="M550.4 314.34C550.4 340.33 550.4 371.16 550.4 389.62"/>
+<path class="edge-hit" d="M528.45 424.37C503.66 442.86 462.23 473.77 427.33 499.8"/><path class="edge-line" stroke="#92917a" stroke-dasharray="6 6" d="M528.45 424.37C503.66 442.86 462.23 473.77 427.33 499.8" marker-end="url(#arrow-afsu-sudan-nile-context)"/>
+<path class="edge-hit" d="M550.12 424.34C548.83 470.11 541.71 602.82 502.4 704C491.99 730.8 475.08 757.81 459.49 779.59"/><path class="edge-line" stroke="#92917a" stroke-dasharray="6 6" d="M550.12 424.34C548.83 470.11 541.71 602.82 502.4 704C491.99 730.8 475.08 757.81 459.49 779.59" marker-end="url(#arrow-afsu-sudan-nile-context)"/>
+<path class="edge-hit" d="M573.3 424.37C599.16 442.86 642.38 473.77 678.79 499.8"/><path class="edge-line" stroke="#92917a" stroke-dasharray="6 6" d="M573.3 424.37C599.16 442.86 642.38 473.77 678.79 499.8" marker-end="url(#arrow-afsu-sudan-nile-context)"/>
+<rect class="edge-label-bg" x="422.9" y="390" width="255" height="34" rx="7" fill="#fdfcf8" stroke="#92917a" stroke-opacity=".28"/>
+<text class="edge-label" x="550.4" y="412" text-anchor="middle">Context: later Nubian kingdoms</text>
+</g>
+<g class="map-edge" id="map-edge-afsu-sudan-nile-afsu-nobatia-union" data-connection="afsu-nobatia-union" data-map="afsu-sudan-nile" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Nobatia to Makuria: Nobatia and Makuria united. Open relationship details." style="--edge-color:#3b8274"><title>Union: Nobatia and Makuria united</title>
+<path class="edge-hit" d="M365.74 594.34C365.92 620.33 366.15 651.16 366.28 669.62"/><path class="edge-line" stroke="#3b8274"  d="M365.74 594.34C365.92 620.33 366.15 651.16 366.28 669.62"/>
+<path class="edge-hit" d="M373.04 704.37C380.55 722.86 393.09 753.77 403.65 779.8"/><path class="edge-line" stroke="#3b8274"  d="M373.04 704.37C380.55 722.86 393.09 753.77 403.65 779.8" marker-end="url(#arrow-afsu-sudan-nile-union)"/>
+<rect class="edge-label-bg" x="253.89999999999998" y="670" width="225" height="34" rx="7" fill="#fdfcf8" stroke="#3b8274" stroke-opacity=".28"/>
+<text class="edge-label" x="366.4" y="692" text-anchor="middle">Nobatia and Makuria united</text>
+</g>
+<g class="map-edge" id="map-edge-afsu-sudan-nile-afsu-alodia-funj" data-connection="afsu-alodia-funj" data-map="afsu-sudan-nile" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Alodia / Alwa to Funj Sultanate of Sennar: Context: changing regional rule. Open relationship details." style="--edge-color:#92917a"><title>Context / overlap: Context: changing regional rule</title>
+<path class="edge-hit" d="M746.42 594.34C748.12 620.33 750.13 651.16 751.33 669.62"/><path class="edge-line" stroke="#92917a" stroke-dasharray="6 6" d="M746.42 594.34C748.12 620.33 750.13 651.16 751.33 669.62"/>
+<path class="edge-hit" d="M752.4 704.37C752.4 722.86 752.4 753.77 752.4 779.8"/><path class="edge-line" stroke="#92917a" stroke-dasharray="6 6" d="M752.4 704.37C752.4 722.86 752.4 753.77 752.4 779.8" marker-end="url(#arrow-afsu-sudan-nile-context)"/>
+<rect class="edge-label-bg" x="621.15" y="670" width="262.5" height="34" rx="7" fill="#fdfcf8" stroke="#92917a" stroke-opacity=".28"/>
+<text class="edge-label" x="752.4" y="692" text-anchor="middle">Context: changing regional rule</text>
+</g>
+<g class="map-edge" id="map-edge-afsu-sudan-nile-afsu-funj-conquest" data-connection="afsu-funj-conquest" data-map="afsu-sudan-nile" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Funj Sultanate of Sennar to Turco-Egyptian Sudan: Egyptian conquest ends Funj rule. Open relationship details." style="--edge-color:#aa6355"><title>Conquest: Egyptian conquest ends Funj rule</title>
+<path class="edge-hit" d="M752.4 874.34C752.4 900.33 752.4 931.16 752.4 949.62"/><path class="edge-line" stroke="#aa6355"  d="M752.4 874.34C752.4 900.33 752.4 931.16 752.4 949.62"/>
+<path class="edge-hit" d="M770.79 984.37C791.56 1002.86 826.27 1033.77 855.51 1059.8"/><path class="edge-line" stroke="#aa6355"  d="M770.79 984.37C791.56 1002.86 826.27 1033.77 855.51 1059.8" marker-end="url(#arrow-afsu-sudan-nile-conquest)"/>
+<rect class="edge-label-bg" x="617.4" y="950" width="270" height="34" rx="7" fill="#fdfcf8" stroke="#aa6355" stroke-opacity=".28"/>
+<text class="edge-label" x="752.4" y="972" text-anchor="middle">Egyptian conquest ends Funj rule</text>
+</g>
+<g class="map-edge" id="map-edge-afsu-sudan-nile-afsu-egyptian-expansion" data-connection="afsu-egyptian-expansion" data-map="afsu-sudan-nile" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Muhammad Ali dynasty to Turco-Egyptian Sudan: Egyptian territorial expansion. Open relationship details." style="--edge-color:#9a8055"><title>Colonial rule: Egyptian territorial expansion</title>
+<path class="edge-hit" d="M1062.4 874.34C1062.4 900.33 1062.4 931.16 1062.4 949.62"/><path class="edge-line" stroke="#9a8055"  d="M1062.4 874.34C1062.4 900.33 1062.4 931.16 1062.4 949.62"/>
+<path class="edge-hit" d="M1044.01 984.37C1023.24 1002.86 988.53 1033.77 959.29 1059.8"/><path class="edge-line" stroke="#9a8055"  d="M1044.01 984.37C1023.24 1002.86 988.53 1033.77 959.29 1059.8" marker-end="url(#arrow-afsu-sudan-nile-colonial)"/>
+<rect class="edge-label-bg" x="934.9000000000001" y="950" width="255" height="34" rx="7" fill="#fdfcf8" stroke="#9a8055" stroke-opacity=".28"/>
+<text class="edge-label" x="1062.4" y="972" text-anchor="middle">Egyptian territorial expansion</text>
+</g>
+<g class="map-edge" id="map-edge-afsu-sudan-nile-afsu-mahdist-revolution" data-connection="afsu-mahdist-revolution" data-map="afsu-sudan-nile" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Turco-Egyptian Sudan to Mahdist State: Mahdist revolt and capture of Khartoum. Open relationship details." style="--edge-color:#aa6355"><title>Conquest: Mahdist revolt and capture of Khartoum</title>
+<path class="edge-hit" d="M907.4 1154.34C907.4 1180.33 907.4 1211.16 907.4 1229.62"/><path class="edge-line" stroke="#aa6355"  d="M907.4 1154.34C907.4 1180.33 907.4 1211.16 907.4 1229.62"/>
+<path class="edge-hit" d="M907.4 1264.37C907.4 1282.86 907.4 1313.77 907.4 1339.8"/><path class="edge-line" stroke="#aa6355"  d="M907.4 1264.37C907.4 1282.86 907.4 1313.77 907.4 1339.8" marker-end="url(#arrow-afsu-sudan-nile-conquest)"/>
+<rect class="edge-label-bg" x="749.9" y="1230" width="315" height="34" rx="7" fill="#fdfcf8" stroke="#aa6355" stroke-opacity=".28"/>
+<text class="edge-label" x="907.4" y="1252" text-anchor="middle">Mahdist revolt and capture of Khartoum</text>
+</g>
+<g class="map-edge" id="map-edge-afsu-sudan-nile-afsu-angloegyptian-conquest" data-connection="afsu-angloegyptian-conquest" data-map="afsu-sudan-nile" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Mahdist State to Anglo-Egyptian Sudan: Anglo-Egyptian conquest. Open relationship details." style="--edge-color:#aa6355"><title>Conquest: Anglo-Egyptian conquest</title>
+<path class="edge-hit" d="M907.4 1434.34C907.4 1460.33 907.4 1491.16 907.4 1509.62"/><path class="edge-line" stroke="#aa6355"  d="M907.4 1434.34C907.4 1460.33 907.4 1491.16 907.4 1509.62"/>
+<path class="edge-hit" d="M924.84 1544.37C944.54 1562.86 977.46 1593.77 1005.19 1619.8"/><path class="edge-line" stroke="#aa6355"  d="M924.84 1544.37C944.54 1562.86 977.46 1593.77 1005.19 1619.8" marker-end="url(#arrow-afsu-sudan-nile-conquest)"/>
+<rect class="edge-label-bg" x="806.15" y="1510" width="202.5" height="34" rx="7" fill="#fdfcf8" stroke="#aa6355" stroke-opacity=".28"/>
+<text class="edge-label" x="907.4" y="1532" text-anchor="middle">Anglo-Egyptian conquest</text>
+</g>
+<g class="map-edge" id="map-edge-afsu-sudan-nile-afsu-british-rule" data-connection="afsu-british-rule" data-map="afsu-sudan-nile" role="button" tabindex="0" aria-haspopup="dialog" aria-label="British Empire to Anglo-Egyptian Sudan: British-led colonial administration. Open relationship details." style="--edge-color:#9a8055"><title>Colonial rule: British-led colonial administration</title>
+<path class="edge-hit" d="M1202.4 1434.34C1202.4 1460.33 1202.4 1491.16 1202.4 1509.62"/><path class="edge-line" stroke="#9a8055"  d="M1202.4 1434.34C1202.4 1460.33 1202.4 1491.16 1202.4 1509.62"/>
+<path class="edge-hit" d="M1184.84 1544.37C1165.01 1562.86 1131.86 1593.77 1103.95 1619.8"/><path class="edge-line" stroke="#9a8055"  d="M1184.84 1544.37C1165.01 1562.86 1131.86 1593.77 1103.95 1619.8" marker-end="url(#arrow-afsu-sudan-nile-colonial)"/>
+<rect class="edge-label-bg" x="1056.15" y="1510" width="292.5" height="34" rx="7" fill="#fdfcf8" stroke="#9a8055" stroke-opacity=".28"/>
+<text class="edge-label" x="1202.4" y="1532" text-anchor="middle">British-led colonial administration</text>
+</g>
+<g class="map-edge" id="map-edge-afsu-sudan-nile-afsu-sudan-independence" data-connection="afsu-sudan-independence" data-map="afsu-sudan-nile" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Anglo-Egyptian Sudan to Sudan: independent eras: Sudan becomes independent. Open relationship details." style="--edge-color:#638350"><title>Independence: Sudan becomes independent</title>
+<path class="edge-hit" d="M1054.4 1714.34C1054.4 1740.33 1054.4 1771.16 1054.4 1789.62"/><path class="edge-line" stroke="#638350"  d="M1054.4 1714.34C1054.4 1740.33 1054.4 1771.16 1054.4 1789.62"/>
+<path class="edge-hit" d="M1054.4 1824.37C1054.4 1842.86 1054.4 1873.77 1054.4 1899.8"/><path class="edge-line" stroke="#638350"  d="M1054.4 1824.37C1054.4 1842.86 1054.4 1873.77 1054.4 1899.8" marker-end="url(#arrow-afsu-sudan-nile-independence)"/>
+<rect class="edge-label-bg" x="945.6500000000001" y="1790" width="217.5" height="34" rx="7" fill="#fdfcf8" stroke="#638350" stroke-opacity=".28"/>
+<text class="edge-label" x="1054.4" y="1812" text-anchor="middle">Sudan becomes independent</text>
+</g>
+<g class="map-edge" id="map-edge-afsu-sudan-nile-afsu-south-sudan-independence" data-connection="afsu-south-sudan-independence" data-map="afsu-sudan-nile" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Sudan: independent eras to South Sudan: independent state: South Sudan secedes after referendum. Open relationship details." style="--edge-color:#638350"><title>Independence: South Sudan secedes after referendum</title>
+<path class="edge-hit" d="M1054.4 1994.34C1054.4 2020.33 1054.4 2051.16 1054.4 2069.62"/><path class="edge-line" stroke="#638350"  d="M1054.4 1994.34C1054.4 2020.33 1054.4 2051.16 1054.4 2069.62"/>
+<path class="edge-hit" d="M1054.4 2104.37C1054.4 2122.86 1054.4 2153.77 1054.4 2179.8"/><path class="edge-line" stroke="#638350"  d="M1054.4 2104.37C1054.4 2122.86 1054.4 2153.77 1054.4 2179.8" marker-end="url(#arrow-afsu-sudan-nile-independence)"/>
+<rect class="edge-label-bg" x="904.4000000000001" y="2070" width="300" height="34" rx="7" fill="#fdfcf8" stroke="#638350" stroke-opacity=".28"/>
+<text class="edge-label" x="1054.4" y="2092" text-anchor="middle">South Sudan secedes after referendum</text>
+</g>
+<g class="map-node" id="map-node-afsu-sudan-nile-nubia" data-history="nubia" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Nubian kingdoms, c. 2400 BCE–350 CE. Open Wikipedia." data-map="afsu-sudan-nile"><title>Nubian kingdoms · c. 2400 BCE–350 CE</title><rect x="436.4" y="220" width="228" height="94" rx="10" fill="#87c5ae"/>
+<text class="map-label" style="font-size:21px" x="550.4" y="263" text-anchor="middle">Nubian kingdoms</text>
+<text class="map-date" x="550.4" y="299" text-anchor="middle">c. 2400 BCE–350 CE</text></g>
+<g class="map-node" id="map-node-afsu-sudan-nile-afsu-nobatia" data-history="afsu-nobatia" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Nobatia, c. 4th–8th centuries CE · independent kingdom. Open Wikipedia." data-map="afsu-sudan-nile"><title>Nobatia · c. 4th–8th centuries CE · independent kingdom</title><rect x="251.39999999999998" y="500" width="228" height="94" rx="10" fill="#dbadca"/>
+<text class="map-label" style="font-size:21px" x="365.4" y="543" text-anchor="middle">Nobatia</text>
+<text class="map-date" x="365.4" y="579" text-anchor="middle">c. 4th–8th centuries · independen…</text></g>
+<g class="map-node" id="map-node-afsu-sudan-nile-afsu-makuria" data-history="afsu-makuria" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Makuria, c. 5th–15th centuries CE · changing authority. Open Wikipedia." data-map="afsu-sudan-nile"><title>Makuria · c. 5th–15th centuries CE · changing authority</title><rect x="308.4" y="780" width="228" height="94" rx="10" fill="#91c399"/>
+<text class="map-label" style="font-size:21px" x="422.4" y="823" text-anchor="middle">Makuria</text>
+<text class="map-date" x="422.4" y="859" text-anchor="middle">c. 5th–15th centuries · changing …</text></g>
+<g class="map-node" id="map-node-afsu-sudan-nile-afsu-alodia" data-history="afsu-alodia" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Alodia / Alwa, c. 6th century–c. 1500 CE · ending disputed. Open Wikipedia." data-map="afsu-sudan-nile"><title>Alodia / Alwa · c. 6th century–c. 1500 CE · ending disputed</title><rect x="629.4" y="500" width="228" height="94" rx="10" fill="#ef9479"/>
+<text class="map-label" style="font-size:21px" x="743.4" y="543" text-anchor="middle">Alodia / Alwa</text>
+<text class="map-date" x="743.4" y="579" text-anchor="middle">c. 6th century–c. 1500 · ending d…</text></g>
+<g class="map-node" id="map-node-afsu-sudan-nile-afsu-funj" data-history="afsu-funj" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Funj Sultanate of Sennar, c. 1500–1821 CE. Open Wikipedia." data-map="afsu-sudan-nile"><title>Funj Sultanate of Sennar · c. 1500–1821 CE</title><rect x="638.4" y="780" width="228" height="94" rx="10" fill="#87c5ae"/>
+<text class="map-label" style="font-size:21px" x="752.4" y="811" text-anchor="middle">Funj Sultanate of</text>
+<text class="map-label" style="font-size:21px" x="752.4" y="835" text-anchor="middle">Sennar</text>
+<text class="map-date" x="752.4" y="859" text-anchor="middle">c. 1500–1821</text></g>
+<g class="map-node" id="map-node-afsu-sudan-nile-muhammad-ali" data-history="muhammad-ali" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Egypt · Muhammad Ali dynasty, 1805 CE–1953 CE. Open Wikipedia." data-map="afsu-sudan-nile"><title>Egypt · Muhammad Ali dynasty · 1805 CE–1953 CE</title><rect x="948.4000000000001" y="780" width="228" height="94" rx="10" fill="#e6ac5c"/>
+<text class="map-label" style="font-size:21px" x="1062.4" y="811" text-anchor="middle">Muhammad Ali</text>
+<text class="map-label" style="font-size:21px" x="1062.4" y="835" text-anchor="middle">dynasty</text>
+<text class="map-date" x="1062.4" y="859" text-anchor="middle">1805–1953</text></g>
+<g class="map-node" id="map-node-afsu-sudan-nile-afsu-turcoegyptian" data-history="afsu-turcoegyptian" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Turco-Egyptian Sudan, 1820/1821–1885 CE · expanding colonial control. Open Wikipedia." data-map="afsu-sudan-nile"><title>Turco-Egyptian Sudan · 1820/1821–1885 CE · expanding colonial control</title><rect x="793.4" y="1060" width="228" height="94" rx="10" fill="#dbadca"/>
+<text class="map-label" style="font-size:21px" x="907.4" y="1091" text-anchor="middle">Turco-Egyptian</text>
+<text class="map-label" style="font-size:21px" x="907.4" y="1115" text-anchor="middle">Sudan</text>
+<text class="map-date" x="907.4" y="1139" text-anchor="middle">1820/1821–1885 · expanding coloni…</text></g>
+<g class="map-node" id="map-node-afsu-sudan-nile-afsu-mahdist" data-history="afsu-mahdist" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Mahdist State, 1881–1899 CE · movement and state. Open Wikipedia." data-map="afsu-sudan-nile"><title>Mahdist State · 1881–1899 CE · movement and state</title><rect x="793.4" y="1340" width="228" height="94" rx="10" fill="#91c399"/>
+<text class="map-label" style="font-size:21px" x="907.4" y="1383" text-anchor="middle">Mahdist State</text>
+<text class="map-date" x="907.4" y="1419" text-anchor="middle">1881–1899 · movement and state</text></g>
+<g class="map-node" id="map-node-afsu-sudan-nile-britishempire" data-history="britishempire" role="button" tabindex="0" aria-haspopup="dialog" aria-label="British Empire · major overseas phase, 1607 CE–1997 CE. Open Wikipedia." data-map="afsu-sudan-nile"><title>British Empire · major overseas phase · 1607 CE–1997 CE</title><rect x="1088.4" y="1340" width="228" height="94" rx="10" fill="#edbc75"/>
+<text class="map-label" style="font-size:21px" x="1202.4" y="1383" text-anchor="middle">British Empire</text>
+<text class="map-date" x="1202.4" y="1419" text-anchor="middle">1607–1997</text></g>
+<g class="map-node" id="map-node-afsu-sudan-nile-afsu-condominium" data-history="afsu-condominium" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Anglo-Egyptian Sudan, 1899–1956 CE. Open Wikipedia." data-map="afsu-sudan-nile"><title>Anglo-Egyptian Sudan · 1899–1956 CE</title><rect x="940.4000000000001" y="1620" width="228" height="94" rx="10" fill="#efb34c"/>
+<text class="map-label" style="font-size:21px" x="1054.4" y="1651" text-anchor="middle">Anglo-Egyptian</text>
+<text class="map-label" style="font-size:21px" x="1054.4" y="1675" text-anchor="middle">Sudan</text>
+<text class="map-date" x="1054.4" y="1699" text-anchor="middle">1899–1956</text></g>
+<g class="map-node" id="map-node-afsu-sudan-nile-afsu-sudan" data-history="afsu-sudan" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Sudan: independent eras, 1956 CE–present. Open Wikipedia." data-map="afsu-sudan-nile"><title>Sudan: independent eras · 1956 CE–present</title><rect x="940.4000000000001" y="1900" width="228" height="94" rx="10" fill="#e6ac5c"/>
+<text class="map-label" style="font-size:20px" x="1054.4" y="1931" text-anchor="middle">Sudan: independent</text>
+<text class="map-label" style="font-size:20px" x="1054.4" y="1955" text-anchor="middle">eras</text>
+<text class="map-date" x="1054.4" y="1979" text-anchor="middle">1956–present</text></g>
+<g class="map-node" id="map-node-afsu-sudan-nile-afsu-southsudan" data-history="afsu-southsudan" role="button" tabindex="0" aria-haspopup="dialog" aria-label="South Sudan: independent state, 2011 CE–present. Open Wikipedia." data-map="afsu-sudan-nile"><title>South Sudan: independent state · 2011 CE–present</title><rect x="940.4000000000001" y="2180" width="228" height="94" rx="10" fill="#91c399"/>
+<text class="map-label" style="font-size:21px" x="1054.4" y="2211" text-anchor="middle">South Sudan:</text>
+<text class="map-label" style="font-size:21px" x="1054.4" y="2235" text-anchor="middle">independent state</text>
+<text class="map-date" x="1054.4" y="2259" text-anchor="middle">2011–present</text></g>
+<text class="map-micro" x="800" y="2395" text-anchor="middle">Continue this history on another map</text>
+<g class="map-continuation" id="map-jump-afsu-sudan-nile-0" role="button" tabindex="0" data-map-target="af-nile-egypt" data-map-history="nubia" aria-label="Nile Valley: Egypt, Nubia and changing rulers"><rect x="112" y="2409" width="680" height="70" rx="8" fill="#edf3e5" stroke="#bdcdb1"/>
+<text x="452" y="2445" text-anchor="middle" style="font-size:16px">Nile Valley: Egypt, Nubia and changing rulers</text>
+</g>
+<g class="map-continuation" id="map-jump-afsu-sudan-nile-1" role="button" tabindex="0" data-map-target="af-kongo-south" data-map-history="britishempire" aria-label="Kongo, Atlantic contacts and southern African states"><rect x="808" y="2409" width="680" height="70" rx="8" fill="#edf3e5" stroke="#bdcdb1"/>
+<text x="1148" y="2445" text-anchor="middle" style="font-size:16px">Kongo, Atlantic contacts and southern African states</text>
+</g>
+<path d="M70 2515h20" stroke="#3b8274" stroke-width="3"/><text x="98" y="2520" style="font-size:14px;fill:#6b7b5e">Union</text>
+<path d="M362 2515h20" stroke="#b88636" stroke-width="3"/><text x="390" y="2520" style="font-size:14px;fill:#6b7b5e">Division</text>
+<path d="M654 2515h20" stroke="#aa6355" stroke-width="3"/><text x="682" y="2520" style="font-size:14px;fill:#6b7b5e">Conquest</text>
+<path d="M946 2515h20" stroke="#638350" stroke-width="3"/><text x="974" y="2520" style="font-size:14px;fill:#6b7b5e">Independence</text>
+<path d="M1238 2515h20" stroke="#5d7f9d" stroke-width="3"/><text x="1266" y="2520" style="font-size:14px;fill:#6b7b5e">Change of rule</text>
+<path d="M70 2541h20" stroke="#8b7297" stroke-width="3"/><text x="98" y="2546" style="font-size:14px;fill:#6b7b5e">Contact / influence</text>
+<path d="M362 2541h20" stroke="#9a8055" stroke-width="3"/><text x="390" y="2546" style="font-size:14px;fill:#6b7b5e">Colonial rule</text>
+<path d="M654 2541h20" stroke="#92917a" stroke-width="3"/><text x="682" y="2546" style="font-size:14px;fill:#6b7b5e">Context / overlap</text>
+<path d="M946 2541h20" stroke="#7d8c6f" stroke-width="3"/><text x="974" y="2546" style="font-size:14px;fill:#6b7b5e">Period transition</text>
+<text class="map-micro" x="800" y="2582" text-anchor="middle">Selected connections · Layout is not a time, territory or ancestry scale</text></svg>

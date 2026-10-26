@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1484" width="1600" height="1484" role="group" aria-labelledby="map-title-mesoamerica-caribbean map-desc-mesoamerica-caribbean"><title id="map-title-mesoamerica-caribbean">Mesoamerica &amp; the Caribbean</title><desc id="map-desc-mesoamerica-caribbean">Selected, sourced connections. Arrows label unions, divisions, conquest, independence, changes in rule, and contact. Node positions do not measure time or ancestry. Artistic exchange, living Maya communities, conquest in central Mexico and Haiti’s anti-slavery revolution. Separate branches do not imply one regional empire. Select a node for Wikipedia or an arrow for its sources.</desc><defs>
+<marker id="arrow-mesoamerica-caribbean-union" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#3b8274"/></marker>
+<marker id="arrow-mesoamerica-caribbean-division" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#b88636"/></marker>
+<marker id="arrow-mesoamerica-caribbean-conquest" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#aa6355"/></marker>
+<marker id="arrow-mesoamerica-caribbean-independence" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#638350"/></marker>
+<marker id="arrow-mesoamerica-caribbean-continuation" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#5d7f9d"/></marker>
+<marker id="arrow-mesoamerica-caribbean-contact" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#8b7297"/></marker>
+<marker id="arrow-mesoamerica-caribbean-colonial" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#9a8055"/></marker>
+<marker id="arrow-mesoamerica-caribbean-context" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#92917a"/></marker>
+<marker id="arrow-mesoamerica-caribbean-period" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#7d8c6f"/></marker>
+</defs><style>text{font-family:Arial,Helvetica,sans-serif;fill:#25372c}.map-node,.map-edge{cursor:pointer;outline:none}.map-node rect{stroke:#fffdf8;stroke-width:2}.map-node:hover rect,.map-node:focus rect{stroke:#3c5441;stroke-width:3}.map-label{font-size:21px;font-weight:600;pointer-events:none}.map-date{font-size:12px;fill:#617056;pointer-events:none}.edge-line{fill:none;stroke-width:2.5;stroke-linejoin:round;stroke-linecap:round}.edge-hit{fill:none;stroke:transparent;stroke-width:36;vector-effect:non-scaling-stroke}.map-edge:hover .edge-label-bg,.map-edge:focus .edge-label-bg{stroke:#334d3c;stroke-width:2}.map-edge:hover .edge-line,.map-edge:focus .edge-line{stroke-width:4}.edge-label{font-size:15px;font-weight:500;pointer-events:none}.map-heading{font-size:47px;font-weight:700;letter-spacing:-1.2px}.map-subtitle{font-size:24px;fill:#67785a}.map-micro{font-size:13px;fill:#8a977d}.map-node.dim{opacity:.15}.map-node.hit rect{stroke:#294332;stroke-width:4}.map-node.selected rect{stroke:#294332;stroke-width:4}.map-edge.related .edge-line{stroke-width:4.5}</style><rect width="100%" height="100%" fill="#fdfcf8"/><text class="map-heading" x="800" y="74" text-anchor="middle">EMPIRES &amp; CONNECTIONS</text><text class="map-subtitle" x="800" y="117" text-anchor="middle">Mesoamerica &amp; the Caribbean</text><text class="map-micro" x="800" y="154" text-anchor="middle">Tap a node to read · Tap an arrow for the event and sources</text>
+<g class="map-edge" id="map-edge-mesoamerica-caribbean-ao-olmec-mexica" data-connection="ao-olmec-mexica" data-map="mesoamerica-caribbean" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Olmec traditions to Aztec Triple Alliance: Ancient objects reused. Open relationship details." style="--edge-color:#8b7297"><title>Contact / influence: Ancient objects reused</title>
+<path class="edge-hit" d="M524.5 314.34C524.5 340.33 524.5 371.16 524.5 389.62"/><path class="edge-line" stroke="#8b7297" stroke-dasharray="6 6" d="M524.5 314.34C524.5 340.33 524.5 371.16 524.5 389.62"/>
+<path class="edge-hit" d="M524.5 424.37C524.5 442.86 524.5 473.77 524.5 499.8"/><path class="edge-line" stroke="#8b7297" stroke-dasharray="6 6" d="M524.5 424.37C524.5 442.86 524.5 473.77 524.5 499.8" marker-end="url(#arrow-mesoamerica-caribbean-contact)"/>
+<rect class="edge-label-bg" x="427" y="390" width="195" height="34" rx="7" fill="#fdfcf8" stroke="#8b7297" stroke-opacity=".28"/>
+<text class="edge-label" x="524.5" y="412" text-anchor="middle">Ancient objects reused</text>
+</g>
+<g class="map-edge" id="map-edge-mesoamerica-caribbean-ao-teotihuacan-maya" data-connection="ao-teotihuacan-maya" data-map="mesoamerica-caribbean" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Teotihuacan to Maya · Classic period: Exchange &amp; artistic connections. Open relationship details." style="--edge-color:#8b7297"><title>Contact / influence: Exchange &amp; artistic connections</title>
+<path class="edge-hit" d="M800.5 314.34C800.5 340.33 800.5 371.16 800.5 389.62"/><path class="edge-line" stroke="#8b7297" stroke-dasharray="6 6" d="M800.5 314.34C800.5 340.33 800.5 371.16 800.5 389.62"/>
+<path class="edge-hit" d="M800.5 424.37C800.5 442.86 800.5 473.77 800.5 499.8"/><path class="edge-line" stroke="#8b7297" stroke-dasharray="6 6" d="M800.5 424.37C800.5 442.86 800.5 473.77 800.5 499.8" marker-end="url(#arrow-mesoamerica-caribbean-contact)"/>
+<rect class="edge-label-bg" x="669.25" y="390" width="262.5" height="34" rx="7" fill="#fdfcf8" stroke="#8b7297" stroke-opacity=".28"/>
+<text class="edge-label" x="800.5" y="412" text-anchor="middle">Exchange &amp; artistic connections</text>
+</g>
+<g class="map-edge" id="map-edge-mesoamerica-caribbean-ao-maya-persistence" data-connection="ao-maya-persistence" data-map="mesoamerica-caribbean" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Maya · Classic period to Maya peoples · living communities: Communities continue. Open relationship details." style="--edge-color:#8b7297"><title>Contact / influence: Communities continue</title>
+<path class="edge-hit" d="M800.5 594.34C800.5 620.33 800.5 651.16 800.5 669.62"/><path class="edge-line" stroke="#8b7297" stroke-dasharray="6 6" d="M800.5 594.34C800.5 620.33 800.5 651.16 800.5 669.62"/>
+<path class="edge-hit" d="M800.5 704.37C800.5 722.86 800.5 753.77 800.5 779.8"/><path class="edge-line" stroke="#8b7297" stroke-dasharray="6 6" d="M800.5 704.37C800.5 722.86 800.5 753.77 800.5 779.8" marker-end="url(#arrow-mesoamerica-caribbean-contact)"/>
+<rect class="edge-label-bg" x="710.5" y="670" width="180" height="34" rx="7" fill="#fdfcf8" stroke="#8b7297" stroke-opacity=".28"/>
+<text class="edge-label" x="800.5" y="692" text-anchor="middle">Communities continue</text>
+</g>
+<g class="map-edge" id="map-edge-mesoamerica-caribbean-ao-tenochtitlan-conquest" data-connection="ao-tenochtitlan-conquest" data-map="mesoamerica-caribbean" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Aztec Triple Alliance to Colonial Era: Conquest of Tenochtitlan. Open relationship details." style="--edge-color:#aa6355"><title>Conquest: Conquest of Tenochtitlan</title>
+<path class="edge-hit" d="M524.5 594.34C524.5 620.33 524.5 651.16 524.5 669.62"/><path class="edge-line" stroke="#aa6355"  d="M524.5 594.34C524.5 620.33 524.5 651.16 524.5 669.62"/>
+<path class="edge-hit" d="M524.5 704.37C524.5 722.86 524.5 753.77 524.5 779.8"/><path class="edge-line" stroke="#aa6355"  d="M524.5 704.37C524.5 722.86 524.5 753.77 524.5 779.8" marker-end="url(#arrow-mesoamerica-caribbean-conquest)"/>
+<rect class="edge-label-bg" x="419.5" y="670" width="210" height="34" rx="7" fill="#fdfcf8" stroke="#aa6355" stroke-opacity=".28"/>
+<text class="edge-label" x="524.5" y="692" text-anchor="middle">Conquest of Tenochtitlan</text>
+</g>
+<g class="map-edge" id="map-edge-mesoamerica-caribbean-ao-new-spain-independence" data-connection="ao-new-spain-independence" data-map="mesoamerica-caribbean" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Colonial Era to Mexico: Mexican independence. Open relationship details." style="--edge-color:#638350"><title>Independence: Mexican independence</title>
+<path class="edge-hit" d="M524.5 874.34C524.5 900.33 524.5 931.16 524.5 949.62"/><path class="edge-line" stroke="#638350"  d="M524.5 874.34C524.5 900.33 524.5 931.16 524.5 949.62"/>
+<path class="edge-hit" d="M524.5 984.37C524.5 1002.86 524.5 1033.77 524.5 1059.8"/><path class="edge-line" stroke="#638350"  d="M524.5 984.37C524.5 1002.86 524.5 1033.77 524.5 1059.8" marker-end="url(#arrow-mesoamerica-caribbean-independence)"/>
+<rect class="edge-label-bg" x="434.5" y="950" width="180" height="34" rx="7" fill="#fdfcf8" stroke="#638350" stroke-opacity=".28"/>
+<text class="edge-label" x="524.5" y="972" text-anchor="middle">Mexican independence</text>
+</g>
+<g class="map-edge" id="map-edge-mesoamerica-caribbean-ao-french-hispaniola" data-connection="ao-french-hispaniola" data-map="mesoamerica-caribbean" role="button" tabindex="0" aria-haspopup="dialog" aria-label="French kingdom to Saint-Domingue · French colonial rule: French colony. Open relationship details." style="--edge-color:#9a8055"><title>Colonial rule: French colony</title>
+<path class="edge-hit" d="M1075.5 314.34C1075.5 340.33 1075.5 371.16 1075.5 389.62"/><path class="edge-line" stroke="#9a8055"  d="M1075.5 314.34C1075.5 340.33 1075.5 371.16 1075.5 389.62"/>
+<path class="edge-hit" d="M1075.5 424.37C1075.5 442.86 1075.5 473.77 1075.5 499.8"/><path class="edge-line" stroke="#9a8055"  d="M1075.5 424.37C1075.5 442.86 1075.5 473.77 1075.5 499.8" marker-end="url(#arrow-mesoamerica-caribbean-colonial)"/>
+<rect class="edge-label-bg" x="1011.75" y="390" width="127.5" height="34" rx="7" fill="#fdfcf8" stroke="#9a8055" stroke-opacity=".28"/>
+<text class="edge-label" x="1075.5" y="412" text-anchor="middle">French colony</text>
+</g>
+<g class="map-edge" id="map-edge-mesoamerica-caribbean-ao-haitian-revolution" data-connection="ao-haitian-revolution" data-map="mesoamerica-caribbean" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Saint-Domingue · French colonial rule to Haiti: Revolution &amp; independence. Open relationship details." style="--edge-color:#638350"><title>Independence: Revolution &amp; independence</title>
+<path class="edge-hit" d="M1075.5 594.34C1075.5 620.33 1075.5 651.16 1075.5 669.62"/><path class="edge-line" stroke="#638350"  d="M1075.5 594.34C1075.5 620.33 1075.5 651.16 1075.5 669.62"/>
+<path class="edge-hit" d="M1075.5 704.37C1075.5 722.86 1075.5 753.77 1075.5 779.8"/><path class="edge-line" stroke="#638350"  d="M1075.5 704.37C1075.5 722.86 1075.5 753.77 1075.5 779.8" marker-end="url(#arrow-mesoamerica-caribbean-independence)"/>
+<rect class="edge-label-bg" x="966.75" y="670" width="217.5" height="34" rx="7" fill="#fdfcf8" stroke="#638350" stroke-opacity=".28"/>
+<text class="edge-label" x="1075.5" y="692" text-anchor="middle">Revolution &amp; independence</text>
+</g>
+<g class="map-node" id="map-node-mesoamerica-caribbean-olmec" data-history="olmec" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Olmec traditions, c. 1500–400 BCE. Open Wikipedia." data-map="mesoamerica-caribbean"><title>Olmec traditions · c. 1500–400 BCE</title><rect x="410.5" y="220" width="228" height="94" rx="10" fill="#efc16f"/>
+<text class="map-label" style="font-size:21px" x="524.5" y="263" text-anchor="middle">Olmec traditions</text>
+<text class="map-date" x="524.5" y="299" text-anchor="middle">c. 1500–400 BCE</text></g>
+<g class="map-node" id="map-node-mesoamerica-caribbean-teotihuacan" data-history="teotihuacan" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Teotihuacan, c. 100 BCE–650 CE. Open Wikipedia." data-map="mesoamerica-caribbean"><title>Teotihuacan · c. 100 BCE–650 CE</title><rect x="686.5" y="220" width="228" height="94" rx="10" fill="#a9cd9b"/>
+<text class="map-label" style="font-size:21px" x="800.5" y="263" text-anchor="middle">Teotihuacan</text>
+<text class="map-date" x="800.5" y="299" text-anchor="middle">c. 100 BCE–650 CE</text></g>
+<g class="map-node" id="map-node-mesoamerica-caribbean-maya" data-history="maya" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Maya · Classic period, c. 250–900 CE. Open Wikipedia." data-map="mesoamerica-caribbean"><title>Maya · Classic period · c. 250–900 CE</title><rect x="686.5" y="500" width="228" height="94" rx="10" fill="#eba395"/>
+<text class="map-label" style="font-size:21px" x="800.5" y="531" text-anchor="middle">Maya · Classic</text>
+<text class="map-label" style="font-size:21px" x="800.5" y="555" text-anchor="middle">period</text>
+<text class="map-date" x="800.5" y="579" text-anchor="middle">c. 250–900</text></g>
+<g class="map-node" id="map-node-mesoamerica-caribbean-mexica" data-history="mexica" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Aztec Triple Alliance, 1428–1521 CE. Open Wikipedia." data-map="mesoamerica-caribbean"><title>Aztec Triple Alliance · 1428–1521 CE</title><rect x="410.5" y="500" width="228" height="94" rx="10" fill="#d2aed0"/>
+<text class="map-label" style="font-size:21px" x="524.5" y="531" text-anchor="middle">Aztec Triple</text>
+<text class="map-label" style="font-size:21px" x="524.5" y="555" text-anchor="middle">Alliance</text>
+<text class="map-date" x="524.5" y="579" text-anchor="middle">1428–1521</text></g>
+<g class="map-node" id="map-node-mesoamerica-caribbean-poster-newspain" data-history="poster-newspain" role="button" tabindex="0" aria-haspopup="dialog" aria-label="New Spain · mainland Mexican frame, 1521–1821 CE · conquest and colonial frame. Open Wikipedia." data-map="mesoamerica-caribbean"><title>New Spain · mainland Mexican frame · 1521–1821 CE · conquest and colonial frame</title><rect x="410.5" y="780" width="228" height="94" rx="10" fill="#efc16f"/>
+<text class="map-label" style="font-size:21px" x="524.5" y="823" text-anchor="middle">Colonial Era</text>
+<text class="map-date" x="524.5" y="859" text-anchor="middle">1521–1821 · conquest and colonial…</text></g>
+<g class="map-node" id="map-node-mesoamerica-caribbean-mexicomodern" data-history="mexicomodern" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Mexico · independent eras, 1821 CE–present. Open Wikipedia." data-map="mesoamerica-caribbean"><title>Mexico · independent eras · 1821 CE–present</title><rect x="410.5" y="1060" width="228" height="94" rx="10" fill="#98c8b1"/>
+<text class="map-label" style="font-size:21px" x="524.5" y="1103" text-anchor="middle">Mexico</text>
+<text class="map-date" x="524.5" y="1139" text-anchor="middle">1821–present</text></g>
+<g class="map-node" id="map-node-mesoamerica-caribbean-ao-maya-peoples" data-history="ao-maya-peoples" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Maya peoples · living communities, Ancient roots–present. Open Wikipedia." data-map="mesoamerica-caribbean"><title>Maya peoples · living communities · Ancient roots–present</title><rect x="686.5" y="780" width="228" height="94" rx="10" fill="#92bccd"/>
+<text class="map-label" style="font-size:21px" x="800.5" y="811" text-anchor="middle">Maya peoples ·</text>
+<text class="map-label" style="font-size:21px" x="800.5" y="835" text-anchor="middle">living communities</text>
+<text class="map-date" x="800.5" y="859" text-anchor="middle">Ancient roots–present</text></g>
+<g class="map-node" id="map-node-mesoamerica-caribbean-francekingdom" data-history="francekingdom" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Kingdom of France, 987 CE–1792 CE. Open Wikipedia." data-map="mesoamerica-caribbean"><title>Kingdom of France · 987 CE–1792 CE</title><rect x="961.5" y="220" width="228" height="94" rx="10" fill="#c4afd1"/>
+<text class="map-label" style="font-size:21px" x="1075.5" y="263" text-anchor="middle">French kingdom</text>
+<text class="map-date" x="1075.5" y="299" text-anchor="middle">987–1792</text></g>
+<g class="map-node" id="map-node-mesoamerica-caribbean-ao-saint-domingue" data-history="ao-saint-domingue" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Saint-Domingue · French colonial rule, Late 17th century–1804. Open Wikipedia." data-map="mesoamerica-caribbean"><title>Saint-Domingue · French colonial rule · Late 17th century–1804</title><rect x="961.5" y="500" width="228" height="94" rx="10" fill="#a9cd9b"/>
+<text class="map-label" style="font-size:18px" x="1075.5" y="521" text-anchor="middle">Saint-Domingue ·</text>
+<text class="map-label" style="font-size:18px" x="1075.5" y="543" text-anchor="middle">French colonial</text>
+<text class="map-label" style="font-size:18px" x="1075.5" y="565" text-anchor="middle">rule</text>
+<text class="map-date" x="1075.5" y="579" text-anchor="middle">Late 17th century–1804</text></g>
+<g class="map-node" id="map-node-mesoamerica-caribbean-haiti" data-history="haiti" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Haiti · independent eras, 1804 CE–present. Open Wikipedia." data-map="mesoamerica-caribbean"><title>Haiti · independent eras · 1804 CE–present</title><rect x="961.5" y="780" width="228" height="94" rx="10" fill="#d2aed0"/>
+<text class="map-label" style="font-size:21px" x="1075.5" y="823" text-anchor="middle">Haiti</text>
+<text class="map-date" x="1075.5" y="859" text-anchor="middle">1804–present</text></g>
+<text class="map-micro" x="800" y="1275" text-anchor="middle">Continue this history on another map</text>
+<g class="map-continuation" id="map-jump-mesoamerica-caribbean-0" role="button" tabindex="0" data-map-target="iberian-americas" data-map-history="mexicomodern" aria-label="Iberian crowns &amp; American successors"><rect x="112" y="1289" width="680" height="70" rx="8" fill="#edf3e5" stroke="#bdcdb1"/>
+<text x="452" y="1325" text-anchor="middle" style="font-size:16px">Iberian crowns &amp; American successors</text>
+</g>
+<g class="map-continuation" id="map-jump-mesoamerica-caribbean-1" role="button" tabindex="0" data-map-target="north-american-communities" data-map-history="mexicomodern" aria-label="North American communities &amp; changing borders"><rect x="808" y="1289" width="680" height="70" rx="8" fill="#edf3e5" stroke="#bdcdb1"/>
+<text x="1148" y="1325" text-anchor="middle" style="font-size:16px">North American communities &amp; changing borders</text>
+</g>
+<path d="M70 1395h20" stroke="#3b8274" stroke-width="3"/><text x="98" y="1400" style="font-size:14px;fill:#6b7b5e">Union</text>
+<path d="M362 1395h20" stroke="#b88636" stroke-width="3"/><text x="390" y="1400" style="font-size:14px;fill:#6b7b5e">Division</text>
+<path d="M654 1395h20" stroke="#aa6355" stroke-width="3"/><text x="682" y="1400" style="font-size:14px;fill:#6b7b5e">Conquest</text>
+<path d="M946 1395h20" stroke="#638350" stroke-width="3"/><text x="974" y="1400" style="font-size:14px;fill:#6b7b5e">Independence</text>
+<path d="M1238 1395h20" stroke="#5d7f9d" stroke-width="3"/><text x="1266" y="1400" style="font-size:14px;fill:#6b7b5e">Change of rule</text>
+<path d="M70 1421h20" stroke="#8b7297" stroke-width="3"/><text x="98" y="1426" style="font-size:14px;fill:#6b7b5e">Contact / influence</text>
+<path d="M362 1421h20" stroke="#9a8055" stroke-width="3"/><text x="390" y="1426" style="font-size:14px;fill:#6b7b5e">Colonial rule</text>
+<path d="M654 1421h20" stroke="#92917a" stroke-width="3"/><text x="682" y="1426" style="font-size:14px;fill:#6b7b5e">Context / overlap</text>
+<path d="M946 1421h20" stroke="#7d8c6f" stroke-width="3"/><text x="974" y="1426" style="font-size:14px;fill:#6b7b5e">Period transition</text>
+<text class="map-micro" x="800" y="1462" text-anchor="middle">Selected connections · Layout is not a time, territory or ancestry scale</text></svg>

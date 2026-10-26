@@ -1,0 +1,17 @@
+{
+  "name": "many-histories-atlas",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Static history atlas; Graphviz is used only to build connection maps.",
+  "devDependencies": {
+    "@viz-js/viz": "3.31.0"
+  },
+  "scripts": {
+    "build": "node scripts/rebuild.cjs",
+    "check": "node scripts/verify.cjs && node scripts/verify-navigation.cjs && node --check dist/app.js",
+    "preview": "python3 -m http.server 8080 --directory dist"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

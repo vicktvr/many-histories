@@ -1,0 +1,196 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 2650" width="1600" height="2650" role="group" aria-labelledby="map-title-rome-francia map-desc-rome-francia"><title id="map-title-rome-francia">Rome, Frankish realms &amp; modern successors</title><desc id="map-desc-rome-francia">Selected, sourced connections. Arrows label unions, divisions, conquest, independence, changes in rule, and contact. Node positions do not measure time or ancestry.  Select a node for Wikipedia or an arrow for its sources.</desc><defs>
+<marker id="arrow-rome-francia-union" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#3b8274"/></marker>
+<marker id="arrow-rome-francia-division" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#b88636"/></marker>
+<marker id="arrow-rome-francia-conquest" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#aa6355"/></marker>
+<marker id="arrow-rome-francia-independence" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#638350"/></marker>
+<marker id="arrow-rome-francia-continuation" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#5d7f9d"/></marker>
+<marker id="arrow-rome-francia-contact" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#8b7297"/></marker>
+<marker id="arrow-rome-francia-colonial" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#9a8055"/></marker>
+<marker id="arrow-rome-francia-context" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#92917a"/></marker>
+<marker id="arrow-rome-francia-period" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#7d8c6f"/></marker>
+</defs><style>text{font-family:Arial,Helvetica,sans-serif;fill:#25372c}.map-node,.map-edge{cursor:pointer;outline:none}.map-node rect{stroke:#fffdf8;stroke-width:2}.map-node:hover rect,.map-node:focus rect{stroke:#3c5441;stroke-width:3}.map-label{font-size:21px;font-weight:600;pointer-events:none}.map-date{font-size:12px;fill:#617056;pointer-events:none}.edge-line{fill:none;stroke-width:2.5;stroke-linejoin:round;stroke-linecap:round}.edge-hit{fill:none;stroke:transparent;stroke-width:36;vector-effect:non-scaling-stroke}.map-edge:hover .edge-label-bg,.map-edge:focus .edge-label-bg{stroke:#334d3c;stroke-width:2}.map-edge:hover .edge-line,.map-edge:focus .edge-line{stroke-width:4}.edge-label{font-size:15px;font-weight:500;pointer-events:none}.map-heading{font-size:47px;font-weight:700;letter-spacing:-1.2px}.map-subtitle{font-size:24px;fill:#67785a}.map-micro{font-size:13px;fill:#8a977d}.map-node.dim{opacity:.15}.map-node.hit rect{stroke:#294332;stroke-width:4}.map-node.selected rect{stroke:#294332;stroke-width:4}.map-edge.related .edge-line{stroke-width:4.5}</style><rect width="100%" height="100%" fill="#fdfcf8"/><text class="map-heading" x="800" y="74" text-anchor="middle">EMPIRES &amp; CONNECTIONS</text><text class="map-subtitle" x="800" y="117" text-anchor="middle">Rome, Frankish realms &amp; modern successors</text><text class="map-micro" x="800" y="154" text-anchor="middle">Tap a node to read · Tap an arrow for the event and sources</text>
+<g class="map-edge" id="map-edge-rome-francia-principate" data-connection="principate" data-map="rome-francia" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Roman Republic to Roman Empire: 27 BCE · principate. Open relationship details." style="--edge-color:#5d7f9d"><title>Change of rule: 27 BCE · principate</title>
+<path class="edge-hit" d="M304 314C304 385 304 385 304 385"/><path class="edge-line" stroke="#5d7f9d"  d="M304 314C304 385 304 385 304 385"/>
+<path class="edge-hit" d="M304 385C304 385 304 385 304 460"/><path class="edge-line" stroke="#5d7f9d"  d="M304 385C304 385 304 385 304 460" marker-end="url(#arrow-rome-francia-continuation)"/>
+<rect class="edge-label-bg" x="217.75" y="368" width="172.5" height="34" rx="7" fill="#fdfcf8" stroke="#5d7f9d" stroke-opacity=".28"/>
+<text class="edge-label" x="304" y="390" text-anchor="middle">27 BCE · principate</text>
+</g>
+<g class="map-edge" id="map-edge-rome-francia-roman-division" data-connection="roman-division" data-map="rome-francia" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Roman Empire to Western Roman Empire + Eastern Roman / Byzantium: 395 · separate imperial courts. Open relationship details." style="--edge-color:#b88636"><title>Division: 395 · separate imperial courts</title>
+<path class="edge-hit" d="M304 554C304 645 304 645 450 645"/><path class="edge-line" stroke="#b88636"  d="M304 554C304 645 304 645 450 645"/>
+<path class="edge-hit" d="M450 645C264 645 264 645 264 720"/><path class="edge-line" stroke="#b88636"  d="M450 645C264 645 264 645 264 720" marker-end="url(#arrow-rome-francia-division)"/>
+<path class="edge-hit" d="M450 645C834 645 834 645 834 720"/><path class="edge-line" stroke="#b88636"  d="M450 645C834 645 834 645 834 720" marker-end="url(#arrow-rome-francia-division)"/>
+<rect class="edge-label-bg" x="322.5" y="628" width="255" height="34" rx="7" fill="#fdfcf8" stroke="#b88636" stroke-opacity=".28"/>
+<text class="edge-label" x="450" y="650" text-anchor="middle">395 · separate imperial courts</text>
+</g>
+<g class="map-edge" id="map-edge-rome-francia-roman-revival" data-connection="roman-revival" data-map="rome-francia" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Western Roman Empire to Carolingian Empire: 800 · Roman imperial title revived. Open relationship details." style="--edge-color:#8b7297"><title>Contact / influence: 800 · Roman imperial title revived</title>
+<path class="edge-hit" d="M264 814C264 925 264 925 264 925"/><path class="edge-line" stroke="#8b7297" stroke-dasharray="6 6" d="M264 814C264 925 264 925 264 925"/>
+<path class="edge-hit" d="M264 925C264 925 264 925 264 1010"/><path class="edge-line" stroke="#8b7297" stroke-dasharray="6 6" d="M264 925C264 925 264 925 264 1010" marker-end="url(#arrow-rome-francia-contact)"/>
+<rect class="edge-label-bg" x="121.5" y="908" width="285" height="34" rx="7" fill="#fdfcf8" stroke="#8b7297" stroke-opacity=".28"/>
+<text class="edge-label" x="264" y="930" text-anchor="middle">800 · Roman imperial title revived</text>
+</g>
+<g class="map-edge" id="map-edge-rome-francia-roman-persian" data-connection="roman-persian" data-map="rome-francia" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Eastern Roman / Byzantium to Sasanian Empire: War, diplomacy &amp; exchange. Open relationship details." style="--edge-color:#8b7297"><title>Contact / influence: War, diplomacy &amp; exchange</title>
+<path class="edge-hit" d="M948 767C1100 767 1100 767 1260 767"/><path class="edge-line" stroke="#8b7297" stroke-dasharray="6 6" d="M948 767C1100 767 1100 767 1260 767" marker-end="url(#arrow-rome-francia-contact)" marker-start="url(#arrow-rome-francia-contact)"/>
+<rect class="edge-label-bg" x="991.25" y="749" width="217.5" height="34" rx="7" fill="#fdfcf8" stroke="#8b7297" stroke-opacity=".28"/>
+<text class="edge-label" x="1100" y="771" text-anchor="middle">War, diplomacy &amp; exchange</text>
+</g>
+<g class="map-edge" id="map-edge-rome-francia-constantinople1453" data-connection="constantinople1453" data-map="rome-francia" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Eastern Roman / Byzantium to Ottoman Empire: 1453 · Constantinople conquered. Open relationship details." style="--edge-color:#aa6355"><title>Conquest: 1453 · Constantinople conquered</title>
+<path class="edge-hit" d="M834 814C834 925 834 925 994 925"/><path class="edge-line" stroke="#aa6355"  d="M834 814C834 925 834 925 994 925"/>
+<path class="edge-hit" d="M994 925C994 925 994 925 994 1010"/><path class="edge-line" stroke="#aa6355"  d="M994 925C994 925 994 925 994 1010" marker-end="url(#arrow-rome-francia-conquest)"/>
+<rect class="edge-label-bg" x="862.75" y="908" width="262.5" height="34" rx="7" fill="#fdfcf8" stroke="#aa6355" stroke-opacity=".28"/>
+<text class="edge-label" x="994" y="930" text-anchor="middle">1453 · Constantinople conquered</text>
+</g>
+<g class="map-edge" id="map-edge-rome-francia-verdun843" data-connection="verdun843" data-map="rome-francia" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Carolingian Empire to West Francia + Middle Francia + East Francia: 843 · Treaty of Verdun. Open relationship details." style="--edge-color:#b88636"><title>Division: 843 · Treaty of Verdun</title>
+<path class="edge-hit" d="M264 1104C264 1170 264 1170 525 1170"/><path class="edge-line" stroke="#b88636"  d="M264 1104C264 1170 264 1170 525 1170"/>
+<path class="edge-hit" d="M525 1170C159 1170 159 1170 159 1250"/><path class="edge-line" stroke="#b88636"  d="M525 1170C159 1170 159 1170 159 1250" marker-end="url(#arrow-rome-francia-division)"/>
+<path class="edge-hit" d="M525 1170C524 1170 524 1170 524 1250"/><path class="edge-line" stroke="#b88636"  d="M525 1170C524 1170 524 1170 524 1250" marker-end="url(#arrow-rome-francia-division)"/>
+<path class="edge-hit" d="M525 1170C889 1170 889 1170 889 1250"/><path class="edge-line" stroke="#b88636"  d="M525 1170C889 1170 889 1170 889 1250" marker-end="url(#arrow-rome-francia-division)"/>
+<rect class="edge-label-bg" x="427.5" y="1153" width="195" height="34" rx="7" fill="#fdfcf8" stroke="#b88636" stroke-opacity=".28"/>
+<text class="edge-label" x="525" y="1175" text-anchor="middle">843 · Treaty of Verdun</text>
+</g>
+<g class="map-edge" id="map-edge-rome-francia-capetian987" data-connection="capetian987" data-map="rome-francia" role="button" tabindex="0" aria-haspopup="dialog" aria-label="West Francia to French kingdom: 987 · Capetian accession. Open relationship details." style="--edge-color:#5d7f9d"><title>Change of rule: 987 · Capetian accession</title>
+<path class="edge-hit" d="M159 1344C159 1385 159 1385 159 1385"/><path class="edge-line" stroke="#5d7f9d"  d="M159 1344C159 1385 159 1385 159 1385"/>
+<path class="edge-hit" d="M159 1385C159 1385 159 1385 159 1455"/><path class="edge-line" stroke="#5d7f9d"  d="M159 1385C159 1385 159 1385 159 1455" marker-end="url(#arrow-rome-francia-continuation)"/>
+<rect class="edge-label-bg" x="54" y="1368" width="210" height="34" rx="7" fill="#fdfcf8" stroke="#5d7f9d" stroke-opacity=".28"/>
+<text class="edge-label" x="159" y="1390" text-anchor="middle">987 · Capetian accession</text>
+</g>
+<g class="map-edge" id="map-edge-rome-francia-otto962" data-connection="otto962" data-map="rome-francia" role="button" tabindex="0" aria-haspopup="dialog" aria-label="East Francia to Holy Roman Empire: 962 · imperial coronation. Open relationship details." style="--edge-color:#5d7f9d"><title>Change of rule: 962 · imperial coronation</title>
+<path class="edge-hit" d="M889 1344C889 1385 889 1385 889 1385"/><path class="edge-line" stroke="#5d7f9d"  d="M889 1344C889 1385 889 1385 889 1385"/>
+<path class="edge-hit" d="M889 1385C889 1385 889 1385 889 1455"/><path class="edge-line" stroke="#5d7f9d"  d="M889 1385C889 1385 889 1385 889 1455" marker-end="url(#arrow-rome-francia-continuation)"/>
+<rect class="edge-label-bg" x="780.25" y="1368" width="217.5" height="34" rx="7" fill="#fdfcf8" stroke="#5d7f9d" stroke-opacity=".28"/>
+<text class="edge-label" x="889" y="1390" text-anchor="middle">962 · imperial coronation</text>
+</g>
+<g class="map-edge" id="map-edge-rome-francia-france-republic" data-connection="france-republic" data-map="rome-francia" role="button" tabindex="0" aria-haspopup="dialog" aria-label="French kingdom to France · modern eras: 1792 · monarchy abolished. Open relationship details." style="--edge-color:#5d7f9d"><title>Change of rule: 1792 · monarchy abolished</title>
+<path class="edge-hit" d="M159 1549C159 1650 159 1650 159 1650"/><path class="edge-line" stroke="#5d7f9d"  d="M159 1549C159 1650 159 1650 159 1650"/>
+<path class="edge-hit" d="M159 1650C159 1650 159 1650 159 1730"/><path class="edge-line" stroke="#5d7f9d"  d="M159 1650C159 1650 159 1650 159 1730" marker-end="url(#arrow-rome-francia-continuation)"/>
+<rect class="edge-label-bg" x="50.25" y="1633" width="217.5" height="34" rx="7" fill="#fdfcf8" stroke="#5d7f9d" stroke-opacity=".28"/>
+<text class="edge-label" x="159" y="1655" text-anchor="middle">1792 · monarchy abolished</text>
+</g>
+<g class="map-edge" id="map-edge-rome-francia-german-reorganisation" data-connection="german-reorganisation" data-map="rome-francia" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Holy Roman Empire to German Confederation: 1806–15 · imperial end &amp; new league. Open relationship details." style="--edge-color:#5d7f9d"><title>Change of rule: 1806–15 · imperial end &amp; new league</title>
+<path class="edge-hit" d="M889 1549C889 1650 889 1650 764 1650"/><path class="edge-line" stroke="#5d7f9d"  d="M889 1549C889 1650 889 1650 764 1650"/>
+<path class="edge-hit" d="M764 1650C764 1650 764 1650 764 1730"/><path class="edge-line" stroke="#5d7f9d"  d="M764 1650C764 1650 764 1650 764 1730" marker-end="url(#arrow-rome-francia-continuation)"/>
+<rect class="edge-label-bg" x="617.75" y="1633" width="292.5" height="34" rx="7" fill="#fdfcf8" stroke="#5d7f9d" stroke-opacity=".28"/>
+<text class="edge-label" x="764" y="1655" text-anchor="middle">1806–15 · imperial end &amp; new league</text>
+</g>
+<g class="map-edge" id="map-edge-rome-francia-habsburg-imperial-frame" data-connection="habsburg-imperial-frame" data-map="rome-francia" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Holy Roman Empire to Austrian Empire: 1804–06 · Habsburg imperial change. Open relationship details." style="--edge-color:#5d7f9d"><title>Change of rule: 1804–06 · Habsburg imperial change</title>
+<path class="edge-hit" d="M889 1549C889 1650 889 1650 1294 1650"/><path class="edge-line" stroke="#5d7f9d"  d="M889 1549C889 1650 889 1650 1294 1650"/>
+<path class="edge-hit" d="M1294 1650C1294 1650 1294 1650 1294 1730"/><path class="edge-line" stroke="#5d7f9d"  d="M1294 1650C1294 1650 1294 1650 1294 1730" marker-end="url(#arrow-rome-francia-continuation)"/>
+<rect class="edge-label-bg" x="1151.5" y="1633" width="285" height="34" rx="7" fill="#fdfcf8" stroke="#5d7f9d" stroke-opacity=".28"/>
+<text class="edge-label" x="1294" y="1655" text-anchor="middle">1804–06 · Habsburg imperial change</text>
+</g>
+<g class="map-edge" id="map-edge-rome-francia-northgerman1867" data-connection="northgerman1867" data-map="rome-francia" role="button" tabindex="0" aria-haspopup="dialog" aria-label="German Confederation to North German Confederation: 1866–67 · new northern federation. Open relationship details." style="--edge-color:#5d7f9d"><title>Change of rule: 1866–67 · new northern federation</title>
+<path class="edge-hit" d="M764 1824C764 1915 764 1915 764 1915"/><path class="edge-line" stroke="#5d7f9d"  d="M764 1824C764 1915 764 1915 764 1915"/>
+<path class="edge-hit" d="M764 1915C764 1915 764 1915 764 1990"/><path class="edge-line" stroke="#5d7f9d"  d="M764 1915C764 1915 764 1915 764 1990" marker-end="url(#arrow-rome-francia-continuation)"/>
+<rect class="edge-label-bg" x="625.25" y="1898" width="277.5" height="34" rx="7" fill="#fdfcf8" stroke="#5d7f9d" stroke-opacity=".28"/>
+<text class="edge-label" x="764" y="1920" text-anchor="middle">1866–67 · new northern federation</text>
+</g>
+<g class="map-edge" id="map-edge-rome-francia-german-empire1871" data-connection="german-empire1871" data-map="rome-francia" role="button" tabindex="0" aria-haspopup="dialog" aria-label="North German Confederation to Germany · modern eras: 1871 · enlarged German federation. Open relationship details." style="--edge-color:#3b8274"><title>Union: 1871 · enlarged German federation</title>
+<path class="edge-hit" d="M764 2084C764 2175 764 2175 764 2175"/><path class="edge-line" stroke="#3b8274"  d="M764 2084C764 2175 764 2175 764 2175"/>
+<path class="edge-hit" d="M764 2175C764 2175 764 2175 764 2250"/><path class="edge-line" stroke="#3b8274"  d="M764 2175C764 2175 764 2175 764 2250" marker-end="url(#arrow-rome-francia-union)"/>
+<rect class="edge-label-bg" x="625.25" y="2158" width="277.5" height="34" rx="7" fill="#fdfcf8" stroke="#3b8274" stroke-opacity=".28"/>
+<text class="edge-label" x="764" y="2180" text-anchor="middle">1871 · enlarged German federation</text>
+</g>
+<g class="map-edge" id="map-edge-rome-francia-austriahungary1867" data-connection="austriahungary1867" data-map="rome-francia" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Austrian Empire to Austria-Hungary: 1867 · Dual Monarchy. Open relationship details." style="--edge-color:#5d7f9d"><title>Change of rule: 1867 · Dual Monarchy</title>
+<path class="edge-hit" d="M1294 1824C1294 1915 1294 1915 1294 1915"/><path class="edge-line" stroke="#5d7f9d"  d="M1294 1824C1294 1915 1294 1915 1294 1915"/>
+<path class="edge-hit" d="M1294 1915C1294 1915 1294 1915 1294 1990"/><path class="edge-line" stroke="#5d7f9d"  d="M1294 1915C1294 1915 1294 1915 1294 1990" marker-end="url(#arrow-rome-francia-continuation)"/>
+<rect class="edge-label-bg" x="1204" y="1898" width="180" height="34" rx="7" fill="#fdfcf8" stroke="#5d7f9d" stroke-opacity=".28"/>
+<text class="edge-label" x="1294" y="1920" text-anchor="middle">1867 · Dual Monarchy</text>
+</g>
+<g class="map-edge" id="map-edge-rome-francia-austria-republic1918" data-connection="austria-republic1918" data-map="rome-francia" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Austria-Hungary to Austria · republican eras: 1918 · one of several successor states. Open relationship details." style="--edge-color:#5d7f9d"><title>Change of rule: 1918 · one of several successor states</title>
+<path class="edge-hit" d="M1294 2084C1294 2175 1294 2175 1294 2175"/><path class="edge-line" stroke="#5d7f9d"  d="M1294 2084C1294 2175 1294 2175 1294 2175"/>
+<path class="edge-hit" d="M1294 2175C1294 2175 1294 2175 1294 2250"/><path class="edge-line" stroke="#5d7f9d"  d="M1294 2175C1294 2175 1294 2175 1294 2250" marker-end="url(#arrow-rome-francia-continuation)"/>
+<rect class="edge-label-bg" x="1136.5" y="2158" width="315" height="34" rx="7" fill="#fdfcf8" stroke="#5d7f9d" stroke-opacity=".28"/>
+<text class="edge-label" x="1294" y="2180" text-anchor="middle">1918 · one of several successor states</text>
+</g>
+<g class="map-edge" id="map-edge-rome-francia-turkey-republic1923" data-connection="turkey-republic1923" data-map="rome-francia" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Ottoman Empire to Republic of Türkiye: 1922–23 · sultanate ends; republic. Open relationship details." style="--edge-color:#5d7f9d"><title>Change of rule: 1922–23 · sultanate ends; republic</title>
+<path class="edge-hit" d="M880 1057L650 1057L650 1380L370 1380L370 2100"/><path class="edge-line" stroke="#5d7f9d"  d="M880 1057L650 1057L650 1380L370 1380L370 2100"/>
+<path class="edge-hit" d="M370 2100C194 2100 194 2100 194 2250"/><path class="edge-line" stroke="#5d7f9d"  d="M370 2100C194 2100 194 2100 194 2250" marker-end="url(#arrow-rome-francia-continuation)"/>
+<rect class="edge-label-bg" x="227.5" y="2083" width="285" height="34" rx="7" fill="#fdfcf8" stroke="#5d7f9d" stroke-opacity=".28"/>
+<text class="edge-label" x="370" y="2105" text-anchor="middle">1922–23 · sultanate ends; republic</text>
+</g>
+<g class="map-node" id="map-node-rome-francia-romanrepublic" data-history="romanrepublic" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Roman Republic, 509 BCE–27 BCE. Open Wikipedia." data-map="rome-francia"><title>Roman Republic · 509 BCE–27 BCE</title><rect x="190" y="220" width="228" height="94" rx="10" fill="#c4afd1"/>
+<text class="map-label" style="font-size:21px" x="304" y="263" text-anchor="middle">Roman Republic</text>
+<text class="map-date" x="304" y="299" text-anchor="middle">509 BCE–27 BCE</text></g>
+<g class="map-node" id="map-node-rome-francia-cn-romanempire" data-history="cn-romanempire" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Roman Empire · shared imperial frame, 27 BCE–395 CE · selected frame. Open Wikipedia." data-map="rome-francia"><title>Roman Empire · shared imperial frame · 27 BCE–395 CE · selected frame</title><rect x="190" y="460" width="228" height="94" rx="10" fill="#c4afd1"/>
+<text class="map-label" style="font-size:21px" x="304" y="503" text-anchor="middle">Roman Empire</text>
+<text class="map-date" x="304" y="539" text-anchor="middle">27 BCE–395 CE · selected frame</text></g>
+<g class="map-node" id="map-node-rome-francia-cn-westrome" data-history="cn-westrome" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Western Roman Empire · late phase, 395–476 CE · selected phase. Open Wikipedia." data-map="rome-francia"><title>Western Roman Empire · late phase · 395–476 CE · selected phase</title><rect x="150" y="720" width="228" height="94" rx="10" fill="#ee9792"/>
+<text class="map-label" style="font-size:21px" x="264" y="751" text-anchor="middle">Western Roman</text>
+<text class="map-label" style="font-size:21px" x="264" y="775" text-anchor="middle">Empire</text>
+<text class="map-date" x="264" y="799" text-anchor="middle">395–476 · selected phase</text></g>
+<g class="map-node" id="map-node-rome-francia-byzantium" data-history="byzantium" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Eastern Roman / Byzantine Empire, 330–1453 CE. Open Wikipedia." data-map="rome-francia"><title>Eastern Roman / Byzantine Empire · 330–1453 CE</title><rect x="720" y="720" width="228" height="94" rx="10" fill="#ee9792"/>
+<text class="map-label" style="font-size:21px" x="834" y="751" text-anchor="middle">Eastern Roman /</text>
+<text class="map-label" style="font-size:21px" x="834" y="775" text-anchor="middle">Byzantium</text>
+<text class="map-date" x="834" y="799" text-anchor="middle">330–1453</text></g>
+<g class="map-node" id="map-node-rome-francia-sasanian" data-history="sasanian" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Sasanian Empire, 224 CE–651 CE. Open Wikipedia." data-map="rome-francia"><title>Sasanian Empire · 224 CE–651 CE</title><rect x="1260" y="720" width="228" height="94" rx="10" fill="#86b5c2"/>
+<text class="map-label" style="font-size:21px" x="1374" y="763" text-anchor="middle">Sasanian Empire</text>
+<text class="map-date" x="1374" y="799" text-anchor="middle">224–651</text></g>
+<g class="map-node" id="map-node-rome-francia-carolingian" data-history="carolingian" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Carolingian imperial period, 800–888 CE. Open Wikipedia." data-map="rome-francia"><title>Carolingian imperial period · 800–888 CE</title><rect x="150" y="1010" width="228" height="94" rx="10" fill="#c4afd1"/>
+<text class="map-label" style="font-size:21px" x="264" y="1053" text-anchor="middle">Carolingian Empire</text>
+<text class="map-date" x="264" y="1089" text-anchor="middle">800–888</text></g>
+<g class="map-node" id="map-node-rome-francia-ottoman" data-history="ottoman" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Ottoman Empire, c. 1299–1922 CE. Open Wikipedia." data-map="rome-francia"><title>Ottoman Empire · c. 1299–1922 CE</title><rect x="880" y="1010" width="228" height="94" rx="10" fill="#86b5c2"/>
+<text class="map-label" style="font-size:21px" x="994" y="1053" text-anchor="middle">Ottoman Empire</text>
+<text class="map-date" x="994" y="1089" text-anchor="middle">c. 1299–1922</text></g>
+<g class="map-node" id="map-node-rome-francia-cn-westfrancia" data-history="cn-westfrancia" role="button" tabindex="0" aria-haspopup="dialog" aria-label="West Francia, 843–987 CE · selected frame. Open Wikipedia." data-map="rome-francia"><title>West Francia · 843–987 CE · selected frame</title><rect x="45" y="1250" width="228" height="94" rx="10" fill="#edbc75"/>
+<text class="map-label" style="font-size:21px" x="159" y="1293" text-anchor="middle">West Francia</text>
+<text class="map-date" x="159" y="1329" text-anchor="middle">843–987 · selected frame</text></g>
+<g class="map-node" id="map-node-rome-francia-cn-middlefrancia" data-history="cn-middlefrancia" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Middle Francia, 843–855 CE. Open Wikipedia." data-map="rome-francia"><title>Middle Francia · 843–855 CE</title><rect x="410" y="1250" width="228" height="94" rx="10" fill="#b7d08f"/>
+<text class="map-label" style="font-size:21px" x="524" y="1293" text-anchor="middle">Middle Francia</text>
+<text class="map-date" x="524" y="1329" text-anchor="middle">843–855</text></g>
+<g class="map-node" id="map-node-rome-francia-cn-eastfrancia" data-history="cn-eastfrancia" role="button" tabindex="0" aria-haspopup="dialog" aria-label="East Francia, 843–962 CE · selected frame. Open Wikipedia." data-map="rome-francia"><title>East Francia · 843–962 CE · selected frame</title><rect x="775" y="1250" width="228" height="94" rx="10" fill="#92c4bd"/>
+<text class="map-label" style="font-size:21px" x="889" y="1293" text-anchor="middle">East Francia</text>
+<text class="map-date" x="889" y="1329" text-anchor="middle">843–962 · selected frame</text></g>
+<g class="map-node" id="map-node-rome-francia-francekingdom" data-history="francekingdom" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Kingdom of France, 987 CE–1792 CE. Open Wikipedia." data-map="rome-francia"><title>Kingdom of France · 987 CE–1792 CE</title><rect x="45" y="1455" width="228" height="94" rx="10" fill="#c4afd1"/>
+<text class="map-label" style="font-size:21px" x="159" y="1498" text-anchor="middle">French kingdom</text>
+<text class="map-date" x="159" y="1534" text-anchor="middle">987–1792</text></g>
+<g class="map-node" id="map-node-rome-francia-holyroman" data-history="holyroman" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Holy Roman Empire, 962 CE–1806 CE. Open Wikipedia." data-map="rome-francia"><title>Holy Roman Empire · 962 CE–1806 CE</title><rect x="775" y="1455" width="228" height="94" rx="10" fill="#ee9792"/>
+<text class="map-label" style="font-size:20px" x="889" y="1498" text-anchor="middle">Holy Roman Empire</text>
+<text class="map-date" x="889" y="1534" text-anchor="middle">962–1806</text></g>
+<g class="map-node" id="map-node-rome-francia-francemodern" data-history="francemodern" role="button" tabindex="0" aria-haspopup="dialog" aria-label="France · revolutionary and modern eras, 1792 CE–present. Open Wikipedia." data-map="rome-francia"><title>France · revolutionary and modern eras · 1792 CE–present</title><rect x="45" y="1730" width="228" height="94" rx="10" fill="#c4afd1"/>
+<text class="map-label" style="font-size:21px" x="159" y="1761" text-anchor="middle">France · modern</text>
+<text class="map-label" style="font-size:21px" x="159" y="1785" text-anchor="middle">eras</text>
+<text class="map-date" x="159" y="1809" text-anchor="middle">1792–present</text></g>
+<g class="map-node" id="map-node-rome-francia-poster-europe-089" data-history="poster-europe-089" role="button" tabindex="0" aria-haspopup="dialog" aria-label="German Confederation, 1815 CE–1866 CE. Open Wikipedia." data-map="rome-francia"><title>German Confederation · 1815 CE–1866 CE</title><rect x="650" y="1730" width="228" height="94" rx="10" fill="#c4afd1"/>
+<text class="map-label" style="font-size:21px" x="764" y="1761" text-anchor="middle">German</text>
+<text class="map-label" style="font-size:21px" x="764" y="1785" text-anchor="middle">Confederation</text>
+<text class="map-date" x="764" y="1809" text-anchor="middle">1815–1866</text></g>
+<g class="map-node" id="map-node-rome-francia-poster-europe-099" data-history="poster-europe-099" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Austrian Empire, 1804 CE–1867 CE. Open Wikipedia." data-map="rome-francia"><title>Austrian Empire · 1804 CE–1867 CE</title><rect x="1180" y="1730" width="228" height="94" rx="10" fill="#92c4bd"/>
+<text class="map-label" style="font-size:21px" x="1294" y="1773" text-anchor="middle">Austrian Empire</text>
+<text class="map-date" x="1294" y="1809" text-anchor="middle">1804–1867</text></g>
+<g class="map-node" id="map-node-rome-francia-cn-northgerman" data-history="cn-northgerman" role="button" tabindex="0" aria-haspopup="dialog" aria-label="North German Confederation, 1867–1871 CE. Open Wikipedia." data-map="rome-francia"><title>North German Confederation · 1867–1871 CE</title><rect x="650" y="1990" width="228" height="94" rx="10" fill="#92c4bd"/>
+<text class="map-label" style="font-size:21px" x="764" y="2021" text-anchor="middle">North German</text>
+<text class="map-label" style="font-size:21px" x="764" y="2045" text-anchor="middle">Confederation</text>
+<text class="map-date" x="764" y="2069" text-anchor="middle">1867–1871</text></g>
+<g class="map-node" id="map-node-rome-francia-poster-europe-100" data-history="poster-europe-100" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Austria-Hungary, 1867 CE–1918 CE. Open Wikipedia." data-map="rome-francia"><title>Austria-Hungary · 1867 CE–1918 CE</title><rect x="1180" y="1990" width="228" height="94" rx="10" fill="#ee9792"/>
+<text class="map-label" style="font-size:21px" x="1294" y="2033" text-anchor="middle">Austria-Hungary</text>
+<text class="map-date" x="1294" y="2069" text-anchor="middle">1867–1918</text></g>
+<g class="map-node" id="map-node-rome-francia-germanymodern" data-history="germanymodern" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Germany · modern state eras, 1871 CE–present. Open Wikipedia." data-map="rome-francia"><title>Germany · modern state eras · 1871 CE–present</title><rect x="650" y="2250" width="228" height="94" rx="10" fill="#b7d08f"/>
+<text class="map-label" style="font-size:21px" x="764" y="2281" text-anchor="middle">Germany · modern</text>
+<text class="map-label" style="font-size:21px" x="764" y="2305" text-anchor="middle">eras</text>
+<text class="map-date" x="764" y="2329" text-anchor="middle">1871–present</text></g>
+<g class="map-node" id="map-node-rome-francia-austriamodern" data-history="austriamodern" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Austria · modern republican eras, 1918 CE–present. Open Wikipedia." data-map="rome-francia"><title>Austria · modern republican eras · 1918 CE–present</title><rect x="1180" y="2250" width="228" height="94" rx="10" fill="#b7d08f"/>
+<text class="map-label" style="font-size:21px" x="1294" y="2281" text-anchor="middle">Austria ·</text>
+<text class="map-label" style="font-size:21px" x="1294" y="2305" text-anchor="middle">republican eras</text>
+<text class="map-date" x="1294" y="2329" text-anchor="middle">1918–present</text></g>
+<g class="map-node" id="map-node-rome-francia-turkiye" data-history="turkiye" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Republic of Türkiye / Turkey, 1923 CE–present. Open Wikipedia." data-map="rome-francia"><title>Republic of Türkiye / Turkey · 1923 CE–present</title><rect x="80" y="2250" width="228" height="94" rx="10" fill="#eab18d"/>
+<text class="map-label" style="font-size:21px" x="194" y="2293" text-anchor="middle">Republic of Türkiye</text>
+<text class="map-date" x="194" y="2329" text-anchor="middle">1923–present</text></g>
+<text class="map-micro" x="800" y="2441" text-anchor="middle">Continue this history on another map</text>
+<g class="map-continuation" id="map-jump-rome-francia-0" role="button" tabindex="0" data-map-target="frankish-alpine-worlds" data-map-history="cn-westrome" aria-label="Migration, Frankish kingdoms &amp; Alpine Austria"><rect x="68" y="2455" width="477.3333333333333" height="70" rx="8" fill="#edf3e5" stroke="#bdcdb1"/>
+<text x="306.66666666666663" y="2491" text-anchor="middle" style="font-size:16px">Migration, Frankish kingdoms &amp; Alpine Austria</text>
+</g>
+<g class="map-continuation" id="map-jump-rome-francia-1" role="button" tabindex="0" data-map-target="italian-rule-unification" data-map-history="byzantium" aria-label="Italian kingdoms, communes &amp; unification"><rect x="561.3333333333333" y="2455" width="477.3333333333333" height="70" rx="8" fill="#edf3e5" stroke="#bdcdb1"/>
+<text x="799.9999999999999" y="2491" text-anchor="middle" style="font-size:16px">Italian kingdoms, communes &amp; unification</text>
+</g>
+<g class="map-continuation" id="map-jump-rome-francia-2" role="button" tabindex="0" data-map-target="aegean-greek-worlds" data-map-history="romanrepublic" aria-label="Aegean networks, Greek worlds &amp; modern independence"><rect x="1054.6666666666665" y="2455" width="477.3333333333333" height="70" rx="8" fill="#edf3e5" stroke="#bdcdb1"/>
+<text x="1293.3333333333333" y="2491" text-anchor="middle" style="font-size:16px">Aegean networks, Greek worlds &amp; modern independence</text>
+</g>
+<path d="M70 2561h20" stroke="#3b8274" stroke-width="3"/><text x="98" y="2566" style="font-size:14px;fill:#6b7b5e">Union</text>
+<path d="M362 2561h20" stroke="#b88636" stroke-width="3"/><text x="390" y="2566" style="font-size:14px;fill:#6b7b5e">Division</text>
+<path d="M654 2561h20" stroke="#aa6355" stroke-width="3"/><text x="682" y="2566" style="font-size:14px;fill:#6b7b5e">Conquest</text>
+<path d="M946 2561h20" stroke="#638350" stroke-width="3"/><text x="974" y="2566" style="font-size:14px;fill:#6b7b5e">Independence</text>
+<path d="M1238 2561h20" stroke="#5d7f9d" stroke-width="3"/><text x="1266" y="2566" style="font-size:14px;fill:#6b7b5e">Change of rule</text>
+<path d="M70 2587h20" stroke="#8b7297" stroke-width="3"/><text x="98" y="2592" style="font-size:14px;fill:#6b7b5e">Contact / influence</text>
+<path d="M362 2587h20" stroke="#9a8055" stroke-width="3"/><text x="390" y="2592" style="font-size:14px;fill:#6b7b5e">Colonial rule</text>
+<path d="M654 2587h20" stroke="#92917a" stroke-width="3"/><text x="682" y="2592" style="font-size:14px;fill:#6b7b5e">Context / overlap</text>
+<path d="M946 2587h20" stroke="#7d8c6f" stroke-width="3"/><text x="974" y="2592" style="font-size:14px;fill:#6b7b5e">Period transition</text>
+<text class="map-micro" x="800" y="2628" text-anchor="middle">Selected connections · Layout is not a time, territory or ancestry scale</text></svg>

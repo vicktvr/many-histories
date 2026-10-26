@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1484" width="1600" height="1484" role="group" aria-labelledby="map-title-southeast-maritime map-desc-southeast-maritime"><title id="map-title-southeast-maritime">Maritime Southeast Asia · encounters and independence</title><desc id="map-desc-southeast-maritime">Selected, sourced connections. Arrows label unions, divisions, conquest, independence, changes in rule, and contact. Node positions do not measure time or ancestry. Separate precolonial encounters and cultural reception are shown alongside the colonial-to-independent state sequence. There is no asserted Srivijaya→Majapahit→Indonesia governmental lineage. Select a node for Wikipedia or an arrow for its sources.</desc><defs>
+<marker id="arrow-southeast-maritime-union" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#3b8274"/></marker>
+<marker id="arrow-southeast-maritime-division" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#b88636"/></marker>
+<marker id="arrow-southeast-maritime-conquest" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#aa6355"/></marker>
+<marker id="arrow-southeast-maritime-independence" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#638350"/></marker>
+<marker id="arrow-southeast-maritime-continuation" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#5d7f9d"/></marker>
+<marker id="arrow-southeast-maritime-contact" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#8b7297"/></marker>
+<marker id="arrow-southeast-maritime-colonial" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#9a8055"/></marker>
+<marker id="arrow-southeast-maritime-context" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#92917a"/></marker>
+<marker id="arrow-southeast-maritime-period" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#7d8c6f"/></marker>
+</defs><style>text{font-family:Arial,Helvetica,sans-serif;fill:#25372c}.map-node,.map-edge{cursor:pointer;outline:none}.map-node rect{stroke:#fffdf8;stroke-width:2}.map-node:hover rect,.map-node:focus rect{stroke:#3c5441;stroke-width:3}.map-label{font-size:21px;font-weight:600;pointer-events:none}.map-date{font-size:12px;fill:#617056;pointer-events:none}.edge-line{fill:none;stroke-width:2.5;stroke-linejoin:round;stroke-linecap:round}.edge-hit{fill:none;stroke:transparent;stroke-width:36;vector-effect:non-scaling-stroke}.map-edge:hover .edge-label-bg,.map-edge:focus .edge-label-bg{stroke:#334d3c;stroke-width:2}.map-edge:hover .edge-line,.map-edge:focus .edge-line{stroke-width:4}.edge-label{font-size:15px;font-weight:500;pointer-events:none}.map-heading{font-size:47px;font-weight:700;letter-spacing:-1.2px}.map-subtitle{font-size:24px;fill:#67785a}.map-micro{font-size:13px;fill:#8a977d}.map-node.dim{opacity:.15}.map-node.hit rect{stroke:#294332;stroke-width:4}.map-node.selected rect{stroke:#294332;stroke-width:4}.map-edge.related .edge-line{stroke-width:4.5}</style><rect width="100%" height="100%" fill="#fdfcf8"/><text class="map-heading" x="800" y="74" text-anchor="middle">EMPIRES &amp; CONNECTIONS</text><text class="map-subtitle" x="800" y="117" text-anchor="middle">Maritime Southeast Asia · encounters and independence</text><text class="map-micro" x="800" y="154" text-anchor="middle">Tap a node to read · Tap an arrow for the event and sources</text>
+<g class="map-edge" id="map-edge-southeast-maritime-ea-srivijaya-yijing" data-connection="ea-srivijaya-yijing" data-map="southeast-maritime" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Tang dynasty to Srivijaya: Buddhist journeys. Open relationship details." style="--edge-color:#8b7297"><title>Contact / influence: Buddhist journeys</title>
+<path class="edge-hit" d="M325.82 314.34C332.79 340.33 341.06 371.16 346.01 389.62"/><path class="edge-line" stroke="#8b7297" stroke-dasharray="6 6" d="M325.82 314.34C332.79 340.33 341.06 371.16 346.01 389.62"/>
+<path class="edge-hit" d="M366.65 424.37C385.01 442.86 415.69 473.77 441.54 499.8"/><path class="edge-line" stroke="#8b7297" stroke-dasharray="6 6" d="M366.65 424.37C385.01 442.86 415.69 473.77 441.54 499.8" marker-end="url(#arrow-southeast-maritime-contact)"/>
+<rect class="edge-label-bg" x="271.65" y="390" width="157.5" height="34" rx="7" fill="#fdfcf8" stroke="#8b7297" stroke-opacity=".28"/>
+<text class="edge-label" x="350.4" y="412" text-anchor="middle">Buddhist journeys</text>
+</g>
+<g class="map-edge" id="map-edge-southeast-maritime-ea-chola-srivijaya" data-connection="ea-chola-srivijaya" data-map="southeast-maritime" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Medieval Chola dynasty to Srivijaya: Chola naval raid. Open relationship details." style="--edge-color:#aa6355"><title>Conquest: Chola naval raid</title>
+<path class="edge-hit" d="M582.36 314.34C578.97 340.33 574.94 371.16 572.54 389.62"/><path class="edge-line" stroke="#aa6355"  d="M582.36 314.34C578.97 340.33 574.94 371.16 572.54 389.62"/>
+<path class="edge-hit" d="M560.55 424.37C549.43 442.86 530.84 473.77 515.19 499.8"/><path class="edge-line" stroke="#aa6355"  d="M560.55 424.37C549.43 442.86 530.84 473.77 515.19 499.8" marker-end="url(#arrow-southeast-maritime-conquest)"/>
+<rect class="edge-label-bg" x="495.4" y="390" width="150" height="34" rx="7" fill="#fdfcf8" stroke="#aa6355" stroke-opacity=".28"/>
+<text class="edge-label" x="570.4" y="412" text-anchor="middle">Chola naval raid</text>
+</g>
+<g class="map-edge" id="map-edge-southeast-maritime-ea-yuan-java" data-connection="ea-yuan-java" data-map="southeast-maritime" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Yuan dynasty to Majapahit: Mongol expedition repelled. Open relationship details." style="--edge-color:#8b7297"><title>Contact / influence: Mongol expedition repelled</title>
+<path class="edge-hit" d="M762.4 594.34C762.4 620.33 762.4 651.16 762.4 669.62"/><path class="edge-line" stroke="#8b7297" stroke-dasharray="6 6" d="M762.4 594.34C762.4 620.33 762.4 651.16 762.4 669.62"/>
+<path class="edge-hit" d="M762.4 704.37C762.4 722.86 762.4 753.77 762.4 779.8"/><path class="edge-line" stroke="#8b7297" stroke-dasharray="6 6" d="M762.4 704.37C762.4 722.86 762.4 753.77 762.4 779.8" marker-end="url(#arrow-southeast-maritime-contact)"/>
+<rect class="edge-label-bg" x="649.9" y="670" width="225" height="34" rx="7" fill="#fdfcf8" stroke="#8b7297" stroke-opacity=".28"/>
+<text class="edge-label" x="762.4" y="692" text-anchor="middle">Mongol expedition repelled</text>
+</g>
+<g class="map-edge" id="map-edge-southeast-maritime-ea-majapahit-motto" data-connection="ea-majapahit-motto" data-map="southeast-maritime" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Majapahit to Indonesia: Literary legacy. Open relationship details." style="--edge-color:#8b7297"><title>Contact / influence: Literary legacy</title>
+<path class="edge-hit" d="M771.8 874.34C777.08 900.33 783.33 931.16 787.08 949.62"/><path class="edge-line" stroke="#8b7297" stroke-dasharray="6 6" d="M771.8 874.34C777.08 900.33 783.33 931.16 787.08 949.62"/>
+<path class="edge-hit" d="M819.7 984.37C852.74 1002.83 907.91 1033.65 954.44 1059.65"/><path class="edge-line" stroke="#8b7297" stroke-dasharray="6 6" d="M819.7 984.37C852.74 1002.83 907.91 1033.65 954.44 1059.65" marker-end="url(#arrow-southeast-maritime-contact)"/>
+<rect class="edge-label-bg" x="719.15" y="950" width="142.5" height="34" rx="7" fill="#fdfcf8" stroke="#8b7297" stroke-opacity=".28"/>
+<text class="edge-label" x="790.4" y="972" text-anchor="middle">Literary legacy</text>
+</g>
+<g class="map-edge" id="map-edge-southeast-maritime-ea-voc-colony" data-connection="ea-voc-colony" data-map="southeast-maritime" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Dutch East India Company · island Southeast Asia to Dutch East Indies: Company to colonial state. Open relationship details." style="--edge-color:#9a8055"><title>Colonial rule: Company to colonial state</title>
+<path class="edge-hit" d="M1168.4 314.34C1168.4 340.33 1168.4 371.16 1168.4 389.62"/><path class="edge-line" stroke="#9a8055"  d="M1168.4 314.34C1168.4 340.33 1168.4 371.16 1168.4 389.62"/>
+<path class="edge-hit" d="M1168.4 424.37C1168.4 442.86 1168.4 473.77 1168.4 499.8"/><path class="edge-line" stroke="#9a8055"  d="M1168.4 424.37C1168.4 442.86 1168.4 473.77 1168.4 499.8" marker-end="url(#arrow-southeast-maritime-colonial)"/>
+<rect class="edge-label-bg" x="1059.65" y="390" width="217.5" height="34" rx="7" fill="#fdfcf8" stroke="#9a8055" stroke-opacity=".28"/>
+<text class="edge-label" x="1168.4" y="412" text-anchor="middle">Company to colonial state</text>
+</g>
+<g class="map-edge" id="map-edge-southeast-maritime-ea-indies-occupation" data-connection="ea-indies-occupation" data-map="southeast-maritime" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Dutch East Indies to Japanese occupation · East Indies: Japanese occupation. Open relationship details." style="--edge-color:#aa6355"><title>Conquest: Japanese occupation</title>
+<path class="edge-hit" d="M1133.14 594.34C1113.36 620.33 1089.91 651.16 1075.87 669.62"/><path class="edge-line" stroke="#aa6355"  d="M1133.14 594.34C1113.36 620.33 1089.91 651.16 1075.87 669.62"/>
+<path class="edge-hit" d="M1060.32 704.37C1056.83 722.86 1051.01 753.77 1046.1 779.8"/><path class="edge-line" stroke="#aa6355"  d="M1060.32 704.37C1056.83 722.86 1051.01 753.77 1046.1 779.8" marker-end="url(#arrow-southeast-maritime-conquest)"/>
+<rect class="edge-label-bg" x="977.1500000000001" y="670" width="172.5" height="34" rx="7" fill="#fdfcf8" stroke="#aa6355" stroke-opacity=".28"/>
+<text class="edge-label" x="1063.4" y="692" text-anchor="middle">Japanese occupation</text>
+</g>
+<g class="map-edge" id="map-edge-southeast-maritime-ea-indonesia-proclamation" data-connection="ea-indonesia-proclamation" data-map="southeast-maritime" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Japanese occupation · East Indies to Indonesia: Independence proclaimed. Open relationship details." style="--edge-color:#638350"><title>Independence: Independence proclaimed</title>
+<path class="edge-hit" d="M1037.4 874.34C1037.4 900.33 1037.4 931.16 1037.4 949.62"/><path class="edge-line" stroke="#638350"  d="M1037.4 874.34C1037.4 900.33 1037.4 931.16 1037.4 949.62"/>
+<path class="edge-hit" d="M1037.4 984.37C1037.4 1002.86 1037.4 1033.77 1037.4 1059.8"/><path class="edge-line" stroke="#638350"  d="M1037.4 984.37C1037.4 1002.86 1037.4 1033.77 1037.4 1059.8" marker-end="url(#arrow-southeast-maritime-independence)"/>
+<rect class="edge-label-bg" x="936.1500000000001" y="950" width="202.5" height="34" rx="7" fill="#fdfcf8" stroke="#638350" stroke-opacity=".28"/>
+<text class="edge-label" x="1037.4" y="972" text-anchor="middle">Independence proclaimed</text>
+</g>
+<g class="map-edge" id="map-edge-southeast-maritime-ea-indonesia-transfer" data-connection="ea-indonesia-transfer" data-map="southeast-maritime" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Dutch East Indies to Indonesia: Sovereignty transferred. Open relationship details." style="--edge-color:#638350"><title>Independence: Sovereignty transferred</title>
+<path class="edge-hit" d="M1190.18 594.22C1220.01 657.52 1272.1 768.07 1291.67 809.61"/><path class="edge-line" stroke="#638350"  d="M1190.18 594.22C1220.01 657.52 1272.1 768.07 1291.67 809.61"/>
+<path class="edge-hit" d="M1285.79 844.31C1261.62 873.1 1209.29 934.58 1162.4 984C1138.09 1009.63 1110.01 1037.2 1086.64 1059.63"/><path class="edge-line" stroke="#638350"  d="M1285.79 844.31C1261.62 873.1 1209.29 934.58 1162.4 984C1138.09 1009.63 1110.01 1037.2 1086.64 1059.63" marker-end="url(#arrow-southeast-maritime-independence)"/>
+<rect class="edge-label-bg" x="1198.15" y="810" width="202.5" height="34" rx="7" fill="#fdfcf8" stroke="#638350" stroke-opacity=".28"/>
+<text class="edge-label" x="1299.4" y="832" text-anchor="middle">Sovereignty transferred</text>
+</g>
+<g class="map-node" id="map-node-southeast-maritime-srivijaya" data-history="srivijaya" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Srivijaya, c. 650 CE–1377 CE. Open Wikipedia." data-map="southeast-maritime"><title>Srivijaya · c. 650 CE–1377 CE</title><rect x="373.4" y="500" width="228" height="94" rx="10" fill="#e99e9b"/>
+<text class="map-label" style="font-size:21px" x="487.4" y="543" text-anchor="middle">Srivijaya</text>
+<text class="map-date" x="487.4" y="579" text-anchor="middle">c. 650–1377</text></g>
+<g class="map-node" id="map-node-southeast-maritime-tang" data-history="tang" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Tang dynasty, 618–907 CE. Open Wikipedia." data-map="southeast-maritime"><title>Tang dynasty · 618–907 CE</title><rect x="199.39999999999998" y="220" width="228" height="94" rx="10" fill="#efc675"/>
+<text class="map-label" style="font-size:21px" x="313.4" y="263" text-anchor="middle">Tang dynasty</text>
+<text class="map-date" x="313.4" y="299" text-anchor="middle">618–907</text></g>
+<g class="map-node" id="map-node-southeast-maritime-chola" data-history="chola" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Medieval Chola dynasty, c. 850 CE–1279 CE. Open Wikipedia." data-map="southeast-maritime"><title>Medieval Chola dynasty · c. 850 CE–1279 CE</title><rect x="474.4" y="220" width="228" height="94" rx="10" fill="#c0ca82"/>
+<text class="map-label" style="font-size:21px" x="588.4" y="251" text-anchor="middle">Medieval Chola</text>
+<text class="map-label" style="font-size:21px" x="588.4" y="275" text-anchor="middle">dynasty</text>
+<text class="map-date" x="588.4" y="299" text-anchor="middle">c. 850–1279</text></g>
+<g class="map-node" id="map-node-southeast-maritime-yuan" data-history="yuan" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Yuan dynasty, 1271 CE–1368 CE. Open Wikipedia." data-map="southeast-maritime"><title>Yuan dynasty · 1271 CE–1368 CE</title><rect x="648.4" y="500" width="228" height="94" rx="10" fill="#e99e9b"/>
+<text class="map-label" style="font-size:21px" x="762.4" y="543" text-anchor="middle">Yuan dynasty</text>
+<text class="map-date" x="762.4" y="579" text-anchor="middle">1271–1368</text></g>
+<g class="map-node" id="map-node-southeast-maritime-majapahit" data-history="majapahit" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Majapahit, c. 1293 CE–1527 CE. Open Wikipedia." data-map="southeast-maritime"><title>Majapahit · c. 1293 CE–1527 CE</title><rect x="648.4" y="780" width="228" height="94" rx="10" fill="#8fc5ae"/>
+<text class="map-label" style="font-size:21px" x="762.4" y="823" text-anchor="middle">Majapahit</text>
+<text class="map-date" x="762.4" y="859" text-anchor="middle">c. 1293–1527</text></g>
+<g class="map-node" id="map-node-southeast-maritime-ea-voc" data-history="ea-voc" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Dutch East India Company · island Southeast Asia, 1602–1799 CE. Open Wikipedia." data-map="southeast-maritime"><title>Dutch East India Company · island Southeast Asia · 1602–1799 CE</title><rect x="1054.4" y="220" width="228" height="94" rx="10" fill="#e99e9b"/>
+<text class="map-label" style="font-size:18px" x="1168.4" y="241" text-anchor="middle">Dutch East India</text>
+<text class="map-label" style="font-size:18px" x="1168.4" y="263" text-anchor="middle">Company · island</text>
+<text class="map-label" style="font-size:18px" x="1168.4" y="285" text-anchor="middle">Southeast Asia</text>
+<text class="map-date" x="1168.4" y="299" text-anchor="middle">1602–1799</text></g>
+<g class="map-node" id="map-node-southeast-maritime-ea-dutch-indies" data-history="ea-dutch-indies" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Dutch East Indies, 1800–1942 / 1945–1949 CE. Open Wikipedia." data-map="southeast-maritime"><title>Dutch East Indies · 1800–1942 / 1945–1949 CE</title><rect x="1054.4" y="500" width="228" height="94" rx="10" fill="#8fc5ae"/>
+<text class="map-label" style="font-size:21px" x="1168.4" y="543" text-anchor="middle">Dutch East Indies</text>
+<text class="map-date" x="1168.4" y="579" text-anchor="middle">1800–1942 / 1945–1949</text></g>
+<g class="map-node" id="map-node-southeast-maritime-ea-japan-indies" data-history="ea-japan-indies" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Japanese occupation · East Indies, 1942–1945 CE. Open Wikipedia." data-map="southeast-maritime"><title>Japanese occupation · East Indies · 1942–1945 CE</title><rect x="923.4000000000001" y="780" width="228" height="94" rx="10" fill="#efc675"/>
+<text class="map-label" style="font-size:19px" x="1037.4" y="811" text-anchor="middle">Japanese occupation</text>
+<text class="map-label" style="font-size:19px" x="1037.4" y="835" text-anchor="middle">· East Indies</text>
+<text class="map-date" x="1037.4" y="859" text-anchor="middle">1942–1945</text></g>
+<g class="map-node" id="map-node-southeast-maritime-indonesia" data-history="indonesia" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Indonesia, 1945 CE–present. Open Wikipedia." data-map="southeast-maritime"><title>Indonesia · 1945 CE–present</title><rect x="923.4000000000001" y="1060" width="228" height="94" rx="10" fill="#a8c6d9"/>
+<text class="map-label" style="font-size:21px" x="1037.4" y="1103" text-anchor="middle">Indonesia</text>
+<text class="map-date" x="1037.4" y="1139" text-anchor="middle">1945–present</text></g>
+<text class="map-micro" x="800" y="1275" text-anchor="middle">Continue this history on another map</text>
+<g class="map-continuation" id="map-jump-southeast-maritime-0" role="button" tabindex="0" data-map-target="japan-transformations" data-map-history="tang" aria-label="Japan · cultures, courts and shogunates"><rect x="68" y="1289" width="477.3333333333333" height="70" rx="8" fill="#edf3e5" stroke="#bdcdb1"/>
+<text x="306.66666666666663" y="1325" text-anchor="middle" style="font-size:16px">Japan · cultures, courts and shogunates</text>
+</g>
+<g class="map-continuation" id="map-jump-southeast-maritime-1" role="button" tabindex="0" data-map-target="china-early" data-map-history="tang" aria-label="China · early cultures and dynasties"><rect x="561.3333333333333" y="1289" width="477.3333333333333" height="70" rx="8" fill="#edf3e5" stroke="#bdcdb1"/>
+<text x="799.9999999999999" y="1325" text-anchor="middle" style="font-size:16px">China · early cultures and dynasties</text>
+</g>
+<g class="map-continuation" id="map-jump-southeast-maritime-2" role="button" tabindex="0" data-map-target="korea-histories" data-map-history="yuan" aria-label="Korea · dynasties, colonisation and division"><rect x="1054.6666666666665" y="1289" width="477.3333333333333" height="70" rx="8" fill="#edf3e5" stroke="#bdcdb1"/>
+<text x="1293.3333333333333" y="1325" text-anchor="middle" style="font-size:16px">Korea · dynasties, colonisation and division</text>
+</g>
+<path d="M70 1395h20" stroke="#3b8274" stroke-width="3"/><text x="98" y="1400" style="font-size:14px;fill:#6b7b5e">Union</text>
+<path d="M362 1395h20" stroke="#b88636" stroke-width="3"/><text x="390" y="1400" style="font-size:14px;fill:#6b7b5e">Division</text>
+<path d="M654 1395h20" stroke="#aa6355" stroke-width="3"/><text x="682" y="1400" style="font-size:14px;fill:#6b7b5e">Conquest</text>
+<path d="M946 1395h20" stroke="#638350" stroke-width="3"/><text x="974" y="1400" style="font-size:14px;fill:#6b7b5e">Independence</text>
+<path d="M1238 1395h20" stroke="#5d7f9d" stroke-width="3"/><text x="1266" y="1400" style="font-size:14px;fill:#6b7b5e">Change of rule</text>
+<path d="M70 1421h20" stroke="#8b7297" stroke-width="3"/><text x="98" y="1426" style="font-size:14px;fill:#6b7b5e">Contact / influence</text>
+<path d="M362 1421h20" stroke="#9a8055" stroke-width="3"/><text x="390" y="1426" style="font-size:14px;fill:#6b7b5e">Colonial rule</text>
+<path d="M654 1421h20" stroke="#92917a" stroke-width="3"/><text x="682" y="1426" style="font-size:14px;fill:#6b7b5e">Context / overlap</text>
+<path d="M946 1421h20" stroke="#7d8c6f" stroke-width="3"/><text x="974" y="1426" style="font-size:14px;fill:#6b7b5e">Period transition</text>
+<text class="map-micro" x="800" y="1462" text-anchor="middle">Selected connections · Layout is not a time, territory or ancestry scale</text></svg>

@@ -1,0 +1,642 @@
+{
+  "sources": {
+    "scythian_bm": {
+      "publisher": "British Museum",
+      "title": "Annual Review 2017/18 · Scythians exhibition",
+      "url": "https://www.britishmuseum.org/sites/default/files/2019-10/British_Museum_Annual_Review%202017_18.pdf"
+    },
+    "xiongnu_research": {
+      "publisher": "Science Advances · Lee and colleagues",
+      "title": "Genetic population structure of the Xiongnu Empire at imperial and local scales",
+      "url": "https://doi.org/10.1126/sciadv.adf3904"
+    },
+    "xiongnu_getty": {
+      "publisher": "Getty Research Institute",
+      "title": "Thesaurus of Geographic Names · Xiongnu Empire",
+      "url": "https://vocab.getty.edu/page/tgn/6002641"
+    },
+    "turk_unesco": {
+      "publisher": "UNESCO · D. Sinor and S. G. Klyashtorny",
+      "title": "The Türk Empire · History of Civilizations of Central Asia, volume III",
+      "url": "https://www.jstor.org/stable/resrep65357.23"
+    },
+    "turk_washington": {
+      "publisher": "University of Washington · Daniel C. Waugh",
+      "title": "Chronology for Türk Empires and Transoxiana",
+      "url": "https://faculty.washington.edu/dwaugh/hist225/225chron/turkchr.html"
+    },
+    "turk_phd": {
+      "publisher": "University of Szeged · Kahraman Mutlu",
+      "title": "State Formation and the Social Structure of the Türk Qaganate · PhD thesis (2021)",
+      "url": "https://doktori.bibl.u-szeged.hu/id/eprint/10772/1/Kahraman_Mutlu_PhD_dissertation.pdf"
+    },
+    "turk_second": {
+      "publisher": "Shigaku Zasshi · historical research article",
+      "title": "Factional struggles within the Second Turk Qaghanate as indicated by the Old Tibetan document P.t.1283",
+      "url": "https://www.jstage.jst.go.jp/article/shigaku/122/9/122_KJ00008918240/_article/-char/ja"
+    },
+    "central_met": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "Central and North Asia, 500–1000 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/06/nc.html"
+    },
+    "uyghur_cambridge": {
+      "publisher": "Cambridge University Press · Colin Mackerras",
+      "title": "The Uighurs · The Cambridge History of Early Inner Asia",
+      "url": "https://doi.org/10.1017/CHOL9780521243049.013"
+    },
+    "sogdian_si": {
+      "publisher": "Smithsonian National Museum of Asian Art",
+      "title": "The Sogdians: Influencers on the Silk Roads",
+      "url": "https://asia.si.edu/whats-on/exhibitions/the-sogdians/"
+    },
+    "saba_unesco": {
+      "publisher": "UNESCO World Heritage Centre",
+      "title": "Landmarks of the Ancient Kingdom of Saba, Marib",
+      "url": "https://whc.unesco.org/en/list/1700/"
+    },
+    "arabia_met": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "Arabian Peninsula, 1000 B.C.–1 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/04/wap.html"
+    },
+    "himyar_research": {
+      "publisher": "Coproduced Religions · research project",
+      "title": "The Conflicts Between Christian Aksum and Jewish Himyar in Pre-Islamic Arabia",
+      "url": "https://coproduced-religions.org/resources/case-studies/the-conflicts-between-christian-aksum-and-jewish-himyar-in-pre-islamic-arabia"
+    },
+    "nabataea_museum": {
+      "publisher": "Petra Museum",
+      "title": "Gallery 2 · Foundations of Petra",
+      "url": "https://petramuseum.jo/en-us/exhibitions/foundations-of-petra/"
+    },
+    "nabataea_roman": {
+      "publisher": "Petra Museum",
+      "title": "Gallery 7 · Waning of Petra",
+      "url": "https://petramuseum.jo/en-us/exhibitions/waning-of-petra/"
+    },
+    "saudi_first": {
+      "publisher": "Saudipedia · Saudi Press Agency",
+      "title": "First Saudi State",
+      "url": "https://saudipedia.com/en/first-saudi-state"
+    },
+    "saudi_founder": {
+      "publisher": "Saudipedia · Saudi Press Agency",
+      "title": "Mohammad Bin Saud Bin Mohammad Bin Muqrin",
+      "url": "https://saudipedia.com/en/mohammad-bin-saud-bin-mohammad-bin-muqrin"
+    },
+    "saudi_second": {
+      "publisher": "Saudipedia · Saudi Press Agency",
+      "title": "Second Saudi State",
+      "url": "https://saudipedia.com/en/second-saudi-state"
+    },
+    "saudi_unification": {
+      "publisher": "Saudipedia · Saudi Press Agency",
+      "title": "Unification of Saudi Arabia",
+      "url": "https://saudipedia.com/en/unification-of-saudi-arabia"
+    },
+    "urartu_museum": {
+      "publisher": "History Museum of Armenia",
+      "title": "Urartu · The Kingdom of Van, 9th–6th centuries BCE",
+      "url": "https://historymuseum.am/en/map_content_type/urartu-the-kingdom-of-van-9th-6th-cc-bc/"
+    },
+    "armenia_ysu": {
+      "publisher": "Yerevan State University",
+      "title": "History of Armenia 2 · chronological course outline",
+      "url": "https://www.ysu.am/en/subject/413351"
+    },
+    "armenia_met": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "Armenia! · Exhibition galleries",
+      "url": "https://www.metmuseum.org/exhibitions/listings/2018/armenia/exhibition-galleries"
+    },
+    "bagratid_museum": {
+      "publisher": "History Museum of Armenia",
+      "title": "Ani · Armenia in the 9th–14th centuries",
+      "url": "https://historymuseum.am/en/map_content_type/ani-armenia-in-the-9th-14th-cc/"
+    },
+    "cilicia_museum": {
+      "publisher": "History Museum of Armenia",
+      "title": "The Armenian Kingdom of Cilicia, 1080–1375",
+      "url": "https://historymuseum.am/en/map_content_type/the-armenian-kingdom-of-cilicia-1080-1375/"
+    },
+    "georgia_gnta": {
+      "publisher": "Georgian National Tourism Administration",
+      "title": "History of Georgia",
+      "url": "https://georgia.travel/why-georgia-history"
+    },
+    "georgia_royal": {
+      "publisher": "Royal House of Georgia",
+      "title": "Genealogy · Bagrat III and the united kingdom",
+      "url": "https://royalhouseofgeorgia.ge/genealogy/"
+    }
+  },
+  "entries": [
+    {
+      "id": "rx-scythian",
+      "title": "Scythian and related steppe traditions",
+      "region": "centralasia",
+      "dates": "c. 900–200 BCE",
+      "start": -900,
+      "end": -200,
+      "category": "culture",
+      "location": "Eurasian steppe · Black Sea to Siberia and Central Asia",
+      "note": "A broad archaeological frame for varied mobile communities, regional cultures and ruling groups. Shared horse-riding and artistic traditions do not imply one united empire or a single ancestry for later peoples. The dates are approximate.",
+      "wikiTitle": "Scythians",
+      "sources": [
+        "scythian_bm"
+      ],
+      "collections": [
+        "centralasia"
+      ]
+    },
+    {
+      "id": "rx-xiongnu",
+      "title": "Xiongnu confederation",
+      "region": "centralasia",
+      "dates": "c. 209 BCE–93 CE · selected imperial frame",
+      "start": -209,
+      "end": 93,
+      "category": "history",
+      "location": "Mongolian plateau and neighbouring Inner Asia",
+      "note": "An empire brought diverse communities into far-reaching political and exchange networks. The conventional 93 CE endpoint concerns the northern imperial formation; southern Xiongnu governments and communities continued. This is not an ethnic extinction date.",
+      "wikiTitle": "Xiongnu",
+      "sources": [
+        "xiongnu_research",
+        "xiongnu_getty"
+      ],
+      "collections": [
+        "centralasia"
+      ]
+    },
+    {
+      "id": "rx-first-turkic",
+      "title": "First Turkic Khaganate · early imperial phase",
+      "region": "centralasia",
+      "dates": "552–c. 603 CE · selected phase",
+      "start": 552,
+      "end": 603,
+      "category": "history",
+      "location": "Mongolian plateau and Central Asian steppe",
+      "note": "Founded under Bumin, this imperial formation soon developed eastern and western centres. Civil conflict and separation unfolded over decades from the late sixth century; c. 603 is a conventional division marker, not an instantaneous split of a uniformly governed territory.",
+      "wikiTitle": "First Turkic Khaganate",
+      "sources": [
+        "turk_unesco",
+        "turk_washington",
+        "turk_phd"
+      ],
+      "collections": [
+        "centralasia"
+      ]
+    },
+    {
+      "id": "rx-eastern-turkic",
+      "title": "Eastern Turkic Khaganate · independent phase",
+      "region": "centralasia",
+      "dates": "c. 603–630 CE · selected phase",
+      "start": 603,
+      "end": 630,
+      "category": "history",
+      "location": "Mongolian plateau and adjacent Inner Asia",
+      "note": "Selected post-division phase of eastern Türk rule, ending with Tang military defeat in 630. Earlier eastern government, subsequent Tang arrangements and later restored Türk rule are separate frames; these dates do not delimit all Turkic communities.",
+      "wikiTitle": "Eastern Turkic Khaganate",
+      "sources": [
+        "turk_unesco",
+        "turk_washington",
+        "turk_phd"
+      ],
+      "collections": [
+        "centralasia"
+      ]
+    },
+    {
+      "id": "rx-western-turkic",
+      "title": "Western Turkic Khaganate · independent phase",
+      "region": "centralasia",
+      "dates": "c. 603–657 CE · selected phase",
+      "start": 603,
+      "end": 657,
+      "category": "history",
+      "location": "Central Asia · Semirechye and neighbouring territories",
+      "note": "The western ruling centre connected steppe alliances and oasis societies. Separation from eastern rulers was gradual. 657 marks the defeat of a principal independent ruler by Tang forces; local rulers, contested authority and related confederations continued afterward.",
+      "wikiTitle": "Western Turkic Khaganate",
+      "sources": [
+        "turk_unesco",
+        "turk_washington",
+        "turk_phd"
+      ],
+      "collections": [
+        "centralasia"
+      ]
+    },
+    {
+      "id": "rx-second-turkic",
+      "title": "Second Turkic Khaganate",
+      "region": "centralasia",
+      "dates": "c. 682–744 CE",
+      "start": 682,
+      "end": 744,
+      "category": "history",
+      "location": "Mongolian plateau · Inner Asia",
+      "note": "Restored Türk imperial rule developed after rebellion against Tang dominance. A coalition including Uyghur, Basmil and Karluk forces overthrew the khaganate; final resistance continued beyond conventional 744. These are state phases, not the full history of Turkic-speaking peoples.",
+      "wikiTitle": "Second Turkic Khaganate",
+      "sources": [
+        "turk_second",
+        "turk_unesco",
+        "turk_phd"
+      ],
+      "collections": [
+        "centralasia"
+      ]
+    },
+    {
+      "id": "rx-uyghur-khaganate",
+      "title": "Uyghur Khaganate · Orkhon empire",
+      "region": "centralasia",
+      "dates": "744–840 CE",
+      "start": 744,
+      "end": 840,
+      "category": "history",
+      "location": "Orkhon Valley and wider Mongolian plateau",
+      "note": "An imperial confederation centred on Karabalghasun interacted closely with Tang China. 840 marks the collapse of this steppe empire; Uyghur communities and later oasis kingdoms continued. It is distinct from those later kingdoms and from modern identities and borders.",
+      "wikiTitle": "Uyghur Khaganate",
+      "sources": [
+        "uyghur_cambridge",
+        "central_met"
+      ],
+      "collections": [
+        "centralasia"
+      ]
+    },
+    {
+      "id": "rx-sogdian-networks",
+      "title": "Sogdian cities and merchant networks",
+      "region": "centralasia",
+      "dates": "c. 4th–8th centuries CE · selected cultural phase",
+      "start": 300,
+      "end": 800,
+      "category": "culture",
+      "location": "Sogdiana · present-day Uzbekistan and Tajikistan; networks across Asia",
+      "note": "Agriculture, urban centres, merchants and diasporic communities supported wide cultural exchange. This selected flourishing phase groups several cities and local powers rather than one empire. Sogdian history began earlier and transformations continued after these rounded century anchors.",
+      "wikiTitle": "Sogdia",
+      "sources": [
+        "sogdian_si",
+        "central_met"
+      ],
+      "collections": [
+        "centralasia"
+      ]
+    },
+    {
+      "id": "rx-saba",
+      "title": "Saba / Sheba · South Arabian kingdom",
+      "region": "westasia",
+      "dates": "c. 8th century BCE–3rd century CE",
+      "start": -800,
+      "end": 300,
+      "category": "history",
+      "location": "Marib and Sirwah · present-day Yemen",
+      "note": "A selected broad phase of Sabaean political power linked irrigation agriculture, cities, sanctuaries and incense trade. UNESCO supplies the approximate range used here; other chronologies begin earlier. The wider Marib archaeological landscape remained active beyond this kingdom frame.",
+      "wikiTitle": "Sheba",
+      "sources": [
+        "saba_unesco",
+        "arabia_met"
+      ],
+      "collections": [
+        "westasia",
+        "arabia-caucasus"
+      ]
+    },
+    {
+      "id": "rx-himyar",
+      "title": "Himyar · pre-Aksumite ruling phase",
+      "region": "westasia",
+      "dates": "c. 1st century BCE–525 CE",
+      "start": -100,
+      "end": 525,
+      "category": "history",
+      "location": "Southern Arabian highlands · present-day Yemen",
+      "note": "A southern Arabian kingdom expanded among neighbouring states and adopted royal monotheism in late antiquity. The approximate starting anchor selects a later portion of its early development; 525 marks Aksumite intervention, not the end of South Arabian society.",
+      "wikiTitle": "Himyar",
+      "sources": [
+        "arabia_met",
+        "himyar_research"
+      ],
+      "collections": [
+        "westasia",
+        "arabia-caucasus"
+      ]
+    },
+    {
+      "id": "rx-nabataea",
+      "title": "Nabataean kingdom · royal phase",
+      "region": "westasia",
+      "dates": "c. 168 BCE–106 CE · selected royal frame",
+      "start": -168,
+      "end": 106,
+      "category": "history",
+      "location": "Petra, Hegra and surrounding northern Arabia / southern Levant",
+      "note": "Petra Museum dates this royal frame to 168 BCE–106 CE. Nabataean communities and Petra existed earlier. Roman annexation in 106 ended the independent kingdom while settlements, language and traditions continued under changing rule.",
+      "wikiTitle": "Nabataean Kingdom",
+      "sources": [
+        "nabataea_museum",
+        "nabataea_roman"
+      ],
+      "collections": [
+        "westasia",
+        "arabia-caucasus"
+      ]
+    },
+    {
+      "id": "rx-first-saudi",
+      "title": "First Saudi state · Diriyah",
+      "region": "westasia",
+      "dates": "1727/1744–1818 CE",
+      "start": 1727,
+      "end": 1818,
+      "category": "history",
+      "location": "Diriyah and changing territories of the Arabian Peninsula",
+      "note": "1727 marks Muhammad bin Saud’s accession and the official Saudi founding convention. 1744 marks Ibn Abd al-Wahhab’s move to Diriyah and their religious-political alliance, often used as a founding date in historical writing. Ottoman-Egyptian forces captured Diriyah in 1818.",
+      "wikiTitle": "First Saudi state",
+      "sources": [
+        "saudi_first",
+        "saudi_founder"
+      ],
+      "collections": [
+        "westasia",
+        "arabia-caucasus"
+      ]
+    },
+    {
+      "id": "rx-second-saudi",
+      "title": "Second Saudi state · Najd",
+      "region": "westasia",
+      "dates": "1824–1891 CE",
+      "start": 1824,
+      "end": 1891,
+      "category": "history",
+      "location": "Riyadh and Najd · Arabian Peninsula",
+      "note": "Saudi rule was restored from Riyadh after an interruption following the fall of Diriyah. Civil conflict and changing territorial control marked this state; Rashidi ascendancy ended it in 1891. It was not uninterrupted rule over the boundaries of today’s Saudi Arabia.",
+      "wikiTitle": "Second Saudi state",
+      "sources": [
+        "saudi_second"
+      ],
+      "collections": [
+        "westasia",
+        "arabia-caucasus"
+      ]
+    },
+    {
+      "id": "rx-saudi-unification",
+      "title": "Saudi expansion and unification",
+      "region": "westasia",
+      "dates": "1902–1932 CE · selected formation period",
+      "start": 1902,
+      "end": 1932,
+      "category": "period",
+      "location": "Riyadh, Najd, al-Ahsa, Hejaz and neighbouring Arabian territories",
+      "note": "A formation period from Ibn Saud’s capture of Riyadh to proclamation of Saudi Arabia. Several emirate, sultanate and dual-monarchy arrangements fall within it, including the existing Hejaz–Nejd entry. This groups campaigns and state changes rather than implying a single unchanged state since 1902.",
+      "wikiTitle": "Unification of Saudi Arabia",
+      "sources": [
+        "saudi_unification"
+      ],
+      "collections": [
+        "westasia",
+        "arabia-caucasus"
+      ]
+    },
+    {
+      "id": "rx-urartu",
+      "title": "Urartu / Kingdom of Van",
+      "region": "westasia",
+      "dates": "c. 850–585 BCE · broad kingdom frame",
+      "start": -850,
+      "end": -585,
+      "category": "history",
+      "location": "Armenian Highlands · Lake Van, eastern Anatolia and southern Caucasus",
+      "note": "A powerful kingdom developed around Lake Van and built fortified centres across the highlands. Its origins and collapse are approximate; this follows the History Museum of Armenia’s broad chronology. Shared territory with later Armenia does not establish a simple ethnic or political succession to any modern state.",
+      "wikiTitle": "Urartu",
+      "sources": [
+        "urartu_museum"
+      ],
+      "collections": [
+        "westasia",
+        "arabia-caucasus"
+      ]
+    },
+    {
+      "id": "rx-arsacid-armenia",
+      "title": "Arsacid Armenia · royal period",
+      "region": "westasia",
+      "dates": "66–428 CE · selected dynastic frame",
+      "start": 66,
+      "end": 428,
+      "category": "history",
+      "location": "Armenian Highlands · between Roman and Iranian spheres",
+      "note": "The conventional period of Arsacid royal rule includes contested authority, outside intervention and partition. The dynasty’s end in 428 in the Persian sector did not end Armenian society, churches or language. Earlier Armenian kingdoms lie outside this selected frame.",
+      "wikiTitle": "Arsacid dynasty of Armenia",
+      "sources": [
+        "armenia_ysu",
+        "armenia_met"
+      ],
+      "collections": [
+        "westasia",
+        "arabia-caucasus"
+      ]
+    },
+    {
+      "id": "rx-bagratid-armenia",
+      "title": "Bagratid Armenian kingdom",
+      "region": "westasia",
+      "dates": "884/885–1045 CE",
+      "start": 885,
+      "end": 1045,
+      "category": "history",
+      "location": "Armenian Highlands · later capital at Ani",
+      "note": "Ashot I’s recognition restored Armenian kingship; sources differ between 884 and 885. Ani became the capital in 961. The end of the principal Bagratid kingdom did not end other Armenian kingdoms or communities, and medieval Armenia should not be read through today’s borders.",
+      "wikiTitle": "Bagratid Armenia",
+      "sources": [
+        "bagratid_museum",
+        "armenia_ysu"
+      ],
+      "collections": [
+        "westasia",
+        "arabia-caucasus"
+      ]
+    },
+    {
+      "id": "rx-cilician-armenia",
+      "title": "Cilician Armenia · principality and kingdom",
+      "region": "westasia",
+      "dates": "1080–1375 CE · kingdom from 1198/99",
+      "start": 1080,
+      "end": 1375,
+      "category": "history",
+      "location": "Cilicia · northeastern Mediterranean coast, present-day Türkiye",
+      "note": "An Armenian principality developed in Cilicia, outside the Armenian Highlands; royal coronation followed in 1198/99. Its court linked Mediterranean and Mongol worlds. The Mamluk capture of Sis in 1375 ended the kingdom, while Armenian communities and cultural traditions continued.",
+      "wikiTitle": "Armenian Kingdom of Cilicia",
+      "sources": [
+        "cilicia_museum",
+        "armenia_met"
+      ],
+      "collections": [
+        "westasia",
+        "arabia-caucasus"
+      ]
+    },
+    {
+      "id": "rx-georgian-kingdom",
+      "title": "Kingdom of Georgia · medieval royal frame",
+      "region": "westasia",
+      "dates": "c. 1008–1490 CE · interrupted unity",
+      "start": 1008,
+      "end": 1490,
+      "category": "history",
+      "location": "Southern Caucasus · changing territory around present-day Georgia",
+      "note": "Bagrat III’s consolidation began a medieval royal formation whose reach changed substantially. Later invasions, subordinate rule, fragmentation and reunification prevent treating the span as continuous centralized control. By 1490 several kingdoms and principalities were recognised; Georgian history continued in them.",
+      "wikiTitle": "Kingdom of Georgia",
+      "sources": [
+        "georgia_gnta",
+        "georgia_royal"
+      ],
+      "collections": [
+        "westasia",
+        "arabia-caucasus"
+      ]
+    }
+  ],
+  "memberships": {
+    "centralasia": [
+      "mongol",
+      "yuan",
+      "qing",
+      "seljuq",
+      "kushan",
+      "timurid",
+      "cn-ilkhanate",
+      "cn-goldenhorde",
+      "cn-chagatai",
+      "cn-greathorde",
+      "cn-kazakhstan",
+      "ea-northern-yuan",
+      "ea-khalkha",
+      "ea-bogd",
+      "ea-mongolian-republic",
+      "ea-mongolia-modern",
+      "cn-kyrgyzstan",
+      "cn-tajikistan",
+      "cn-turkmenistan",
+      "cn-uzbekistan",
+      "mb-abukhayr",
+      "mb-kazakh-khanate",
+      "mb-bukhara-khanate",
+      "mb-bukhara-emirate",
+      "mb-khiva",
+      "mb-russian-central",
+      "mb-early-soviet-central",
+      "mb-moghulistan",
+      "mb-turpan",
+      "mb-yarkent",
+      "mb-khojas",
+      "mb-dzungar",
+      "russianempire",
+      "sovietunion",
+      "event-sovietend"
+    ],
+    "westasia": [
+      "uruk",
+      "akkad",
+      "persia",
+      "abbasid",
+      "ottoman",
+      "mesop",
+      "oldbab",
+      "kassite",
+      "assyria",
+      "hittite",
+      "phoenicia",
+      "sasanian",
+      "rashidun",
+      "umayyad",
+      "seljuq",
+      "safavid",
+      "turkiye",
+      "iranmodern",
+      "saudiarabia",
+      "israel",
+      "palestine",
+      "neo-hittite",
+      "lydia",
+      "sumer",
+      "middle-assyrian",
+      "neo-babylonian",
+      "elam",
+      "early-iranian-peoples",
+      "medes",
+      "cn-seleucid",
+      "cn-parthian",
+      "sultanate-rum",
+      "post-abbasid-dynasties",
+      "cn-ilkhanate",
+      "timurid",
+      "afsharid",
+      "qajar",
+      "iraq-kingdom",
+      "iraqmodern",
+      "israel-samaria",
+      "judah",
+      "hasmonean-judea",
+      "cn-jalayirid",
+      "cn-muzaffarid",
+      "cn-qaraqoyunlu",
+      "cn-aqqoyunlu",
+      "cn-hotak-iran",
+      "cn-afsharid-khorasan",
+      "cn-zand",
+      "cn-armenia",
+      "cn-azerbaijan",
+      "cn-georgia",
+      "ws-herodian-judea",
+      "ws-anatolian-beyliks",
+      "ws-british-iraq",
+      "ws-french-levant",
+      "ws-lebanon",
+      "ws-syria",
+      "ws-hejaz-nejd",
+      "ws-mandate-palestine",
+      "ws-transjordan",
+      "ws-jordan",
+      "ws-plo",
+      "early-caliphates",
+      "ur-third-dynasty",
+      "iran-pahlavi",
+      "iran-islamic-republic",
+      "poster-hammurabi",
+      "poster-zigguratur",
+      "poster-choghazanbil",
+      "poster-persepolis",
+      "poster-bluemosque",
+      "poster-naqsh",
+      "second-temple-judaism",
+      "jewish-diaspora"
+    ],
+    "arabia-caucasus": [
+      "saudiarabia",
+      "ws-hejaz-nejd",
+      "rashidun",
+      "umayyad",
+      "abbasid",
+      "early-caliphates",
+      "ottoman",
+      "cn-armenia",
+      "cn-azerbaijan",
+      "cn-georgia",
+      "cn-ilkhanate",
+      "timurid",
+      "safavid",
+      "qajar",
+      "russianempire",
+      "sovietunion"
+    ]
+  }
+}

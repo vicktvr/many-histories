@@ -1,0 +1,2146 @@
+[
+  {
+    "posterLabel": "Early Dynastic Period",
+    "id": null,
+    "proposedTitle": "Egypt · Early Dynastic period",
+    "wikiTitle": "Early Dynastic Period of Egypt",
+    "region": "africa",
+    "start": -3100,
+    "end": -2686,
+    "note": "Approximate dynastic chronology. Egypt had substantial predynastic societies before unification; this is not the beginning of Egyptian culture.",
+    "parent": "egypt",
+    "category": "period",
+    "sourceUrls": [
+      "https://egymonuments.gov.eg/historical-periods/",
+      "https://www.memphis.edu/egypt/resources/timeline.php"
+    ],
+    "suggestedId": "egypt-early-dynastic",
+    "sources": [
+      {
+        "publisher": "Egyptian Ministry of Tourism and Antiquities",
+        "title": "Egypt · Early Dynastic period · chronology and context",
+        "url": "https://egymonuments.gov.eg/historical-periods/"
+      },
+      {
+        "publisher": "University of Memphis",
+        "title": "Egypt · Early Dynastic period · chronology and context",
+        "url": "https://www.memphis.edu/egypt/resources/timeline.php"
+      }
+    ]
+  },
+  {
+    "posterLabel": "Old Kingdom",
+    "id": null,
+    "proposedTitle": "Egypt · Old Kingdom",
+    "wikiTitle": "Old Kingdom of Egypt",
+    "region": "africa",
+    "start": -2686,
+    "end": -2181,
+    "note": "Approximate traditional chronology; the pyramid-building era, not an uninterrupted ethnic or national founding.",
+    "parent": "egypt",
+    "category": "period",
+    "sourceUrls": [
+      "https://egymonuments.gov.eg/historical-periods/",
+      "https://www.memphis.edu/egypt/resources/timeline.php"
+    ],
+    "suggestedId": "egypt-old-kingdom",
+    "sources": [
+      {
+        "publisher": "Egyptian Ministry of Tourism and Antiquities",
+        "title": "Egypt · Old Kingdom · chronology and context",
+        "url": "https://egymonuments.gov.eg/historical-periods/"
+      },
+      {
+        "publisher": "University of Memphis",
+        "title": "Egypt · Old Kingdom · chronology and context",
+        "url": "https://www.memphis.edu/egypt/resources/timeline.php"
+      }
+    ]
+  },
+  {
+    "posterLabel": "First Intermediate Period",
+    "id": null,
+    "proposedTitle": "Egypt · First Intermediate period",
+    "wikiTitle": "First Intermediate Period of Egypt",
+    "region": "africa",
+    "start": -2181,
+    "end": -2055,
+    "note": "Regional dynasties overlapped. Alternative chronologies put the Middle Kingdom reunification around 2030 BCE.",
+    "parent": "egypt",
+    "category": "period",
+    "sourceUrls": [
+      "https://egymonuments.gov.eg/historical-periods/",
+      "https://www.memphis.edu/egypt/resources/timeline.php"
+    ],
+    "suggestedId": "egypt-first-intermediate",
+    "sources": [
+      {
+        "publisher": "Egyptian Ministry of Tourism and Antiquities",
+        "title": "Egypt · First Intermediate period · chronology and context",
+        "url": "https://egymonuments.gov.eg/historical-periods/"
+      },
+      {
+        "publisher": "University of Memphis",
+        "title": "Egypt · First Intermediate period · chronology and context",
+        "url": "https://www.memphis.edu/egypt/resources/timeline.php"
+      }
+    ]
+  },
+  {
+    "posterLabel": "Middle Kingdom",
+    "id": null,
+    "proposedTitle": "Egypt · Middle Kingdom",
+    "wikiTitle": "Middle Kingdom of Egypt",
+    "region": "africa",
+    "start": -2055,
+    "end": -1650,
+    "note": "Approximate Egyptian ministry periodization; other scholarly chronologies begin around 2030 BCE or use a narrower end date.",
+    "parent": "egypt",
+    "category": "period",
+    "sourceUrls": [
+      "https://egymonuments.gov.eg/historical-periods/",
+      "https://www.memphis.edu/egypt/resources/timeline.php"
+    ],
+    "suggestedId": "egypt-middle-kingdom",
+    "sources": [
+      {
+        "publisher": "Egyptian Ministry of Tourism and Antiquities",
+        "title": "Egypt · Middle Kingdom · chronology and context",
+        "url": "https://egymonuments.gov.eg/historical-periods/"
+      },
+      {
+        "publisher": "University of Memphis",
+        "title": "Egypt · Middle Kingdom · chronology and context",
+        "url": "https://www.memphis.edu/egypt/resources/timeline.php"
+      }
+    ]
+  },
+  {
+    "posterLabel": "Second Intermediate Period",
+    "id": null,
+    "proposedTitle": "Egypt · Second Intermediate period",
+    "wikiTitle": "Second Intermediate Period of Egypt",
+    "region": "africa",
+    "start": -1650,
+    "end": -1550,
+    "note": "Regional courts, including Hyksos rule in the north and the Theban kingdom in the south, coexisted; not a single dynasty.",
+    "parent": "egypt",
+    "category": "period",
+    "sourceUrls": [
+      "https://egymonuments.gov.eg/historical-periods/",
+      "https://www.memphis.edu/egypt/resources/timeline.php"
+    ],
+    "suggestedId": "egypt-second-intermediate",
+    "sources": [
+      {
+        "publisher": "Egyptian Ministry of Tourism and Antiquities",
+        "title": "Egypt · Second Intermediate period · chronology and context",
+        "url": "https://egymonuments.gov.eg/historical-periods/"
+      },
+      {
+        "publisher": "University of Memphis",
+        "title": "Egypt · Second Intermediate period · chronology and context",
+        "url": "https://www.memphis.edu/egypt/resources/timeline.php"
+      }
+    ]
+  },
+  {
+    "posterLabel": "New Kingdom",
+    "id": null,
+    "proposedTitle": "Egypt · New Kingdom",
+    "wikiTitle": "New Kingdom of Egypt",
+    "region": "africa",
+    "start": -1550,
+    "end": -1069,
+    "note": "Approximate dynastic period, traditionally Dynasties 18–20.",
+    "parent": "egypt",
+    "category": "period",
+    "sourceUrls": [
+      "https://egymonuments.gov.eg/historical-periods/",
+      "https://www.memphis.edu/egypt/resources/timeline.php"
+    ],
+    "suggestedId": "egypt-new-kingdom",
+    "sources": [
+      {
+        "publisher": "Egyptian Ministry of Tourism and Antiquities",
+        "title": "Egypt · New Kingdom · chronology and context",
+        "url": "https://egymonuments.gov.eg/historical-periods/"
+      },
+      {
+        "publisher": "University of Memphis",
+        "title": "Egypt · New Kingdom · chronology and context",
+        "url": "https://www.memphis.edu/egypt/resources/timeline.php"
+      }
+    ]
+  },
+  {
+    "posterLabel": "Third Intermediate Period",
+    "id": null,
+    "proposedTitle": "Egypt · Third Intermediate period",
+    "wikiTitle": "Third Intermediate Period of Egypt",
+    "region": "africa",
+    "start": -1069,
+    "end": -664,
+    "note": "Competing royal lines and regional powers overlapped; the poster’s 1070 is a rounded alternative.",
+    "parent": "egypt",
+    "category": "period",
+    "sourceUrls": [
+      "https://egymonuments.gov.eg/historical-periods/",
+      "https://www.memphis.edu/egypt/resources/timeline.php"
+    ],
+    "suggestedId": "egypt-third-intermediate",
+    "sources": [
+      {
+        "publisher": "Egyptian Ministry of Tourism and Antiquities",
+        "title": "Egypt · Third Intermediate period · chronology and context",
+        "url": "https://egymonuments.gov.eg/historical-periods/"
+      },
+      {
+        "publisher": "University of Memphis",
+        "title": "Egypt · Third Intermediate period · chronology and context",
+        "url": "https://www.memphis.edu/egypt/resources/timeline.php"
+      }
+    ]
+  },
+  {
+    "posterLabel": "Late Period",
+    "id": null,
+    "proposedTitle": "Egypt · Late Period",
+    "wikiTitle": "Late Period of Egypt",
+    "region": "africa",
+    "start": -664,
+    "end": -332,
+    "note": "The poster truncates this at the first Persian conquest 525 BCE. The full Late Period conventionally includes Persian and restored native dynasties through 332 BCE.",
+    "parent": "egypt",
+    "category": "period",
+    "sourceUrls": [
+      "https://egymonuments.gov.eg/historical-periods/",
+      "https://www.memphis.edu/egypt/resources/timeline.php"
+    ],
+    "suggestedId": "egypt-late-period",
+    "sources": [
+      {
+        "publisher": "Egyptian Ministry of Tourism and Antiquities",
+        "title": "Egypt · Late Period · chronology and context",
+        "url": "https://egymonuments.gov.eg/historical-periods/"
+      },
+      {
+        "publisher": "University of Memphis",
+        "title": "Egypt · Late Period · chronology and context",
+        "url": "https://www.memphis.edu/egypt/resources/timeline.php"
+      }
+    ]
+  },
+  {
+    "posterLabel": "Ptolemaic Kingdom",
+    "id": "cn-ptolemaic",
+    "proposedTitle": "Ptolemaic Kingdom",
+    "wikiTitle": "Ptolemaic Kingdom",
+    "region": "africa",
+    "start": -305,
+    "end": -30,
+    "note": "Ptolemy took the royal title 305 BCE; his Egyptian governorship began 323 BCE. Ends with Roman annexation 30 BCE.",
+    "parent": null,
+    "category": "history",
+    "sourceUrls": [
+      "https://www.memphis.edu/egypt/resources/timeline.php"
+    ],
+    "promoteToTimeline": true,
+    "sources": [
+      {
+        "publisher": "University of Memphis",
+        "title": "Ptolemaic Kingdom · chronology and context",
+        "url": "https://www.memphis.edu/egypt/resources/timeline.php"
+      }
+    ]
+  },
+  {
+    "posterLabel": "Arab Caliphate",
+    "id": null,
+    "proposedTitle": "Early Islamic caliphates · Rashidun and Umayyad",
+    "wikiTitle": "Caliphate",
+    "region": "westasia",
+    "start": 632,
+    "end": 750,
+    "note": "The poster uses 633,641 and 651 for regional conquests. The Rashidun 632–661 and Umayyad 661–750 states are separate, already represented histories; Egypt conquered 639–642 and Sasanian defeat unfolded 633–651.",
+    "parent": null,
+    "category": "period",
+    "sourceUrls": [
+      "https://www.metmuseum.org/essays/the-art-of-the-umayyad-period-661-750"
+    ],
+    "suggestedId": "early-caliphates",
+    "representedBy": [
+      "rashidun",
+      "umayyad"
+    ],
+    "sources": [
+      {
+        "publisher": "The Metropolitan Museum of Art",
+        "title": "Early Islamic caliphates · Rashidun and Umayyad · chronology and context",
+        "url": "https://www.metmuseum.org/essays/the-art-of-the-umayyad-period-661-750"
+      }
+    ]
+  },
+  {
+    "posterLabel": "Fatimid Caliphate",
+    "id": null,
+    "proposedTitle": "Fatimid Caliphate",
+    "wikiTitle": "Fatimid Caliphate",
+    "region": "africa",
+    "start": 909,
+    "end": 1171,
+    "note": "Founded in North Africa 909; conquest of Egypt and establishment of Cairo occurred 969. The poster’s 969 start represents the Egyptian phase, not the caliphate’s founding.",
+    "parent": null,
+    "category": "history",
+    "sourceUrls": [
+      "https://www.metmuseum.org/essays/the-art-of-the-fatimid-period-909-1171"
+    ],
+    "suggestedId": "fatimid",
+    "sources": [
+      {
+        "publisher": "The Metropolitan Museum of Art",
+        "title": "Fatimid Caliphate · chronology and context",
+        "url": "https://www.metmuseum.org/essays/the-art-of-the-fatimid-period-909-1171"
+      }
+    ]
+  },
+  {
+    "posterLabel": "Ayyubid Sultanate",
+    "id": null,
+    "proposedTitle": "Ayyubid Sultanate",
+    "wikiTitle": "Ayyubid dynasty",
+    "region": "africa",
+    "start": 1171,
+    "end": 1260,
+    "note": "Ayyubid government ended in Egypt 1250; regional Ayyubid rulers in Syria continued through 1260 and some local branches longer. Use 1171–1250 for a strictly Egyptian subperiod.",
+    "parent": null,
+    "category": "history",
+    "sourceUrls": [
+      "https://www.metmuseum.org/essays/the-art-of-the-ayyubid-period-ca-1171-1260"
+    ],
+    "suggestedId": "ayyubid",
+    "sources": [
+      {
+        "publisher": "The Metropolitan Museum of Art",
+        "title": "Ayyubid Sultanate · chronology and context",
+        "url": "https://www.metmuseum.org/essays/the-art-of-the-ayyubid-period-ca-1171-1260"
+      }
+    ]
+  },
+  {
+    "posterLabel": "Mamluk Sultanate",
+    "id": null,
+    "proposedTitle": "Mamluk Sultanate · Egypt and Syria",
+    "wikiTitle": "Mamluk Sultanate",
+    "region": "africa",
+    "start": 1250,
+    "end": 1517,
+    "note": "Egyptian rule began 1250; control of Syria expanded by 1260. Ottoman conquest 1516–1517 ended the sultanate, although Mamluk elites persisted.",
+    "parent": null,
+    "category": "history",
+    "sourceUrls": [
+      "https://www.metmuseum.org/essays/the-art-of-the-mamluk-period-1250-1517"
+    ],
+    "suggestedId": "mamluk",
+    "sources": [
+      {
+        "publisher": "The Metropolitan Museum of Art",
+        "title": "Mamluk Sultanate · Egypt and Syria · chronology and context",
+        "url": "https://www.metmuseum.org/essays/the-art-of-the-mamluk-period-1250-1517"
+      }
+    ]
+  },
+  {
+    "posterLabel": "Muhammad Ali Dynasty",
+    "id": null,
+    "proposedTitle": "Egypt · Muhammad Ali dynasty",
+    "wikiTitle": "Muhammad Ali dynasty",
+    "region": "africa",
+    "start": 1805,
+    "end": 1953,
+    "note": "The dynasty continued across the British occupation, protectorate and Kingdom of Egypt; these were overlapping political dimensions. The poster cuts the dynasty at 1882.",
+    "parent": null,
+    "category": "history",
+    "sourceUrls": [
+      "https://egymonuments.gov.eg/en/historical-periods/muhammad-ali-dynasty-khedival-period",
+      "https://history.state.gov/countries/egypt"
+    ],
+    "suggestedId": "muhammad-ali",
+    "sources": [
+      {
+        "publisher": "Egyptian Ministry of Tourism and Antiquities",
+        "title": "Egypt · Muhammad Ali dynasty · chronology and context",
+        "url": "https://egymonuments.gov.eg/en/historical-periods/muhammad-ali-dynasty-khedival-period"
+      },
+      {
+        "publisher": "history.state.gov",
+        "title": "Egypt · Muhammad Ali dynasty · chronology and context",
+        "url": "https://history.state.gov/countries/egypt"
+      }
+    ]
+  },
+  {
+    "posterLabel": "Colonial Egypt",
+    "id": null,
+    "proposedTitle": "Egypt · British occupation and protectorate",
+    "wikiTitle": "History of Egypt under the British",
+    "region": "africa",
+    "start": 1882,
+    "end": 1922,
+    "note": "Occupation began 1882; the formal protectorate lasted 1914–1922. British influence, treaty rights and forces persisted after limited independence 1922.",
+    "parent": "muhammad-ali",
+    "category": "period",
+    "sourceUrls": [
+      "https://www.cambridge.org/core/books/abs/cambridge-history-of-egypt/british-occupation-18821922/179398E6D722904951A25256F524C963"
+    ],
+    "suggestedId": "egypt-british",
+    "sources": [
+      {
+        "publisher": "www.cambridge.org",
+        "title": "Egypt · British occupation and protectorate · chronology and context",
+        "url": "https://www.cambridge.org/core/books/abs/cambridge-history-of-egypt/british-occupation-18821922/179398E6D722904951A25256F524C963"
+      }
+    ]
+  },
+  {
+    "posterLabel": "Kingdom of Egypt",
+    "id": null,
+    "proposedTitle": "Kingdom of Egypt",
+    "wikiTitle": "Kingdom of Egypt",
+    "region": "africa",
+    "start": 1922,
+    "end": 1953,
+    "note": "Independence declared 1922 with important British reservations; monarchy abolished 1953.",
+    "parent": "egyptmodern",
+    "category": "period",
+    "sourceUrls": [
+      "https://history.state.gov/countries/egypt"
+    ],
+    "suggestedId": "egypt-kingdom",
+    "sources": [
+      {
+        "publisher": "history.state.gov",
+        "title": "Kingdom of Egypt · chronology and context",
+        "url": "https://history.state.gov/countries/egypt"
+      }
+    ]
+  },
+  {
+    "posterLabel": "Egypt",
+    "id": null,
+    "proposedTitle": "Egypt · republican eras",
+    "wikiTitle": "History of republican Egypt",
+    "region": "africa",
+    "start": 1953,
+    "end": null,
+    "note": "Republic proclaimed 1953. The existing broad modern-Egypt entry begins 1922; this adds its republican phase explicitly.",
+    "parent": "egyptmodern",
+    "category": "period",
+    "sourceUrls": [
+      "https://history.state.gov/countries/egypt"
+    ],
+    "suggestedId": "egypt-republic",
+    "needsDistinctPhase": true,
+    "sources": [
+      {
+        "publisher": "history.state.gov",
+        "title": "Egypt · republican eras · chronology and context",
+        "url": "https://history.state.gov/countries/egypt"
+      }
+    ]
+  },
+  {
+    "posterLabel": "Hittite Empire",
+    "id": "hittite",
+    "proposedTitle": "Hittite kingdom and empire",
+    "wikiTitle": "Hittites",
+    "region": "westasia",
+    "start": -1650,
+    "end": -1180,
+    "note": "Kingdom begins around 1650 BCE, not simply 1700; the imperial New Kingdom is a narrower phase.",
+    "parent": null,
+    "category": "history",
+    "sourceUrls": [
+      "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf"
+    ],
+    "sources": [
+      {
+        "publisher": "resources.metmuseum.org",
+        "title": "Hittite kingdom and empire · chronology and context",
+        "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf"
+      }
+    ]
+  },
+  {
+    "posterLabel": "Neo-Hittite Kingdoms",
+    "id": null,
+    "proposedTitle": "Syro-Hittite / Neo-Hittite kingdoms",
+    "wikiTitle": "Neo-Hittite states",
+    "region": "westasia",
+    "start": -1180,
+    "end": -700,
+    "note": "Multiple Luwian and Aramaean kingdoms followed the Hittite imperial collapse; no single successor empire. Final incorporation into Assyria varied by kingdom.",
+    "parent": null,
+    "category": "history",
+    "sourceUrls": [
+      "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf"
+    ],
+    "suggestedId": "neo-hittite",
+    "sources": [
+      {
+        "publisher": "resources.metmuseum.org",
+        "title": "Syro-Hittite / Neo-Hittite kingdoms · chronology and context",
+        "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf"
+      }
+    ]
+  },
+  {
+    "posterLabel": "Kingdom of Lydia",
+    "id": null,
+    "proposedTitle": "Lydia · Mermnad kingdom",
+    "wikiTitle": "Lydia",
+    "region": "westasia",
+    "start": -680,
+    "end": -546,
+    "note": "Selected well-attested Mermnad phase begins around 680 BCE. Earlier Lydian traditions and rulers predate it; Cyrus’s conquest is conventionally dated 547/546 BCE.",
+    "parent": null,
+    "category": "history",
+    "sourceUrls": [
+      "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf"
+    ],
+    "suggestedId": "lydia",
+    "sources": [
+      {
+        "publisher": "resources.metmuseum.org",
+        "title": "Lydia · Mermnad kingdom · chronology and context",
+        "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf"
+      }
+    ]
+  },
+  {
+    "posterLabel": "Sumerian Civilization",
+    "id": null,
+    "proposedTitle": "Sumer · cities and writing",
+    "wikiTitle": "Sumer",
+    "region": "westasia",
+    "start": -4000,
+    "end": -2004,
+    "note": "Selected urban Sumerian cultural history, not a single united empire. The poster’s 4500 BCE start is an overly precise ethnic-cultural founding date: Ubaid settlement traditions are earlier, while Uruk urbanization and writing developed during the fourth millennium. Ur III ended 2004 BCE; Sumerian language and traditions persisted.",
+    "parent": null,
+    "category": "history",
+    "sourceUrls": [
+      "https://www.metmuseum.org/essays/uruk-the-first-city",
+      "https://www.metmuseum.org/essays/the-origins-of-writing"
+    ],
+    "suggestedId": "sumer",
+    "sources": [
+      {
+        "publisher": "The Metropolitan Museum of Art",
+        "title": "Sumer · cities and writing · chronology and context",
+        "url": "https://www.metmuseum.org/essays/uruk-the-first-city"
+      },
+      {
+        "publisher": "The Metropolitan Museum of Art",
+        "title": "Sumer · cities and writing · chronology and context",
+        "url": "https://www.metmuseum.org/essays/the-origins-of-writing"
+      }
+    ]
+  },
+  {
+    "posterLabel": "Akkadian Empire",
+    "id": "akkad",
+    "proposedTitle": "Akkadian Empire",
+    "wikiTitle": "Akkadian Empire",
+    "region": "westasia",
+    "start": -2334,
+    "end": -2154,
+    "note": "Middle-chronology conventional dates; competing chronologies differ. Existing chart uses rounded 2350–2150 BCE.",
+    "parent": null,
+    "category": "history",
+    "sourceUrls": [
+      "https://www.metmuseum.org/essays/the-isin-larsa-and-old-babylonian-periods-2004-1595-b-c"
+    ],
+    "sources": [
+      {
+        "publisher": "The Metropolitan Museum of Art",
+        "title": "Akkadian Empire · chronology and context",
+        "url": "https://www.metmuseum.org/essays/the-isin-larsa-and-old-babylonian-periods-2004-1595-b-c"
+      }
+    ]
+  },
+  {
+    "posterLabel": "Sumerian Renaissance",
+    "id": null,
+    "proposedTitle": "Neo-Sumerian revival · Ur III",
+    "wikiTitle": "Third Dynasty of Ur",
+    "region": "westasia",
+    "start": -2112,
+    "end": -2004,
+    "note": "The poster’s 2154–1894 frame conflates several post-Akkadian dynasties. Ur III is 2112–2004 BCE; earlier Lagash II and later Isin-Larsa states are distinct.",
+    "parent": "sumer",
+    "category": "period",
+    "sourceUrls": [
+      "https://www.metmuseum.org/essays/the-isin-larsa-and-old-babylonian-periods-2004-1595-b-c"
+    ],
+    "suggestedId": "ur-third-dynasty",
+    "sources": [
+      {
+        "publisher": "The Metropolitan Museum of Art",
+        "title": "Neo-Sumerian revival · Ur III · chronology and context",
+        "url": "https://www.metmuseum.org/essays/the-isin-larsa-and-old-babylonian-periods-2004-1595-b-c"
+      }
+    ]
+  },
+  {
+    "posterLabel": "Old Babylonian Kingdom",
+    "id": "oldbab",
+    "proposedTitle": "Old Babylonian dynasty",
+    "wikiTitle": "Old Babylonian Empire",
+    "region": "westasia",
+    "start": -1894,
+    "end": -1595,
+    "note": "Selected First Dynasty of Babylon, not all southern Mesopotamian states in this era.",
+    "parent": null,
+    "category": "history",
+    "sourceUrls": [
+      "https://www.metmuseum.org/essays/the-isin-larsa-and-old-babylonian-periods-2004-1595-b-c"
+    ],
+    "sources": [
+      {
+        "publisher": "The Metropolitan Museum of Art",
+        "title": "Old Babylonian dynasty · chronology and context",
+        "url": "https://www.metmuseum.org/essays/the-isin-larsa-and-old-babylonian-periods-2004-1595-b-c"
+      }
+    ]
+  },
+  {
+    "posterLabel": "Kassite Babylon",
+    "id": "kassite",
+    "proposedTitle": "Middle Babylonian / Kassite period",
+    "wikiTitle": "Kassites",
+    "region": "westasia",
+    "start": -1595,
+    "end": -1155,
+    "note": "Traditional period boundary 1595 BCE reflects the Hittite sack; the earliest establishment of Kassite rule is imperfectly documented.",
+    "parent": null,
+    "category": "history",
+    "sourceUrls": [
+      "https://www.metmuseum.org/essays/the-middle-babylonian-kassite-period-ca-1595-1155-b-c-in-mesopotamia"
+    ],
+    "sources": [
+      {
+        "publisher": "The Metropolitan Museum of Art",
+        "title": "Middle Babylonian / Kassite period · chronology and context",
+        "url": "https://www.metmuseum.org/essays/the-middle-babylonian-kassite-period-ca-1595-1155-b-c-in-mesopotamia"
+      }
+    ]
+  },
+  {
+    "posterLabel": "Assyrian Empire",
+    "id": null,
+    "proposedTitle": "Assyria · Middle Assyrian period",
+    "wikiTitle": "Middle Assyrian Empire",
+    "region": "westasia",
+    "start": -1365,
+    "end": -911,
+    "note": "The poster’s broad Assyrian band combines Middle and Neo-Assyrian periods. This earlier phase complements existing Neo-Assyria; power and territory fluctuated.",
+    "parent": null,
+    "category": "history",
+    "sourceUrls": [
+      "https://www.metmuseum.org/essays/assyria-1365-609-b-c"
+    ],
+    "suggestedId": "middle-assyrian",
+    "representedBy": [
+      "assyria"
+    ],
+    "sources": [
+      {
+        "publisher": "The Metropolitan Museum of Art",
+        "title": "Assyria · Middle Assyrian period · chronology and context",
+        "url": "https://www.metmuseum.org/essays/assyria-1365-609-b-c"
+      }
+    ]
+  },
+  {
+    "posterLabel": "Assyrian Empire",
+    "id": "assyria",
+    "proposedTitle": "Neo-Assyrian Empire",
+    "wikiTitle": "Neo-Assyrian Empire",
+    "region": "westasia",
+    "start": -911,
+    "end": -609,
+    "note": "Nineveh fell 612 BCE; remaining Assyrian royal resistance at Harran continued until 609 BCE. Existing entry uses 612 for the fall of its capital.",
+    "parent": null,
+    "category": "history",
+    "sourceUrls": [
+      "https://www.metmuseum.org/essays/assyria-1365-609-b-c"
+    ],
+    "sources": [
+      {
+        "publisher": "The Metropolitan Museum of Art",
+        "title": "Neo-Assyrian Empire · chronology and context",
+        "url": "https://www.metmuseum.org/essays/assyria-1365-609-b-c"
+      }
+    ]
+  },
+  {
+    "posterLabel": "Neo-Babylonian Empire",
+    "id": null,
+    "proposedTitle": "Neo-Babylonian Empire",
+    "wikiTitle": "Neo-Babylonian Empire",
+    "region": "westasia",
+    "start": -626,
+    "end": -539,
+    "note": "Nabopolassar’s kingdom began 626 BCE; imperial expansion followed Assyria’s collapse 612–609. Conquered by Cyrus 539 BCE.",
+    "parent": null,
+    "category": "history",
+    "sourceUrls": [
+      "https://82nd-and-fifth.metmuseum.org/toah/ht/04/wam.html"
+    ],
+    "suggestedId": "neo-babylonian",
+    "sources": [
+      {
+        "publisher": "82nd-and-fifth.metmuseum.org",
+        "title": "Neo-Babylonian Empire · chronology and context",
+        "url": "https://82nd-and-fifth.metmuseum.org/toah/ht/04/wam.html"
+      }
+    ]
+  },
+  {
+    "posterLabel": "Elamite Civilization",
+    "id": null,
+    "proposedTitle": "Elam · kingdoms of southwest Iran",
+    "wikiTitle": "Elam",
+    "region": "westasia",
+    "start": -2700,
+    "end": -539,
+    "note": "A sequence of kingdoms and cultural phases, not one uninterrupted empire. Elamite history did not simply end 1500 BCE with the appearance of Iranian-speaking groups; these histories overlapped.",
+    "parent": null,
+    "category": "history",
+    "sourceUrls": [
+      "https://www.iranicaonline.org/articles/elam-i/",
+      "https://www.iranicaonline.org/articles/iran-ii1-pre-islamic-times/",
+      "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf"
+    ],
+    "suggestedId": "elam",
+    "sources": [
+      {
+        "publisher": "www.iranicaonline.org",
+        "title": "Elam · kingdoms of southwest Iran · chronology and context",
+        "url": "https://www.iranicaonline.org/articles/elam-i/"
+      },
+      {
+        "publisher": "www.iranicaonline.org",
+        "title": "Elam · kingdoms of southwest Iran · chronology and context",
+        "url": "https://www.iranicaonline.org/articles/iran-ii1-pre-islamic-times/"
+      },
+      {
+        "publisher": "resources.metmuseum.org",
+        "title": "Elam · kingdoms of southwest Iran · chronology and context",
+        "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf"
+      }
+    ]
+  },
+  {
+    "posterLabel": "Iranian Tribes",
+    "id": null,
+    "proposedTitle": "Early Iranian-speaking peoples",
+    "wikiTitle": "Iranian peoples",
+    "region": "westasia",
+    "start": -1500,
+    "end": -550,
+    "note": "A selected approximate pre-Achaemenid frame, not a state or a single dated migration. Western-Iranian groups are securely attested in Assyrian records by the ninth centuryBCE; their languages and societies continued after 550 BCE.",
+    "parent": null,
+    "category": "history",
+    "sourceUrls": [
+      "https://www.iranicaonline.org/articles/archaeology-ii/"
+    ],
+    "suggestedId": "early-iranian-peoples",
+    "sources": [
+      {
+        "publisher": "www.iranicaonline.org",
+        "title": "Early Iranian-speaking peoples · chronology and context",
+        "url": "https://www.iranicaonline.org/articles/archaeology-ii/"
+      }
+    ]
+  },
+  {
+    "posterLabel": "Median Empire",
+    "id": null,
+    "proposedTitle": "Medes · kingdom and debated empire",
+    "wikiTitle": "Medes",
+    "region": "westasia",
+    "start": -678,
+    "end": -550,
+    "note": "Conventional traditional frame only. The extent, political unity and chronology of a Median empire remain debated; no claim that a securely documented empire was founded in 678 BCE.",
+    "parent": null,
+    "category": "history",
+    "sourceUrls": [
+      "https://www.iranicaonline.org/articles/media/",
+      "https://www.iranicaonline.org/articles/archaeology-ii/"
+    ],
+    "suggestedId": "medes",
+    "sources": [
+      {
+        "publisher": "www.iranicaonline.org",
+        "title": "Medes · kingdom and debated empire · chronology and context",
+        "url": "https://www.iranicaonline.org/articles/media/"
+      },
+      {
+        "publisher": "www.iranicaonline.org",
+        "title": "Medes · kingdom and debated empire · chronology and context",
+        "url": "https://www.iranicaonline.org/articles/archaeology-ii/"
+      }
+    ]
+  },
+  {
+    "posterLabel": "Persian Empire",
+    "id": "persia",
+    "proposedTitle": "Achaemenid Persian Empire",
+    "wikiTitle": "Achaemenid Empire",
+    "region": "westasia",
+    "start": -550,
+    "end": -330,
+    "note": "The poster steps conquest dates across regions: Lydia 546, Egypt 525, Babylon 539. These are accessions of territory, not multiple founding dates; Iranian rule continued under successor powers.",
+    "parent": null,
+    "category": "history",
+    "sourceUrls": [
+      "https://www.iranicaonline.org/articles/iran-ii1-pre-islamic-times/"
+    ],
+    "sources": [
+      {
+        "publisher": "www.iranicaonline.org",
+        "title": "Achaemenid Persian Empire · chronology and context",
+        "url": "https://www.iranicaonline.org/articles/iran-ii1-pre-islamic-times/"
+      }
+    ]
+  },
+  {
+    "posterLabel": "Macedonian Empire",
+    "id": "cn-alexander",
+    "proposedTitle": "Alexander’s empire",
+    "wikiTitle": "Alexander the Great",
+    "region": "europe",
+    "start": -336,
+    "end": -323,
+    "note": "Alexander became king 336 BCE; Asian invasion began 334, Babylon fell 331 and Achaemenid kingship ended 330. This selected personal reign must not be equated with the full earlier Macedonian kingdom.",
+    "parent": null,
+    "category": "history",
+    "sourceUrls": [
+      "https://www.iranicaonline.org/articles/iran-ii1-pre-islamic-times/"
+    ],
+    "promoteToTimeline": true,
+    "sources": [
+      {
+        "publisher": "www.iranicaonline.org",
+        "title": "Alexander’s empire · chronology and context",
+        "url": "https://www.iranicaonline.org/articles/iran-ii1-pre-islamic-times/"
+      }
+    ]
+  },
+  {
+    "posterLabel": "Hellenistic Kingdoms",
+    "id": "hellenistic",
+    "proposedTitle": "Hellenistic successor kingdoms",
+    "wikiTitle": "Hellenistic period",
+    "region": "europe",
+    "start": -323,
+    "end": -31,
+    "note": "A family of rival states following Alexander; selected separate Ptolemaic, Seleucid and Parthian histories are required for the poster’s named blocks.",
+    "parent": null,
+    "category": "history",
+    "sourceUrls": [],
+    "sources": []
+  },
+  {
+    "posterLabel": "Seleucid Empire",
+    "id": "cn-seleucid",
+    "proposedTitle": "Seleucid Empire",
+    "wikiTitle": "Seleucid Empire",
+    "region": "westasia",
+    "start": -312,
+    "end": -63,
+    "note": "Conventional era starts 312 BCE; Seleucus assumed royal title 305. Territory contracted in stages, especially with Parthian expansion.",
+    "parent": null,
+    "category": "history",
+    "sourceUrls": [
+      "https://www.iranicaonline.org/articles/iran-ii1-pre-islamic-times/"
+    ],
+    "promoteToTimeline": true,
+    "sources": [
+      {
+        "publisher": "www.iranicaonline.org",
+        "title": "Seleucid Empire · chronology and context",
+        "url": "https://www.iranicaonline.org/articles/iran-ii1-pre-islamic-times/"
+      }
+    ]
+  },
+  {
+    "posterLabel": "Parthian Empire",
+    "id": "cn-parthian",
+    "proposedTitle": "Parthian Empire",
+    "wikiTitle": "Parthian Empire",
+    "region": "westasia",
+    "start": -247,
+    "end": 224,
+    "note": "Arsacid origins conventionally 247 BCE;141 BCE in the poster is conquest of Babylonia, not the empire’s foundation.",
+    "parent": null,
+    "category": "history",
+    "sourceUrls": [
+      "https://www.iranicaonline.org/articles/iran-ii1-pre-islamic-times/"
+    ],
+    "promoteToTimeline": true,
+    "sources": [
+      {
+        "publisher": "www.iranicaonline.org",
+        "title": "Parthian Empire · chronology and context",
+        "url": "https://www.iranicaonline.org/articles/iran-ii1-pre-islamic-times/"
+      }
+    ]
+  },
+  {
+    "posterLabel": "Sasanian Empire",
+    "id": "sasanian",
+    "proposedTitle": "Sasanian Empire",
+    "wikiTitle": "Sasanian Empire",
+    "region": "westasia",
+    "start": 224,
+    "end": 651,
+    "note": "Founded 224. Arab conquest proceeded over several decades;651 marks the death of YazdegerdIII, not the disappearance of Iranian society.",
+    "parent": null,
+    "category": "history",
+    "sourceUrls": [
+      "https://www.iranicaonline.org/articles/iran-ii1-pre-islamic-times/"
+    ],
+    "sources": [
+      {
+        "publisher": "www.iranicaonline.org",
+        "title": "Sasanian Empire · chronology and context",
+        "url": "https://www.iranicaonline.org/articles/iran-ii1-pre-islamic-times/"
+      }
+    ]
+  },
+  {
+    "posterLabel": "Abbasid Caliphate",
+    "id": "abbasid",
+    "proposedTitle": "Abbasid Caliphate · Baghdad phase",
+    "wikiTitle": "Abbasid Caliphate",
+    "region": "westasia",
+    "start": 750,
+    "end": 1258,
+    "note": "Cairo-based Abbasid caliphs later continued under Mamluk patronage 1261–1517; Baghdad’s fall 1258 ends this selected ruling phase.",
+    "parent": null,
+    "category": "history",
+    "sourceUrls": [
+      "https://resources.metmuseum.org/resources/metpublications/pdf/Masterpieces_from_the_Department_of_Islamic_Art_in_The_Metropolitan_Museum_of_Art.pdf"
+    ],
+    "sources": [
+      {
+        "publisher": "resources.metmuseum.org",
+        "title": "Abbasid Caliphate · Baghdad phase · chronology and context",
+        "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Masterpieces_from_the_Department_of_Islamic_Art_in_The_Metropolitan_Museum_of_Art.pdf"
+      }
+    ]
+  },
+  {
+    "posterLabel": "Sultanate of Rum",
+    "id": null,
+    "proposedTitle": "Sultanate of Rûm",
+    "wikiTitle": "Sultanate of Rum",
+    "region": "westasia",
+    "start": 1077,
+    "end": 1308,
+    "note": "An Anatolian Seljuk state distinct from the Great Seljuq Empire already in the chart. Autonomy weakened after defeat by the Mongols 1243.",
+    "parent": null,
+    "category": "history",
+    "sourceUrls": [
+      "https://resources.metmuseum.org/resources/metpublications/pdf/Masterpieces_from_the_Department_of_Islamic_Art_in_The_Metropolitan_Museum_of_Art.pdf"
+    ],
+    "suggestedId": "sultanate-rum",
+    "sources": [
+      {
+        "publisher": "resources.metmuseum.org",
+        "title": "Sultanate of Rûm · chronology and context",
+        "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Masterpieces_from_the_Department_of_Islamic_Art_in_The_Metropolitan_Museum_of_Art.pdf"
+      }
+    ]
+  },
+  {
+    "posterLabel": "Post-Abbasid Regional Dynasties",
+    "id": null,
+    "proposedTitle": "Iran and Iraq · Mongol and regional dynasties",
+    "wikiTitle": "History of Iran",
+    "region": "westasia",
+    "start": 1258,
+    "end": 1501,
+    "note": "A regional overview, not a single successor state. Includes Ilkhanid, Jalayirid, Timurid and Turkmen powers with different and overlapping dates; Ilkhanid rule began before 1258 and several regional histories continued after 1501.",
+    "parent": null,
+    "category": "history",
+    "sourceUrls": [
+      "https://resources.metmuseum.org/resources/metpublications/pdf/Masterpieces_from_the_Department_of_Islamic_Art_in_The_Metropolitan_Museum_of_Art.pdf"
+    ],
+    "suggestedId": "post-abbasid-dynasties",
+    "representedBy": [
+      "cn-ilkhanate",
+      "timurid"
+    ],
+    "sources": [
+      {
+        "publisher": "resources.metmuseum.org",
+        "title": "Iran and Iraq · Mongol and regional dynasties · chronology and context",
+        "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Masterpieces_from_the_Department_of_Islamic_Art_in_The_Metropolitan_Museum_of_Art.pdf"
+      }
+    ]
+  },
+  {
+    "posterLabel": "Post-Abbasid Regional Dynasties",
+    "id": "cn-ilkhanate",
+    "proposedTitle": "Ilkhanate",
+    "wikiTitle": "Ilkhanate",
+    "region": "westasia",
+    "start": 1256,
+    "end": 1335,
+    "note": "Specific state within the poster’s broad regional band; rule begins before the 1258 sack of Baghdad. Later rival Ilkhan claimants continued after 1335.",
+    "parent": null,
+    "category": "history",
+    "sourceUrls": [
+      "https://resources.metmuseum.org/resources/metpublications/pdf/Masterpieces_from_the_Department_of_Islamic_Art_in_The_Metropolitan_Museum_of_Art.pdf"
+    ],
+    "promoteToTimeline": true,
+    "sources": [
+      {
+        "publisher": "resources.metmuseum.org",
+        "title": "Ilkhanate · chronology and context",
+        "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Masterpieces_from_the_Department_of_Islamic_Art_in_The_Metropolitan_Museum_of_Art.pdf"
+      }
+    ]
+  },
+  {
+    "posterLabel": "Post-Abbasid Regional Dynasties",
+    "id": null,
+    "proposedTitle": "Timurid Empire",
+    "wikiTitle": "Timurid Empire",
+    "region": "westasia",
+    "start": 1370,
+    "end": 1507,
+    "note": "Specific major power within the poster’s umbrella band; western Iranian territory also passed to Turkmen dynasties. Their dates do not define a single 1258–1501 empire.",
+    "parent": null,
+    "category": "history",
+    "sourceUrls": [
+      "https://resources.metmuseum.org/resources/metpublications/pdf/Masterpieces_from_the_Department_of_Islamic_Art_in_The_Metropolitan_Museum_of_Art.pdf"
+    ],
+    "suggestedId": "timurid",
+    "sources": [
+      {
+        "publisher": "resources.metmuseum.org",
+        "title": "Timurid Empire · chronology and context",
+        "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Masterpieces_from_the_Department_of_Islamic_Art_in_The_Metropolitan_Museum_of_Art.pdf"
+      }
+    ]
+  },
+  {
+    "posterLabel": "Safavid Empire",
+    "id": "safavid",
+    "proposedTitle": "Safavid Iran",
+    "wikiTitle": "Safavid Iran",
+    "region": "westasia",
+    "start": 1501,
+    "end": 1736,
+    "note": "Conventional dynasty 1501–1736. Effective control collapsed after the Afghan conquest 1722; residual Safavid claimants and restoration attempts continued until Nader’s coronation.",
+    "parent": null,
+    "category": "history",
+    "sourceUrls": [
+      "https://www.iranicaonline.org/articles/afsharids-dynasty/"
+    ],
+    "sources": [
+      {
+        "publisher": "www.iranicaonline.org",
+        "title": "Safavid Iran · chronology and context",
+        "url": "https://www.iranicaonline.org/articles/afsharids-dynasty/"
+      }
+    ]
+  },
+  {
+    "posterLabel": "Afsharid Empire",
+    "id": null,
+    "proposedTitle": "Afsharid Iran",
+    "wikiTitle": "Afsharid Iran",
+    "region": "westasia",
+    "start": 1736,
+    "end": 1796,
+    "note": "Nader Shah’s empire fragmented after his death 1747. Afsharid government in Khorasan survived until 1796, overlapping the Zands and rising Qajars.",
+    "parent": null,
+    "category": "history",
+    "sourceUrls": [
+      "https://www.iranicaonline.org/articles/afsharids-dynasty/"
+    ],
+    "suggestedId": "afsharid",
+    "sources": [
+      {
+        "publisher": "www.iranicaonline.org",
+        "title": "Afsharid Iran · chronology and context",
+        "url": "https://www.iranicaonline.org/articles/afsharids-dynasty/"
+      }
+    ]
+  },
+  {
+    "posterLabel": "Qajar Dynasty",
+    "id": null,
+    "proposedTitle": "Qajar Iran",
+    "wikiTitle": "Qajar Iran",
+    "region": "westasia",
+    "start": 1789,
+    "end": 1925,
+    "note": "Start dates 1786,1789,1794 and 1796 reflect different stages of consolidation and coronation. Use conventional 1789 for the dynasty and explain 1796 coronation; the poster selects 1796.",
+    "parent": null,
+    "category": "history",
+    "sourceUrls": [
+      "https://www.iranicaonline.org/articles/isfahan-viii-qajar-period/",
+      "https://www.iranicaonline.org/articles/historiography-viii/"
+    ],
+    "suggestedId": "qajar",
+    "sources": [
+      {
+        "publisher": "www.iranicaonline.org",
+        "title": "Qajar Iran · chronology and context",
+        "url": "https://www.iranicaonline.org/articles/isfahan-viii-qajar-period/"
+      },
+      {
+        "publisher": "www.iranicaonline.org",
+        "title": "Qajar Iran · chronology and context",
+        "url": "https://www.iranicaonline.org/articles/historiography-viii/"
+      }
+    ]
+  },
+  {
+    "posterLabel": "Pahlavi Dynasty",
+    "id": null,
+    "proposedTitle": "Iran · Pahlavi dynasty",
+    "wikiTitle": "Pahlavi dynasty",
+    "region": "westasia",
+    "start": 1925,
+    "end": 1979,
+    "note": "Reza Khan’s 1921 coup preceded the foundation of the Pahlavi monarchy 1925. Monarchy overthrown 1979.",
+    "parent": "iranmodern",
+    "category": "period",
+    "sourceUrls": [
+      "https://www.iranicaonline.org/articles/administration-vii-pahlavi/"
+    ],
+    "suggestedId": "iran-pahlavi",
+    "sources": [
+      {
+        "publisher": "www.iranicaonline.org",
+        "title": "Iran · Pahlavi dynasty · chronology and context",
+        "url": "https://www.iranicaonline.org/articles/administration-vii-pahlavi/"
+      }
+    ]
+  },
+  {
+    "posterLabel": "Iran",
+    "id": null,
+    "proposedTitle": "Iran · Islamic Republic era",
+    "wikiTitle": "History of the Islamic Republic of Iran",
+    "region": "westasia",
+    "start": 1979,
+    "end": null,
+    "note": "Revolution and Islamic Republic established 1979; the broader history of Iran and its society long predates this constitutional phase.",
+    "parent": "iranmodern",
+    "category": "period",
+    "sourceUrls": [
+      "https://www.archives.gov/research/foreign-policy/iran-hostage-crisis"
+    ],
+    "suggestedId": "iran-islamic-republic",
+    "sources": [
+      {
+        "publisher": "www.archives.gov",
+        "title": "Iran · Islamic Republic era · chronology and context",
+        "url": "https://www.archives.gov/research/foreign-policy/iran-hostage-crisis"
+      }
+    ]
+  },
+  {
+    "posterLabel": "Ottoman Empire",
+    "id": "ottoman",
+    "proposedTitle": "Ottoman Empire",
+    "wikiTitle": "Ottoman Empire",
+    "region": "westasia",
+    "start": 1299,
+    "end": 1922,
+    "note": "Conventional origin around 1299; Ottoman expansion into Byzantine, Mamluk and Iraqi territories occurred at different dates. Sultanate abolished 1922; republic proclaimed 1923.",
+    "parent": null,
+    "category": "history",
+    "sourceUrls": [],
+    "sources": []
+  },
+  {
+    "posterLabel": "Turkey",
+    "id": "turkiye",
+    "proposedTitle": "Republic of Türkiye / Turkey",
+    "wikiTitle": "History of the Republic of Turkey",
+    "region": "westasia",
+    "start": 1923,
+    "end": null,
+    "note": "Republic proclaimed 1923; the empire and republic are distinct phases.",
+    "parent": null,
+    "category": "history",
+    "sourceUrls": [],
+    "sources": []
+  },
+  {
+    "posterLabel": "Kingdom of Iraq",
+    "id": null,
+    "proposedTitle": "Kingdom of Iraq",
+    "wikiTitle": "Kingdom of Iraq",
+    "region": "westasia",
+    "start": 1921,
+    "end": 1958,
+    "note": "Monarchy established 1921 under British control; mandate ended and independence recognized 1932. Monarchy overthrown 14 July 1958.",
+    "parent": null,
+    "category": "history",
+    "sourceUrls": [
+      "https://history.state.gov/countries/iraq/1000"
+    ],
+    "suggestedId": "iraq-kingdom",
+    "sources": [
+      {
+        "publisher": "history.state.gov",
+        "title": "Kingdom of Iraq · chronology and context",
+        "url": "https://history.state.gov/countries/iraq/1000"
+      }
+    ]
+  },
+  {
+    "posterLabel": "Iraq",
+    "id": null,
+    "proposedTitle": "Iraq · republican eras",
+    "wikiTitle": "Iraq",
+    "region": "westasia",
+    "start": 1958,
+    "end": null,
+    "note": "A succession of republics and regimes, with major changes 1968,2003 and 2005. The state and Iraqi society did not originate 1958.",
+    "parent": null,
+    "category": "history",
+    "sourceUrls": [
+      "https://history.state.gov/countries/iraq/1000"
+    ],
+    "suggestedId": "iraqmodern",
+    "sources": [
+      {
+        "publisher": "history.state.gov",
+        "title": "Iraq · republican eras · chronology and context",
+        "url": "https://history.state.gov/countries/iraq/1000"
+      }
+    ]
+  },
+  {
+    "posterLabel": "Indus Valley Civilization",
+    "id": "indus",
+    "proposedTitle": "Indus civilization · Early, Mature and Late Harappan phases",
+    "wikiTitle": "Indus Valley Civilisation",
+    "region": "southasia",
+    "start": -3300,
+    "end": -1300,
+    "note": "The poster’s 3300 BCE start is Early Harappan, while the existing chart shows Mature Harappan 2600–1900 BCE. Add Early and Late phases explicitly; decline of urban centres did not end all Harappan traditions 1500 BCE.",
+    "parent": null,
+    "category": "history",
+    "sourceUrls": [
+      "https://whc.unesco.org/en/tentativelists/1878/",
+      "https://www.harappa.com/content/recent-indus-discoveries-and-highlights-excavations-harappa-1998-2000"
+    ],
+    "needsDistinctPhase": true,
+    "sources": [
+      {
+        "publisher": "whc.unesco.org",
+        "title": "Indus civilization · Early, Mature and Late Harappan phases · chronology and context",
+        "url": "https://whc.unesco.org/en/tentativelists/1878/"
+      },
+      {
+        "publisher": "www.harappa.com",
+        "title": "Indus civilization · Early, Mature and Late Harappan phases · chronology and context",
+        "url": "https://www.harappa.com/content/recent-indus-discoveries-and-highlights-excavations-harappa-1998-2000"
+      }
+    ]
+  },
+  {
+    "posterLabel": "Vedic Period",
+    "id": "vedic",
+    "proposedTitle": "Vedic cultures",
+    "wikiTitle": "Vedic period",
+    "region": "southasia",
+    "start": -1500,
+    "end": -500,
+    "note": "Conventional textual-cultural frame 1500–500 BCE; dates are approximate, regional and debated. Vedic cultures coexisted with Late Harappan and other traditions; not a single state.",
+    "parent": null,
+    "category": "history",
+    "sourceUrls": [],
+    "sources": []
+  },
+  {
+    "posterLabel": "Mahajanapadas",
+    "id": null,
+    "proposedTitle": "Mahājanapadas",
+    "wikiTitle": "Mahajanapadas",
+    "region": "southasia",
+    "start": -600,
+    "end": -322,
+    "note": "Multiple kingdoms and oligarchic republics, principally in northern South Asia; conventional sixth–fourth centuryBCE frame. Mauryan expansion incorporated different states at different times.",
+    "parent": null,
+    "category": "history",
+    "sourceUrls": [
+      "https://sathee.iitk.ac.in/ncert-books/class-12/themes-in-indian-history/chapter-02-kings-farmers-and-towns-early-states-and-economies/"
+    ],
+    "suggestedId": "mahajanapadas",
+    "sources": [
+      {
+        "publisher": "sathee.iitk.ac.in",
+        "title": "Mahājanapadas · chronology and context",
+        "url": "https://sathee.iitk.ac.in/ncert-books/class-12/themes-in-indian-history/chapter-02-kings-farmers-and-towns-early-states-and-economies/"
+      }
+    ]
+  },
+  {
+    "posterLabel": "Maurya Empire",
+    "id": "maurya",
+    "proposedTitle": "Mauryan Empire",
+    "wikiTitle": "Maurya Empire",
+    "region": "southasia",
+    "start": -322,
+    "end": -185,
+    "note": "Traditional dates 322/321–185 BCE; exact founding chronology varies. Not an empire covering every part of the Indian subcontinent.",
+    "parent": null,
+    "category": "history",
+    "sourceUrls": [
+      "https://sathee.iitk.ac.in/ncert-books/class-12/themes-in-indian-history/chapter-02-kings-farmers-and-towns-early-states-and-economies/"
+    ],
+    "sources": [
+      {
+        "publisher": "sathee.iitk.ac.in",
+        "title": "Mauryan Empire · chronology and context",
+        "url": "https://sathee.iitk.ac.in/ncert-books/class-12/themes-in-indian-history/chapter-02-kings-farmers-and-towns-early-states-and-economies/"
+      }
+    ]
+  },
+  {
+    "posterLabel": "Post-Mauryan Kingdoms",
+    "id": null,
+    "proposedTitle": "Post-Mauryan South Asian kingdoms",
+    "wikiTitle": "History of India",
+    "region": "southasia",
+    "start": -185,
+    "end": 320,
+    "note": "Period overview containing Shunga, Kanva, Indo-Greek, Shaka, Satavahana and Kushan powers; many coexisted. Existing Kushan history provides one named example.",
+    "parent": null,
+    "category": "history",
+    "sourceUrls": [
+      "https://sathee.iitk.ac.in/ncert-books/class-12/themes-in-indian-history/chapter-02-kings-farmers-and-towns-early-states-and-economies/"
+    ],
+    "suggestedId": "post-mauryan",
+    "representedBy": [
+      "kushan"
+    ],
+    "sources": [
+      {
+        "publisher": "sathee.iitk.ac.in",
+        "title": "Post-Mauryan South Asian kingdoms · chronology and context",
+        "url": "https://sathee.iitk.ac.in/ncert-books/class-12/themes-in-indian-history/chapter-02-kings-farmers-and-towns-early-states-and-economies/"
+      }
+    ]
+  },
+  {
+    "posterLabel": "Gupta Empire",
+    "id": "gupta",
+    "proposedTitle": "Gupta Empire and period",
+    "wikiTitle": "Gupta Empire",
+    "region": "southasia",
+    "start": 320,
+    "end": 550,
+    "note": "Conventional imperial/art-historical phase; political decline and regional artistic influence have different end dates.",
+    "parent": null,
+    "category": "history",
+    "sourceUrls": [
+      "https://jameelcentre.ashmolean.org/collection/4/880/882/11150",
+      "https://www.cambridge.org/core/books/abs/companion-to-the-global-early-middle-ages/south-asia/1902124151D36C990B70D3B24479FEE6"
+    ],
+    "sources": [
+      {
+        "publisher": "jameelcentre.ashmolean.org",
+        "title": "Gupta Empire and period · chronology and context",
+        "url": "https://jameelcentre.ashmolean.org/collection/4/880/882/11150"
+      },
+      {
+        "publisher": "www.cambridge.org",
+        "title": "Gupta Empire and period · chronology and context",
+        "url": "https://www.cambridge.org/core/books/abs/companion-to-the-global-early-middle-ages/south-asia/1902124151D36C990B70D3B24479FEE6"
+      }
+    ]
+  },
+  {
+    "posterLabel": "Post-Gupta Kingdoms",
+    "id": null,
+    "proposedTitle": "Post-Gupta regional kingdoms",
+    "wikiTitle": "Middle kingdoms of India",
+    "region": "southasia",
+    "start": 550,
+    "end": 647,
+    "note": "A selected transition frame, not one polity. Regional kingdoms and post-Gupta artistic traditions began before and continued after Harsha; avoid a blanket replacement at 606.",
+    "parent": null,
+    "category": "history",
+    "sourceUrls": [
+      "https://www.cambridge.org/core/books/abs/companion-to-the-global-early-middle-ages/south-asia/1902124151D36C990B70D3B24479FEE6",
+      "https://jameelcentre.ashmolean.org/collection/4/880/882/11150"
+    ],
+    "suggestedId": "post-gupta",
+    "sources": [
+      {
+        "publisher": "www.cambridge.org",
+        "title": "Post-Gupta regional kingdoms · chronology and context",
+        "url": "https://www.cambridge.org/core/books/abs/companion-to-the-global-early-middle-ages/south-asia/1902124151D36C990B70D3B24479FEE6"
+      },
+      {
+        "publisher": "jameelcentre.ashmolean.org",
+        "title": "Post-Gupta regional kingdoms · chronology and context",
+        "url": "https://jameelcentre.ashmolean.org/collection/4/880/882/11150"
+      }
+    ]
+  },
+  {
+    "posterLabel": "Harsha’s Empire",
+    "id": null,
+    "proposedTitle": "Harsha · northern Indian kingdom",
+    "wikiTitle": "Harsha",
+    "region": "southasia",
+    "start": 606,
+    "end": 647,
+    "note": "Harsha ruled parts of northern India 606–647, not all South Asia; southern powers including the Chalukyas remained independent.",
+    "parent": null,
+    "category": "history",
+    "sourceUrls": [
+      "https://libcat.canterbury.ac.nz/Record/281905"
+    ],
+    "suggestedId": "harsha",
+    "sources": [
+      {
+        "publisher": "libcat.canterbury.ac.nz",
+        "title": "Harsha · northern Indian kingdom · chronology and context",
+        "url": "https://libcat.canterbury.ac.nz/Record/281905"
+      }
+    ]
+  },
+  {
+    "posterLabel": "Regional Kingdoms",
+    "id": null,
+    "proposedTitle": "Early medieval South Asian kingdoms",
+    "wikiTitle": "Middle kingdoms of India",
+    "region": "southasia",
+    "start": 647,
+    "end": 1206,
+    "note": "A broad selected frame, not one state or a cultural vacuum. Includes Pala, Pratihara, Rashtrakuta, Chalukya, Chola and Rajput polities with overlapping dates; southern kingdoms continued after 1206.",
+    "parent": null,
+    "category": "history",
+    "sourceUrls": [
+      "https://www.cambridge.org/core/books/abs/companion-to-the-global-early-middle-ages/south-asia/1902124151D36C990B70D3B24479FEE6"
+    ],
+    "suggestedId": "india-regional-kingdoms",
+    "representedBy": [
+      "chola",
+      "vijayanagara"
+    ],
+    "sources": [
+      {
+        "publisher": "www.cambridge.org",
+        "title": "Early medieval South Asian kingdoms · chronology and context",
+        "url": "https://www.cambridge.org/core/books/abs/companion-to-the-global-early-middle-ages/south-asia/1902124151D36C990B70D3B24479FEE6"
+      }
+    ]
+  },
+  {
+    "posterLabel": "Delhi Sultanate",
+    "id": "delhi",
+    "proposedTitle": "Delhi Sultanate",
+    "wikiTitle": "Delhi Sultanate",
+    "region": "southasia",
+    "start": 1206,
+    "end": 1526,
+    "note": "Several ruling dynasties with shifting territories; a northern Indian political frame rather than all-India rule.",
+    "parent": null,
+    "category": "history",
+    "sourceUrls": [],
+    "sources": []
+  },
+  {
+    "posterLabel": "Mughal Empire",
+    "id": "mughal",
+    "proposedTitle": "Mughal dynasty",
+    "wikiTitle": "Mughal Empire",
+    "region": "southasia",
+    "start": 1526,
+    "end": 1858,
+    "note": "Interrupted by the Sur dynasty 1540–1555. Imperial power contracted greatly before 1858, while regional kingdoms and Company rule overlapped.",
+    "parent": null,
+    "category": "history",
+    "sourceUrls": [],
+    "sources": []
+  },
+  {
+    "posterLabel": "Colonial India",
+    "id": "britishraj",
+    "proposedTitle": "British Raj · Crown rule",
+    "wikiTitle": "British Raj",
+    "region": "southasia",
+    "start": 1858,
+    "end": 1947,
+    "note": "The poster correctly uses 1858 for Crown rule. Company territorial rule began earlier and is separately represented; princely states had distinct arrangements.",
+    "parent": null,
+    "category": "history",
+    "sourceUrls": [],
+    "sources": []
+  },
+  {
+    "posterLabel": "Pakistan",
+    "id": "pakistan",
+    "proposedTitle": "Pakistan",
+    "wikiTitle": "History of Pakistan (1947–present)",
+    "region": "southasia",
+    "start": 1947,
+    "end": null,
+    "note": "Independence 1947; East Pakistan became Bangladesh 1971. Constitutions and political regimes changed within this continuing national history.",
+    "parent": null,
+    "category": "history",
+    "sourceUrls": [],
+    "sources": []
+  },
+  {
+    "posterLabel": "India",
+    "id": "indiamodern",
+    "proposedTitle": "India · independent state",
+    "wikiTitle": "History of India (1947–present)",
+    "region": "southasia",
+    "start": 1947,
+    "end": null,
+    "note": "Independent Dominion 1947–1950, Republic from 1950. Independence is a political milestone, not the beginning of Indian cultures.",
+    "parent": null,
+    "category": "history",
+    "sourceUrls": [],
+    "sources": []
+  },
+  {
+    "posterLabel": "Liangzhu Culture",
+    "id": "liangzhu",
+    "proposedTitle": "Liangzhu culture",
+    "wikiTitle": "Liangzhu culture",
+    "region": "eastasia",
+    "start": -3300,
+    "end": -2300,
+    "note": "Archaeological culture 3300–2300 BCE; the poster uses 3000 and extends it toward Xia. Liangzhu is not a dynastic predecessor ruling all China.",
+    "parent": null,
+    "category": "history",
+    "sourceUrls": [],
+    "sources": []
+  },
+  {
+    "posterLabel": "Xia Dynasty",
+    "id": null,
+    "proposedTitle": "Xia · traditional dynasty, debated identification",
+    "wikiTitle": "Xia dynasty",
+    "region": "eastasia",
+    "start": -2070,
+    "end": -1600,
+    "note": "These are traditional/modelled dates, not secure contemporary attestations. No surviving contemporary inscription securely identifies Erlitou as Xia; historicity and archaeological identification remain debated.",
+    "parent": null,
+    "category": "history",
+    "sourceUrls": [
+      "https://www.getty.edu/vow/AATFullDisplay?find=300264024&logic=AND&note=&subjectid=300018354",
+      "https://www.cernuschi.paris.fr/en/collections/chinese-collections/shang-period"
+    ],
+    "suggestedId": "xia",
+    "certainty": "Traditional / debated",
+    "sources": [
+      {
+        "publisher": "www.getty.edu",
+        "title": "Xia · traditional dynasty, debated identification · chronology and context",
+        "url": "https://www.getty.edu/vow/AATFullDisplay?find=300264024&logic=AND&note=&subjectid=300018354"
+      },
+      {
+        "publisher": "www.cernuschi.paris.fr",
+        "title": "Xia · traditional dynasty, debated identification · chronology and context",
+        "url": "https://www.cernuschi.paris.fr/en/collections/chinese-collections/shang-period"
+      }
+    ]
+  },
+  {
+    "posterLabel": "Shang Dynasty",
+    "id": "shang",
+    "proposedTitle": "Shang dynasty",
+    "wikiTitle": "Shang dynasty",
+    "region": "eastasia",
+    "start": -1600,
+    "end": -1046,
+    "note": "The later Shang is securely attested by oracle-bone writing. The beginning around 1600 BCE and transition date 1046 are conventional archaeological-historical dates.",
+    "parent": null,
+    "category": "history",
+    "sourceUrls": [],
+    "sources": []
+  },
+  {
+    "posterLabel": "Zhou Dynasty",
+    "id": "zhou",
+    "proposedTitle": "Zhou dynasties",
+    "wikiTitle": "Zhou dynasty",
+    "region": "eastasia",
+    "start": -1046,
+    "end": -256,
+    "note": "Western and Eastern Zhou with changing royal power; Spring and Autumn and Warring States polities coexisted under increasingly nominal Zhou kingship.",
+    "parent": null,
+    "category": "history",
+    "sourceUrls": [],
+    "sources": []
+  },
+  {
+    "posterLabel": "Qin Dynasty",
+    "id": "qin",
+    "proposedTitle": "Qin dynasty · imperial phase",
+    "wikiTitle": "Qin dynasty",
+    "region": "eastasia",
+    "start": -221,
+    "end": -206,
+    "note": "Unification 221 BCE, correcting the poster’s tiny 217 BCE label. Qin as a regional state existed much earlier.",
+    "parent": null,
+    "category": "history",
+    "sourceUrls": [],
+    "sources": []
+  },
+  {
+    "posterLabel": "Han Dynasty",
+    "id": "han",
+    "proposedTitle": "Han dynasties",
+    "wikiTitle": "Han dynasty",
+    "region": "eastasia",
+    "start": -206,
+    "end": 220,
+    "note": "Western and Eastern Han, interrupted by the Xin dynasty 9–23 CE and subsequent civil war. Territorial reach and rule varied.",
+    "parent": null,
+    "category": "history",
+    "sourceUrls": [],
+    "sources": []
+  },
+  {
+    "posterLabel": "Age of Division",
+    "id": null,
+    "proposedTitle": "China · Six Dynasties and divided realms",
+    "wikiTitle": "Six Dynasties",
+    "region": "eastasia",
+    "start": 220,
+    "end": 589,
+    "note": "An umbrella period, not one government. Includes Three Kingdoms, Western/Eastern Jin, Sixteen Kingdoms and Northern/Southern dynasties; brief Western Jin reunification 280–316 interrupts any claim of continuous division.",
+    "parent": null,
+    "category": "history",
+    "sourceUrls": [
+      "https://82nd-and-fifth.metmuseum.org/toah/ht/05/eac.html"
+    ],
+    "suggestedId": "china-division",
+    "sources": [
+      {
+        "publisher": "82nd-and-fifth.metmuseum.org",
+        "title": "China · Six Dynasties and divided realms · chronology and context",
+        "url": "https://82nd-and-fifth.metmuseum.org/toah/ht/05/eac.html"
+      }
+    ]
+  },
+  {
+    "posterLabel": "Sui Dynasty",
+    "id": "sui",
+    "proposedTitle": "Sui dynasty",
+    "wikiTitle": "Sui dynasty",
+    "region": "eastasia",
+    "start": 581,
+    "end": 618,
+    "note": "Dynasty founded 581; reunification of north and south 589. The poster uses 589 for the territorial milestone.",
+    "parent": null,
+    "category": "history",
+    "sourceUrls": [],
+    "sources": []
+  },
+  {
+    "posterLabel": "Tang Dynasty",
+    "id": "tang",
+    "proposedTitle": "Tang dynasty",
+    "wikiTitle": "Tang dynasty",
+    "region": "eastasia",
+    "start": 618,
+    "end": 907,
+    "note": "Interrupted by Wu Zhou 690–705; regional warlords and rival states increasingly constrained late-Tang rule.",
+    "parent": null,
+    "category": "history",
+    "sourceUrls": [],
+    "sources": []
+  },
+  {
+    "posterLabel": "Five Dynasties Period",
+    "id": null,
+    "proposedTitle": "Five Dynasties and Ten Kingdoms",
+    "wikiTitle": "Five Dynasties and Ten Kingdoms period",
+    "region": "eastasia",
+    "start": 907,
+    "end": 979,
+    "note": "Northern Five Dynasties traditionally end 960 with Song’s foundation, while southern independent kingdoms continued until 979. A network of concurrent states, not five rulers of all China.",
+    "parent": null,
+    "category": "history",
+    "sourceUrls": [
+      "https://east.library.utoronto.ca/resource/china-studies/sui-tangfive-dynasties-and-ten-kingdoms-ad581-979",
+      "https://www.getty.edu/vow/AATFullDisplay?find=&logic=AND&note=&subjectid=300018422"
+    ],
+    "suggestedId": "five-dynasties",
+    "sources": [
+      {
+        "publisher": "east.library.utoronto.ca",
+        "title": "Five Dynasties and Ten Kingdoms · chronology and context",
+        "url": "https://east.library.utoronto.ca/resource/china-studies/sui-tangfive-dynasties-and-ten-kingdoms-ad581-979"
+      },
+      {
+        "publisher": "www.getty.edu",
+        "title": "Five Dynasties and Ten Kingdoms · chronology and context",
+        "url": "https://www.getty.edu/vow/AATFullDisplay?find=&logic=AND&note=&subjectid=300018422"
+      }
+    ]
+  },
+  {
+    "posterLabel": "Song Dynasty",
+    "id": "song",
+    "proposedTitle": "Song dynasties",
+    "wikiTitle": "Song dynasty",
+    "region": "eastasia",
+    "start": 960,
+    "end": 1279,
+    "note": "Northern Song 960–1127 and Southern Song 1127–1279 coexisted with Liao, Western Xia and Jin powers. Yuan proclaimed 1271 before Song’s final defeat 1279.",
+    "parent": null,
+    "category": "history",
+    "sourceUrls": [],
+    "sources": []
+  },
+  {
+    "posterLabel": "Yuan Dynasty",
+    "id": "yuan",
+    "proposedTitle": "Yuan dynasty",
+    "wikiTitle": "Yuan dynasty",
+    "region": "eastasia",
+    "start": 1271,
+    "end": 1368,
+    "note": "Proclaimed 1271, Southern Song conquered 1279. Ming seized Dadu 1368 but Northern Yuan rule continued beyond the poster’s endpoint.",
+    "parent": null,
+    "category": "history",
+    "sourceUrls": [],
+    "sources": []
+  },
+  {
+    "posterLabel": "Ming Dynasty",
+    "id": "ming",
+    "proposedTitle": "Ming dynasty",
+    "wikiTitle": "Ming dynasty",
+    "region": "eastasia",
+    "start": 1368,
+    "end": 1644,
+    "note": "Beijing fell 1644, while Southern Ming regimes continued to 1662 and related resistance longer. Ming did not simply become Qing everywhere at once.",
+    "parent": null,
+    "category": "history",
+    "sourceUrls": [],
+    "sources": []
+  },
+  {
+    "posterLabel": "Qing Dynasty",
+    "id": "qing",
+    "proposedTitle": "Qing dynasty · imperial rule in China",
+    "wikiTitle": "Qing dynasty",
+    "region": "eastasia",
+    "start": 1644,
+    "end": 1912,
+    "note": "Qing dynastic name proclaimed 1636 before its 1644 seizure of Beijing; conquest continued regionally thereafter. Abdication 1912.",
+    "parent": null,
+    "category": "history",
+    "sourceUrls": [],
+    "sources": []
+  },
+  {
+    "posterLabel": "Republic of China",
+    "id": "republicchina",
+    "proposedTitle": "Republic of China · mainland era",
+    "wikiTitle": "Republic of China (1912–1949)",
+    "region": "eastasia",
+    "start": 1912,
+    "end": 1949,
+    "note": "Founded 1912. The government relocated to Taiwan 1949 and the Republic of China continues there; it did not cease to exist with the PRC’s mainland victory.",
+    "parent": null,
+    "category": "history",
+    "sourceUrls": [],
+    "sources": []
+  },
+  {
+    "posterLabel": "China",
+    "id": "prchina",
+    "proposedTitle": "People’s Republic of China",
+    "wikiTitle": "History of the People's Republic of China",
+    "region": "eastasia",
+    "start": 1949,
+    "end": null,
+    "note": "PRC proclaimed 1949. Its government has never administered Taiwan; the site’s separate Taiwan/ROC history preserves this distinction.",
+    "parent": null,
+    "category": "history",
+    "sourceUrls": [],
+    "sources": []
+  },
+  {
+    "posterLabel": "Jōmon Period",
+    "id": null,
+    "proposedTitle": "Jōmon period",
+    "wikiTitle": "Jōmon period",
+    "region": "eastasia",
+    "start": -13000,
+    "end": -300,
+    "note": "Starts many millennia before the chart window. The transition to Yayoi was regionally gradual from roughly 900 BCE; Jōmon traditions persisted later in northern areas. This is not Japan’s first human occupation.",
+    "parent": null,
+    "category": "history",
+    "sourceUrls": [
+      "https://japanculturalexpo.ntj.jac.go.jp/en/article/feature/202509_index/",
+      "https://www.metmuseum.org/essays/jomon-culture-ca-10500-ca-300-b-c"
+    ],
+    "suggestedId": "jomon",
+    "sources": [
+      {
+        "publisher": "japanculturalexpo.ntj.jac.go.jp",
+        "title": "Jōmon period · chronology and context",
+        "url": "https://japanculturalexpo.ntj.jac.go.jp/en/article/feature/202509_index/"
+      },
+      {
+        "publisher": "The Metropolitan Museum of Art",
+        "title": "Jōmon period · chronology and context",
+        "url": "https://www.metmuseum.org/essays/jomon-culture-ca-10500-ca-300-b-c"
+      }
+    ]
+  },
+  {
+    "posterLabel": "Yayoi Period",
+    "id": null,
+    "proposedTitle": "Yayoi period",
+    "wikiTitle": "Yayoi period",
+    "region": "eastasia",
+    "start": -900,
+    "end": 250,
+    "note": "Dates vary by region and dating method. Newer chronologies place wet-rice-based Yayoi society from around 900 BCE in northern Kyushu, while older general surveys use 300 BCE. Do not present the poster’s 300 BCE as a universal secure start.",
+    "parent": null,
+    "category": "history",
+    "sourceUrls": [
+      "https://japanculturalexpo.ntj.jac.go.jp/en/article/feature/202509_index/",
+      "https://www.metmuseum.org/essays/yayoi-culture-ca-4th-century-b-c-3rd-century-a-d"
+    ],
+    "suggestedId": "yayoi",
+    "sources": [
+      {
+        "publisher": "japanculturalexpo.ntj.jac.go.jp",
+        "title": "Yayoi period · chronology and context",
+        "url": "https://japanculturalexpo.ntj.jac.go.jp/en/article/feature/202509_index/"
+      },
+      {
+        "publisher": "The Metropolitan Museum of Art",
+        "title": "Yayoi period · chronology and context",
+        "url": "https://www.metmuseum.org/essays/yayoi-culture-ca-4th-century-b-c-3rd-century-a-d"
+      }
+    ]
+  },
+  {
+    "posterLabel": "Yamato State",
+    "id": null,
+    "proposedTitle": "Yamato polity · Kofun and Asuka periods",
+    "wikiTitle": "Yamato period",
+    "region": "eastasia",
+    "start": 250,
+    "end": 710,
+    "note": "A broad conventional Kofun/Asuka frame; the Yamato court consolidated gradually.250 is an archaeological-period anchor, not a known single state-founding date.",
+    "parent": null,
+    "category": "history",
+    "sourceUrls": [
+      "https://japanculturalexpo.ntj.jac.go.jp/en/article/feature/202509_index/"
+    ],
+    "suggestedId": "yamato",
+    "sources": [
+      {
+        "publisher": "japanculturalexpo.ntj.jac.go.jp",
+        "title": "Yamato polity · Kofun and Asuka periods · chronology and context",
+        "url": "https://japanculturalexpo.ntj.jac.go.jp/en/article/feature/202509_index/"
+      }
+    ]
+  },
+  {
+    "posterLabel": "Nara Period",
+    "id": null,
+    "proposedTitle": "Nara period",
+    "wikiTitle": "Nara period",
+    "region": "eastasia",
+    "start": 710,
+    "end": 794,
+    "note": "Capital established at Heijō-kyō710; court moved to Heian-kyō794, with a brief intervening Nagaoka phase 784–794.",
+    "parent": null,
+    "category": "history",
+    "sourceUrls": [
+      "https://japanculturalexpo.ntj.jac.go.jp/en/article/feature/202509_index/"
+    ],
+    "suggestedId": "nara",
+    "sources": [
+      {
+        "publisher": "japanculturalexpo.ntj.jac.go.jp",
+        "title": "Nara period · chronology and context",
+        "url": "https://japanculturalexpo.ntj.jac.go.jp/en/article/feature/202509_index/"
+      }
+    ]
+  },
+  {
+    "posterLabel": "Heian Period",
+    "id": "heian",
+    "proposedTitle": "Heian period",
+    "wikiTitle": "Heian period",
+    "region": "eastasia",
+    "start": 794,
+    "end": 1185,
+    "note": "Conventional ending 1185 with the emergence of warrior government;1192 is another common boundary emphasizing the shogunal appointment.",
+    "parent": null,
+    "category": "history",
+    "sourceUrls": [
+      "https://japanculturalexpo.ntj.jac.go.jp/en/article/feature/202509_index/"
+    ],
+    "sources": [
+      {
+        "publisher": "japanculturalexpo.ntj.jac.go.jp",
+        "title": "Heian period · chronology and context",
+        "url": "https://japanculturalexpo.ntj.jac.go.jp/en/article/feature/202509_index/"
+      }
+    ]
+  },
+  {
+    "posterLabel": "Kamakura Shogunate",
+    "id": null,
+    "proposedTitle": "Kamakura shogunate",
+    "wikiTitle": "Kamakura shogunate",
+    "region": "eastasia",
+    "start": 1185,
+    "end": 1333,
+    "note": "1185 marks military victory and establishment of rule;1192 marks Minamoto no Yoritomo’s shogunal title. Shogunate ended 1333.",
+    "parent": null,
+    "category": "history",
+    "sourceUrls": [
+      "https://82nd-and-fifth.metmuseum.org/toah/ht/07/eaj.html"
+    ],
+    "suggestedId": "kamakura",
+    "sources": [
+      {
+        "publisher": "82nd-and-fifth.metmuseum.org",
+        "title": "Kamakura shogunate · chronology and context",
+        "url": "https://82nd-and-fifth.metmuseum.org/toah/ht/07/eaj.html"
+      }
+    ]
+  },
+  {
+    "posterLabel": "Muromachi Shogunate",
+    "id": null,
+    "proposedTitle": "Muromachi / Ashikaga shogunate",
+    "wikiTitle": "Ashikaga shogunate",
+    "region": "eastasia",
+    "start": 1336,
+    "end": 1573,
+    "note": "Ashikaga regime 1336–1573, with a rival Southern Court 1336–1392. The later Sengoku wars overlap it; the shogunate did not continue to 1603.",
+    "parent": null,
+    "category": "history",
+    "sourceUrls": [
+      "https://82nd-and-fifth.metmuseum.org/toah/ht/07/eaj.html",
+      "https://82nd-and-fifth.metmuseum.org/toah/ht/08/eaj.html"
+    ],
+    "suggestedId": "muromachi",
+    "sources": [
+      {
+        "publisher": "82nd-and-fifth.metmuseum.org",
+        "title": "Muromachi / Ashikaga shogunate · chronology and context",
+        "url": "https://82nd-and-fifth.metmuseum.org/toah/ht/07/eaj.html"
+      },
+      {
+        "publisher": "82nd-and-fifth.metmuseum.org",
+        "title": "Muromachi / Ashikaga shogunate · chronology and context",
+        "url": "https://82nd-and-fifth.metmuseum.org/toah/ht/08/eaj.html"
+      }
+    ]
+  },
+  {
+    "posterLabel": "Sengoku Period",
+    "id": null,
+    "proposedTitle": "Sengoku period",
+    "wikiTitle": "Sengoku period",
+    "region": "eastasia",
+    "start": 1467,
+    "end": 1603,
+    "note": "Conventional broad Warring States frame from the Ōnin War; proposed end dates 1568,1573,1600 or 1615 depend on the event emphasized.1603 is the Tokugawa establishment, not a universally agreed period end.",
+    "parent": "muromachi",
+    "category": "period",
+    "sourceUrls": [
+      "https://82nd-and-fifth.metmuseum.org/toah/ht/08/eaj.html"
+    ],
+    "suggestedId": "sengoku",
+    "sources": [
+      {
+        "publisher": "82nd-and-fifth.metmuseum.org",
+        "title": "Sengoku period · chronology and context",
+        "url": "https://82nd-and-fifth.metmuseum.org/toah/ht/08/eaj.html"
+      }
+    ]
+  },
+  {
+    "posterLabel": "Tokugawa Shogunate",
+    "id": "edo",
+    "proposedTitle": "Edo / Tokugawa period",
+    "wikiTitle": "Tokugawa shogunate",
+    "region": "eastasia",
+    "start": 1603,
+    "end": 1868,
+    "note": "Tokugawa shogunal rule began 1603 and ended 1867–1868. International contact was controlled and restricted, never wholly absent.",
+    "parent": null,
+    "category": "history",
+    "sourceUrls": [
+      "https://japanculturalexpo.ntj.jac.go.jp/en/article/feature/202509_index/"
+    ],
+    "sources": [
+      {
+        "publisher": "japanculturalexpo.ntj.jac.go.jp",
+        "title": "Edo / Tokugawa period · chronology and context",
+        "url": "https://japanculturalexpo.ntj.jac.go.jp/en/article/feature/202509_index/"
+      }
+    ]
+  },
+  {
+    "posterLabel": "Meiji Era",
+    "id": null,
+    "proposedTitle": "Japan · Meiji era",
+    "wikiTitle": "Meiji era",
+    "region": "eastasia",
+    "start": 1868,
+    "end": 1912,
+    "note": "Meiji is an imperial era within modern imperial Japan, not a separate state preceding the empire.",
+    "parent": "japanmodern",
+    "category": "period",
+    "sourceUrls": [
+      "https://japanculturalexpo.ntj.jac.go.jp/en/article/feature/202509_index/"
+    ],
+    "suggestedId": "japan-meiji",
+    "sources": [
+      {
+        "publisher": "japanculturalexpo.ntj.jac.go.jp",
+        "title": "Japan · Meiji era · chronology and context",
+        "url": "https://japanculturalexpo.ntj.jac.go.jp/en/article/feature/202509_index/"
+      }
+    ]
+  },
+  {
+    "posterLabel": "Empire of Japan",
+    "id": null,
+    "proposedTitle": "Empire of Japan",
+    "wikiTitle": "Empire of Japan",
+    "region": "eastasia",
+    "start": 1868,
+    "end": 1947,
+    "note": "The poster starts 1912, which omits the Meiji imperial state. Broad constitutional-political frame 1868–1947; defeat 1945 and constitutional change 1947 are distinct endpoints.",
+    "parent": "japanmodern",
+    "category": "period",
+    "sourceUrls": [
+      "https://landscapesofinjustice.uvic.ca/archive/eojx1.html",
+      "https://www.archives.go.jp/exhibition/digital/saiken/shousai.html"
+    ],
+    "suggestedId": "japan-empire",
+    "sources": [
+      {
+        "publisher": "landscapesofinjustice.uvic.ca",
+        "title": "Empire of Japan · chronology and context",
+        "url": "https://landscapesofinjustice.uvic.ca/archive/eojx1.html"
+      },
+      {
+        "publisher": "www.archives.go.jp",
+        "title": "Empire of Japan · chronology and context",
+        "url": "https://www.archives.go.jp/exhibition/digital/saiken/shousai.html"
+      }
+    ]
+  },
+  {
+    "posterLabel": "Japan",
+    "id": null,
+    "proposedTitle": "Japan · postwar constitutional era",
+    "wikiTitle": "Postwar Japan",
+    "region": "eastasia",
+    "start": 1947,
+    "end": null,
+    "note": "Current constitution effective 3 May 1947. Allied occupation began 1945 and ended 1952 for most of Japan;1947 is not independence or the creation of Japan.",
+    "parent": "japanmodern",
+    "category": "period",
+    "sourceUrls": [
+      "https://www.archives.go.jp/exhibition/digital/saiken/shousai.html"
+    ],
+    "suggestedId": "japan-postwar",
+    "sources": [
+      {
+        "publisher": "www.archives.go.jp",
+        "title": "Japan · postwar constitutional era · chronology and context",
+        "url": "https://www.archives.go.jp/exhibition/digital/saiken/shousai.html"
+      }
+    ]
+  },
+  {
+    "posterLabel": "Indus Valley Civilization",
+    "id": null,
+    "proposedTitle": "Indus · Early Harappan phase",
+    "wikiTitle": "Periodisation of the Indus Valley Civilisation",
+    "region": "southasia",
+    "start": -3300,
+    "end": -2600,
+    "note": "A regionalization period including Ravi/Hakra and Kot Diji phases; dates and material traditions vary by site. Complements the existing Mature Harappan band.",
+    "parent": "indus",
+    "category": "period",
+    "sourceUrls": [
+      "https://www.harappa.com/content/timeline",
+      "https://whc.unesco.org/en/tentativelists/1878/"
+    ],
+    "sources": [
+      {
+        "publisher": "www.harappa.com",
+        "title": "Indus · Early Harappan phase · chronology and context",
+        "url": "https://www.harappa.com/content/timeline"
+      },
+      {
+        "publisher": "whc.unesco.org",
+        "title": "Indus · Early Harappan phase · chronology and context",
+        "url": "https://whc.unesco.org/en/tentativelists/1878/"
+      }
+    ],
+    "suggestedId": "indus-early"
+  },
+  {
+    "posterLabel": "Indus Valley Civilization",
+    "id": null,
+    "proposedTitle": "Indus · Late Harappan traditions",
+    "wikiTitle": "Periodisation of the Indus Valley Civilisation",
+    "region": "southasia",
+    "start": -1900,
+    "end": -1300,
+    "note": "Urban decentralization and regional cultural continuities after the Mature phase; site chronologies vary. This does not imply the disappearance of people or traditions.",
+    "parent": "indus",
+    "category": "period",
+    "sourceUrls": [
+      "https://www.harappa.com/content/timeline",
+      "https://whc.unesco.org/en/tentativelists/1878/"
+    ],
+    "sources": [
+      {
+        "publisher": "www.harappa.com",
+        "title": "Indus · Late Harappan traditions · chronology and context",
+        "url": "https://www.harappa.com/content/timeline"
+      },
+      {
+        "publisher": "whc.unesco.org",
+        "title": "Indus · Late Harappan traditions · chronology and context",
+        "url": "https://whc.unesco.org/en/tentativelists/1878/"
+      }
+    ],
+    "suggestedId": "indus-late"
+  }
+]

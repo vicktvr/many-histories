@@ -1,0 +1,12 @@
+[
+  {"id":"reading-giza","history":"egypt","label":"Pyramids of Giza","wikiTitle":"Giza pyramid complex","reference":{"title":"Memphis and its Necropolis","publisher":"UNESCO World Heritage Centre","url":"https://whc.unesco.org/en/list/86/"}},
+  {"id":"reading-colosseum","history":"rome","label":"Colosseum","wikiTitle":"Colosseum","reference":{"title":"The Colosseum","publisher":"Parco archeologico del Colosseo","url":"https://colosseo.it/en/area/colosseo/"}},
+  {"id":"reading-hagiasophia","history":"byzantium","label":"Hagia Sophia","wikiTitle":"Hagia Sophia","reference":{"title":"Historic Areas of Istanbul","publisher":"UNESCO World Heritage Centre","url":"https://whc.unesco.org/en/list/356/"}},
+  {"id":"reading-tajmahal","history":"mughal","label":"Taj Mahal","wikiTitle":"Taj Mahal","reference":{"title":"Taj Mahal","publisher":"UNESCO World Heritage Centre","url":"https://whc.unesco.org/en/list/252/"}},
+  {"id":"reading-angkorwat","history":"angkor","label":"Angkor Wat","wikiTitle":"Angkor Wat","reference":{"title":"Angkor","publisher":"UNESCO World Heritage Centre","url":"https://whc.unesco.org/en/list/668/"}},
+  {"id":"reading-terracotta","history":"qin","label":"Terracotta Army","wikiTitle":"Terracotta Army","reference":{"title":"Mausoleum of the First Qin Emperor","publisher":"UNESCO World Heritage Centre","url":"https://whc.unesco.org/en/list/441/"}},
+  {"id":"reading-forbiddencity","history":"ming","label":"Forbidden City","wikiTitle":"Forbidden City","reference":{"title":"Imperial Palaces of the Ming and Qing Dynasties","publisher":"UNESCO World Heritage Centre","url":"https://whc.unesco.org/en/list/439/"}},
+  {"id":"reading-tikal","history":"maya","label":"Tikal","wikiTitle":"Tikal","reference":{"title":"Tikal National Park","publisher":"UNESCO World Heritage Centre","url":"https://whc.unesco.org/en/list/64/"}},
+  {"id":"reading-timbuktu","history":"mali","label":"Timbuktu","wikiTitle":"Timbuktu","reference":{"title":"Timbuktu","publisher":"UNESCO World Heritage Centre","url":"https://whc.unesco.org/en/list/119/"}},
+  {"id":"reading-cholatemples","history":"chola","label":"Chola temples","wikiTitle":"Great Living Chola Temples","reference":{"title":"Great Living Chola Temples","publisher":"UNESCO World Heritage Centre","url":"https://whc.unesco.org/en/list/250/"}}
+]

@@ -1,0 +1,392 @@
+{
+  "sources": {
+    "afsu_medieval": {
+      "publisher": "William Y. Adams · Penn Museum",
+      "title": "Medieval Nubia: Another Golden Age",
+      "url": "https://www.penn.museum/sites/expedition/medieval-nubia/"
+    },
+    "afsu_soba": {
+      "publisher": "Joanna Then-Obłuska et al. · Archaeometry / University of Warsaw",
+      "title": "Overseas imports on the Blue Nile: Chemical compositional analysis of glass beads from Soba, Nubia",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/arcm.12863"
+    },
+    "afsu_funj": {
+      "publisher": "Jay Spaulding · Kean University / Wiley",
+      "title": "Funj Sultanate of Sinnar",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1002/9781118455074.wbeoe007"
+    },
+    "afsu_funj_origins": {
+      "publisher": "P. M. Holt · The Journal of African History",
+      "title": "Funj origins: A critique and new evidence",
+      "url": "https://www.cambridge.org/core/journals/journal-of-african-history/article/abs/funj-origins-a-critique-and-new-evidence/E15110646D3D4E25F92AA2A4E00C3366"
+    },
+    "afsu_egyptsudan": {
+      "publisher": "National Army Museum",
+      "title": "Egypt and Sudan: Mahdist revolt and Anglo-Egyptian campaigns",
+      "url": "https://www.nam.ac.uk/explore/egypt-and-sudan"
+    },
+    "afsu_condominium": {
+      "publisher": "British Foreign Office · contemporary handbook held by the Library of Congress",
+      "title": "Anglo-Egyptian Sudan (1920): 1899 agreements and historical background",
+      "url": "https://www.loc.gov/item/a22000955/"
+    },
+    "afsu_independence": {
+      "publisher": "US Department of State, Office of the Historian",
+      "title": "Sudan: recognition of independence, 1 January 1956",
+      "url": "https://history.state.gov/countries/sudan"
+    },
+    "afsu_southsudan": {
+      "publisher": "United Nations",
+      "title": "South Sudan: secession after the 2011 referendum",
+      "url": "https://www.un.org/en/about-us/member-states/south-sudan"
+    }
+  },
+  "extras": [
+    {
+      "id": "afsu-nobatia",
+      "title": "Nobatia",
+      "region": "africa",
+      "dates": "c. 4th–8th centuries CE · independent kingdom",
+      "wikiTitle": "Nobatia",
+      "location": "Lower Nubia; southern Egypt and northern Sudan",
+      "note": "Christianised in the sixth century; later governed with Makuria while retaining a distinctive regional administration. Exact dates and circumstances of union are uncertain.",
+      "sources": [
+        "afsu_medieval"
+      ]
+    },
+    {
+      "id": "afsu-makuria",
+      "title": "Makuria",
+      "region": "africa",
+      "dates": "c. 5th–15th centuries CE · changing authority",
+      "wikiTitle": "Makuria",
+      "location": "Middle Nile; capital at Old Dongola",
+      "note": "Christian Nubian kingdom with changing territorial reach and late fragmentation; its chronology is not the lifetime of all Nubian communities.",
+      "sources": [
+        "afsu_medieval"
+      ]
+    },
+    {
+      "id": "afsu-alodia",
+      "title": "Alodia / Alwa",
+      "region": "africa",
+      "dates": "c. 6th century–c. 1500 CE · ending disputed",
+      "wikiTitle": "Alodia",
+      "location": "Blue and White Nile region; capital at Soba",
+      "note": "Christian Nubian kingdom distinct from Makuria. Late chronicles associate Soba’s destruction with 1504, while archaeology indicates much earlier decline in excavated areas; a precise end date is uncertain.",
+      "sources": [
+        "afsu_soba"
+      ]
+    },
+    {
+      "id": "afsu-funj",
+      "title": "Funj Sultanate of Sennar",
+      "region": "africa",
+      "dates": "c. 1500–1821 CE",
+      "wikiTitle": "Funj Sultanate",
+      "location": "Middle Nile and Blue Nile; changing dominions",
+      "note": "A regional sultanate conventionally dated from 1504. It incorporated diverse communities and territories and was not a restored, unchanged Alodian monarchy or all of modern Sudan.",
+      "sources": [
+        "afsu_funj",
+        "afsu_funj_origins"
+      ]
+    },
+    {
+      "id": "afsu-turcoegyptian",
+      "title": "Turco-Egyptian Sudan",
+      "region": "africa",
+      "dates": "1820/1821–1885 CE · expanding colonial control",
+      "wikiTitle": "Turco-Egyptian Sudan",
+      "location": "Sudanese territories ruled from Egypt; frontiers changed",
+      "note": "Muhammad Ali’s conquest began in 1820, ending Funj rule in 1821. Egyptian government expanded unevenly into other regions; this did not constitute simultaneous control of every part of today’s Sudan and South Sudan.",
+      "sources": [
+        "afsu_funj",
+        "afsu_egyptsudan",
+        "afsu_condominium"
+      ]
+    },
+    {
+      "id": "afsu-mahdist",
+      "title": "Mahdist State",
+      "region": "africa",
+      "dates": "1881–1899 CE · movement and state",
+      "wikiTitle": "Mahdist State",
+      "location": "Sudan; capital at Omdurman",
+      "note": "The movement began in 1881 and captured Khartoum in 1885. Omdurman fell in 1898; the Khalifa was defeated and killed in 1899. The stages should not be collapsed into a single founding or ending day.",
+      "sources": [
+        "afsu_egyptsudan"
+      ]
+    },
+    {
+      "id": "afsu-condominium",
+      "title": "Anglo-Egyptian Sudan",
+      "region": "africa",
+      "dates": "1899–1956 CE",
+      "wikiTitle": "Anglo-Egyptian Sudan",
+      "location": "Territories of present-day Sudan and South Sudan, with changing boundaries",
+      "note": "The 1899 agreements established nominal joint British and Egyptian authority, with British officials dominant in administration. Colonial borders and institutions differed from those of preceding kingdoms.",
+      "sources": [
+        "afsu_condominium",
+        "afsu_independence"
+      ]
+    },
+    {
+      "id": "afsu-sudan",
+      "title": "Sudan: independent eras",
+      "region": "africa",
+      "dates": "1956 CE–present",
+      "wikiTitle": "Sudan",
+      "location": "Northeastern Africa; territorial separation in 2011",
+      "note": "An overview of successive governments and conflicts following independence, not one unchanged regime. South Sudan became independent in 2011; Sudan continued as a state. Ancient Nubian kingdoms were not coterminous with this modern country.",
+      "sources": [
+        "afsu_independence",
+        "afsu_southsudan"
+      ]
+    },
+    {
+      "id": "afsu-southsudan",
+      "title": "South Sudan: independent state",
+      "region": "africa",
+      "dates": "2011 CE–present",
+      "wikiTitle": "South Sudan",
+      "location": "East-Central Africa",
+      "note": "Independence on 9 July 2011 followed a January referendum under the 2005 peace settlement. This date marks a modern state, not the beginning of the histories of its many peoples.",
+      "sources": [
+        "afsu_southsudan"
+      ]
+    }
+  ],
+  "maps": [
+    {
+      "id": "afsu-sudan-nile",
+      "title": "Sudan and South Sudan: kingdoms, conquest and independence",
+      "region": "africa",
+      "nodes": [
+        {
+          "id": "nubia"
+        },
+        {
+          "id": "afsu-nobatia"
+        },
+        {
+          "id": "afsu-makuria"
+        },
+        {
+          "id": "afsu-alodia"
+        },
+        {
+          "id": "afsu-funj"
+        },
+        {
+          "id": "muhammad-ali"
+        },
+        {
+          "id": "afsu-turcoegyptian"
+        },
+        {
+          "id": "afsu-mahdist"
+        },
+        {
+          "id": "britishempire"
+        },
+        {
+          "id": "afsu-condominium"
+        },
+        {
+          "id": "afsu-sudan"
+        },
+        {
+          "id": "afsu-southsudan"
+        }
+      ],
+      "connections": [
+        {
+          "id": "afsu-postmeroe",
+          "from": [
+            "nubia"
+          ],
+          "to": [
+            "afsu-nobatia",
+            "afsu-makuria",
+            "afsu-alodia"
+          ],
+          "type": "context",
+          "label": "Context: later Nubian kingdoms",
+          "dates": "4th–6th centuries CE",
+          "summary": "After Meroe’s decline, several kingdoms developed in the Nubian Nile region.",
+          "note": "Context link, not a documented division of one empire into three states or an assertion of unchanged institutions; Christianisation followed during the sixth century.",
+          "sources": [
+            "afsu_medieval",
+            "afsu_soba"
+          ],
+          "certainty": "Context"
+        },
+        {
+          "id": "afsu-nobatia-union",
+          "from": [
+            "afsu-nobatia"
+          ],
+          "to": [
+            "afsu-makuria"
+          ],
+          "type": "union",
+          "label": "Nobatia and Makuria united",
+          "dates": "By the early medieval period · precise date uncertain",
+          "summary": "Nobatia came under a ruler shared with Makuria, while retaining regional institutions.",
+          "note": "The date and circumstances are uncertain; this does not imply that Alodia joined them.",
+          "sources": [
+            "afsu_medieval"
+          ]
+        },
+        {
+          "id": "afsu-alodia-funj",
+          "from": [
+            "afsu-alodia"
+          ],
+          "to": [
+            "afsu-funj"
+          ],
+          "type": "context",
+          "label": "Context: changing regional rule",
+          "dates": "Late medieval–early 16th century",
+          "summary": "The Funj sultanate rose in the central Nile region after the decline of Alodian authority.",
+          "note": "Context, not a secure direct succession: later chronicles associate Soba’s destruction with 1504, but the excavated city shows earlier decline, and the chronology and agents of the political transformation remain disputed.",
+          "sources": [
+            "afsu_soba",
+            "afsu_funj_origins"
+          ],
+          "certainty": "Context"
+        },
+        {
+          "id": "afsu-funj-conquest",
+          "from": [
+            "afsu-funj"
+          ],
+          "to": [
+            "afsu-turcoegyptian"
+          ],
+          "type": "conquest",
+          "label": "Egyptian conquest ends Funj rule",
+          "dates": "1820–1821 CE",
+          "summary": "Forces sent by Muhammad Ali conquered the Funj sultanate and established Egyptian administration.",
+          "note": "This was conquest and new colonial government, not a peaceful dynastic inheritance; control over other Sudanese territories expanded at different times.",
+          "sources": [
+            "afsu_funj",
+            "afsu_egyptsudan",
+            "afsu_condominium"
+          ]
+        },
+        {
+          "id": "afsu-egyptian-expansion",
+          "from": [
+            "muhammad-ali"
+          ],
+          "to": [
+            "afsu-turcoegyptian"
+          ],
+          "type": "colonial",
+          "label": "Egyptian territorial expansion",
+          "dates": "From 1820 CE",
+          "summary": "Muhammad Ali’s Egyptian government sent armies south and imposed rule over Sudanese territories.",
+          "note": "The Egyptian dynasty operated within a changing Ottoman imperial framework; the term Turco-Egyptian does not imply all inhabitants were Turkish or Egyptian.",
+          "sources": [
+            "afsu_egyptsudan",
+            "afsu_condominium"
+          ]
+        },
+        {
+          "id": "afsu-mahdist-revolution",
+          "from": [
+            "afsu-turcoegyptian"
+          ],
+          "to": [
+            "afsu-mahdist"
+          ],
+          "type": "conquest",
+          "label": "Mahdist revolt and capture of Khartoum",
+          "dates": "1881–1885 CE",
+          "summary": "The Mahdist movement defeated Egyptian government forces and captured Khartoum in January 1885.",
+          "note": "The revolt began before the capture; Egyptian and British forces retained some peripheral positions, and not every community supported the Mahdist government.",
+          "sources": [
+            "afsu_egyptsudan"
+          ]
+        },
+        {
+          "id": "afsu-angloegyptian-conquest",
+          "from": [
+            "afsu-mahdist"
+          ],
+          "to": [
+            "afsu-condominium"
+          ],
+          "type": "conquest",
+          "label": "Anglo-Egyptian conquest",
+          "dates": "1896–1899 CE",
+          "summary": "British-led Anglo-Egyptian armies defeated the Mahdist state, and the 1899 agreements established joint colonial rule.",
+          "note": "The decisive defeat at Omdurman occurred in 1898; fighting continued into 1899, so military conquest and the legal creation of the condominium are distinct stages.",
+          "sources": [
+            "afsu_egyptsudan",
+            "afsu_condominium"
+          ]
+        },
+        {
+          "id": "afsu-british-rule",
+          "from": [
+            "britishempire"
+          ],
+          "to": [
+            "afsu-condominium"
+          ],
+          "type": "colonial",
+          "label": "British-led colonial administration",
+          "dates": "1899–1956 CE",
+          "summary": "Sudan was administered under a formal Anglo-Egyptian condominium in which British authority predominated.",
+          "note": "This was legally distinct from simply annexing Sudan as an ordinary British colony; Egyptian claims and participation persisted.",
+          "sources": [
+            "afsu_condominium"
+          ]
+        },
+        {
+          "id": "afsu-sudan-independence",
+          "from": [
+            "afsu-condominium"
+          ],
+          "to": [
+            "afsu-sudan"
+          ],
+          "type": "independence",
+          "label": "Sudan becomes independent",
+          "dates": "1 January 1956 CE",
+          "summary": "Sudan became independent of the Anglo-Egyptian condominium.",
+          "note": "The independent state initially included the territory that later became South Sudan; independence did not resolve internal conflicts or guarantee one continuous constitutional order.",
+          "sources": [
+            "afsu_independence",
+            "afsu_southsudan"
+          ]
+        },
+        {
+          "id": "afsu-south-sudan-independence",
+          "from": [
+            "afsu-sudan"
+          ],
+          "to": [
+            "afsu-southsudan"
+          ],
+          "type": "independence",
+          "label": "South Sudan secedes after referendum",
+          "dates": "9 July 2011 CE",
+          "summary": "South Sudan became an independent state after the January 2011 referendum.",
+          "note": "Sudan continued as a state after the separation; this was not the replacement of Sudan by South Sudan, and it does not imply that all boundary questions were resolved.",
+          "sources": [
+            "afsu_southsudan"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorialNotes": [
+    "Selected Middle Nile pathway only: this map does not cover every Sudanese region, Darfur, all southern peoples, or every modern regime.",
+    "Render Context links dashed; they mark regional historical setting rather than direct political succession.",
+    "Do not label Alodia’s ending as a securely established Funj conquest in 1504; archaeological evidence complicates that late chronicle account."
+  ]
+}

@@ -1,0 +1,854 @@
+{
+  "sources": {
+    "viking": {
+      "publisher": "National Museum of Denmark",
+      "title": "The Viking Age",
+      "url": "https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-viking-age/"
+    },
+    "sami": {
+      "publisher": "Sámi Parliament of Sweden",
+      "title": "Are the Sámi an Indigenous people?",
+      "url": "https://www.sametinget.se/urfolk"
+    },
+    "samilands": {
+      "publisher": "Silvermuseet / INSARC",
+      "title": "The origins of the Sámi homelands",
+      "url": "https://silvermuseet.se/en/projekt/forskningsprojekt/de-samiska-skattelandens-ursprung/"
+    },
+    "norway": {
+      "publisher": "Government of Norway",
+      "title": "Norway’s Monarch since 1814",
+      "url": "https://www.regjeringen.no/en/the-government/previous-governments/historiske-artikler/offices/the-establishing-of-the-norwegian-state/norways-monarch-since-1814/id449228/"
+    },
+    "norway1905": {
+      "publisher": "Stortinget",
+      "title": "Milestones in Norway’s democratic history",
+      "url": "https://www.stortinget.no/no/english/about-the-storting/historical-highlights/milestones-in-norways-democratic-history/"
+    },
+    "sweden": {
+      "publisher": "Swedish History Museum",
+      "title": "When Sweden became Sweden",
+      "url": "https://historiska.se/en/explore-history/history-hub/when-sweden-became-sweden/"
+    },
+    "sweden1523": {
+      "publisher": "Swedish Parliament",
+      "title": "Decisions that have changed Sweden 1523–2023",
+      "url": "https://www.riksdagen.se/en/news/from-royal-power-to-peoples-power---500-years-of-parliament-in-sweden/decisions-that-have-changed-sweden-15232023/"
+    },
+    "denmark": {
+      "publisher": "Ministry of Foreign Affairs of Denmark",
+      "title": "The history of Denmark",
+      "url": "https://denmark.dk/people-and-culture/history"
+    },
+    "iceland": {
+      "publisher": "Althingi",
+      "title": "Althingi: the Icelandic Parliament (history and chronology)",
+      "url": "https://www.althingi.is/pdf/Althingi2008_english.pdf"
+    },
+    "finland": {
+      "publisher": "Ministry for Foreign Affairs of Finland / thisisFINLAND",
+      "title": "Main outlines of Finnish history",
+      "url": "https://finland.fi/life-society/main-outlines-of-finnish-history/"
+    },
+    "commonwealth": {
+      "publisher": "Lublin Voivodeship Office, Poland",
+      "title": "454th anniversary of the Union of Lublin",
+      "url": "https://www.gov.pl/web/uw-lubelski/454-rocznica-zawarcia-unii-lubelskiej"
+    },
+    "poland": {
+      "publisher": "Ministry of Foreign Affairs of Poland",
+      "title": "National Independence Day",
+      "url": "https://www.gov.pl/web/diplomacy/national-independence-day"
+    },
+    "polandmodern": {
+      "publisher": "Statistics Poland",
+      "title": "History of Poland in numbers: Poland 1918–2018",
+      "url": "https://stat.gov.pl/obszary-tematyczne/inne-opracowania/inne-opracowania-zbiorcze/historia-polski-w-liczbach-tom-v-polska-19182018,34,1.html"
+    },
+    "hungary": {
+      "publisher": "Embassy of Hungary, Washington",
+      "title": "History of Hungary",
+      "url": "https://washington.mfa.gov.hu/en/history-of-hungary"
+    },
+    "hungarystart": {
+      "publisher": "Embassy of Hungary, Wellington",
+      "title": "Hungarian State Foundation Day: Stephen’s coronation",
+      "url": "https://wellington.mfa.gov.hu/eng/news/20.AUG"
+    },
+    "ireland": {
+      "publisher": "National Museum of Ireland",
+      "title": "Later Medieval Ireland",
+      "url": "https://source.museum.ie/en-IE/Collections-Research/Irish-Antiquities-Division-Collections/Collections-List-(1)/Late-Medieval"
+    },
+    "dutch": {
+      "publisher": "Rijksmuseum",
+      "title": "The Republic",
+      "url": "https://www.rijksmuseum.nl/en/collection/node/The-Republic--2447420802fc4934bd9db55c8c6cc003"
+    },
+    "dutchdates": {
+      "publisher": "Museum van de Kanselarij der Nederlandse Orden",
+      "title": "Republiek der Verenigde Nederlanden, 1588–1795",
+      "url": "https://kanselarijmuseum.nl/collectie/republiek-der-verenigde-nederlanden/"
+    },
+    "netherlands": {
+      "publisher": "Royal House of the Netherlands",
+      "title": "Kingdom of the Netherlands",
+      "url": "https://www.royal-house.nl/topics/history/history-of-the-kingdom-of-the-netherlands"
+    },
+    "bulgaria": {
+      "publisher": "Council of Ministers of Bulgaria",
+      "title": "History of Bulgaria",
+      "url": "https://gov.bg/en/About-Bulgaria/HISTORY/tabsss1"
+    },
+    "bulgaria1908": {
+      "publisher": "US Department of State, Office of the Historian",
+      "title": "Bulgaria: recognition and diplomatic relations",
+      "url": "https://history.state.gov/countries/bulgaria"
+    },
+    "serbiamedieval": {
+      "publisher": "Government of Serbia (archived)",
+      "title": "Medieval Serbia",
+      "url": "https://www.arhiva.serbia.gov.rs/enc/history/medieval.html"
+    },
+    "serbia1459": {
+      "publisher": "Government of Serbia (archived)",
+      "title": "The Turkish Conquest and Rule",
+      "url": "https://www.arhiva.serbia.gov.rs/enc/history/conquest.html"
+    },
+    "croatia": {
+      "publisher": "Miroslav Krleža Institute of Lexicography / Croatia.eu",
+      "title": "History of Croatia",
+      "url": "https://www.croatia.eu/index.php/en/home-en/history"
+    },
+    "croatiamedieval": {
+      "publisher": "Miroslav Krleža Institute of Lexicography / Croatia.eu",
+      "title": "Development of the Croatian state",
+      "url": "https://www.croatie.eu/index.php/en/home-en/croatia-in-europe-through-the-ages/development-of-the-state"
+    },
+    "bosniamedieval": {
+      "publisher": "National Museum of Bosnia and Herzegovina",
+      "title": "Bosnia and Herzegovina in the Middle Ages",
+      "url": "https://zemaljskimuzej.ba/en/exhibitions/bosnia-and-herzegovina-in-the-middle-ages-2/"
+    },
+    "bosnia": {
+      "publisher": "US Department of State, Office of the Historian",
+      "title": "Bosnia and Herzegovina: recognition and diplomatic relations",
+      "url": "https://history.state.gov/countries/bosnia-herzegovina"
+    },
+    "dayton": {
+      "publisher": "Ministry of Foreign Affairs of Bosnia and Herzegovina",
+      "title": "About Bosnia and Herzegovina",
+      "url": "https://www.mvp.gov.ba/bs/o-bosni-hercegovini"
+    },
+    "yugoslavia": {
+      "publisher": "Archives of Yugoslavia",
+      "title": "The Yugoslav Government, 1918–2006",
+      "url": "https://www.arhivyu.rs/en/izlozbe/izlozbe-arhiva/2010_jugoslovenske_vlade_1918_2006"
+    },
+    "yugoslavsuccessors": {
+      "publisher": "United Nations",
+      "title": "Yugoslavia and successor states",
+      "url": "https://www.un.org/en/about-us/member-states/yugoslavia"
+    },
+    "yugoslavchange": {
+      "publisher": "International Criminal Tribunal for the former Yugoslavia",
+      "title": "What is the former Yugoslavia?",
+      "url": "https://www.icty.org/en/about/what-former-yugoslavia"
+    },
+    "slovenia": {
+      "publisher": "Government of Slovenia / Slovenia.si",
+      "title": "History of the Independent Republic of Slovenia",
+      "url": "https://slovenia.si/this-is-slovenia/history-of-the-independent-republic-of-slovenia"
+    },
+    "montenegro": {
+      "publisher": "Inter-Parliamentary Union",
+      "title": "Montenegro: elections in 2006 and independence",
+      "url": "https://data.ipu.org/election-summary/HTML/2385_06.htm"
+    },
+    "northmacedonia": {
+      "publisher": "State Archives of the Republic of North Macedonia",
+      "title": "Thirty-one years: an independent state",
+      "url": "https://arhiv.mk/en/2022/09/07/триесет-и-една-година-независн/"
+    },
+    "dutch1648": {
+      "publisher": "Nationaal Archief",
+      "title": "Eindelijk vrede (1648): treaty recognising the Republic’s independence",
+      "url": "https://www.nationaalarchief.nl/beleven/onderwijs/bronnenbox/eindelijk-vrede-1648"
+    },
+    "kosovodeclaration": {
+      "publisher": "International Court of Justice",
+      "title": "Advisory opinion on Kosovo’s declaration of independence: case overview",
+      "url": "https://www.icj-cij.org/case/141"
+    },
+    "kosovomandate": {
+      "publisher": "United Nations Interim Administration Mission in Kosovo",
+      "title": "UNMIK mandate under Security Council resolution 1244",
+      "url": "https://unmik.unmissions.org/en/mandate"
+    },
+    "northmacedonia2019": {
+      "publisher": "United Nations Secretary-General",
+      "title": "Prespa agreement enters into force: Republic of North Macedonia",
+      "url": "https://press.un.org/en/2019/sgsm19460.doc.htm"
+    }
+  },
+  "entries": [
+    {
+      "id": "rx-viking",
+      "title": "Viking Age · Scandinavian societies",
+      "region": "europe",
+      "dates": "c. 800–1050 CE",
+      "start": 800,
+      "end": 1050,
+      "category": "period",
+      "location": "Scandinavia, North Atlantic and wider exchange routes",
+      "note": "An archaeological and historical period, not a single empire or ethnicity. Farming, seafaring, trade, enslavement, migration and warfare connected diverse communities; the rounded museum convention differs from 793–1066 often used in British histories.",
+      "wikiTitle": "Viking Age",
+      "sources": [
+        "viking"
+      ],
+      "collections": [
+        "europe"
+      ]
+    },
+    {
+      "id": "rx-sami",
+      "title": "Sámi · continuing Indigenous histories",
+      "region": "europe",
+      "dates": "Continuing histories · no single founding date",
+      "start": null,
+      "end": 2027,
+      "category": "culture",
+      "location": "Sápmi · northern Norway, Sweden, Finland and Russia’s Kola Peninsula",
+      "note": "Diverse Indigenous communities, languages and ways of life continue across state borders. There is no defensible single founding year. Norse expansion or the creation of modern Nordic states did not end Sámi histories or rights; reindeer herding is one of several livelihoods.",
+      "wikiTitle": "Sámi",
+      "sources": [
+        "sami",
+        "samilands"
+      ],
+      "collections": [
+        "europe"
+      ],
+      "ongoing": true
+    },
+    {
+      "id": "rx-norway",
+      "title": "Norway · kingdoms, unions and modern state",
+      "region": "europe",
+      "dates": "c. 900 CE–present · changing political forms",
+      "start": 900,
+      "end": 2027,
+      "category": "period",
+      "location": "Norway · Scandinavian peninsula",
+      "note": "A broad historical frame, not uninterrupted independent sovereignty. Consolidation of medieval kingship was gradual; c. 900 rounds the late ninth-century tradition. Danish rule and union with Sweden intervened; the latter ended in 1905. The present kingdom’s borders and institutions developed over time.",
+      "wikiTitle": "History of Norway",
+      "sources": [
+        "norway",
+        "norway1905"
+      ],
+      "collections": [
+        "europe"
+      ],
+      "ongoing": true
+    },
+    {
+      "id": "rx-sweden",
+      "title": "Sweden · medieval kingdom and modern state",
+      "region": "europe",
+      "dates": "Middle Ages–present · no single founding year",
+      "start": null,
+      "end": 2027,
+      "category": "period",
+      "location": "Sweden · Scandinavian peninsula",
+      "note": "Sweden emerged gradually as a unified medieval kingdom; no precise founding year is implied. The Kalmar Union and the 1523 election of Gustav Vasa were major political changes. A realm’s shifting boundaries should not be confused with the origins of its peoples.",
+      "wikiTitle": "History of Sweden",
+      "sources": [
+        "sweden",
+        "sweden1523"
+      ],
+      "collections": [
+        "europe"
+      ],
+      "ongoing": true
+    },
+    {
+      "id": "rx-denmark",
+      "title": "Denmark · kingdom and modern state",
+      "region": "europe",
+      "dates": "c. 965 CE–present · selected political frame",
+      "start": 965,
+      "end": 2027,
+      "category": "period",
+      "location": "Denmark · Scandinavia; wider Danish Realm",
+      "note": "A selected political frame anchored around Harald Bluetooth’s conversion and Jelling monument, rather than a founding date for Denmark or Danish people. The Kalmar Union, territorial losses, the 1849 constitution and German occupation in 1940–1945 belong to different political phases; the Danish Realm extends beyond European Denmark.",
+      "wikiTitle": "History of Denmark",
+      "sources": [
+        "denmark",
+        "viking"
+      ],
+      "collections": [
+        "europe"
+      ],
+      "ongoing": true
+    },
+    {
+      "id": "rx-iceland",
+      "title": "Iceland · Commonwealth, unions and republic",
+      "region": "europe",
+      "dates": "930 CE–present · changing political forms",
+      "start": 930,
+      "end": 2027,
+      "category": "period",
+      "location": "Iceland · North Atlantic",
+      "note": "930 marks the establishment of the Althing, not first human settlement. The Commonwealth came under Norway in 1262–1264 and later Danish rule; sovereignty in 1918 retained a common monarch, and the republic was established in 1944. These were different constitutional arrangements.",
+      "wikiTitle": "History of Iceland",
+      "sources": [
+        "iceland"
+      ],
+      "collections": [
+        "europe"
+      ],
+      "ongoing": true
+    },
+    {
+      "id": "rx-finland",
+      "title": "Finland · independent state",
+      "region": "europe",
+      "dates": "1917 CE–present",
+      "start": 1917,
+      "end": 2027,
+      "category": "history",
+      "location": "Finland · northern Europe",
+      "note": "Parliament approved independence on 6 December 1917; the republic’s constitution followed in 1919. This dates the selected independent state, not Finnish or Sámi origins. Earlier Swedish rule and the autonomous Grand Duchy under Russia preceded independence.",
+      "wikiTitle": "Finland",
+      "sources": [
+        "finland"
+      ],
+      "collections": [
+        "europe"
+      ],
+      "ongoing": true
+    },
+    {
+      "id": "rx-polish-lithuanian",
+      "title": "Polish–Lithuanian Commonwealth",
+      "region": "europe",
+      "dates": "1569–1795 CE",
+      "start": 1569,
+      "end": 1795,
+      "category": "history",
+      "location": "Central and eastern Europe · changing multiethnic territories",
+      "note": "The Union of Lublin joined the Kingdom of Poland and Grand Duchy of Lithuania in a common political framework. Earlier unions preceded 1569. The partitions ended the Commonwealth in 1795; its diverse populations and their histories continued.",
+      "wikiTitle": "Polish–Lithuanian Commonwealth",
+      "sources": [
+        "commonwealth"
+      ],
+      "collections": [
+        "europe"
+      ]
+    },
+    {
+      "id": "rx-poland",
+      "title": "Poland · restored state and modern eras",
+      "region": "europe",
+      "dates": "1918 CE–present · changing borders and regimes",
+      "start": 1918,
+      "end": 2027,
+      "category": "period",
+      "location": "Poland · central Europe",
+      "note": "1918 marks restoration after the partitions, not the beginning of Polish history. Nazi German and Soviet invasion and occupation from 1939, a government in exile, postwar border changes, communist government and the transition after 1989 interrupt any simple story of continuous sovereign rule.",
+      "wikiTitle": "Poland",
+      "sources": [
+        "poland",
+        "polandmodern"
+      ],
+      "collections": [
+        "europe"
+      ],
+      "ongoing": true
+    },
+    {
+      "id": "rx-hungary-kingdom",
+      "title": "Kingdom of Hungary · changing royal realms",
+      "region": "europe",
+      "dates": "c. 1000–1918 CE",
+      "start": 1000,
+      "end": 1918,
+      "category": "period",
+      "location": "Carpathian Basin · central Europe",
+      "note": "Stephen’s coronation is conventionally dated 1000 or 1001. This umbrella covers major territorial division after 1526, Ottoman rule in central areas, Habsburg royal government and the 1867 dual monarchy; it is not one unchanged or continuously independent territory. Later restoration of the kingdom in 1920–1946 is outside this selected frame.",
+      "wikiTitle": "Kingdom of Hungary",
+      "sources": [
+        "hungary",
+        "hungarystart"
+      ],
+      "collections": [
+        "europe"
+      ]
+    },
+    {
+      "id": "rx-hungary",
+      "title": "Hungary · post-Habsburg and modern eras",
+      "region": "europe",
+      "dates": "1918 CE–present · changing regimes",
+      "start": 1918,
+      "end": 2027,
+      "category": "period",
+      "location": "Hungary · central Europe",
+      "note": "The Habsburg monarchy’s collapse in 1918 begins this selected modern frame. Republics, the 1920–1946 kingdom, wartime occupation, communist rule and the democratic transition after 1989 are distinct phases. Hungarian history and communities predate 1918 and extend beyond modern borders.",
+      "wikiTitle": "History of Hungary",
+      "sources": [
+        "hungary"
+      ],
+      "collections": [
+        "europe"
+      ],
+      "ongoing": true
+    },
+    {
+      "id": "rx-medieval-ireland",
+      "title": "Ireland · later medieval societies",
+      "region": "europe",
+      "dates": "c. 1150–1550 CE",
+      "start": 1150,
+      "end": 1550,
+      "category": "period",
+      "location": "Island of Ireland",
+      "note": "Uses the National Museum’s later-medieval convention, from church reform to the Reformation. Gaelic lordships, Anglo-Norman settlements, towns, religious communities and changing English claims overlapped. This is not a single unified Irish state, nor does 1550 mark the end of Gaelic culture.",
+      "wikiTitle": "History of Ireland (1169–1536)",
+      "sources": [
+        "ireland"
+      ],
+      "collections": [
+        "europe"
+      ]
+    },
+    {
+      "id": "rx-dutch-republic",
+      "title": "Dutch Republic · United Provinces",
+      "region": "europe",
+      "dates": "1588–1795 CE",
+      "start": 1588,
+      "end": 1795,
+      "category": "history",
+      "location": "Northern Low Countries · northwestern Europe",
+      "note": "1588 conventionally marks the republican form after earlier revolt, the Union of Utrecht in 1579 and the Act of Abjuration in 1581. Recognition of independence followed in 1648. French invasion and the Batavian Revolution ended this republic in 1795; the modern kingdom began later.",
+      "wikiTitle": "Dutch Republic",
+      "sources": [
+        "dutch",
+        "dutchdates",
+        "dutch1648"
+      ],
+      "collections": [
+        "europe"
+      ]
+    },
+    {
+      "id": "rx-netherlands",
+      "title": "Netherlands · kingdom and modern state",
+      "region": "europe",
+      "dates": "1815 CE–present",
+      "start": 1815,
+      "end": 2027,
+      "category": "history",
+      "location": "Northwestern Europe and the Kingdom’s Caribbean territories",
+      "note": "The kingdom proclaimed in 1815 initially included the southern provinces; Belgium separated in 1830 and was recognised in 1839. The present Kingdom comprises the Netherlands, Aruba, Curaçao and Sint Maarten. It is not identical to the earlier Dutch Republic or an unchanged colonial empire.",
+      "wikiTitle": "Kingdom of the Netherlands",
+      "sources": [
+        "netherlands"
+      ],
+      "collections": [
+        "europe"
+      ],
+      "ongoing": true
+    },
+    {
+      "id": "rx-bulgaria-medieval",
+      "title": "Medieval Bulgarian states · first and second empires",
+      "region": "europe",
+      "dates": "681–1396 CE · interrupted political frame",
+      "start": 681,
+      "end": 1396,
+      "category": "period",
+      "location": "Balkans · shifting territories around present-day Bulgaria",
+      "note": "Groups the First Bulgarian Empire (681–1018) and Second (1185/1186–late fourteenth century), separated by Byzantine rule. 1396 is a conventional endpoint for Ottoman conquest; regional remnants and claims complicate an exact final date. It is not one uninterrupted empire.",
+      "wikiTitle": "First Bulgarian Empire",
+      "sources": [
+        "bulgaria"
+      ],
+      "collections": [
+        "europe"
+      ]
+    },
+    {
+      "id": "rx-bulgaria",
+      "title": "Bulgaria · principality, kingdom and republic",
+      "region": "europe",
+      "dates": "1878 CE–present",
+      "start": 1878,
+      "end": 2027,
+      "category": "period",
+      "location": "Bulgaria · southeastern Europe",
+      "note": "The autonomous principality established in 1878 remained formally under Ottoman suzerainty until independence in 1908. The monarchy, communist republic and post-1989 parliamentary republic are separate phases; 1878 is not an origin date for Bulgarian people.",
+      "wikiTitle": "History of Bulgaria",
+      "sources": [
+        "bulgaria",
+        "bulgaria1908"
+      ],
+      "collections": [
+        "europe"
+      ],
+      "ongoing": true
+    },
+    {
+      "id": "rx-serbia-medieval",
+      "title": "Medieval Serbian realms",
+      "region": "europe",
+      "dates": "1217–1459 CE · selected royal and successor phases",
+      "start": 1217,
+      "end": 1459,
+      "category": "period",
+      "location": "Central and western Balkans",
+      "note": "1217 marks Stefan’s royal coronation, after earlier Serbian principalities. Kingdom, empire and successor despotate are grouped here; their borders and degree of control changed. The Ottoman capture of Smederevo in 1459 ends this selected frame, not Serbian society.",
+      "wikiTitle": "History of Serbia in the Middle Ages",
+      "sources": [
+        "serbiamedieval",
+        "serbia1459"
+      ],
+      "collections": [
+        "europe"
+      ]
+    },
+    {
+      "id": "rx-serbia",
+      "title": "Serbia · independent republic after state union",
+      "region": "europe",
+      "dates": "2006 CE–present",
+      "start": 2006,
+      "end": 2027,
+      "category": "history",
+      "location": "Serbia · southeastern Europe",
+      "note": "2006 marks the end of the state union with Montenegro, not the first Serbian state or independence. Serbia continued the union’s UN membership. Kosovo declared independence in 2008; its international status remains contested, and this listing does not resolve that dispute.",
+      "wikiTitle": "Serbia",
+      "sources": [
+        "yugoslavsuccessors",
+        "yugoslavchange",
+        "kosovodeclaration",
+        "kosovomandate"
+      ],
+      "collections": [
+        "europe"
+      ],
+      "ongoing": true
+    },
+    {
+      "id": "rx-croatia-medieval",
+      "title": "Medieval Kingdom of Croatia · selected phase",
+      "region": "europe",
+      "dates": "c. 925–1102 CE",
+      "start": 925,
+      "end": 1102,
+      "category": "history",
+      "location": "Eastern Adriatic and neighbouring inland regions",
+      "note": "925 is the traditional royal convention associated with Tomislav; 1102 conventionally marks rule under the Hungarian crown. Details of the union and the later Pacta conventa text require caution. The range does not imply Croatia or Croatian institutions disappeared in 1102.",
+      "wikiTitle": "Kingdom of Croatia (925–1102)",
+      "sources": [
+        "croatiamedieval"
+      ],
+      "collections": [
+        "europe"
+      ]
+    },
+    {
+      "id": "rx-croatia",
+      "title": "Croatia · independent republic",
+      "region": "europe",
+      "dates": "1991 CE–present",
+      "start": 1991,
+      "end": 2027,
+      "category": "history",
+      "location": "Croatia · eastern Adriatic and southeastern Europe",
+      "note": "1991 dates declarations and implementation of independence from Yugoslavia, followed by war and later international recognition. Croatia joined the UN in 1992. This is a modern state convention, not the beginning of Croatian communities or institutions.",
+      "wikiTitle": "Croatia",
+      "sources": [
+        "croatia",
+        "yugoslavsuccessors"
+      ],
+      "collections": [
+        "europe"
+      ],
+      "ongoing": true
+    },
+    {
+      "id": "rx-bosnia-medieval",
+      "title": "Medieval Bosnia · bans and kings",
+      "region": "europe",
+      "dates": "c. 950–1463 CE · selected regional frame",
+      "start": 950,
+      "end": 1463,
+      "category": "period",
+      "location": "Bosnia and neighbouring western Balkan territories",
+      "note": "A rounded frame following the National Museum’s mid-tenth-century emergence of the medieval Bosnian state through changing bans and royal rule. The Ottoman conquest in 1463 ends this selected state frame; local communities, religious traditions and regional institutions continued.",
+      "wikiTitle": "History of Bosnia and Herzegovina in the Middle Ages",
+      "sources": [
+        "bosniamedieval"
+      ],
+      "collections": [
+        "europe"
+      ]
+    },
+    {
+      "id": "rx-bosnia",
+      "title": "Bosnia and Herzegovina · independent state",
+      "region": "europe",
+      "dates": "1992 CE–present",
+      "start": 1992,
+      "end": 2027,
+      "category": "history",
+      "location": "Bosnia and Herzegovina · western Balkans",
+      "note": "Independence and international recognition came in 1992 during Yugoslavia’s dissolution. War followed; the Dayton agreement in 1995 established the present constitutional framework. Bosnia and Herzegovina is one sovereign state with internal entities, not two independent countries.",
+      "wikiTitle": "Bosnia and Herzegovina",
+      "sources": [
+        "bosnia",
+        "dayton"
+      ],
+      "collections": [
+        "europe"
+      ],
+      "ongoing": true
+    },
+    {
+      "id": "rx-yugoslav-states",
+      "title": "Yugoslav states · monarchy and changing federations",
+      "region": "europe",
+      "dates": "1918–2006 CE · changing and overlapping forms",
+      "start": 1918,
+      "end": 2006,
+      "category": "period",
+      "location": "Western Balkans · territories changed markedly",
+      "note": "The 1918 kingdom, wartime occupation and resistance, socialist federation, and 1992–2003 Federal Republic of Yugoslavia were different arrangements. The last became Serbia and Montenegro in 2003 and ended in 2006. The 1992 federation was not automatically accepted as the sole continuation of socialist Yugoslavia.",
+      "wikiTitle": "Yugoslavia",
+      "sources": [
+        "yugoslavia",
+        "yugoslavchange"
+      ],
+      "collections": [
+        "europe"
+      ]
+    },
+    {
+      "id": "rx-slovenia",
+      "title": "Slovenia · independent republic",
+      "region": "europe",
+      "dates": "1991 CE–present",
+      "start": 1991,
+      "end": 2027,
+      "category": "history",
+      "location": "Slovenia · Alpine–Adriatic region",
+      "note": "The assembly adopted independence acts on 25 June 1991, followed by declaration and a short war. UN admission followed in 1992. This dates the selected sovereign state, not the origins of Slovene communities or the entire history of the territory.",
+      "wikiTitle": "Slovenia",
+      "sources": [
+        "slovenia",
+        "yugoslavsuccessors"
+      ],
+      "collections": [
+        "europe"
+      ],
+      "ongoing": true
+    },
+    {
+      "id": "rx-montenegro",
+      "title": "Montenegro · restored independence",
+      "region": "europe",
+      "dates": "2006 CE–present",
+      "start": 2006,
+      "end": 2027,
+      "category": "history",
+      "location": "Montenegro · western Balkans and Adriatic",
+      "note": "The referendum of 21 May was followed by parliament’s declaration on 3 June 2006, ending union with Serbia. Earlier Montenegrin statehood preceded Yugoslavia, so 2006 is restoration in a new constitutional setting rather than the beginning of Montenegrin history.",
+      "wikiTitle": "Montenegro",
+      "sources": [
+        "montenegro",
+        "yugoslavsuccessors"
+      ],
+      "collections": [
+        "europe"
+      ],
+      "ongoing": true
+    },
+    {
+      "id": "rx-north-macedonia",
+      "title": "North Macedonia · independent state",
+      "region": "europe",
+      "dates": "1991 CE–present",
+      "start": 1991,
+      "end": 2027,
+      "category": "history",
+      "location": "North Macedonia · southeastern Europe",
+      "note": "The September 1991 referendum begins this selected independence frame. The state entered the UN in 1993 under a provisional designation; the country’s name changed to North Macedonia in 2019 after the Prespa agreement. Modern statehood is not a claim that one ancient polity survived unchanged.",
+      "wikiTitle": "North Macedonia",
+      "sources": [
+        "northmacedonia",
+        "yugoslavsuccessors",
+        "northmacedonia2019"
+      ],
+      "collections": [
+        "europe"
+      ],
+      "ongoing": true
+    }
+  ],
+  "memberships": {
+    "europe": [
+      "minoan",
+      "greece",
+      "rome",
+      "byzantium",
+      "carolingian",
+      "archaic",
+      "mycenaean",
+      "romanrepublic",
+      "hellenistic",
+      "holyroman",
+      "rus",
+      "england",
+      "scotland",
+      "francekingdom",
+      "francemodern",
+      "spainmodern",
+      "greatbritain",
+      "unitedkingdom",
+      "britishempire",
+      "russianempire",
+      "sovietunion",
+      "russiafederation",
+      "germanymodern",
+      "italymodern",
+      "poster-europe-001",
+      "poster-europe-002",
+      "poster-europe-003",
+      "poster-europe-004",
+      "poster-europe-005",
+      "poster-europe-006",
+      "poster-europe-007",
+      "poster-europe-011",
+      "poster-europe-012",
+      "poster-europe-013",
+      "poster-europe-014",
+      "poster-europe-018",
+      "poster-europe-025",
+      "poster-europe-035",
+      "poster-europe-036",
+      "cn-portugal",
+      "portugalmodern",
+      "poster-europe-045",
+      "poster-europe-046",
+      "poster-europe-047",
+      "poster-europe-048",
+      "poster-europe-049",
+      "poster-europe-058",
+      "cn-westfrancia",
+      "cn-westrome",
+      "poster-europe-072",
+      "poster-europe-074",
+      "poster-europe-075",
+      "poster-europe-076",
+      "poster-europe-078",
+      "poster-europe-082",
+      "poster-europe-083",
+      "poster-europe-084",
+      "poster-europe-085",
+      "cn-eastfrancia",
+      "poster-europe-096",
+      "poster-europe-097",
+      "poster-europe-098",
+      "poster-europe-099",
+      "poster-europe-100",
+      "austriamodern",
+      "greecemodern",
+      "cn-alexander",
+      "cn-ireland",
+      "cn-irishfree",
+      "cn-romanempire",
+      "cn-middlefrancia",
+      "cn-goldenhorde",
+      "cn-castile",
+      "cn-aragon",
+      "cn-ireland-modern",
+      "cn-northgerman",
+      "cn-kazan",
+      "cn-greathorde",
+      "cn-muscovy",
+      "cn-tsardom",
+      "cn-ukraine",
+      "cx-anglosaxon-realms",
+      "cx-rus-principalities",
+      "cx-grandduchy-lithuania",
+      "cn-belarus",
+      "cn-moldova",
+      "cn-estonia",
+      "cn-latvia",
+      "cn-lithuania",
+      "period-roman-republic-iberian-band",
+      "period-roman-republic-gallic-band",
+      "poster-europe-016",
+      "poster-europe-021",
+      "period-roman-republic-greek-band",
+      "poster-europe-026",
+      "poster-europe-027",
+      "poster-europe-028",
+      "poster-europe-029",
+      "poster-europe-030",
+      "poster-europe-031",
+      "poster-europe-032",
+      "poster-europe-034",
+      "poster-europe-038",
+      "poster-europe-039",
+      "poster-europe-040",
+      "poster-europe-041",
+      "poster-europe-042",
+      "poster-europe-044",
+      "poster-europe-050",
+      "period-unification-of-spain",
+      "poster-europe-052",
+      "poster-europe-053",
+      "poster-europe-054",
+      "poster-europe-055",
+      "poster-europe-057",
+      "poster-europe-061",
+      "poster-europe-062",
+      "poster-europe-063",
+      "poster-europe-064",
+      "poster-europe-065",
+      "poster-europe-066",
+      "poster-europe-067",
+      "poster-europe-068",
+      "poster-europe-070",
+      "poster-europe-073",
+      "poster-europe-077",
+      "poster-europe-079",
+      "poster-europe-081",
+      "poster-europe-088",
+      "poster-europe-089",
+      "poster-europe-090",
+      "poster-europe-091",
+      "poster-europe-092",
+      "poster-europe-093",
+      "poster-europe-095",
+      "poster-europe-101",
+      "poster-europe-102",
+      "poster-europe-104",
+      "poster-europe-106",
+      "poster-europe-107",
+      "poster-europe-108",
+      "poster-europe-109",
+      "poster-europe-110",
+      "poster-europe-111",
+      "poster-europe-112",
+      "poster-europe-113",
+      "poster-europe-114",
+      "poster-europe-116",
+      "poster-europe-117",
+      "ottoman"
+    ]
+  }
+}

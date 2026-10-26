@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1484" width="1600" height="1484" role="group" aria-labelledby="map-title-rus-byzantium-steppe map-desc-rus-byzantium-steppe"><title id="map-title-rus-byzantium-steppe">Kyivan Rus’, Byzantium &amp; regional principalities</title><desc id="map-desc-rus-byzantium-steppe">Selected, sourced connections. Arrows label unions, divisions, conquest, independence, changes in rule, and contact. Node positions do not measure time or ancestry.  Select a node for Wikipedia or an arrow for its sources.</desc><defs>
+<marker id="arrow-rus-byzantium-steppe-union" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#3b8274"/></marker>
+<marker id="arrow-rus-byzantium-steppe-division" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#b88636"/></marker>
+<marker id="arrow-rus-byzantium-steppe-conquest" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#aa6355"/></marker>
+<marker id="arrow-rus-byzantium-steppe-independence" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#638350"/></marker>
+<marker id="arrow-rus-byzantium-steppe-continuation" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#5d7f9d"/></marker>
+<marker id="arrow-rus-byzantium-steppe-contact" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#8b7297"/></marker>
+<marker id="arrow-rus-byzantium-steppe-colonial" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#9a8055"/></marker>
+<marker id="arrow-rus-byzantium-steppe-context" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#92917a"/></marker>
+<marker id="arrow-rus-byzantium-steppe-period" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#7d8c6f"/></marker>
+</defs><style>text{font-family:Arial,Helvetica,sans-serif;fill:#25372c}.map-node,.map-edge{cursor:pointer;outline:none}.map-node rect{stroke:#fffdf8;stroke-width:2}.map-node:hover rect,.map-node:focus rect{stroke:#3c5441;stroke-width:3}.map-label{font-size:21px;font-weight:600;pointer-events:none}.map-date{font-size:12px;fill:#617056;pointer-events:none}.edge-line{fill:none;stroke-width:2.5;stroke-linejoin:round;stroke-linecap:round}.edge-hit{fill:none;stroke:transparent;stroke-width:36;vector-effect:non-scaling-stroke}.map-edge:hover .edge-label-bg,.map-edge:focus .edge-label-bg{stroke:#334d3c;stroke-width:2}.map-edge:hover .edge-line,.map-edge:focus .edge-line{stroke-width:4}.edge-label{font-size:15px;font-weight:500;pointer-events:none}.map-heading{font-size:47px;font-weight:700;letter-spacing:-1.2px}.map-subtitle{font-size:24px;fill:#67785a}.map-micro{font-size:13px;fill:#8a977d}.map-node.dim{opacity:.15}.map-node.hit rect{stroke:#294332;stroke-width:4}.map-node.selected rect{stroke:#294332;stroke-width:4}.map-edge.related .edge-line{stroke-width:4.5}</style><rect width="100%" height="100%" fill="#fdfcf8"/><text class="map-heading" x="800" y="74" text-anchor="middle">EMPIRES &amp; CONNECTIONS</text><text class="map-subtitle" x="800" y="117" text-anchor="middle">Kyivan Rus’, Byzantium &amp; regional principalities</text><text class="map-micro" x="800" y="154" text-anchor="middle">Tap a node to read · Tap an arrow for the event and sources</text>
+<g class="map-edge" id="map-edge-rus-byzantium-steppe-eu-rus-christianity" data-connection="eu-rus-christianity" data-map="rus-byzantium-steppe" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Eastern Roman / Byzantine Empire to Kyivan Rusʹ: Christianisation &amp; court connections. Open relationship details." style="--edge-color:#8b7297"><title>Contact / influence: Christianisation &amp; court connections</title>
+<path class="edge-hit" d="M807.25 314.34C807.25 340.33 807.25 371.16 807.25 389.62"/><path class="edge-line" stroke="#8b7297" stroke-dasharray="6 6" d="M807.25 314.34C807.25 340.33 807.25 371.16 807.25 389.62"/>
+<path class="edge-hit" d="M807.25 424.37C807.25 442.86 807.25 473.77 807.25 499.8"/><path class="edge-line" stroke="#8b7297" stroke-dasharray="6 6" d="M807.25 424.37C807.25 442.86 807.25 473.77 807.25 499.8" marker-end="url(#arrow-rus-byzantium-steppe-contact)"/>
+<rect class="edge-label-bg" x="657.25" y="390" width="300" height="34" rx="7" fill="#fdfcf8" stroke="#8b7297" stroke-opacity=".28"/>
+<text class="edge-label" x="807.25" y="412" text-anchor="middle">Christianisation &amp; court connections</text>
+</g>
+<g class="map-edge" id="map-edge-rus-byzantium-steppe-eu-rus-regionalisation" data-connection="eu-rus-regionalisation" data-map="rus-byzantium-steppe" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Kyivan Rusʹ to Rus’ principalities · regional realms: Regional principalities consolidate. Open relationship details." style="--edge-color:#b88636"><title>Division: Regional principalities consolidate</title>
+<path class="edge-hit" d="M807.25 594.34C807.25 620.33 807.25 651.16 807.25 669.62"/><path class="edge-line" stroke="#b88636"  d="M807.25 594.34C807.25 620.33 807.25 651.16 807.25 669.62"/>
+<path class="edge-hit" d="M807.25 704.37C807.25 722.86 807.25 753.77 807.25 779.8"/><path class="edge-line" stroke="#b88636"  d="M807.25 704.37C807.25 722.86 807.25 753.77 807.25 779.8" marker-end="url(#arrow-rus-byzantium-steppe-division)"/>
+<rect class="edge-label-bg" x="661" y="670" width="292.5" height="34" rx="7" fill="#fdfcf8" stroke="#b88636" stroke-opacity=".28"/>
+<text class="edge-label" x="807.25" y="692" text-anchor="middle">Regional principalities consolidate</text>
+</g>
+<g class="map-edge" id="map-edge-rus-byzantium-steppe-eu-rus-mongol-conquest" data-connection="eu-rus-mongol-conquest" data-map="rus-byzantium-steppe" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Rus’ principalities · regional realms to Golden Horde: Mongol invasion &amp; tributary power. Open relationship details." style="--edge-color:#aa6355"><title>Conquest: Mongol invasion &amp; tributary power</title>
+<path class="edge-hit" d="M695.78 874.34C633.23 900.33 559.08 931.16 514.66 949.62"/><path class="edge-line" stroke="#aa6355"  d="M695.78 874.34C633.23 900.33 559.08 931.16 514.66 949.62"/>
+<path class="edge-hit" d="M475.25 984.37C475.25 1002.86 475.25 1033.77 475.25 1059.8"/><path class="edge-line" stroke="#aa6355"  d="M475.25 984.37C475.25 1002.86 475.25 1033.77 475.25 1059.8" marker-end="url(#arrow-rus-byzantium-steppe-conquest)"/>
+<rect class="edge-label-bg" x="336.5" y="950" width="277.5" height="34" rx="7" fill="#fdfcf8" stroke="#aa6355" stroke-opacity=".28"/>
+<text class="edge-label" x="475.25" y="972" text-anchor="middle">Mongol invasion &amp; tributary power</text>
+</g>
+<g class="map-edge" id="map-edge-rus-byzantium-steppe-eu-rus-muscovy" data-connection="eu-rus-muscovy" data-map="rus-byzantium-steppe" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Rus’ principalities · regional realms to Grand Principality of Moscow: Moscow expands among principalities. Open relationship details." style="--edge-color:#8b7297"><title>Contact / influence: Moscow expands among principalities</title>
+<path class="edge-hit" d="M807.25 874.34C807.25 900.33 807.25 931.16 807.25 949.62"/><path class="edge-line" stroke="#8b7297" stroke-dasharray="6 6" d="M807.25 874.34C807.25 900.33 807.25 931.16 807.25 949.62"/>
+<path class="edge-hit" d="M807.25 984.37C807.25 1002.86 807.25 1033.77 807.25 1059.8"/><path class="edge-line" stroke="#8b7297" stroke-dasharray="6 6" d="M807.25 984.37C807.25 1002.86 807.25 1033.77 807.25 1059.8" marker-end="url(#arrow-rus-byzantium-steppe-contact)"/>
+<rect class="edge-label-bg" x="661" y="950" width="292.5" height="34" rx="7" fill="#fdfcf8" stroke="#8b7297" stroke-opacity=".28"/>
+<text class="edge-label" x="807.25" y="972" text-anchor="middle">Moscow expands among principalities</text>
+</g>
+<g class="map-edge" id="map-edge-rus-byzantium-steppe-eu-rus-lithuania" data-connection="eu-rus-lithuania" data-map="rus-byzantium-steppe" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Rus’ principalities · regional realms to Grand Duchy of Lithuania: Western Rus’ lands incorporated. Open relationship details." style="--edge-color:#aa6355"><title>Conquest: Western Rus’ lands incorporated</title>
+<path class="edge-hit" d="M916.37 874.34C977.6 900.33 1050.19 931.16 1093.67 949.62"/><path class="edge-line" stroke="#aa6355"  d="M916.37 874.34C977.6 900.33 1050.19 931.16 1093.67 949.62"/>
+<path class="edge-hit" d="M1132.25 984.37C1132.25 1002.86 1132.25 1033.77 1132.25 1059.8"/><path class="edge-line" stroke="#aa6355"  d="M1132.25 984.37C1132.25 1002.86 1132.25 1033.77 1132.25 1059.8" marker-end="url(#arrow-rus-byzantium-steppe-conquest)"/>
+<rect class="edge-label-bg" x="1001" y="950" width="262.5" height="34" rx="7" fill="#fdfcf8" stroke="#aa6355" stroke-opacity=".28"/>
+<text class="edge-label" x="1132.25" y="972" text-anchor="middle">Western Rus’ lands incorporated</text>
+</g>
+<g class="map-node" id="map-node-rus-byzantium-steppe-byzantium" data-history="byzantium" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Eastern Roman / Byzantine Empire, 330–1453 CE. Open Wikipedia." data-map="rus-byzantium-steppe"><title>Eastern Roman / Byzantine Empire · 330–1453 CE</title><rect x="693.25" y="220" width="228" height="94" rx="10" fill="#ee9792"/>
+<text class="map-label" style="font-size:21px" x="807.25" y="251" text-anchor="middle">Eastern Roman /</text>
+<text class="map-label" style="font-size:21px" x="807.25" y="275" text-anchor="middle">Byzantine Empire</text>
+<text class="map-date" x="807.25" y="299" text-anchor="middle">330–1453</text></g>
+<g class="map-node" id="map-node-rus-byzantium-steppe-rus" data-history="rus" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Kyivan Rusʹ, 882 CE–1240 CE. Open Wikipedia." data-map="rus-byzantium-steppe"><title>Kyivan Rusʹ · 882 CE–1240 CE</title><rect x="693.25" y="500" width="228" height="94" rx="10" fill="#edbc75"/>
+<text class="map-label" style="font-size:21px" x="807.25" y="543" text-anchor="middle">Kyivan Rusʹ</text>
+<text class="map-date" x="807.25" y="579" text-anchor="middle">882–1240</text></g>
+<g class="map-node" id="map-node-rus-byzantium-steppe-cx-rus-principalities" data-history="cx-rus-principalities" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Rus’ principalities · regional realms, 12th–14th centuries CE · selected frame. Open Wikipedia." data-map="rus-byzantium-steppe"><title>Rus’ principalities · regional realms · 12th–14th centuries CE · selected frame</title><rect x="693.25" y="780" width="228" height="94" rx="10" fill="#c4afd1"/>
+<text class="map-label" style="font-size:21px" x="807.25" y="811" text-anchor="middle">Rus’ principalities</text>
+<text class="map-label" style="font-size:21px" x="807.25" y="835" text-anchor="middle">· regional realms</text>
+<text class="map-date" x="807.25" y="859" text-anchor="middle">12th–14th centuries · selected fr…</text></g>
+<g class="map-node" id="map-node-rus-byzantium-steppe-cn-goldenhorde" data-history="cn-goldenhorde" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Golden Horde, 13th century–1502 CE. Open Wikipedia." data-map="rus-byzantium-steppe"><title>Golden Horde · 13th century–1502 CE</title><rect x="361.25" y="1060" width="228" height="94" rx="10" fill="#edbc75"/>
+<text class="map-label" style="font-size:21px" x="475.25" y="1103" text-anchor="middle">Golden Horde</text>
+<text class="map-date" x="475.25" y="1139" text-anchor="middle">13th century–1502</text></g>
+<g class="map-node" id="map-node-rus-byzantium-steppe-cn-muscovy" data-history="cn-muscovy" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Grand Principality of Moscow, c. 1263–1547 CE. Open Wikipedia." data-map="rus-byzantium-steppe"><title>Grand Principality of Moscow · c. 1263–1547 CE</title><rect x="693.25" y="1060" width="228" height="94" rx="10" fill="#edbc75"/>
+<text class="map-label" style="font-size:21px" x="807.25" y="1091" text-anchor="middle">Grand Principality</text>
+<text class="map-label" style="font-size:21px" x="807.25" y="1115" text-anchor="middle">of Moscow</text>
+<text class="map-date" x="807.25" y="1139" text-anchor="middle">c. 1263–1547</text></g>
+<g class="map-node" id="map-node-rus-byzantium-steppe-cx-grandduchy-lithuania" data-history="cx-grandduchy-lithuania" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Grand Duchy of Lithuania, 13th century–1795 CE. Open Wikipedia." data-map="rus-byzantium-steppe"><title>Grand Duchy of Lithuania · 13th century–1795 CE</title><rect x="1018.25" y="1060" width="228" height="94" rx="10" fill="#ee9792"/>
+<text class="map-label" style="font-size:21px" x="1132.25" y="1091" text-anchor="middle">Grand Duchy of</text>
+<text class="map-label" style="font-size:21px" x="1132.25" y="1115" text-anchor="middle">Lithuania</text>
+<text class="map-date" x="1132.25" y="1139" text-anchor="middle">13th century–1795</text></g>
+<text class="map-micro" x="800" y="1275" text-anchor="middle">Continue this history on another map</text>
+<g class="map-continuation" id="map-jump-rus-byzantium-steppe-0" role="button" tabindex="0" data-map-target="steppe-russia" data-map-history="cn-goldenhorde" aria-label="Golden Horde, Muscovy &amp; Soviet successor states"><rect x="68" y="1289" width="477.3333333333333" height="70" rx="8" fill="#edf3e5" stroke="#bdcdb1"/>
+<text x="306.66666666666663" y="1325" text-anchor="middle" style="font-size:16px">Golden Horde, Muscovy &amp; Soviet successor states</text>
+</g>
+<g class="map-continuation" id="map-jump-rus-byzantium-steppe-1" role="button" tabindex="0" data-map-target="italian-rule-unification" data-map-history="byzantium" aria-label="Italian kingdoms, communes &amp; unification"><rect x="561.3333333333333" y="1289" width="477.3333333333333" height="70" rx="8" fill="#edf3e5" stroke="#bdcdb1"/>
+<text x="799.9999999999999" y="1325" text-anchor="middle" style="font-size:16px">Italian kingdoms, communes &amp; unification</text>
+</g>
+<g class="map-continuation" id="map-jump-rus-byzantium-steppe-2" role="button" tabindex="0" data-map-target="rome-francia" data-map-history="byzantium" aria-label="Rome, Frankish realms &amp; modern successors"><rect x="1054.6666666666665" y="1289" width="477.3333333333333" height="70" rx="8" fill="#edf3e5" stroke="#bdcdb1"/>
+<text x="1293.3333333333333" y="1325" text-anchor="middle" style="font-size:16px">Rome, Frankish realms &amp; modern successors</text>
+</g>
+<path d="M70 1395h20" stroke="#3b8274" stroke-width="3"/><text x="98" y="1400" style="font-size:14px;fill:#6b7b5e">Union</text>
+<path d="M362 1395h20" stroke="#b88636" stroke-width="3"/><text x="390" y="1400" style="font-size:14px;fill:#6b7b5e">Division</text>
+<path d="M654 1395h20" stroke="#aa6355" stroke-width="3"/><text x="682" y="1400" style="font-size:14px;fill:#6b7b5e">Conquest</text>
+<path d="M946 1395h20" stroke="#638350" stroke-width="3"/><text x="974" y="1400" style="font-size:14px;fill:#6b7b5e">Independence</text>
+<path d="M1238 1395h20" stroke="#5d7f9d" stroke-width="3"/><text x="1266" y="1400" style="font-size:14px;fill:#6b7b5e">Change of rule</text>
+<path d="M70 1421h20" stroke="#8b7297" stroke-width="3"/><text x="98" y="1426" style="font-size:14px;fill:#6b7b5e">Contact / influence</text>
+<path d="M362 1421h20" stroke="#9a8055" stroke-width="3"/><text x="390" y="1426" style="font-size:14px;fill:#6b7b5e">Colonial rule</text>
+<path d="M654 1421h20" stroke="#92917a" stroke-width="3"/><text x="682" y="1426" style="font-size:14px;fill:#6b7b5e">Context / overlap</text>
+<path d="M946 1421h20" stroke="#7d8c6f" stroke-width="3"/><text x="974" y="1426" style="font-size:14px;fill:#6b7b5e">Period transition</text>
+<text class="map-micro" x="800" y="1462" text-anchor="middle">Selected connections · Layout is not a time, territory or ancestry scale</text></svg>

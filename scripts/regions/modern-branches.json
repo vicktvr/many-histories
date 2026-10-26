@@ -1,0 +1,1162 @@
+{
+  "sources": {
+    "mbSovietArchive": {
+      "publisher": "George H. W. Bush Presidential Library and Museum",
+      "title": "Records on U.S. Policy Toward Post-Coup Soviet Union/Former Soviet Republics",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-us-policy-toward-post-coup-soviet-unionformer-soviet"
+    },
+    "mbSovietNato": {
+      "publisher": "NATO Archives",
+      "title": "Old adversaries become new partners",
+      "url": "https://www.nato.int/cps/en/natohq/declassified_136603.htm"
+    },
+    "mbBalticRestoration": {
+      "publisher": "George H. W. Bush Presidential Library and Museum",
+      "title": "Report on Restoration of the Baltic States Independence",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/public-papers/message-congress-transmitting-report-restoration"
+    },
+    "mbBalticRecognition": {
+      "publisher": "US Office of the Historian",
+      "title": "Lithuania: recognition and the restoration of independence",
+      "url": "https://history.state.gov/countries/lithuania"
+    },
+    "mbCentralMedieval": {
+      "publisher": "Encyclopaedia Iranica · Bertold Spuler",
+      "title": "Central Asia V: in the Mongol and Timurid periods",
+      "url": "https://www.iranicaonline.org/articles/central-asia-v/"
+    },
+    "mbCentralEarly": {
+      "publisher": "Encyclopaedia Iranica · R. D. McChesney",
+      "title": "Central Asia VI: in the sixteenth–eighteenth centuries",
+      "url": "https://www.iranicaonline.org/articles/central-asia-vi/"
+    },
+    "mbCentralRussian": {
+      "publisher": "Encyclopaedia Iranica · Yuri Bregel",
+      "title": "Central Asia VII: in the eighteenth–nineteenth centuries",
+      "url": "https://www.iranicaonline.org/articles/central-asia-vii/"
+    },
+    "mbCentralSoviet": {
+      "publisher": "Library of Congress · Federal Research Division",
+      "title": "Kazakstan, Kyrgyzstan, Tajikistan, Turkmenistan, and Uzbekistan: country studies",
+      "url": "https://tile.loc.gov/storage-services/master/frd/frdcstdy/ka/kazakstankyrgyzs00curt_0/kazakstankyrgyzs00curt_0.pdf"
+    },
+    "mbKazakhFoundation": {
+      "publisher": "Government of Kazakhstan · Ministry of Foreign Affairs",
+      "title": "A Country Profile: Kazakhstan 2020",
+      "url": "https://www.gov.kz/uploads/2020/12/27/4d25dfd8ea1e19b5488d44e2528a8e12_original.17964681.pdf"
+    },
+    "mbKazakhRussian": {
+      "publisher": "Government of Kazakhstan · Ministry of Foreign Affairs",
+      "title": "General information: history of Kazakhstan",
+      "url": "https://www.gov.kz/org/mfa-budapest/press/article/details/73269?lang=en"
+    },
+    "mbKhiva": {
+      "publisher": "Encyclopaedia Iranica · C. E. Bosworth",
+      "title": "Chorasmia II: in Islamic times",
+      "url": "https://www.iranicaonline.org/articles/chorasmia-ii/"
+    },
+    "mbBukhara": {
+      "publisher": "Encyclopaedia Iranica · Anke von Kügelgen",
+      "title": "Bukhara VIII: historiography of the khanate, 1500–1920",
+      "url": "https://www.iranicaonline.org/articles/bukhara-viii/"
+    },
+    "mbChaghatay": {
+      "publisher": "Encyclopaedia Iranica · Peter Jackson",
+      "title": "Chaghatay Dynasty I: history",
+      "url": "https://www.iranicaonline.org/articles/chaghatay-dynasty/i-history/"
+    },
+    "mbKhojas": {
+      "publisher": "Encyclopaedia Iranica · Isenbike Togan",
+      "title": "Chinese Turkestan V: under the Khojas",
+      "url": "https://www.iranicaonline.org/articles/chinese-turkestan-v/"
+    },
+    "mbDzungar": {
+      "publisher": "Journal of Chinese History · Pär Cassel",
+      "title": "Solitary Swedish Sinologists: Three Hundred and Fifty Years of Swedish China Studies",
+      "url": "https://www.cambridge.org/core/journals/journal-of-chinese-history/article/solitary-swedish-sinologists-three-hundred-and-fifty-years-of-swedish-china-studies/0E32F85D886CF168878A91ABDECC503E"
+    },
+    "mbTurpanQing": {
+      "publisher": "Australian National University Press · Ts’ui-jung Liu and I-chun Fan",
+      "title": "The Tuntian system in Xinjiang under the Qing Dynasty: A perspective from environmental history",
+      "url": "https://press-files.anu.edu.au/downloads/press/n2057/html/04_liu.xhtml?page=7&referer="
+    },
+    "mbDzungarLoss": {
+      "publisher": "Language and Cognition · Cambridge University Press",
+      "title": "Conceptual metaphor in areal perspective: time, space, and contact in the Sinosphere",
+      "url": "https://www.cambridge.org/core/journals/language-and-cognition/article/conceptual-metaphor-in-areal-perspective-time-space-and-contact-in-the-sinosphere/C927D6E02B7CEEAAF61C638C3CB1A882"
+    },
+    "mbManghits": {
+      "publisher": "Encyclopaedia Iranica · Anke von Kügelgen",
+      "title": "Manghits",
+      "url": "https://www.iranicaonline.org/articles/manghits/"
+    }
+  },
+  "extras": [
+    {
+      "id": "cn-belarus",
+      "title": "Belarus · independent state",
+      "region": "europe",
+      "dates": "1991 CE–present",
+      "wikiTitle": "Belarus",
+      "location": "Eastern Europe",
+      "note": "Selected independent-state frame after Soviet dissolution; earlier regional histories and communities predate 1991.",
+      "sources": [
+        "mbSovietArchive"
+      ]
+    },
+    {
+      "id": "cn-moldova",
+      "title": "Moldova · independent state",
+      "region": "europe",
+      "dates": "1991 CE–present",
+      "wikiTitle": "Moldova",
+      "location": "Eastern Europe",
+      "note": "Selected independent-state frame after Soviet dissolution; earlier regional histories and communities predate 1991.",
+      "sources": [
+        "mbSovietArchive"
+      ]
+    },
+    {
+      "id": "cn-armenia",
+      "title": "Armenia · independent state",
+      "region": "westasia",
+      "dates": "1991 CE–present",
+      "wikiTitle": "Armenia",
+      "location": "South Caucasus",
+      "note": "Selected independent-state frame after Soviet dissolution; earlier regional histories and communities predate 1991.",
+      "sources": [
+        "mbSovietArchive"
+      ]
+    },
+    {
+      "id": "cn-azerbaijan",
+      "title": "Azerbaijan · independent state",
+      "region": "westasia",
+      "dates": "1991 CE–present",
+      "wikiTitle": "Azerbaijan",
+      "location": "South Caucasus",
+      "note": "Selected independent-state frame after Soviet dissolution; earlier regional histories and communities predate 1991.",
+      "sources": [
+        "mbSovietArchive"
+      ]
+    },
+    {
+      "id": "cn-georgia",
+      "title": "Georgia · independent state",
+      "region": "westasia",
+      "dates": "1991 CE–present",
+      "wikiTitle": "Georgia (country)",
+      "location": "South Caucasus",
+      "note": "Selected independent-state frame after Soviet dissolution; earlier regional histories and communities predate 1991.",
+      "sources": [
+        "mbSovietArchive"
+      ]
+    },
+    {
+      "id": "cn-kyrgyzstan",
+      "title": "Kyrgyzstan · independent state",
+      "region": "eastasia",
+      "dates": "1991 CE–present",
+      "wikiTitle": "Kyrgyzstan",
+      "location": "Central Asia",
+      "note": "Selected independent-state frame after Soviet dissolution; earlier regional histories and communities predate 1991.",
+      "sources": [
+        "mbSovietArchive"
+      ]
+    },
+    {
+      "id": "cn-tajikistan",
+      "title": "Tajikistan · independent state",
+      "region": "eastasia",
+      "dates": "1991 CE–present",
+      "wikiTitle": "Tajikistan",
+      "location": "Central Asia",
+      "note": "Selected independent-state frame after Soviet dissolution; earlier regional histories and communities predate 1991.",
+      "sources": [
+        "mbSovietArchive"
+      ]
+    },
+    {
+      "id": "cn-turkmenistan",
+      "title": "Turkmenistan · independent state",
+      "region": "eastasia",
+      "dates": "1991 CE–present",
+      "wikiTitle": "Turkmenistan",
+      "location": "Central Asia",
+      "note": "Selected independent-state frame after Soviet dissolution; earlier regional histories and communities predate 1991.",
+      "sources": [
+        "mbSovietArchive"
+      ]
+    },
+    {
+      "id": "cn-uzbekistan",
+      "title": "Uzbekistan · independent state",
+      "region": "eastasia",
+      "dates": "1991 CE–present",
+      "wikiTitle": "Uzbekistan",
+      "location": "Central Asia",
+      "note": "Selected independent-state frame after Soviet dissolution; earlier regional histories and communities predate 1991.",
+      "sources": [
+        "mbSovietArchive"
+      ]
+    },
+    {
+      "id": "cn-estonia",
+      "title": "Estonia · restored independence",
+      "region": "europe",
+      "dates": "1990–1991 restoration · present",
+      "wikiTitle": "Estonia",
+      "location": "Baltic region",
+      "note": "Restored independence after Soviet occupation and annexation, rather than the beginning of the country’s history.",
+      "sources": [
+        "mbBalticRestoration",
+        "mbBalticRecognition"
+      ]
+    },
+    {
+      "id": "cn-latvia",
+      "title": "Latvia · restored independence",
+      "region": "europe",
+      "dates": "1990–1991 restoration · present",
+      "wikiTitle": "Latvia",
+      "location": "Baltic region",
+      "note": "Restored independence after Soviet occupation and annexation, rather than the beginning of the country’s history.",
+      "sources": [
+        "mbBalticRestoration",
+        "mbBalticRecognition"
+      ]
+    },
+    {
+      "id": "cn-lithuania",
+      "title": "Lithuania · restored independence",
+      "region": "europe",
+      "dates": "1990–1991 restoration · present",
+      "wikiTitle": "Lithuania",
+      "location": "Baltic region",
+      "note": "Restored independence after Soviet occupation and annexation, rather than the beginning of the country’s history.",
+      "sources": [
+        "mbBalticRestoration",
+        "mbBalticRecognition"
+      ]
+    },
+    {
+      "id": "mb-abukhayr",
+      "title": "Abu’l-Khayr’s Uzbek steppe realm",
+      "region": "eastasia",
+      "dates": "15th century CE",
+      "wikiTitle": "Uzbek Khanate",
+      "location": "Eastern Dasht-i Qipchaq",
+      "note": "A post-Horde steppe realm; not the modern state of Uzbekistan or all Uzbek communities.",
+      "sources": [
+        "mbCentralEarly"
+      ]
+    },
+    {
+      "id": "mb-kazakh-khanate",
+      "title": "Kazakh khanate and zhuzes",
+      "region": "eastasia",
+      "dates": "From c. 1465 · 18th–19th-century incorporation",
+      "wikiTitle": "Kazakh Khanate",
+      "location": "Kazakh steppe and adjoining regions",
+      "note": "Kerei and Janibek established a khanate after migration into Moghulistan. Later zhuzes had distinct, overlapping political paths.",
+      "sources": [
+        "mbKazakhFoundation"
+      ]
+    },
+    {
+      "id": "mb-bukhara-khanate",
+      "title": "Bukhara and Transoxiana · khanate eras",
+      "region": "eastasia",
+      "dates": "c. 1500–1785 CE · dynastic frame",
+      "wikiTitle": "Khanate of Bukhara",
+      "location": "Transoxiana and changing neighbouring territories",
+      "note": "Shibanid, Janid and early Manghit arrangements are grouped; capitals, borders and the location of effective authority changed.",
+      "sources": [
+        "mbCentralEarly",
+        "mbBukhara"
+      ]
+    },
+    {
+      "id": "mb-bukhara-emirate",
+      "title": "Emirate of Bukhara",
+      "region": "eastasia",
+      "dates": "1785–1920 CE",
+      "wikiTitle": "Emirate of Bukhara",
+      "location": "Parts of present-day Uzbekistan, Tajikistan and neighbouring countries",
+      "note": "Manghit emirate; Russian domination after 1868 did not immediately abolish the emir’s government.",
+      "sources": [
+        "mbBukhara",
+        "mbManghits"
+      ]
+    },
+    {
+      "id": "mb-khiva",
+      "title": "Khwarazm / Khanate of Khiva",
+      "region": "eastasia",
+      "dates": "1511–1920 CE · multiple dynasties",
+      "wikiTitle": "Khanate of Khiva",
+      "location": "Lower Amu Darya region",
+      "note": "Founded by a separate Jochid dynasty; not an offshoot of modern Uzbekistan or an ethnically uniform state.",
+      "sources": [
+        "mbKhiva"
+      ]
+    },
+    {
+      "id": "mb-kokand",
+      "title": "Khanate of Kokand",
+      "region": "eastasia",
+      "dates": "c. 1709–1876 CE",
+      "wikiTitle": "Khanate of Kokand",
+      "location": "Fergana and changing adjoining territories",
+      "note": "A Fergana-based khanate whose expansion included diverse settled and nomadic communities.",
+      "sources": [
+        "mbCentralRussian"
+      ]
+    },
+    {
+      "id": "mb-russian-central",
+      "title": "Russian rule in Central Asia",
+      "region": "eastasia",
+      "dates": "18th century–1917/1920 CE · changing forms",
+      "wikiTitle": "Russian conquest of Central Asia",
+      "location": "Kazakh steppe, Turkestan and protectorates",
+      "note": "A regional overview of annexed territories and unequal protectorates, not one uniform administration.",
+      "sources": [
+        "mbCentralRussian"
+      ]
+    },
+    {
+      "id": "mb-early-soviet-central",
+      "title": "Central Asia · revolution and early Soviet governments",
+      "region": "eastasia",
+      "dates": "1917–1936 CE · selected transition",
+      "wikiTitle": "Soviet Central Asia",
+      "location": "Central Asia",
+      "note": "War, autonomous experiments, Soviet republics and resistance preceded the five union-republic framework.",
+      "sources": [
+        "mbCentralSoviet"
+      ]
+    },
+    {
+      "id": "mb-moghulistan",
+      "title": "Moghulistan · eastern Chagataid realms",
+      "region": "eastasia",
+      "dates": "Mid-14th–16th centuries CE · regional frame",
+      "wikiTitle": "Moghulistan",
+      "location": "Ili, Tian Shan and Tarim regions",
+      "note": "The eastern Chagataid political world continued after Timur’s rise in the west; rule later divided into regional branches.",
+      "sources": [
+        "mbCentralMedieval",
+        "mbChaghatay"
+      ]
+    },
+    {
+      "id": "mb-yarkent",
+      "title": "Yarkent Khanate",
+      "region": "eastasia",
+      "dates": "16th–late 17th centuries CE",
+      "wikiTitle": "Yarkent Khanate",
+      "location": "Southern Tarim Basin",
+      "note": "One eastern Chagataid realm, with power increasingly contested by Khoja lineages and regional lords.",
+      "sources": [
+        "mbCentralMedieval"
+      ]
+    },
+    {
+      "id": "mb-turpan",
+      "title": "Turpan · Chagataid and later oasis rule",
+      "region": "eastasia",
+      "dates": "Late 15th–early 18th centuries CE · regional frame",
+      "wikiTitle": "Turpan Khanate",
+      "location": "Turpan oasis and adjoining regions",
+      "note": "A selected regional frame; Chagataid rulers, local leaders and Dzungar overlords were distinct phases.",
+      "sources": [
+        "mbCentralMedieval",
+        "mbTurpanQing"
+      ]
+    },
+    {
+      "id": "mb-khojas",
+      "title": "Tarim Khoja governments under Dzungar supremacy",
+      "region": "eastasia",
+      "dates": "Late 1670s–1759 CE",
+      "wikiTitle": "Afaq Khoja",
+      "location": "Kashgaria / southern Tarim Basin",
+      "note": "Competing Sufi lineages ruled or influenced oasis governments; Dzungar khans demanded tribute and hostages.",
+      "sources": [
+        "mbKhojas"
+      ]
+    },
+    {
+      "id": "mb-dzungar",
+      "title": "Dzungar Khanate",
+      "region": "eastasia",
+      "dates": "17th–mid-18th centuries CE",
+      "wikiTitle": "Dzungar Khanate",
+      "location": "Dzungaria and expanding Inner Asian territories",
+      "note": "An Oirat Mongol state, distinct from Chagataid realms. Qing conquest destroyed its government and devastated its population.",
+      "sources": [
+        "mbDzungar",
+        "mbDzungarLoss"
+      ]
+    }
+  ],
+  "maps": [
+    {
+      "id": "soviet-europe",
+      "title": "Soviet dissolution · Russia and eastern Europe",
+      "region": "europe",
+      "nodes": [
+        {
+          "id": "sovietunion"
+        },
+        {
+          "id": "russiafederation"
+        },
+        {
+          "id": "cn-ukraine"
+        },
+        {
+          "id": "cn-belarus"
+        },
+        {
+          "id": "cn-moldova"
+        }
+      ],
+      "connections": [
+        {
+          "id": "mb-ussr-europe",
+          "from": [
+            "sovietunion"
+          ],
+          "to": [
+            "russiafederation",
+            "cn-ukraine",
+            "cn-belarus",
+            "cn-moldova"
+          ],
+          "type": "division",
+          "label": "1991 · four independent states",
+          "dates": "1991",
+          "summary": "The Soviet breakup left Russia, Ukraine, Belarus and Moldova as independent states.",
+          "note": "One geographic subset of the same union-wide breakup; the regional grouping is a viewing aid, not an intervening state. No present-day territorial claims are inferred.",
+          "sources": [
+            "mbSovietNato"
+          ]
+        }
+      ],
+      "continuations": [
+        {
+          "map": "steppe-russia",
+          "history": "sovietunion",
+          "label": "Earlier: Russian and Soviet state histories"
+        },
+        {
+          "map": "soviet-baltic",
+          "history": "sovietunion",
+          "label": "Baltic restoration of independence"
+        },
+        {
+          "map": "soviet-caucasus",
+          "history": "sovietunion",
+          "label": "South Caucasus states"
+        },
+        {
+          "map": "soviet-central-asia",
+          "history": "sovietunion",
+          "label": "Five Central Asian states"
+        }
+      ]
+    },
+    {
+      "id": "soviet-baltic",
+      "title": "Soviet dissolution · Baltic independence restored",
+      "region": "europe",
+      "nodes": [
+        {
+          "id": "sovietunion"
+        },
+        {
+          "id": "cn-estonia"
+        },
+        {
+          "id": "cn-latvia"
+        },
+        {
+          "id": "cn-lithuania"
+        }
+      ],
+      "connections": [
+        {
+          "id": "mb-ussr-baltic",
+          "from": [
+            "sovietunion"
+          ],
+          "to": [
+            "cn-estonia",
+            "cn-latvia",
+            "cn-lithuania"
+          ],
+          "type": "independence",
+          "label": "1990–91 · independence restored",
+          "dates": "1990–1991",
+          "summary": "Estonia, Latvia and Lithuania restored independence during the Soviet crisis.",
+          "note": "Soviet forces occupied and annexed these states in 1940. Lithuania proclaimed restoration in 1990; full independence and wider recognition followed in 1991. These are three of the fifteen final union republics.",
+          "sources": [
+            "mbBalticRestoration",
+            "mbBalticRecognition"
+          ]
+        }
+      ],
+      "continuations": [
+        {
+          "map": "soviet-europe",
+          "history": "sovietunion",
+          "label": "Other Soviet successor states"
+        }
+      ]
+    },
+    {
+      "id": "soviet-caucasus",
+      "title": "Soviet dissolution · South Caucasus",
+      "region": "westasia",
+      "nodes": [
+        {
+          "id": "sovietunion"
+        },
+        {
+          "id": "cn-armenia"
+        },
+        {
+          "id": "cn-azerbaijan"
+        },
+        {
+          "id": "cn-georgia"
+        }
+      ],
+      "connections": [
+        {
+          "id": "mb-ussr-caucasus",
+          "from": [
+            "sovietunion"
+          ],
+          "to": [
+            "cn-armenia",
+            "cn-azerbaijan",
+            "cn-georgia"
+          ],
+          "type": "division",
+          "label": "1991 · three independent states",
+          "dates": "1991",
+          "summary": "Armenia, Azerbaijan and Georgia became independent as Soviet authority broke down.",
+          "note": "One geographic subset of the same union-wide breakup; the regional grouping is a viewing aid, not an intervening state. No present-day territorial claims are inferred.",
+          "sources": [
+            "mbSovietNato"
+          ]
+        }
+      ],
+      "continuations": [
+        {
+          "map": "soviet-europe",
+          "history": "sovietunion",
+          "label": "Other Soviet successor states"
+        }
+      ]
+    },
+    {
+      "id": "soviet-central-asia",
+      "title": "Soviet dissolution · five Central Asian states",
+      "region": "eastasia",
+      "nodes": [
+        {
+          "id": "sovietunion"
+        },
+        {
+          "id": "cn-kazakhstan"
+        },
+        {
+          "id": "cn-kyrgyzstan"
+        },
+        {
+          "id": "cn-tajikistan"
+        },
+        {
+          "id": "cn-turkmenistan"
+        },
+        {
+          "id": "cn-uzbekistan"
+        }
+      ],
+      "connections": [
+        {
+          "id": "mb-ussr-central",
+          "from": [
+            "sovietunion"
+          ],
+          "to": [
+            "cn-kazakhstan",
+            "cn-kyrgyzstan",
+            "cn-tajikistan",
+            "cn-turkmenistan",
+            "cn-uzbekistan"
+          ],
+          "type": "division",
+          "label": "1991 · five independent states",
+          "dates": "1991",
+          "summary": "Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan and Uzbekistan became independent in 1991.",
+          "note": "One geographic subset of the same union-wide breakup; the regional grouping is a viewing aid, not an intervening state. No present-day territorial claims are inferred.",
+          "sources": [
+            "mbSovietNato"
+          ]
+        }
+      ],
+      "continuations": [
+        {
+          "map": "central-asia-later",
+          "history": "sovietunion",
+          "label": "Earlier: khanates, Russian expansion and Soviet rule"
+        },
+        {
+          "map": "soviet-europe",
+          "history": "sovietunion",
+          "label": "Other Soviet successor states"
+        }
+      ]
+    },
+    {
+      "id": "central-asia-later",
+      "title": "Central Asia · khanates, Russian expansion and Soviet rule",
+      "region": "eastasia",
+      "nodes": [
+        {
+          "id": "cn-goldenhorde"
+        },
+        {
+          "id": "mb-abukhayr"
+        },
+        {
+          "id": "mb-moghulistan"
+        },
+        {
+          "id": "mb-kazakh-khanate"
+        },
+        {
+          "id": "timurid"
+        },
+        {
+          "id": "mb-bukhara-khanate"
+        },
+        {
+          "id": "mb-bukhara-emirate"
+        },
+        {
+          "id": "mb-khiva"
+        },
+        {
+          "id": "mb-kokand"
+        },
+        {
+          "id": "mb-russian-central"
+        },
+        {
+          "id": "mb-early-soviet-central",
+          "label": "Early Soviet Central Asia"
+        },
+        {
+          "id": "sovietunion"
+        }
+      ],
+      "connections": [
+        {
+          "id": "mb-eastern-horde",
+          "from": [
+            "cn-goldenhorde"
+          ],
+          "to": [
+            "mb-abukhayr"
+          ],
+          "type": "division",
+          "label": "1400s · eastern steppe powers",
+          "dates": "15th century",
+          "summary": "Abu’l-Khayr consolidated an Uzbek realm in the eastern Jochid steppe.",
+          "note": "One regional formation within post-Horde politics; other khanates and communities followed separate paths.",
+          "sources": [
+            "mbCentralEarly"
+          ]
+        },
+        {
+          "id": "mb-kazakh-foundation",
+          "from": [
+            "mb-abukhayr"
+          ],
+          "to": [
+            "mb-kazakh-khanate"
+          ],
+          "type": "division",
+          "label": "1460s · Kazakh khanate emerges",
+          "dates": "c. 1465",
+          "summary": "Kerei and Janibek left Abu’l-Khayr’s political orbit and founded a separate khanate.",
+          "note": "The conventional 1465 date marks consolidation, not the beginning of Kazakh people or all later territory.",
+          "sources": [
+            "mbKazakhFoundation"
+          ]
+        },
+        {
+          "id": "mb-kazakh-moghulistan",
+          "from": [
+            "mb-moghulistan"
+          ],
+          "to": [
+            "mb-kazakh-khanate"
+          ],
+          "type": "contact",
+          "label": "1460s · refuge in Moghulistan",
+          "dates": "1460s",
+          "summary": "Kerei, Janibek and their followers settled in Moghulistan before consolidating their khanate.",
+          "note": "A political refuge and regional relationship, not the entire Moghulistan realm becoming Kazakhstan.",
+          "sources": [
+            "mbKazakhFoundation"
+          ]
+        },
+        {
+          "id": "mb-shaybanid-lineage",
+          "from": [
+            "mb-abukhayr"
+          ],
+          "to": [
+            "mb-bukhara-khanate"
+          ],
+          "type": "contact",
+          "label": "1500s · a Jochid dynastic link",
+          "dates": "Early 16th century",
+          "summary": "Abu’l-Khayr’s grandson Muhammad Shaybani led conquests in Transoxiana.",
+          "note": "Dynastic connection and military expansion, not a simple renaming or migration of an entire state.",
+          "sources": [
+            "mbCentralEarly"
+          ]
+        },
+        {
+          "id": "mb-transoxiana-conquest",
+          "from": [
+            "timurid"
+          ],
+          "to": [
+            "mb-bukhara-khanate"
+          ],
+          "type": "conquest",
+          "label": "1500–12 · Uzbek conquests",
+          "dates": "1500–1512",
+          "summary": "Shaybani and subsequent Uzbek rulers defeated Timurid claimants and consolidated Transoxiana.",
+          "note": "Different cities changed hands repeatedly; Timurid dynastic histories continued in the Mughal realm.",
+          "sources": [
+            "mbCentralEarly"
+          ]
+        },
+        {
+          "id": "mb-bukhara-emirs",
+          "from": [
+            "mb-bukhara-khanate"
+          ],
+          "to": [
+            "mb-bukhara-emirate"
+          ],
+          "type": "continuation",
+          "label": "1785 · Manghit emirate",
+          "dates": "1785",
+          "summary": "Shah Murad’s rule marks the conventional emirate frame after Manghit consolidation.",
+          "note": "A change in ruling arrangements within Bukhara, not the creation of a new population.",
+          "sources": [
+            "mbManghits"
+          ]
+        },
+        {
+          "id": "mb-khiva-neighbours",
+          "from": [
+            "mb-bukhara-khanate"
+          ],
+          "to": [
+            "mb-khiva"
+          ],
+          "type": "contact",
+          "label": "1500s–1800s · neighbours and rivals",
+          "dates": "16th–19th centuries",
+          "summary": "Bukhara and Khwarazm maintained separate ruling houses and competing regional interests.",
+          "note": "Contact does not imply that Khiva broke away from Bukhara or that either matches one modern nation.",
+          "sources": [
+            "mbKhiva"
+          ]
+        },
+        {
+          "id": "mb-kokand-formation",
+          "from": [
+            "mb-bukhara-khanate"
+          ],
+          "to": [
+            "mb-kokand"
+          ],
+          "type": "independence",
+          "label": "1700s · Fergana consolidation",
+          "dates": "Early 18th century",
+          "summary": "Fergana’s growing autonomy developed into the Kokand khanate.",
+          "note": "Separation and consolidation occurred in stages; the conventional 1709 foundation is not a sudden border-wide transfer.",
+          "sources": [
+            "mbCentralRussian"
+          ]
+        },
+        {
+          "id": "mb-kazakh-russian",
+          "from": [
+            "mb-kazakh-khanate"
+          ],
+          "to": [
+            "mb-russian-central"
+          ],
+          "type": "colonial",
+          "label": "1700s–1800s · Russian encroachment",
+          "dates": "18th–19th centuries",
+          "summary": "Russian authority expanded through the Kazakh steppe by unequal agreements, administrative changes and conquest.",
+          "note": "Different zhuzes and regions were incorporated at different times, amid resistance.",
+          "sources": [
+            "mbKazakhRussian"
+          ]
+        },
+        {
+          "id": "mb-kokand-russian",
+          "from": [
+            "mb-kokand"
+          ],
+          "to": [
+            "mb-russian-central"
+          ],
+          "type": "conquest",
+          "label": "1860s–76 · conquest and annexation",
+          "dates": "1864–1876",
+          "summary": "Russian forces took Kokandian territories and abolished the remaining khanate in 1876.",
+          "note": "Kokand’s dissolution did not end Kyrgyz, Uzbek, Tajik or other regional communities.",
+          "sources": [
+            "mbCentralRussian"
+          ]
+        },
+        {
+          "id": "mb-protectorates",
+          "from": [
+            "mb-bukhara-emirate"
+          ],
+          "to": [
+            "mb-russian-central"
+          ],
+          "type": "colonial",
+          "label": "1868 · Russian domination",
+          "dates": "1868 and after",
+          "summary": "Bukhara came under Russian domination while retaining its emir’s government.",
+          "note": "This was unequal subordination and territorial loss, not immediate annexation of the whole emirate.",
+          "sources": [
+            "mbBukhara"
+          ]
+        },
+        {
+          "id": "mb-khiva-protectorate",
+          "from": [
+            "mb-khiva"
+          ],
+          "to": [
+            "mb-russian-central"
+          ],
+          "type": "colonial",
+          "label": "1873 · Khivan protectorate",
+          "dates": "1873",
+          "summary": "Russian conquest reduced Khiva to a protectorate and annexed part of its territory.",
+          "note": "The khan’s restricted government survived until 1920.",
+          "sources": [
+            "mbKhiva"
+          ]
+        },
+        {
+          "id": "mb-central-soviet-rule",
+          "from": [
+            "mb-khiva",
+            "mb-bukhara-emirate"
+          ],
+          "to": [
+            "mb-early-soviet-central"
+          ],
+          "type": "conquest",
+          "label": "1920 · khanate governments fall",
+          "dates": "1920",
+          "summary": "Red Army campaigns and local revolutionary movements overthrew the Khivan khan and Bukharan emir.",
+          "note": "New Khorezm and Bukharan republics preceded later Soviet territorial reorganisation; armed resistance continued.",
+          "sources": [
+            "mbCentralSoviet"
+          ]
+        },
+        {
+          "id": "mb-central-republics",
+          "from": [
+            "mb-early-soviet-central"
+          ],
+          "to": [
+            "sovietunion"
+          ],
+          "type": "continuation",
+          "label": "1924–36 · five union republics",
+          "dates": "1924–1936",
+          "summary": "Soviet reorganisation established Uzbek and Turkmen republics, followed by Tajik, Kazakh and Kyrgyz union republics.",
+          "note": "Tajikistan had an earlier autonomous status within Uzbekistan; Kazakh and Kyrgyz republics attained union status in 1936. This did not invent the region’s peoples.",
+          "sources": [
+            "mbCentralSoviet"
+          ]
+        },
+        {
+          "id": "mb-central-revolution",
+          "from": [
+            "mb-russian-central"
+          ],
+          "to": [
+            "mb-early-soviet-central"
+          ],
+          "type": "continuation",
+          "label": "1917 onward · revolution and war",
+          "dates": "From 1917",
+          "summary": "Revolution broke imperial authority, followed by competing autonomy projects, civil war and Soviet consolidation.",
+          "note": "A regional overview of contested transitions, not the entire empire becoming one Soviet administration at once.",
+          "sources": [
+            "mbCentralSoviet"
+          ]
+        }
+      ],
+      "continuations": [
+        {
+          "map": "soviet-central-asia",
+          "history": "sovietunion",
+          "label": "Continue: five independent states in 1991"
+        },
+        {
+          "map": "eastern-chagatai",
+          "history": "mb-moghulistan",
+          "label": "Eastern Chagatai and Tarim branches"
+        },
+        {
+          "map": "iran-modern",
+          "history": "timurid",
+          "label": "Timurid and Iranian branches"
+        },
+        {
+          "map": "steppe-russia",
+          "history": "cn-goldenhorde",
+          "label": "Other Horde and Russian histories"
+        }
+      ]
+    },
+    {
+      "id": "eastern-chagatai",
+      "title": "Eastern Chagatai · Moghulistan, Tarim and Qing conquest",
+      "region": "eastasia",
+      "nodes": [
+        {
+          "id": "cn-chagatai"
+        },
+        {
+          "id": "mb-moghulistan"
+        },
+        {
+          "id": "mb-yarkent"
+        },
+        {
+          "id": "mb-turpan"
+        },
+        {
+          "id": "mb-khojas"
+        },
+        {
+          "id": "mb-dzungar"
+        },
+        {
+          "id": "qing"
+        }
+      ],
+      "connections": [
+        {
+          "id": "mb-moghulistan-formation",
+          "from": [
+            "cn-chagatai"
+          ],
+          "to": [
+            "mb-moghulistan"
+          ],
+          "type": "division",
+          "label": "1340s · eastern khanate",
+          "dates": "Mid-14th century",
+          "summary": "Moghulistan emerged as the eastern Chagataid political realm while western power fragmented.",
+          "note": "Timur’s later western conquests did not eliminate the eastern Chagataid realm.",
+          "sources": [
+            "mbCentralMedieval"
+          ]
+        },
+        {
+          "id": "mb-eastern-regional-realms",
+          "from": [
+            "mb-moghulistan"
+          ],
+          "to": [
+            "mb-yarkent",
+            "mb-turpan"
+          ],
+          "type": "division",
+          "label": "1500s · regional Chagataid branches",
+          "dates": "Early 16th century",
+          "summary": "Chagataid rulers maintained distinct centres in the Tarim Basin and Turpan.",
+          "note": "Selected related branches after prolonged division and warfare; their territories did not comprise all former Moghulistan.",
+          "sources": [
+            "mbCentralMedieval"
+          ]
+        },
+        {
+          "id": "mb-khoja-change",
+          "from": [
+            "mb-yarkent"
+          ],
+          "to": [
+            "mb-khojas"
+          ],
+          "type": "continuation",
+          "label": "1670s · Khoja and Dzungar intervention",
+          "dates": "Late 1670s",
+          "summary": "Afaq Khoja gained power in Kashgaria with Dzungar support, displacing Chagataid authority.",
+          "note": "Dating varies around 1678–1680; rival lineages and nominal princes continued to complicate local rule.",
+          "sources": [
+            "mbKhojas"
+          ]
+        },
+        {
+          "id": "mb-dzungar-supremacy",
+          "from": [
+            "mb-dzungar"
+          ],
+          "to": [
+            "mb-khojas"
+          ],
+          "type": "conquest",
+          "label": "1670s–1750s · Dzungar supremacy",
+          "dates": "Late 17th–mid-18th centuries",
+          "summary": "Dzungar khans imposed tribute and hostages on the Tarim Khoja governments.",
+          "note": "Overlordship and intervention, not the formation of the Dzungar state from the Chagataid dynasty.",
+          "sources": [
+            "mbKhojas"
+          ]
+        },
+        {
+          "id": "mb-turpan-qing",
+          "from": [
+            "mb-turpan"
+          ],
+          "to": [
+            "qing"
+          ],
+          "type": "contact",
+          "label": "1720s–50s · Qing alliance and rule",
+          "dates": "1720s–1750s",
+          "summary": "Turpan leaders sought Qing support against Dzungar power as Qing troops entered the oasis.",
+          "note": "Alliance, warfare, forced movement and later return unfolded over decades; Turpan was not simply annexed once in 1720.",
+          "sources": [
+            "mbTurpanQing"
+          ]
+        },
+        {
+          "id": "mb-dzungar-qing",
+          "from": [
+            "mb-dzungar"
+          ],
+          "to": [
+            "qing"
+          ],
+          "type": "conquest",
+          "label": "1750s · Dzungar state destroyed",
+          "dates": "1755–1759",
+          "summary": "Qing campaigns destroyed the Dzungar state and incorporated its territories.",
+          "note": "The conquest brought catastrophic loss of life and displacement; surviving Oirat communities did not disappear.",
+          "sources": [
+            "mbDzungar",
+            "mbDzungarLoss"
+          ]
+        },
+        {
+          "id": "mb-tarim-qing",
+          "from": [
+            "mb-khojas"
+          ],
+          "to": [
+            "qing"
+          ],
+          "type": "conquest",
+          "label": "1759 · Kashgaria conquered",
+          "dates": "1759",
+          "summary": "Qing forces ended the Khojas’ government in Kashgaria.",
+          "note": "Resistance and Khoja political claims continued later; conquest did not end the region’s Muslim or Turkic communities.",
+          "sources": [
+            "mbKhojas"
+          ]
+        }
+      ],
+      "continuations": [
+        {
+          "map": "mongols-china",
+          "history": "qing",
+          "label": "Continue: Qing → republican and present-day Chinese frames"
+        },
+        {
+          "map": "central-asia-later",
+          "history": "mb-moghulistan",
+          "label": "Kazakh and western Central Asian branches"
+        },
+        {
+          "map": "iran-modern",
+          "history": "cn-chagatai",
+          "label": "Western Chagatai → Timurid and Iranian histories"
+        }
+      ]
+    }
+  ],
+  "unconnected": [],
+  "patches": [
+    {
+      "map": "steppe-russia",
+      "connection": "soviet-successors1991",
+      "recommendation": "Replace the selected-three terminal branch with visible continuation links to all four new Soviet regional maps; alternatively retain the three-node preview but revise note to state full15 are in linked maps, rather than claiming the drawing is complete."
+    },
+    {
+      "map": "mongols-china",
+      "recommendation": "Add continuation links for cn-chagatai to eastern-chagatai and central-asia-later; Golden Horde to steppe-russia already exists; Northern Yuan/Mongolia augmentation belongs to Asia East researcher."
+    },
+    {
+      "map": "iran-modern",
+      "connection": "afsharid-fragmentation",
+      "recommendation": "Existing note still names Durrani emergence; ensure West/South Asia researcher adds Durrani→Afghanistan map and continuation."
+    }
+  ],
+  "researchNotes": {
+    "scope": "All fifteen final Soviet union republics represented across four regional views; existing Russia, Ukraine, Kazakhstan IDs reused. Seven additional Central Asian histories support the once-terminal Chagatai branch. No current international borders or territorial claims are drawn.",
+    "referencesRead": [
+      "turn155view2",
+      "turn196search0",
+      "turn196search14",
+      "turn144search12",
+      "turn183view0",
+      "turn194view0",
+      "turn179view3",
+      "turn189search41",
+      "turn172search50",
+      "turn172search22",
+      "turn198search2",
+      "turn196search3",
+      "turn199view3",
+      "turn194view1",
+      "turn194view3",
+      "turn199view2",
+      "turn209view0",
+      "turn209view2",
+      "turn213search0",
+      "turn189search6"
+    ],
+    "caution": "The Bush Library finding-aid introduction gives a conflicting 31 December dissolution date; do not use it for the exact terminal date. It is used only to verify the fifteen state names. NATO and UN sources support 26 December, while the map deliberately uses the year 1991."
+  }
+}

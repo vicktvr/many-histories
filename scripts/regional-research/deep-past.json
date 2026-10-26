@@ -1,0 +1,411 @@
+{
+  "sources": {
+    "sapiens": {
+      "publisher": "Smithsonian Human Origins Program",
+      "title": "Homo sapiens",
+      "url": "https://humanorigins.si.edu/evidence/human-fossils/species/homo-sapiens"
+    },
+    "migrations": {
+      "publisher": "Smithsonian Human Origins Program",
+      "title": "Introduction to Human Evolution",
+      "url": "https://humanorigins.si.edu/education/introduction-human-evolution"
+    },
+    "livingfoods": {
+      "publisher": "National Museum of the American Indian",
+      "title": "Excerpts from Do All Indians Live in Tipis?",
+      "url": "https://americanindian.si.edu/nk360/faq/did-you-know"
+    },
+    "country": {
+      "publisher": "National Museum of Australia",
+      "title": "On Country",
+      "url": "https://www.nma.gov.au/exhibitions/on-country/country"
+    },
+    "fertile": {
+      "publisher": "Proceedings of the National Academy of Sciences",
+      "title": "Regional diversity on the timing for the initial appearance of cereal cultivation and domestication in southwest Asia",
+      "url": "https://doi.org/10.1073/pnas.1612797113"
+    },
+    "mesopotamia": {
+      "publisher": "The Metropolitan Museum of Art",
+      "title": "Mesopotamia, 8000–2000 B.C.",
+      "url": "https://www.metmuseum.org/toah/ht/02/wam.html"
+    },
+    "gobekli": {
+      "publisher": "UNESCO World Heritage Centre",
+      "title": "Göbekli Tepe",
+      "url": "https://whc.unesco.org/en/list/1572/"
+    },
+    "jericho": {
+      "publisher": "UNESCO World Heritage Centre",
+      "title": "Ancient Jericho/Tell es-Sultan",
+      "url": "https://whc.unesco.org/en/list/1687/"
+    },
+    "catalhoyuk": {
+      "publisher": "UNESCO World Heritage Centre",
+      "title": "Neolithic Site of Çatalhöyük",
+      "url": "https://whc.unesco.org/en/list/1405/"
+    },
+    "millet": {
+      "publisher": "Proceedings of the National Academy of Sciences",
+      "title": "Earliest domestication of common millet in East Asia extended to 10,000 years ago",
+      "url": "https://doi.org/10.1073/pnas.0900158106"
+    },
+    "domestication": {
+      "publisher": "Proceedings of the National Academy of Sciences",
+      "title": "Convergent evolution and parallelism in plant domestication revealed by an expanding archaeological record",
+      "url": "https://doi.org/10.1073/pnas.1308937110"
+    },
+    "rice": {
+      "publisher": "Scientific Reports",
+      "title": "Rice Domestication Revealed by Reduced Shattering of Archaeological rice from the Lower Yangtze valley",
+      "url": "https://www.nature.com/articles/srep28136"
+    },
+    "maize": {
+      "publisher": "Smithsonian Institution",
+      "title": "Ancient DNA Continues To Rewrite Corn’s 9,000-Year Society-Shaping History",
+      "url": "https://www.si.edu/newsdesk/releases/ancient-dna-continues-rewrite-corns-9000-year-society-shaping-history"
+    },
+    "squash": {
+      "publisher": "Smithsonian Institution",
+      "title": "Origins of Thanksgiving Foods",
+      "url": "https://www.si.edu/stories/origins-thanksgiving-foods"
+    },
+    "andes": {
+      "publisher": "Science / Dillehay and colleagues",
+      "title": "Preceramic adoption of peanut, squash, and cotton in northern Peru",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17600214/"
+    },
+    "kuk": {
+      "publisher": "UNESCO World Heritage Centre",
+      "title": "Kuk Early Agricultural Site",
+      "url": "https://whc.unesco.org/en/list/887/"
+    },
+    "pearlmillet": {
+      "publisher": "African Archaeological Review",
+      "title": "Transition From Wild to Domesticated Pearl Millet Revealed in Ceramic Temper at Three Middle Holocene Sites in Northern Mali",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8550313/"
+    },
+    "africancrops": {
+      "publisher": "African Archaeological Review",
+      "title": "On the Origins and Dissemination of Domesticated Sorghum and Pearl Millet across Africa and into India: a View from the Butana Group of the Far Eastern Sahel",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6394749/"
+    },
+    "mehrgarh": {
+      "publisher": "Scientific Reports",
+      "title": "New radiocarbon dates of human tooth enamel reveal a late appearance of farming life in the Indus Valley",
+      "url": "https://www.nature.com/articles/s41598-025-92621-5"
+    },
+    "mehrgarhteam": {
+      "publisher": "Sapienza University of Rome",
+      "title": "New radiocarbon dating revolutionises current understanding of the rise of agriculture in the Indus Valley",
+      "url": "https://www.uniroma1.it/en/notizia/new-radiocarbon-dating-revolutionises-current-understanding-rise-agriculture-indus-valley"
+    }
+  },
+  "entries": [
+    {
+      "id": "rx-human-origins",
+      "title": "Homo sapiens · African origins",
+      "region": "africa",
+      "dates": "By about 300,000 years ago",
+      "start": null,
+      "end": null,
+      "category": "Human origins",
+      "location": "Africa · evidence from several regions",
+      "wikiTitle": "Homo sapiens",
+      "note": "Our species emerged in Africa long before kingdoms or writing. Around 300,000 years is an approximate fossil-based age, not an exact birthday or a single founding community. Earlier human relatives extend much farther into the past; Homo sapiens continues today. Numeric BCE boundaries are omitted to avoid false precision.",
+      "sources": [
+        "sapiens"
+      ],
+      "collections": [
+        "early-world",
+        "africa"
+      ]
+    },
+    {
+      "id": "rx-early-migrations",
+      "title": "Early human migrations",
+      "region": null,
+      "dates": "Pleistocene · repeated movements",
+      "start": null,
+      "end": null,
+      "category": "Human origins",
+      "location": "Within Africa and across Eurasia, Sahul and the Americas",
+      "wikiTitle": "Early human migrations",
+      "note": "Movement occurred in many episodes, not one march along a single arrow. Fossils, archaeology and genetics illuminate dispersals and contacts; arrival dates and routes remain debated. This overview includes earlier human relatives as well as Homo sapiens. Later settlement of many Pacific islands belongs to a different, much more recent history.",
+      "sources": [
+        "migrations"
+      ],
+      "collections": [
+        "early-world"
+      ]
+    },
+    {
+      "id": "rx-foraging-lifeways",
+      "title": "Foraging, fishing & mixed economies",
+      "region": null,
+      "dates": "Deep prehistory–present · diverse traditions",
+      "start": null,
+      "end": null,
+      "ongoing": true,
+      "category": "Living traditions",
+      "location": "Many regions · no single society or universal sequence",
+      "wikiTitle": "Hunter-gatherer",
+      "note": "Hunting, gathering and fishing did not disappear when farming began. Communities have combined these activities with cultivation, exchange and other work in changing ways. Living Indigenous peoples maintain and renew food and land knowledge; they are contemporary societies, not unchanged examples of a prehistoric stage. This is a thematic overview, not a polity with founding and ending dates.",
+      "sources": [
+        "sapiens",
+        "livingfoods",
+        "country"
+      ],
+      "collections": [
+        "early-world"
+      ]
+    },
+    {
+      "id": "rx-fertile-crescent-farming",
+      "title": "Fertile Crescent · early farming",
+      "region": "westasia",
+      "dates": "c. 9500–7000 BCE · selected developments",
+      "start": -9500,
+      "end": -7000,
+      "category": "Food & land",
+      "location": "Southwest Asia · Levant, Anatolia and the Zagros/Mesopotamian regions",
+      "wikiTitle": "Neolithic in the Near East",
+      "note": "Cultivation, herding and biological domestication developed gradually, with different regional schedules. Wheat, barley and livestock histories should not be reduced to one invention day. The selected range covers important early transformations, not the full life of farming, and is not a global start date for the Neolithic.",
+      "sources": [
+        "fertile",
+        "mesopotamia"
+      ],
+      "collections": [
+        "early-world",
+        "westasia"
+      ]
+    },
+    {
+      "id": "rx-gobekli-tepe",
+      "title": "Göbekli Tepe",
+      "region": "westasia",
+      "dates": "c. 9600–8200 BCE · monumental structures",
+      "start": -9600,
+      "end": -8200,
+      "category": "Archaeological site",
+      "location": "Southeastern Anatolia · present-day Türkiye",
+      "wikiTitle": "Göbekli Tepe",
+      "note": "Communities built large communal structures with carved T-shaped pillars during the Pre-Pottery Neolithic. Hunter-gatherer societies could organise complex construction and ritual life without an empire. These dates describe the monumental archaeological phase; precise functions and relationships between domestic and communal buildings continue to be researched.",
+      "sources": [
+        "gobekli"
+      ],
+      "collections": [
+        "early-world",
+        "westasia"
+      ]
+    },
+    {
+      "id": "rx-jericho-neolithic",
+      "title": "Jericho · Neolithic settlement",
+      "region": "westasia",
+      "dates": "c. 9000–7000 BCE · selected Neolithic phase",
+      "start": -9000,
+      "end": -7000,
+      "category": "Archaeological site",
+      "location": "Tell es-Sultan · Jordan Valley, Palestine",
+      "wikiTitle": "Tell es-Sultan",
+      "note": "By the ninth to eighth millennia BCE, a sizeable permanent settlement had communal monuments including a tower and wall. Earlier deposits reach about 10,500 BCE, and Bronze Age cities developed later. The displayed dates select the Neolithic settlement and do not give the full lifespan of Jericho or imply one continuously unchanged city-state.",
+      "sources": [
+        "jericho"
+      ],
+      "collections": [
+        "early-world",
+        "westasia"
+      ]
+    },
+    {
+      "id": "rx-catalhoyuk",
+      "title": "Çatalhöyük · eastern mound",
+      "region": "westasia",
+      "dates": "c. 7400–6200 BCE",
+      "start": -7400,
+      "end": -6200,
+      "category": "Archaeological site",
+      "location": "Central Anatolia · present-day Türkiye",
+      "wikiTitle": "Çatalhöyük",
+      "note": "Densely built houses, burials, wall paintings and symbolic objects reveal a large Neolithic community. This dates the eighteen occupation levels of the eastern mound; the neighbouring western mound has a later history. A substantial settlement need not be presented as a territorial empire.",
+      "sources": [
+        "catalhoyuk"
+      ],
+      "collections": [
+        "early-world",
+        "westasia"
+      ]
+    },
+    {
+      "id": "rx-north-china-millet",
+      "title": "Northern China · millet traditions",
+      "region": "eastasia",
+      "dates": "c. 8000–4500 BCE · early developments",
+      "start": -8000,
+      "end": -4500,
+      "category": "Food & land",
+      "location": "Northern China · Yellow River region and neighbouring areas",
+      "wikiTitle": "Cishan culture",
+      "note": "Millet exploitation, cultivation and settled farming have different chronologies. Cishan microfossils have been interpreted as evidence around 10,000 years ago, while later sites more clearly document established farming communities. Exact early domestication dates and centres remain debated. The article is one archaeological example, not the entire northern Chinese agricultural tradition.",
+      "sources": [
+        "millet",
+        "domestication"
+      ],
+      "collections": [
+        "early-world",
+        "eastasia"
+      ]
+    },
+    {
+      "id": "rx-yangtze-rice",
+      "title": "Yangtze valleys · rice cultivation",
+      "region": "eastasia",
+      "dates": "c. 7000–2300 BCE · selected long transition",
+      "start": -7000,
+      "end": -2300,
+      "category": "Food & land",
+      "location": "Middle and lower Yangtze regions · present-day China",
+      "wikiTitle": "Rice domestication",
+      "note": "Archaeological rice remains record a prolonged process of cultivation and selection, rather than a finished domesticated crop appearing at one moment. Evidence from lower-Yangtze sites spans roughly 9000–4300 years before present. This selected frame follows that evidence; earlier plant use and other Asian rice histories should not be collapsed into it.",
+      "sources": [
+        "rice"
+      ],
+      "collections": [
+        "early-world",
+        "eastasia"
+      ]
+    },
+    {
+      "id": "rx-mesoamerican-cultivation",
+      "title": "Mesoamerica · early crop cultivation",
+      "region": "americas",
+      "dates": "c. 8000–4000 BCE · selected early evidence",
+      "start": -8000,
+      "end": -4000,
+      "category": "Food & land",
+      "location": "Present-day Mexico and neighbouring Mesoamerica",
+      "wikiTitle": "Agriculture in Mesoamerica",
+      "note": "Squash domestication and the beginnings of maize cultivation long predated later city-states. Maize developed from teosinte beginning about 9000 years ago in southwestern Mexico; its domestication and spread continued across communities over millennia. These are rounded early-evidence dates, not the moment every community adopted farming or a single beginning for all American agriculture.",
+      "sources": [
+        "maize",
+        "squash"
+      ],
+      "collections": [
+        "early-world",
+        "americas"
+      ]
+    },
+    {
+      "id": "rx-andean-horticulture",
+      "title": "Andes · early horticulture",
+      "region": "americas",
+      "dates": "c. 8000–4000 BCE · selected early evidence",
+      "start": -8000,
+      "end": -4000,
+      "category": "Food & land",
+      "location": "Northern Peru · selected Andean valleys",
+      "wikiTitle": "History of agriculture",
+      "note": "Preceramic sites record developing horticultural economies involving plants such as squash, peanuts and cotton. The evidence places early developments in parts of the Andes around 10,000 years ago. Crops and techniques accumulated at different times; this selected regional record does not make one valley the sole source of all Andean farming.",
+      "sources": [
+        "andes"
+      ],
+      "collections": [
+        "early-world",
+        "americas"
+      ]
+    },
+    {
+      "id": "rx-kuk-agriculture",
+      "title": "Kuk · New Guinea agriculture",
+      "region": "oceania",
+      "dates": "c. 5000 BCE–present · changing land use",
+      "start": -5000,
+      "end": null,
+      "ongoing": true,
+      "category": "Food & land",
+      "location": "Upper Wahgi Valley · Papua New Guinea highlands",
+      "wikiTitle": "Kuk Swamp",
+      "note": "Wetland mounds demonstrate cultivation around 7000–6400 years ago; later ditch systems and changing land use extend toward the present. Possible earlier plant management reaches about 10,000 years ago, but is not equivalent to unequivocal cultivation. Kuk supports an independent New Guinea agricultural history. Land use was persistent but episodic, not one unchanged system.",
+      "sources": [
+        "kuk"
+      ],
+      "collections": [
+        "early-world",
+        "oceania"
+      ]
+    },
+    {
+      "id": "rx-west-african-cultivation",
+      "title": "West Africa · agricultural traditions",
+      "region": "africa",
+      "dates": "3rd millennium BCE onward · varied processes",
+      "start": -3000,
+      "end": null,
+      "ongoing": true,
+      "category": "Food & land",
+      "location": "Western Sahel and other West African ecological zones",
+      "wikiTitle": "History of agriculture",
+      "note": "Pearl millet domestication in the western Sahel was one of several African agricultural developments. In northern Mali, early cultivation coexisted with herding, fishing, hunting and gathering. The date selects an early evidence horizon, not the birth of all West African farming. Different crops and environments followed different schedules; cultivated and fully domesticated forms must be distinguished.",
+      "sources": [
+        "pearlmillet",
+        "africancrops"
+      ],
+      "collections": [
+        "early-world",
+        "africa"
+      ]
+    },
+    {
+      "id": "rx-mehrgarh-early-farmers",
+      "title": "Mehrgarh · aceramic farming community",
+      "region": "southasia",
+      "dates": "c. 5250–4650 BCE · revised Period I",
+      "start": -5250,
+      "end": -4650,
+      "category": "Archaeological site",
+      "location": "Balochistan · present-day Pakistan",
+      "wikiTitle": "Mehrgarh",
+      "note": "A 2025 study of tooth enamel from 23 burials proposes a much later date for the aceramic Neolithic phase than the familiar c. 7000 BCE chronology. The displayed range rounds its revised model for Period I, not the full settlement history or every farming community in South Asia. The revision concerns archaeological evidence and remains open to further testing.",
+      "sources": [
+        "mehrgarh",
+        "mehrgarhteam"
+      ],
+      "collections": [
+        "early-world",
+        "southasia"
+      ]
+    },
+    {
+      "id": "rx-eastern-woodlands-crops",
+      "title": "Eastern North America · native crops",
+      "region": "americas",
+      "dates": "c. 2500–2000 BCE · early domestication evidence",
+      "start": -2500,
+      "end": -2000,
+      "category": "Food & land",
+      "location": "Eastern Woodlands · present-day United States",
+      "wikiTitle": "Eastern Agricultural Complex",
+      "note": "Communities domesticated native seed crops independently of Mesoamerican maize farming. Archaeological changes document several domesticates by about 4500–4000 years before present, although wild foods remained important and the later shift toward crop dependence was gradual. This dates a selected evidence phase, not the full life of these food systems or the founding of a single people.",
+      "sources": [
+        "domestication"
+      ],
+      "collections": [
+        "early-world",
+        "americas"
+      ]
+    }
+  ],
+  "memberships": {
+    "early-world": [
+      "caral",
+      "liangzhu",
+      "indus-early",
+      "indus",
+      "indus-late",
+      "jomon",
+      "lapita",
+      "australia"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Many Histories",
+  "exportDate": "2026-10-26",
+  "sourceCommit": "26fa6667aaebb3f1714ad3d12b95fcd421f85e8b",
+  "publishedVersion": 15,
+  "exportChanges": [
+    "GitHub Pages build and deploy workflow",
+    "Portable npm build/check commands",
+    "Regional-data import required by map rebuild",
+    "Hosting and maintenance guide"
+  ],
+  "siteEntry": "dist/index.html",
+  "hostingIndependent": true
+}

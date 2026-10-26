@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1704" width="1600" height="1704" role="group" aria-labelledby="map-title-south-asia map-desc-south-asia"><title id="map-title-south-asia">South Asia: empire, company &amp; partition</title><desc id="map-desc-south-asia">Selected, sourced connections. Arrows label unions, divisions, conquest, independence, changes in rule, and contact. Node positions do not measure time or ancestry.  Select a node for Wikipedia or an arrow for its sources.</desc><defs>
+<marker id="arrow-south-asia-union" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#3b8274"/></marker>
+<marker id="arrow-south-asia-division" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#b88636"/></marker>
+<marker id="arrow-south-asia-conquest" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#aa6355"/></marker>
+<marker id="arrow-south-asia-independence" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#638350"/></marker>
+<marker id="arrow-south-asia-continuation" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#5d7f9d"/></marker>
+<marker id="arrow-south-asia-contact" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#8b7297"/></marker>
+<marker id="arrow-south-asia-colonial" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#9a8055"/></marker>
+<marker id="arrow-south-asia-context" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#92917a"/></marker>
+<marker id="arrow-south-asia-period" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#7d8c6f"/></marker>
+</defs><style>text{font-family:Arial,Helvetica,sans-serif;fill:#25372c}.map-node,.map-edge{cursor:pointer;outline:none}.map-node rect{stroke:#fffdf8;stroke-width:2}.map-node:hover rect,.map-node:focus rect{stroke:#3c5441;stroke-width:3}.map-label{font-size:21px;font-weight:600;pointer-events:none}.map-date{font-size:12px;fill:#617056;pointer-events:none}.edge-line{fill:none;stroke-width:2.5;stroke-linejoin:round;stroke-linecap:round}.edge-hit{fill:none;stroke:transparent;stroke-width:36;vector-effect:non-scaling-stroke}.map-edge:hover .edge-label-bg,.map-edge:focus .edge-label-bg{stroke:#334d3c;stroke-width:2}.map-edge:hover .edge-line,.map-edge:focus .edge-line{stroke-width:4}.edge-label{font-size:15px;font-weight:500;pointer-events:none}.map-heading{font-size:47px;font-weight:700;letter-spacing:-1.2px}.map-subtitle{font-size:24px;fill:#67785a}.map-micro{font-size:13px;fill:#8a977d}.map-node.dim{opacity:.15}.map-node.hit rect{stroke:#294332;stroke-width:4}.map-node.selected rect{stroke:#294332;stroke-width:4}.map-edge.related .edge-line{stroke-width:4.5}</style><rect width="100%" height="100%" fill="#fdfcf8"/><text class="map-heading" x="800" y="74" text-anchor="middle">EMPIRES &amp; CONNECTIONS</text><text class="map-subtitle" x="800" y="117" text-anchor="middle">South Asia: empire, company &amp; partition</text><text class="map-micro" x="800" y="154" text-anchor="middle">Tap a node to read · Tap an arrow for the event and sources</text>
+<g class="map-edge" id="map-edge-south-asia-mughal-company" data-connection="mughal-company" data-map="south-asia" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Mughal dynasty to East India Company rule: 1757–65 · Company gains in Bengal. Open relationship details." style="--edge-color:#9a8055"><title>Colonial rule: 1757–65 · Company gains in Bengal</title>
+<path class="edge-hit" d="M274 314C274 440 274 440 410 440"/><path class="edge-line" stroke="#9a8055"  d="M274 314C274 440 274 440 410 440"/>
+<path class="edge-hit" d="M410 440C724 440 724 440 724 535"/><path class="edge-line" stroke="#9a8055"  d="M410 440C724 440 724 440 724 535" marker-end="url(#arrow-south-asia-colonial)"/>
+<rect class="edge-label-bg" x="271.25" y="423" width="277.5" height="34" rx="7" fill="#fdfcf8" stroke="#9a8055" stroke-opacity=".28"/>
+<text class="edge-label" x="410" y="445" text-anchor="middle">1757–65 · Company gains in Bengal</text>
+</g>
+<g class="map-edge" id="map-edge-south-asia-maratha1818" data-connection="maratha1818" data-map="south-asia" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Maratha polity to East India Company rule: 1818 · Peshwa defeated. Open relationship details." style="--edge-color:#aa6355"><title>Conquest: 1818 · Peshwa defeated</title>
+<path class="edge-hit" d="M1174 314C1174 440 1174 440 1090 440"/><path class="edge-line" stroke="#aa6355"  d="M1174 314C1174 440 1174 440 1090 440"/>
+<path class="edge-hit" d="M1090 440C724 440 724 440 724 535"/><path class="edge-line" stroke="#aa6355"  d="M1090 440C724 440 724 440 724 535" marker-end="url(#arrow-south-asia-conquest)"/>
+<rect class="edge-label-bg" x="992.5" y="423" width="195" height="34" rx="7" fill="#fdfcf8" stroke="#aa6355" stroke-opacity=".28"/>
+<text class="edge-label" x="1090" y="445" text-anchor="middle">1818 · Peshwa defeated</text>
+</g>
+<g class="map-edge" id="map-edge-south-asia-mughal-maratha" data-connection="mughal-maratha" data-map="south-asia" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Mughal dynasty to Maratha polity: Rivalry, war &amp; negotiation. Open relationship details." style="--edge-color:#8b7297"><title>Contact / influence: Rivalry, war &amp; negotiation</title>
+<path class="edge-hit" d="M388 267C724 267 724 267 1060 267"/><path class="edge-line" stroke="#8b7297" stroke-dasharray="6 6" d="M388 267C724 267 724 267 1060 267" marker-end="url(#arrow-south-asia-contact)" marker-start="url(#arrow-south-asia-contact)"/>
+<rect class="edge-label-bg" x="611.5" y="249" width="225" height="34" rx="7" fill="#fdfcf8" stroke="#8b7297" stroke-opacity=".28"/>
+<text class="edge-label" x="724" y="271" text-anchor="middle">Rivalry, war &amp; negotiation</text>
+</g>
+<g class="map-edge" id="map-edge-south-asia-crown1858" data-connection="crown1858" data-map="south-asia" role="button" tabindex="0" aria-haspopup="dialog" aria-label="East India Company rule to British Raj: 1858 · Crown replaces Company. Open relationship details." style="--edge-color:#5d7f9d"><title>Change of rule: 1858 · Crown replaces Company</title>
+<path class="edge-hit" d="M724 629C724 720 724 720 724 720"/><path class="edge-line" stroke="#5d7f9d"  d="M724 629C724 720 724 720 724 720"/>
+<path class="edge-hit" d="M724 720C724 720 724 720 724 800"/><path class="edge-line" stroke="#5d7f9d"  d="M724 720C724 720 724 720 724 800" marker-end="url(#arrow-south-asia-continuation)"/>
+<rect class="edge-label-bg" x="600.25" y="703" width="247.5" height="34" rx="7" fill="#fdfcf8" stroke="#5d7f9d" stroke-opacity=".28"/>
+<text class="edge-label" x="724" y="725" text-anchor="middle">1858 · Crown replaces Company</text>
+</g>
+<g class="map-edge" id="map-edge-south-asia-partition1947" data-connection="partition1947" data-map="south-asia" role="button" tabindex="0" aria-haspopup="dialog" aria-label="British Raj to India + Pakistan: 1947 · independence &amp; Partition. Open relationship details." style="--edge-color:#b88636"><title>Division: 1947 · independence &amp; Partition</title>
+<path class="edge-hit" d="M724 894C724 1005 724 1005 724 1005"/><path class="edge-line" stroke="#b88636"  d="M724 894C724 1005 724 1005 724 1005"/>
+<path class="edge-hit" d="M724 1005C374 1005 374 1005 374 1090"/><path class="edge-line" stroke="#b88636"  d="M724 1005C374 1005 374 1005 374 1090" marker-end="url(#arrow-south-asia-division)"/>
+<path class="edge-hit" d="M724 1005C1074 1005 1074 1005 1074 1090"/><path class="edge-line" stroke="#b88636"  d="M724 1005C1074 1005 1074 1005 1074 1090" marker-end="url(#arrow-south-asia-division)"/>
+<rect class="edge-label-bg" x="592.75" y="988" width="262.5" height="34" rx="7" fill="#fdfcf8" stroke="#b88636" stroke-opacity=".28"/>
+<text class="edge-label" x="724" y="1010" text-anchor="middle">1947 · independence &amp; Partition</text>
+</g>
+<g class="map-edge" id="map-edge-south-asia-bangladesh1971" data-connection="bangladesh1971" data-map="south-asia" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Pakistan to Bangladesh: 1971 · Bangladesh independence. Open relationship details." style="--edge-color:#638350"><title>Independence: 1971 · Bangladesh independence</title>
+<path class="edge-hit" d="M1074 1184C1074 1265 1074 1265 1074 1265"/><path class="edge-line" stroke="#638350"  d="M1074 1184C1074 1265 1074 1265 1074 1265"/>
+<path class="edge-hit" d="M1074 1265C1074 1265 1074 1265 1074 1340"/><path class="edge-line" stroke="#638350"  d="M1074 1265C1074 1265 1074 1265 1074 1340" marker-end="url(#arrow-south-asia-independence)"/>
+<rect class="edge-label-bg" x="946.5" y="1248" width="255" height="34" rx="7" fill="#fdfcf8" stroke="#638350" stroke-opacity=".28"/>
+<text class="edge-label" x="1074" y="1270" text-anchor="middle">1971 · Bangladesh independence</text>
+</g>
+<g class="map-node" id="map-node-south-asia-mughal" data-history="mughal" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Mughal dynasty, 1526–1858 CE. Open Wikipedia." data-map="south-asia"><title>Mughal dynasty · 1526–1858 CE</title><rect x="160" y="220" width="228" height="94" rx="10" fill="#9ac9c8"/>
+<text class="map-label" style="font-size:21px" x="274" y="263" text-anchor="middle">Mughal dynasty</text>
+<text class="map-date" x="274" y="299" text-anchor="middle">1526–1858</text></g>
+<g class="map-node" id="map-node-south-asia-maratha" data-history="maratha" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Maratha polity, 1674 CE–1818 CE. Open Wikipedia." data-map="south-asia"><title>Maratha polity · 1674 CE–1818 CE</title><rect x="1060" y="220" width="228" height="94" rx="10" fill="#c0ca82"/>
+<text class="map-label" style="font-size:21px" x="1174" y="263" text-anchor="middle">Maratha polity</text>
+<text class="map-date" x="1174" y="299" text-anchor="middle">1674–1818</text></g>
+<g class="map-node" id="map-node-south-asia-companyindia" data-history="companyindia" role="button" tabindex="0" aria-haspopup="dialog" aria-label="East India Company rule, 1757 CE–1858 CE. Open Wikipedia." data-map="south-asia"><title>East India Company rule · 1757 CE–1858 CE</title><rect x="610" y="535" width="228" height="94" rx="10" fill="#8db5cd"/>
+<text class="map-label" style="font-size:20px" x="724" y="566" text-anchor="middle">East India Company</text>
+<text class="map-label" style="font-size:20px" x="724" y="590" text-anchor="middle">rule</text>
+<text class="map-date" x="724" y="614" text-anchor="middle">1757–1858</text></g>
+<g class="map-node" id="map-node-south-asia-britishraj" data-history="britishraj" role="button" tabindex="0" aria-haspopup="dialog" aria-label="British Raj, 1858 CE–1947 CE. Open Wikipedia." data-map="south-asia"><title>British Raj · 1858 CE–1947 CE</title><rect x="610" y="800" width="228" height="94" rx="10" fill="#b5c98a"/>
+<text class="map-label" style="font-size:21px" x="724" y="843" text-anchor="middle">British Raj</text>
+<text class="map-date" x="724" y="879" text-anchor="middle">1858–1947</text></g>
+<g class="map-node" id="map-node-south-asia-indiamodern" data-history="indiamodern" role="button" tabindex="0" aria-haspopup="dialog" aria-label="India · independent state, 1947 CE–present. Open Wikipedia." data-map="south-asia"><title>India · independent state · 1947 CE–present</title><rect x="260" y="1090" width="228" height="94" rx="10" fill="#9ac9c8"/>
+<text class="map-label" style="font-size:21px" x="374" y="1133" text-anchor="middle">India</text>
+<text class="map-date" x="374" y="1169" text-anchor="middle">1947–present</text></g>
+<g class="map-node" id="map-node-south-asia-pakistan" data-history="pakistan" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Pakistan, 1947 CE–present. Open Wikipedia." data-map="south-asia"><title>Pakistan · 1947 CE–present</title><rect x="960" y="1090" width="228" height="94" rx="10" fill="#c0ca82"/>
+<text class="map-label" style="font-size:21px" x="1074" y="1133" text-anchor="middle">Pakistan</text>
+<text class="map-date" x="1074" y="1169" text-anchor="middle">1947–present</text></g>
+<g class="map-node" id="map-node-south-asia-bangladesh" data-history="bangladesh" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Bangladesh, 1971 CE–present. Open Wikipedia." data-map="south-asia"><title>Bangladesh · 1971 CE–present</title><rect x="960" y="1340" width="228" height="94" rx="10" fill="#8db5cd"/>
+<text class="map-label" style="font-size:21px" x="1074" y="1383" text-anchor="middle">Bangladesh</text>
+<text class="map-date" x="1074" y="1419" text-anchor="middle">1971–present</text></g>
+<text class="map-micro" x="800" y="1495" text-anchor="middle">Continue this history on another map</text>
+<g class="map-continuation" id="map-jump-south-asia-0" role="button" tabindex="0" data-map-target="iran-modern" data-map-history="mughal" aria-label="Earlier: Babur &amp; the Timurid connection"><rect x="68" y="1509" width="477.3333333333333" height="70" rx="8" fill="#edf3e5" stroke="#bdcdb1"/>
+<text x="306.66666666666663" y="1545" text-anchor="middle" style="font-size:16px">Earlier: Babur &amp; the Timurid connection</text>
+</g>
+<g class="map-continuation" id="map-jump-south-asia-1" role="button" tabindex="0" data-map-target="afghanistan-regional-powers" data-map-history="companyindia" aria-label="Afghanistan &amp; regional powers"><rect x="561.3333333333333" y="1509" width="477.3333333333333" height="70" rx="8" fill="#edf3e5" stroke="#bdcdb1"/>
+<text x="799.9999999999999" y="1545" text-anchor="middle" style="font-size:16px">Afghanistan &amp; regional powers</text>
+</g>
+<g class="map-continuation" id="map-jump-south-asia-2" role="button" tabindex="0" data-map-target="south-asia-early-medieval" data-map-history="mughal" aria-label="South Asia: early &amp; medieval"><rect x="1054.6666666666665" y="1509" width="477.3333333333333" height="70" rx="8" fill="#edf3e5" stroke="#bdcdb1"/>
+<text x="1293.3333333333333" y="1545" text-anchor="middle" style="font-size:16px">South Asia: early &amp; medieval</text>
+</g>
+<path d="M70 1615h20" stroke="#3b8274" stroke-width="3"/><text x="98" y="1620" style="font-size:14px;fill:#6b7b5e">Union</text>
+<path d="M362 1615h20" stroke="#b88636" stroke-width="3"/><text x="390" y="1620" style="font-size:14px;fill:#6b7b5e">Division</text>
+<path d="M654 1615h20" stroke="#aa6355" stroke-width="3"/><text x="682" y="1620" style="font-size:14px;fill:#6b7b5e">Conquest</text>
+<path d="M946 1615h20" stroke="#638350" stroke-width="3"/><text x="974" y="1620" style="font-size:14px;fill:#6b7b5e">Independence</text>
+<path d="M1238 1615h20" stroke="#5d7f9d" stroke-width="3"/><text x="1266" y="1620" style="font-size:14px;fill:#6b7b5e">Change of rule</text>
+<path d="M70 1641h20" stroke="#8b7297" stroke-width="3"/><text x="98" y="1646" style="font-size:14px;fill:#6b7b5e">Contact / influence</text>
+<path d="M362 1641h20" stroke="#9a8055" stroke-width="3"/><text x="390" y="1646" style="font-size:14px;fill:#6b7b5e">Colonial rule</text>
+<path d="M654 1641h20" stroke="#92917a" stroke-width="3"/><text x="682" y="1646" style="font-size:14px;fill:#6b7b5e">Context / overlap</text>
+<path d="M946 1641h20" stroke="#7d8c6f" stroke-width="3"/><text x="974" y="1646" style="font-size:14px;fill:#6b7b5e">Period transition</text>
+<text class="map-micro" x="800" y="1682" text-anchor="middle">Selected connections · Layout is not a time, territory or ancestry scale</text></svg>

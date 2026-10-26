@@ -1,0 +1,1706 @@
+{
+  "meta": {
+    "image": "b03deb44-7fe0-40c6-a4d4-984ce61f1bdc(2).jpeg",
+    "milestoneCount": 30,
+    "landmarkCount": 52,
+    "inspection": "All named milestone and landmark labels were read from 3x–4x enlarged crops of the complete 1026×1539 poster. No named label remained unreadable.",
+    "decorativeIllustrations": "Large unnamed silhouettes repeat named landmarks such as Statue of Liberty, Big Ben, Colosseum and Sydney Opera House. The generic Japanese castle/pagoda illustration above Jōmon is decorative and must not be assigned an invented building identity or prehistoric construction date.",
+    "datePolicy": "year is a convenient chronological anchor for a qualified development or construction phase, not a claim that all work occurred in one year. Null is used for uncertain prehistoric/cultural landscapes rather than inventing a founding date. Milestone numbers preserve the poster legend’s numbering."
+  },
+  "milestones": [
+    {
+      "number": 1,
+      "posterLabel": "Moon Landing",
+      "id": "event-moonlanding",
+      "proposedTitle": "First crewed Moon landing",
+      "wikiTitle": "Apollo 11",
+      "location": "Earth and the Moon",
+      "year": 1969,
+      "dates": "20 July 1969",
+      "note": "Apollo 11 landed on 20 July UTC; the first steps followed on 21 July UTC. Earlier robotic lunar missions were uncrewed.",
+      "sources": [
+        {
+          "title": "Apollo 11 mission overview",
+          "url": "https://www.nasa.gov/history/apollo-11-mission-overview/",
+          "publisher": "NASA"
+        }
+      ],
+      "history": "unitedstates",
+      "existingId": "event-moonlanding",
+      "title": "First crewed Moon landing"
+    },
+    {
+      "number": 2,
+      "posterLabel": "Digital Revolution",
+      "id": "poster-digital",
+      "proposedTitle": "Digital revolution",
+      "wikiTitle": "Digital Revolution",
+      "location": "Worldwide",
+      "year": 1950,
+      "dates": "Mid-20th century–present",
+      "note": "A long worldwide transition involving electronics, computers and networks, not a single national invention or founding date. The transistor of 1947 is one precursor.",
+      "sources": [
+        {
+          "title": "The Silicon Engine",
+          "url": "https://www.computerhistory.org/siliconengine/",
+          "publisher": "Computer History Museum"
+        }
+      ],
+      "existingId": null,
+      "title": "Digital revolution"
+    },
+    {
+      "number": 3,
+      "posterLabel": "Discovery of Insulin",
+      "id": "poster-insulin",
+      "proposedTitle": "Discovery and clinical use of insulin",
+      "wikiTitle": "Insulin",
+      "location": "Toronto, Canada; international earlier research",
+      "year": 1921,
+      "dates": "1921–1922 · research and first clinical use",
+      "note": "The Toronto work involved Frederick Banting, Charles Best, J. J. R. Macleod and James Collip, alongside earlier international research; not the achievement of one person alone.",
+      "sources": [
+        {
+          "title": "100 Years of Insulin",
+          "url": "https://www.fda.gov/about-fda/fda-history-exhibits/100-years-insulin",
+          "publisher": "US Food and Drug Administration"
+        }
+      ],
+      "history": "canada",
+      "existingId": null,
+      "title": "Discovery and clinical use of insulin"
+    },
+    {
+      "number": 4,
+      "posterLabel": "Maize Cultivation",
+      "id": "poster-maize",
+      "proposedTitle": "Maize domestication",
+      "wikiTitle": "Maize",
+      "location": "Southwestern Mexico, followed by wider American cultivation",
+      "year": -7000,
+      "dates": "Beginning approximately 9,000 years ago",
+      "note": "A gradual Indigenous domestication process, not an invention by one later empire. Its beginning predates this timeline’s 3500 BCE start.",
+      "sources": [
+        {
+          "title": "A perfect occasion to talk about domestication",
+          "url": "https://naturalhistory.si.edu/research/botany/news/plant-press/perfect-occasion-talk-about-domestication",
+          "publisher": "Smithsonian National Museum of Natural History"
+        }
+      ],
+      "existingId": null,
+      "title": "Maize domestication"
+    },
+    {
+      "number": 5,
+      "posterLabel": "Maya Astronomy",
+      "id": "poster-mayaastronomy",
+      "proposedTitle": "Maya astronomy",
+      "wikiTitle": "Maya astronomy",
+      "location": "Mesoamerica",
+      "year": 250,
+      "dates": "Developed across Preclassic, Classic and Postclassic Maya histories",
+      "note": "No single invention date is justified. Maya observations, calendars and eclipse tables developed over centuries; surviving Dresden Codex astronomy reflects a later manuscript tradition.",
+      "sources": [
+        {
+          "title": "Maya Sun",
+          "url": "https://maya.nmai.si.edu/maya-sun",
+          "publisher": "Smithsonian National Museum of the American Indian"
+        }
+      ],
+      "history": "maya",
+      "existingId": null,
+      "title": "Maya astronomy"
+    },
+    {
+      "number": 6,
+      "posterLabel": "Tango",
+      "id": "poster-tango",
+      "proposedTitle": "Tango",
+      "wikiTitle": "Tango",
+      "location": "Río de la Plata · Argentina and Uruguay",
+      "year": 1880,
+      "dates": "Late 19th century–present",
+      "note": "Developed in Buenos Aires and Montevideo from multiple cultural traditions. It belongs to both Argentina and Uruguay, rather than one country alone.",
+      "sources": [
+        {
+          "title": "Tango",
+          "url": "https://ich.unesco.org/en/RL/tango-00258",
+          "publisher": "UNESCO Intangible Cultural Heritage"
+        }
+      ],
+      "existingId": null,
+      "title": "Tango"
+    },
+    {
+      "number": 7,
+      "posterLabel": "Wi-Fi Innovation",
+      "id": "poster-wifi",
+      "proposedTitle": "Wireless LAN innovations and Wi-Fi",
+      "wikiTitle": "Wi-Fi",
+      "location": "Australia and international research and standards networks",
+      "year": 1992,
+      "dates": "1992 · CSIRO WLAN breakthrough; Wi-Fi standards developed internationally",
+      "note": "CSIRO’s Australian team made an important high-speed wireless LAN contribution. Wi-Fi as a whole involved many inventors, companies and IEEE standards; “Australia invented all Wi-Fi” overstates it.",
+      "sources": [
+        {
+          "title": "Bringing fast wireless connectivity to the world",
+          "url": "https://www.csiro.au/en/research/technology-space/it/wireless-lan",
+          "publisher": "CSIRO"
+        },
+        {
+          "title": "CSIRO Wi-Fi invention selected for World in 100 Objects",
+          "url": "https://www.csiro.au/en/news/all/news/2016/august/revolutionary-wifi-invention-selected-for-world-in-100-objects-exhibitionnews-release",
+          "publisher": "CSIRO"
+        }
+      ],
+      "history": "australiamodern",
+      "existingId": null,
+      "title": "Wireless LAN innovations and Wi-Fi"
+    },
+    {
+      "number": 8,
+      "posterLabel": "Laws of Motion & Gravity",
+      "id": "poster-newton",
+      "proposedTitle": "Newton’s laws of motion and universal gravitation",
+      "wikiTitle": "Philosophiæ Naturalis Principia Mathematica",
+      "location": "England",
+      "year": 1687,
+      "dates": "1687 · publication of the Principia",
+      "note": "Newton formulated these in the Principia, building on earlier mathematical and physical work. This is not the first human awareness of motion or gravity.",
+      "sources": [
+        {
+          "title": "The Newton Project",
+          "url": "https://www.history.ox.ac.uk/newton-project",
+          "publisher": "University of Oxford"
+        }
+      ],
+      "history": "england",
+      "existingId": null,
+      "title": "Newton’s laws of motion and universal gravitation"
+    },
+    {
+      "number": 9,
+      "posterLabel": "Watt’s Steam Engine",
+      "id": "poster-watt",
+      "proposedTitle": "Watt’s separate condenser",
+      "wikiTitle": "Watt steam engine",
+      "location": "Scotland and England",
+      "year": 1769,
+      "dates": "1765 · conception; 1769 · separate-condenser patent",
+      "note": "Watt greatly improved steam-engine efficiency; he did not invent the first steam engine. Newcomen and other predecessors must not disappear from the account.",
+      "sources": [
+        {
+          "title": "James Watt and the separate condenser",
+          "url": "https://blog.sciencemuseum.org.uk/james-watt-and-the-separate-condenser/",
+          "publisher": "Science Museum"
+        }
+      ],
+      "history": "greatbritain",
+      "existingId": null,
+      "title": "Watt’s separate condenser"
+    },
+    {
+      "number": 10,
+      "posterLabel": "Natural Selection",
+      "id": "poster-naturalselection",
+      "proposedTitle": "Evolution by natural selection",
+      "wikiTitle": "Natural selection",
+      "location": "Britain and research across multiple continents",
+      "year": 1858,
+      "dates": "1858 · Darwin–Wallace presentation; 1859 · On the Origin of Species",
+      "note": "Darwin and Alfred Russel Wallace independently developed explanations of natural selection and their work was jointly presented in 1858.",
+      "sources": [
+        {
+          "title": "What is natural selection?",
+          "url": "https://www.nhm.ac.uk/discover/what-is-natural-selection.html",
+          "publisher": "Natural History Museum"
+        }
+      ],
+      "history": "unitedkingdom",
+      "existingId": null,
+      "title": "Evolution by natural selection"
+    },
+    {
+      "number": 11,
+      "posterLabel": "Route to India",
+      "id": "poster-routetoindia",
+      "proposedTitle": "Vasco da Gama’s sea voyage to India",
+      "wikiTitle": "Portuguese discovery of the sea route to India",
+      "location": "Portugal, Africa and the Indian Ocean",
+      "year": 1498,
+      "dates": "1497–1499 · voyage; arrival near Calicut in 1498",
+      "note": "This opened a Portuguese Cape route to India, entering existing African, Arab, South Asian and other Indian Ocean trade networks. It was not the discovery of India or the first sea route there.",
+      "sources": [
+        {
+          "title": "The Portuguese arrival in India",
+          "url": "https://www.cambridge.org/core/books/abs/portuguese-in-india/portuguese-arrival-in-india/8521D0AEA761EE5F772ADEF77D093077",
+          "publisher": "Cambridge University Press"
+        }
+      ],
+      "existingId": null,
+      "title": "Vasco da Gama’s sea voyage to India"
+    },
+    {
+      "number": 12,
+      "posterLabel": "Discovery of the Americas",
+      "id": "event-atlanticvoyage",
+      "proposedTitle": "Columbus’s first Atlantic voyage",
+      "wikiTitle": "Voyages of Christopher Columbus",
+      "location": "Atlantic Ocean and Caribbean",
+      "year": 1492,
+      "dates": "1492",
+      "note": "The Americas already had diverse Indigenous populations; Norse voyagers reached North America earlier. The label describes Columbus’s voyage and its consequences, rather than a universal “discovery.”",
+      "sources": [
+        {
+          "title": "Columbus and the Taíno",
+          "url": "https://www.loc.gov/exhibits/exploring-the-early-americas/columbus-and-the-taino",
+          "publisher": "Library of Congress"
+        }
+      ],
+      "existingId": "event-atlanticvoyage",
+      "title": "Columbus’s first Atlantic voyage"
+    },
+    {
+      "number": 13,
+      "posterLabel": "Rights of Man",
+      "id": "poster-rightsofman",
+      "proposedTitle": "Declaration of the Rights of Man and of the Citizen",
+      "wikiTitle": "Declaration of the Rights of Man and of the Citizen",
+      "location": "France",
+      "year": 1789,
+      "dates": "26 August 1789",
+      "note": "This French revolutionary declaration is a particular document, not the beginning of all rights traditions. Its stated universality coexisted with exclusions in political and colonial practice.",
+      "sources": [
+        {
+          "title": "The Declaration of the Rights of Man and of the Citizen",
+          "url": "https://www.elysee.fr/en/french-presidency/the-declaration-of-the-rights-of-man-and-of-the-citizen",
+          "publisher": "Presidency of France"
+        }
+      ],
+      "history": "francemodern",
+      "existingId": null,
+      "title": "Declaration of the Rights of Man and of the Citizen"
+    },
+    {
+      "number": 14,
+      "posterLabel": "Metric System",
+      "id": "poster-metric",
+      "proposedTitle": "Development of the metric system",
+      "wikiTitle": "History of the metric system",
+      "location": "France, followed by international adoption",
+      "year": 1795,
+      "dates": "1790s · French development; later international standardisation",
+      "note": "The French metric reforms and modern SI are related but not identical. SI was established in 1960 and continues to develop.",
+      "sources": [
+        {
+          "title": "Evolution of the SI",
+          "url": "https://www.bipm.org/en/history-si",
+          "publisher": "Bureau International des Poids et Mesures"
+        },
+        {
+          "title": "Origins of the metre",
+          "url": "https://www.bipm.org/en/-/2025-09-24-bipm150-interview-prof-ken-alder-origins-of-the-metre-1",
+          "publisher": "BIPM"
+        }
+      ],
+      "history": "francemodern",
+      "existingId": null,
+      "title": "Development of the metric system"
+    },
+    {
+      "number": 15,
+      "posterLabel": "Renaissance",
+      "id": "poster-renaissance",
+      "proposedTitle": "European Renaissance",
+      "wikiTitle": "Renaissance",
+      "location": "Italy and wider Europe",
+      "year": 1400,
+      "dates": "c. 14th–17th centuries · dates vary by region",
+      "note": "A broad cultural and intellectual period with regional variation, drawing on classical, Byzantine, Islamic and other knowledge transmissions; not one event or a universal historical stage.",
+      "sources": [
+        {
+          "title": "The Art of Renaissance Europe",
+          "url": "https://www.metmuseum.org/-/media/files/learn/for-educators/publications-for-educators/renaissance.pdf",
+          "publisher": "Metropolitan Museum of Art"
+        }
+      ],
+      "existingId": null,
+      "title": "European Renaissance"
+    },
+    {
+      "number": 16,
+      "posterLabel": "Printing Press",
+      "id": "event-printing",
+      "proposedTitle": "Gutenberg’s movable-type printing system",
+      "wikiTitle": "Printing press",
+      "location": "Mainz · present-day Germany",
+      "year": 1450,
+      "dates": "c. 1450s",
+      "note": "Gutenberg’s European metal-type system transformed European printing. Chinese woodblock printing and East Asian movable type preceded it by centuries.",
+      "sources": [
+        {
+          "title": "Gutenberg’s invention",
+          "url": "https://www.gutenberg.de/en/erfindung/",
+          "publisher": "Gutenberg Museum / City of Mainz"
+        },
+        {
+          "title": "The Diamond Sutra",
+          "url": "https://idp.bl.uk/blog/the-diamond-sutra/",
+          "publisher": "British Library / International Dunhuang Programme"
+        }
+      ],
+      "history": "holyroman",
+      "existingId": "event-printing",
+      "title": "Gutenberg’s movable-type printing system"
+    },
+    {
+      "number": 17,
+      "posterLabel": "Automobile",
+      "id": "poster-automobile",
+      "proposedTitle": "The petrol automobile",
+      "wikiTitle": "History of the automobile",
+      "location": "Germany and wider international development",
+      "year": 1886,
+      "dates": "1886 · Benz motor-car patent, among a longer development",
+      "note": "The Benz Patent-Motorwagen is an early practical petrol automobile. Earlier steam road vehicles and parallel work by other inventors mean “first automobile” needs qualification.",
+      "sources": [
+        {
+          "title": "Benz Patent Motor Car, 1885–1886",
+          "url": "https://group.mercedes-benz.com/company/tradition/company-history/1885-1886.html",
+          "publisher": "Mercedes-Benz Group"
+        }
+      ],
+      "history": "germanymodern",
+      "existingId": null,
+      "title": "The petrol automobile"
+    },
+    {
+      "number": 18,
+      "posterLabel": "Theory of Relativity",
+      "id": "poster-relativity",
+      "proposedTitle": "Special and general relativity",
+      "wikiTitle": "Theory of relativity",
+      "location": "Switzerland and Germany; wider scientific community",
+      "year": 1905,
+      "dates": "1905 · special relativity; 1915 · general relativity",
+      "note": "These are two connected theories, not a single publication. Einstein’s work developed within a wider mathematical and physical research community.",
+      "sources": [
+        {
+          "title": "Milestones of the theory of general relativity",
+          "url": "https://www.mpg.de/9700434/chronology",
+          "publisher": "Max Planck Society"
+        }
+      ],
+      "existingId": null,
+      "title": "Special and general relativity"
+    },
+    {
+      "number": 19,
+      "posterLabel": "Classical Music",
+      "id": "poster-classicalmusic",
+      "proposedTitle": "The Classical period in Western music",
+      "wikiTitle": "Classical period (music)",
+      "location": "European centres including Vienna",
+      "year": 1750,
+      "dates": "c. 1750–1820 · approximate stylistic period",
+      "note": "“Classical music” also names a much broader Western tradition. These dates refer to the Classical period associated with Haydn, Mozart and Beethoven, not all classical traditions worldwide.",
+      "sources": [
+        {
+          "title": "1750–1800",
+          "url": "https://ofo.no/en/guide/1750-1800",
+          "publisher": "Oslo Philharmonic"
+        }
+      ],
+      "existingId": null,
+      "title": "The Classical period in Western music"
+    },
+    {
+      "number": 20,
+      "posterLabel": "Olympic Games",
+      "id": "poster-olympics",
+      "proposedTitle": "Ancient and modern Olympic Games",
+      "wikiTitle": "Ancient Olympic Games",
+      "location": "Olympia, Greece; later worldwide",
+      "year": -776,
+      "dates": "776 BCE · traditional first recorded ancient Games; 1896 · modern revival",
+      "note": "776 BCE is the traditional recorded starting point, not proof that athletic festivals began then. Modern Olympic Games began in Athens in 1896.",
+      "sources": [
+        {
+          "title": "Archaeological Site of Olympia",
+          "url": "https://whc.unesco.org/en/list/517/",
+          "publisher": "UNESCO World Heritage Centre"
+        }
+      ],
+      "history": "archaic",
+      "existingId": null,
+      "title": "Ancient and modern Olympic Games"
+    },
+    {
+      "number": 21,
+      "posterLabel": "Birth of Democracy",
+      "id": "poster-democracy",
+      "proposedTitle": "Development of Athenian democracy",
+      "wikiTitle": "Athenian democracy",
+      "location": "Athens, Greece",
+      "year": -508,
+      "dates": "508/507 BCE · Cleisthenes’ reforms; further changes in the 5th century BCE",
+      "note": "Athenian democracy developed in stages. Political participation excluded women, enslaved people and resident foreigners; the date does not describe modern universal suffrage or every participatory tradition.",
+      "sources": [
+        {
+          "title": "Athens from Cleisthenes to Pericles",
+          "url": "https://pub-ucpec2-prd.cdlib.org/ucpressebooks/view?anchor.id=0&brand=eschol&chunk.id=d0e2642&doc.view=content&docId=ft2p30058m&toc.depth=1",
+          "publisher": "University of California Press"
+        }
+      ],
+      "history": "greece",
+      "existingId": null,
+      "title": "Development of Athenian democracy"
+    },
+    {
+      "number": 22,
+      "posterLabel": "Justinian Code",
+      "id": "poster-justinian",
+      "proposedTitle": "Justinian’s codification of Roman law",
+      "wikiTitle": "Code of Justinian",
+      "location": "Eastern Roman Empire · Constantinople",
+      "year": 529,
+      "dates": "529 · first Code; 534 · revised Code",
+      "note": "The Code is one part of the wider Corpus Juris Civilis, alongside the Digest and Institutes and later Novels. It compiled and revised a long Roman legal tradition.",
+      "sources": [
+        {
+          "title": "Blume and Justinian: the Novels",
+          "url": "https://www.uwyo.edu/lawlib/blume-justinian/ajc-edition-2/novels/novels.html",
+          "publisher": "University of Wyoming College of Law"
+        }
+      ],
+      "history": "byzantium",
+      "existingId": null,
+      "title": "Justinian’s codification of Roman law"
+    },
+    {
+      "number": 23,
+      "posterLabel": "Pyramids",
+      "id": "poster-pyramids",
+      "proposedTitle": "Egyptian pyramid building",
+      "wikiTitle": "Egyptian pyramids",
+      "location": "Egypt",
+      "year": -2650,
+      "dates": "From the 27th century BCE · major Old Kingdom building",
+      "note": "Djoser’s Step Pyramid precedes the great Giza pyramids. Pyramid-shaped monuments also arose in other societies; the poster’s Egyptian marker is not a universal beginning.",
+      "sources": [
+        {
+          "title": "The Step Pyramid Complex of Djoser",
+          "url": "https://egymonuments.gov.eg/en/monuments/the-step-pyramid-complex-of-djoser",
+          "publisher": "Egyptian Ministry of Tourism and Antiquities"
+        }
+      ],
+      "history": "egypt",
+      "existingId": null,
+      "title": "Egyptian pyramid building"
+    },
+    {
+      "number": 24,
+      "posterLabel": "Code of Hammurabi",
+      "id": "poster-hammurabi",
+      "proposedTitle": "Code of Hammurabi",
+      "wikiTitle": "Code of Hammurabi",
+      "location": "Babylonia · present-day Iraq",
+      "year": -1750,
+      "dates": "18th century BCE · often dated c. 1750 BCE",
+      "note": "A major surviving Babylonian legal collection, not the world’s earliest law code. Earlier Mesopotamian legal collections survive.",
+      "sources": [
+        {
+          "title": "The Code of Hammurabi",
+          "url": "https://www.louvre.fr/en/the-code-of-hammurabi",
+          "publisher": "Musée du Louvre"
+        }
+      ],
+      "history": "oldbab",
+      "existingId": null,
+      "title": "Code of Hammurabi"
+    },
+    {
+      "number": 25,
+      "posterLabel": "Yoga",
+      "id": "poster-yoga",
+      "proposedTitle": "Yoga traditions",
+      "wikiTitle": "Yoga",
+      "location": "South Asia; now worldwide",
+      "year": -500,
+      "dates": "Ancient roots; documented traditions in the first millennium BCE onward",
+      "note": "Yoga developed across Hindu, Buddhist, Jain and other traditions. There is no agreed single origin date; interpreting Indus images as proof of modern yoga is uncertain.",
+      "sources": [
+        {
+          "title": "Yoga",
+          "url": "https://ich.unesco.org/en/RL/yoga-01163",
+          "publisher": "UNESCO Intangible Cultural Heritage"
+        },
+        {
+          "title": "Yoga",
+          "url": "https://www.saet.ac.uk/Hinduism/Yoga",
+          "publisher": "University of St Andrews Encyclopaedia of Theology"
+        }
+      ],
+      "history": "vedic",
+      "existingId": null,
+      "title": "Yoga traditions"
+    },
+    {
+      "number": 26,
+      "posterLabel": "The Concept of Zero",
+      "id": "poster-zero",
+      "proposedTitle": "Zero: placeholders and a number",
+      "wikiTitle": "0",
+      "location": "Mesopotamia, Mesoamerica and South Asia",
+      "year": 628,
+      "dates": "Multiple developments; 628 CE · Brahmagupta’s arithmetic rules",
+      "note": "Distinguish placeholder symbols from zero as an arithmetic number. Babylonian, Maya and South Asian developments cannot be reduced to a single inventor or place; 628 is an anchor for one important Indian text.",
+      "sources": [
+        {
+          "title": "Illuminating India: the Bakhshali manuscript",
+          "url": "https://blog.sciencemuseum.org.uk/illuminating-india-starring-oldest-recorded-origins-zero-bakhshali-manuscript/",
+          "publisher": "Science Museum"
+        },
+        {
+          "title": "The Maya",
+          "url": "https://maya.nmai.si.edu/maya",
+          "publisher": "Smithsonian National Museum of the American Indian"
+        }
+      ],
+      "existingId": null,
+      "title": "Zero: placeholders and a number"
+    },
+    {
+      "number": 27,
+      "posterLabel": "Papermaking",
+      "id": "poster-paper",
+      "proposedTitle": "Papermaking in early China",
+      "wikiTitle": "History of paper",
+      "location": "China, later spreading across Eurasia",
+      "year": 105,
+      "dates": "Earlier Han-period evidence; 105 CE · traditional Cai Lun report",
+      "note": "Cai Lun is traditionally credited with improving and reporting the process, not necessarily making the very first paper. Archaeological paper predates 105 CE.",
+      "sources": [
+        {
+          "title": "Papermaking",
+          "url": "https://www.chiculture.org.hk/index.php/en/china-five-thousand-years/2746",
+          "publisher": "Academy of Chinese Studies"
+        },
+        {
+          "title": "Cai Lun",
+          "url": "https://whhlyt.hunan.gov.cn/whhlyt/english/Culture/CulturalFigures/202207/t20220729_27570604.html",
+          "publisher": "Hunan Provincial Department of Culture and Tourism"
+        }
+      ],
+      "history": "han",
+      "existingId": null,
+      "title": "Papermaking in early China"
+    },
+    {
+      "number": 28,
+      "posterLabel": "Compass",
+      "id": "poster-compass",
+      "proposedTitle": "Magnetic compasses and navigation",
+      "wikiTitle": "History of the compass",
+      "location": "China and later wider Eurasia",
+      "year": 1100,
+      "dates": "Earlier magnetic direction-finding; navigational use documented by the late 11th–early 12th centuries",
+      "note": "Ancient lodestone direction-finding and medieval navigational compasses are distinct stages. The approximate year 1100 is an ordering anchor for documented Song-era navigation, not a single invention date.",
+      "sources": [
+        {
+          "title": "Sailing the Waters of East and Southeast Asia",
+          "url": "https://www.cambridge.org/core/journals/journal-of-chinese-history/article/sailing-the-waters-of-east-and-southeast-asia-chinese-navigators-and-their-material-and-mental-tools/66D276749D2F189F292E52F29BD5DFEC",
+          "publisher": "Cambridge University Press"
+        }
+      ],
+      "history": "song",
+      "existingId": null,
+      "title": "Magnetic compasses and navigation"
+    },
+    {
+      "number": 29,
+      "posterLabel": "Lean Manufacturing",
+      "id": "poster-lean",
+      "proposedTitle": "Toyota Production System and lean manufacturing",
+      "wikiTitle": "Lean manufacturing",
+      "location": "Japan and later international industry",
+      "year": 1950,
+      "dates": "Mid-20th-century development; earlier roots and later international adoption",
+      "note": "Toyota’s just-in-time and jidoka practices developed over decades and drew on earlier production ideas. “Lean” is a later term; no single invention year is adequate.",
+      "sources": [
+        {
+          "title": "Toyota Production System",
+          "url": "https://global.toyota/en/company/plant-tours/production-system/",
+          "publisher": "Toyota Motor Corporation"
+        }
+      ],
+      "history": "japanmodern",
+      "existingId": null,
+      "title": "Toyota Production System and lean manufacturing"
+    },
+    {
+      "number": 30,
+      "posterLabel": "Bullet Train",
+      "id": "poster-bullettrain",
+      "proposedTitle": "Tōkaidō Shinkansen opens",
+      "wikiTitle": "Tōkaidō Shinkansen",
+      "location": "Tokyo–Osaka, Japan",
+      "year": 1964,
+      "dates": "1 October 1964",
+      "note": "The Shinkansen opened a purpose-built high-speed passenger railway; this does not mean trains or high-speed experiments began in 1964.",
+      "sources": [
+        {
+          "title": "Shinkansen",
+          "url": "https://www.uk.emb-japan.go.jp/en/webmagazine/2014/11/shinkansen.html",
+          "publisher": "Embassy of Japan in the United Kingdom"
+        }
+      ],
+      "history": "japanmodern",
+      "existingId": null,
+      "title": "Tōkaidō Shinkansen opens"
+    }
+  ],
+  "landmarks": [
+    {
+      "posterLabel": "Great Pyramid of Giza",
+      "id": "reading-giza",
+      "proposedTitle": "Pyramids of Giza",
+      "wikiTitle": "Giza pyramid complex",
+      "location": "Giza, Egypt",
+      "year": -2600,
+      "dates": "26th century BCE",
+      "note": "The poster names the Great Pyramid; the linked complex includes the pyramids of Khufu, Khafre and Menkaure. These were built in the Old Kingdom, not at its opening boundary.",
+      "sources": [
+        {
+          "title": "Memphis and its Necropolis",
+          "url": "https://whc.unesco.org/en/list/86/",
+          "publisher": "UNESCO World Heritage Centre"
+        }
+      ],
+      "history": "egypt",
+      "existingId": "reading-giza",
+      "title": "Pyramids of Giza"
+    },
+    {
+      "posterLabel": "Karnak",
+      "id": "poster-karnak",
+      "proposedTitle": "Karnak temple complex",
+      "wikiTitle": "Karnak",
+      "location": "Luxor, Egypt",
+      "year": -2000,
+      "dates": "From the Middle Kingdom, with major later additions",
+      "note": "A temple complex expanded over many reigns, especially in the New Kingdom, rather than one Middle Kingdom construction.",
+      "sources": [
+        {
+          "title": "Ancient Thebes with its Necropolis",
+          "url": "https://whc.unesco.org/en/list/87/",
+          "publisher": "UNESCO World Heritage Centre"
+        }
+      ],
+      "history": "egypt",
+      "existingId": null,
+      "title": "Karnak temple complex"
+    },
+    {
+      "posterLabel": "Abu Simbel",
+      "id": "poster-abusimbel",
+      "proposedTitle": "Abu Simbel temples",
+      "wikiTitle": "Abu Simbel",
+      "location": "Nubia, Egypt",
+      "year": -1250,
+      "dates": "13th century BCE · reign of Ramesses II",
+      "note": "Ramesside rock-cut temples, relocated during the UNESCO Nubian monuments campaign in the 20th century.",
+      "sources": [
+        {
+          "title": "Nubian Monuments from Abu Simbel to Philae",
+          "url": "https://whc.unesco.org/en/list/88/",
+          "publisher": "UNESCO World Heritage Centre"
+        }
+      ],
+      "history": "egypt",
+      "existingId": null,
+      "title": "Abu Simbel temples"
+    },
+    {
+      "posterLabel": "Ziggurat of Ur",
+      "id": "poster-zigguratur",
+      "proposedTitle": "Great Ziggurat of Ur",
+      "wikiTitle": "Ziggurat of Ur",
+      "location": "Ur, Iraq",
+      "year": -2100,
+      "dates": "c. 21st century BCE, with later restorations",
+      "note": "Associated with Ur-Nammu and the Third Dynasty of Ur, not the entire loosely named “Sumerian Renaissance.”",
+      "sources": [
+        {
+          "title": "The Ahwar of Southern Iraq and Mesopotamian cities",
+          "url": "https://whc.unesco.org/en/list/1481/",
+          "publisher": "UNESCO World Heritage Centre"
+        }
+      ],
+      "existingId": null,
+      "title": "Great Ziggurat of Ur"
+    },
+    {
+      "posterLabel": "Mohenjo-daro",
+      "id": "poster-mohenjodaro",
+      "proposedTitle": "Mohenjo-daro",
+      "wikiTitle": "Mohenjo-daro",
+      "location": "Sindh, Pakistan",
+      "year": -2600,
+      "dates": "c. 2600–1900 BCE · mature urban phase",
+      "note": "The city belongs to the Mature Harappan phase. A poster placement near 3000 BCE should not imply that every surviving structure dates to then.",
+      "sources": [
+        {
+          "title": "Archaeological Ruins at Moenjodaro",
+          "url": "https://whc.unesco.org/en/list/138/",
+          "publisher": "UNESCO World Heritage Centre"
+        }
+      ],
+      "history": "indus",
+      "existingId": null,
+      "title": "Mohenjo-daro"
+    },
+    {
+      "posterLabel": "Chogha Zanbil",
+      "id": "poster-choghazanbil",
+      "proposedTitle": "Chogha Zanbil",
+      "wikiTitle": "Chogha Zanbil",
+      "location": "Khuzestan, Iran",
+      "year": -1250,
+      "dates": "c. 1250 BCE",
+      "note": "An Elamite sacred complex built under Untash-Napirisha, not a monument constructed by later Iranian-speaking tribes.",
+      "sources": [
+        {
+          "title": "Tchogha Zanbil",
+          "url": "https://whc.unesco.org/en/list/113/",
+          "publisher": "UNESCO World Heritage Centre"
+        }
+      ],
+      "existingId": null,
+      "title": "Chogha Zanbil"
+    },
+    {
+      "posterLabel": "Taxila",
+      "id": "poster-taxila",
+      "proposedTitle": "Taxila archaeological sites",
+      "wikiTitle": "Taxila",
+      "location": "Punjab, Pakistan",
+      "year": -600,
+      "dates": "Multiple settlement phases · from the first millennium BCE onward",
+      "note": "A serial archaeological landscape with different cities and Buddhist institutions, not one Vedic-period monument.",
+      "sources": [
+        {
+          "title": "Taxila",
+          "url": "https://whc.unesco.org/en/list/139/",
+          "publisher": "UNESCO World Heritage Centre"
+        }
+      ],
+      "existingId": null,
+      "title": "Taxila archaeological sites"
+    },
+    {
+      "posterLabel": "Persepolis",
+      "id": "poster-persepolis",
+      "proposedTitle": "Persepolis",
+      "wikiTitle": "Persepolis",
+      "location": "Fars, Iran",
+      "year": -518,
+      "dates": "From c. 518 BCE · Achaemenid construction",
+      "note": "Founded under Darius I and expanded by successors; damaged in Alexander’s conquest.",
+      "sources": [
+        {
+          "title": "Persepolis",
+          "url": "https://whc.unesco.org/en/list/114/",
+          "publisher": "UNESCO World Heritage Centre"
+        }
+      ],
+      "history": "persia",
+      "existingId": null,
+      "title": "Persepolis"
+    },
+    {
+      "posterLabel": "Great Wall of China",
+      "id": "poster-greatwall",
+      "proposedTitle": "Great Wall of China",
+      "wikiTitle": "Great Wall of China",
+      "location": "Northern China",
+      "year": -220,
+      "dates": "Earlier regional walls; Qin linking c. 220 BCE; major Ming work 1368–1644",
+      "note": "A network built and rebuilt across many periods. The familiar surviving brick sections are largely Ming, not all Zhou or Qin.",
+      "sources": [
+        {
+          "title": "The Great Wall",
+          "url": "https://whc.unesco.org/en/list/438/",
+          "publisher": "UNESCO World Heritage Centre"
+        }
+      ],
+      "history": "qin",
+      "existingId": null,
+      "title": "Great Wall of China"
+    },
+    {
+      "posterLabel": "Terracotta Army",
+      "id": "reading-terracotta",
+      "proposedTitle": "Terracotta Army",
+      "wikiTitle": "Terracotta Army",
+      "location": "Xi’an, China",
+      "year": -210,
+      "dates": "Late 3rd century BCE · First Qin Emperor’s mausoleum",
+      "note": "Belongs to the Qin imperial burial complex, not a Zhou-period monument.",
+      "sources": [
+        {
+          "title": "Mausoleum of the First Qin Emperor",
+          "url": "https://whc.unesco.org/en/list/441/",
+          "publisher": "UNESCO World Heritage Centre"
+        }
+      ],
+      "history": "qin",
+      "existingId": "reading-terracotta",
+      "title": "Terracotta Army"
+    },
+    {
+      "posterLabel": "Hallstatt",
+      "id": "poster-hallstattsite",
+      "proposedTitle": "Hallstatt salt mines and cemetery",
+      "wikiTitle": "Hallstatt",
+      "location": "Upper Austria",
+      "year": -800,
+      "dates": "Bronze Age mining; cemetery principally c. 800–400 BCE",
+      "note": "Hallstatt is an archaeological site and the name used for a broader material-culture period. The site’s long history should not be compressed into one culture-start date.",
+      "sources": [
+        {
+          "title": "Hallstatt: site",
+          "url": "https://www.nhm-wien.ac.at/hallstatt/en/site",
+          "publisher": "Natural History Museum Vienna"
+        }
+      ],
+      "existingId": null,
+      "title": "Hallstatt salt mines and cemetery"
+    },
+    {
+      "posterLabel": "Temple of Saturn",
+      "id": "poster-saturn",
+      "proposedTitle": "Temple of Saturn",
+      "wikiTitle": "Temple of Saturn",
+      "location": "Roman Forum, Rome, Italy",
+      "year": -497,
+      "dates": "Early 5th century BCE dedication; later rebuilding",
+      "note": "Traditionally dedicated in 497 BCE. The visible remains reflect later rebuilding; it was also associated with Rome’s treasury.",
+      "sources": [
+        {
+          "title": "Nel mezzo del Cammin: Temple of Saturn context",
+          "url": "https://colosseo.it/en/itineraries/nel-mezzo-del-cammin/",
+          "publisher": "Parco archeologico del Colosseo"
+        }
+      ],
+      "history": "romanrepublic",
+      "existingId": null,
+      "title": "Temple of Saturn"
+    },
+    {
+      "posterLabel": "Parthenon",
+      "id": "poster-parthenon",
+      "proposedTitle": "Parthenon",
+      "wikiTitle": "Parthenon",
+      "location": "Athens, Greece",
+      "year": -447,
+      "dates": "447–432 BCE · principal construction",
+      "note": "A Classical Athenian temple on the Acropolis, with a long subsequent history of religious use and transformation.",
+      "sources": [
+        {
+          "title": "Acropolis, Athens",
+          "url": "https://whc.unesco.org/en/list/404/",
+          "publisher": "UNESCO World Heritage Centre"
+        }
+      ],
+      "history": "greece",
+      "existingId": null,
+      "title": "Parthenon"
+    },
+    {
+      "posterLabel": "Cave of Altamira",
+      "id": "poster-altamira",
+      "proposedTitle": "Cave of Altamira",
+      "wikiTitle": "Cave of Altamira",
+      "location": "Cantabria, Spain",
+      "year": null,
+      "dates": "Upper Palaeolithic · approximately 36,000–13,000 years ago",
+      "note": "The paintings predate the Celtic/Iberian societies beside which the poster places them. BP/years-ago dating must not be copied directly as BCE; this site predates the chart’s range.",
+      "sources": [
+        {
+          "title": "The art of Altamira",
+          "url": "https://www.cultura.gob.es/mnaltamira/en/cueva-altamira/arte.html",
+          "publisher": "Spanish Ministry of Culture"
+        },
+        {
+          "title": "Cave of Altamira and Paleolithic Cave Art of Northern Spain",
+          "url": "https://whc.unesco.org/en/list/310/",
+          "publisher": "UNESCO World Heritage Centre"
+        }
+      ],
+      "existingId": null,
+      "title": "Cave of Altamira"
+    },
+    {
+      "posterLabel": "Lascaux Cave",
+      "id": "poster-lascaux",
+      "proposedTitle": "Lascaux cave art",
+      "wikiTitle": "Lascaux",
+      "location": "Dordogne, France",
+      "year": null,
+      "dates": "Upper Palaeolithic · dating remains debated",
+      "note": "Not a monument built by Iron Age Gauls. Research has proposed different prehistoric dates; all are many millennia before 3500 BCE and the chart’s range.",
+      "sources": [
+        {
+          "title": "Dating the figures at Lascaux",
+          "url": "https://archeologie.culture.gouv.fr/lascaux/en/dating-figures-lascaux",
+          "publisher": "French Ministry of Culture"
+        },
+        {
+          "title": "Lascaux multimedia exhibition",
+          "url": "https://musee-prehistoire-eyzies.fr/musees-napoleonien-africain/exposition-multimedia",
+          "publisher": "French National Museum of Prehistory"
+        }
+      ],
+      "existingId": null,
+      "title": "Lascaux cave art"
+    },
+    {
+      "posterLabel": "Dolmens of Antequera",
+      "id": "poster-antequera",
+      "proposedTitle": "Antequera Dolmens",
+      "wikiTitle": "Antequera Dolmens Site",
+      "location": "Andalusia, Spain",
+      "year": -3800,
+      "dates": "Neolithic and Bronze Age · principally 4th–3rd millennia BCE",
+      "note": "Prehistoric megalithic tombs, not monuments constructed by the much later Lusitanian tribes beside which the poster places them.",
+      "sources": [
+        {
+          "title": "Antequera Dolmens Site",
+          "url": "https://whc.unesco.org/en/list/1501/",
+          "publisher": "UNESCO World Heritage Centre"
+        }
+      ],
+      "existingId": null,
+      "title": "Antequera Dolmens"
+    },
+    {
+      "posterLabel": "Stonehenge",
+      "id": "poster-stonehenge",
+      "proposedTitle": "Stonehenge",
+      "wikiTitle": "Stonehenge",
+      "location": "Wiltshire, England",
+      "year": -3000,
+      "dates": "c. 3000 BCE · earthwork; c. 2500 BCE · principal stone setting",
+      "note": "Built long before the Celtic era. The poster’s Celtic attribution and late placement should be corrected, not reproduced.",
+      "sources": [
+        {
+          "title": "History of Stonehenge",
+          "url": "https://www.english-heritage.org.uk/visit/places/stonehenge/history-and-stories/history/",
+          "publisher": "English Heritage"
+        }
+      ],
+      "existingId": null,
+      "title": "Stonehenge"
+    },
+    {
+      "posterLabel": "Chichen Itza",
+      "id": "poster-chichenitza",
+      "proposedTitle": "Chichén Itzá",
+      "wikiTitle": "Chichen Itza",
+      "location": "Yucatán, Mexico",
+      "year": 600,
+      "dates": "c. 5th–13th centuries CE · multiple phases",
+      "note": "The monument icon’s placement high in the poster’s ancient column is not its construction date. Major flowering was much later than the earliest Maya communities.",
+      "sources": [
+        {
+          "title": "Pre-Hispanic City of Chichen-Itza",
+          "url": "https://whc.unesco.org/en/list/483/",
+          "publisher": "UNESCO World Heritage Centre"
+        }
+      ],
+      "history": "maya",
+      "existingId": null,
+      "title": "Chichén Itzá"
+    },
+    {
+      "posterLabel": "Teotihuacan",
+      "id": "poster-teotihuacansite",
+      "proposedTitle": "Teotihuacan archaeological city",
+      "wikiTitle": "Teotihuacan",
+      "location": "Valley of Mexico, Mexico",
+      "year": -100,
+      "dates": "c. 1st century BCE–7th century CE · major urban phase",
+      "note": "The city predates the Mexica/Aztec Empire; later peoples named and revered its ruins.",
+      "sources": [
+        {
+          "title": "Pre-Hispanic City of Teotihuacan",
+          "url": "https://whc.unesco.org/en/list/414/",
+          "publisher": "UNESCO World Heritage Centre"
+        }
+      ],
+      "history": "teotihuacan",
+      "existingId": null,
+      "title": "Teotihuacan archaeological city"
+    },
+    {
+      "posterLabel": "Uluru",
+      "id": "poster-uluru",
+      "proposedTitle": "Uluṟu cultural landscape",
+      "wikiTitle": "Uluru",
+      "location": "Northern Territory, Australia",
+      "year": null,
+      "dates": "Living Aṉangu cultural landscape · no single founding date",
+      "note": "A natural landform and sacred cultural landscape, not a constructed monument or a place founded around year 1. Aṉangu custodianship and Tjukurpa continue.",
+      "sources": [
+        {
+          "title": "Uluru-Kata Tjuta National Park",
+          "url": "https://whc.unesco.org/en/list/447/",
+          "publisher": "UNESCO World Heritage Centre"
+        }
+      ],
+      "history": "australia",
+      "existingId": null,
+      "title": "Uluṟu cultural landscape"
+    },
+    {
+      "posterLabel": "Colosseum",
+      "id": "reading-colosseum",
+      "proposedTitle": "Colosseum",
+      "wikiTitle": "Colosseum",
+      "location": "Rome, Italy",
+      "year": 80,
+      "dates": "70s–80 CE · initial construction and opening",
+      "note": "Built under the Flavian emperors; inaugurated in 80 CE and altered later.",
+      "sources": [
+        {
+          "title": "The Colosseum",
+          "url": "https://colosseo.it/en/area/colosseo/",
+          "publisher": "Parco archeologico del Colosseo"
+        }
+      ],
+      "history": "rome",
+      "existingId": "reading-colosseum",
+      "title": "Colosseum"
+    },
+    {
+      "posterLabel": "Roman Forum",
+      "id": "poster-romanforum",
+      "proposedTitle": "Roman Forum",
+      "wikiTitle": "Roman Forum",
+      "location": "Rome, Italy",
+      "year": -600,
+      "dates": "Developed from the early city through the Republic and Empire",
+      "note": "A civic and religious area with buildings of many dates. It is not a single building erected at the poster marker’s vertical position.",
+      "sources": [
+        {
+          "title": "Roman Forum and Palatine",
+          "url": "https://colosseo.it/en/area/the-roman-forum/",
+          "publisher": "Parco archeologico del Colosseo"
+        }
+      ],
+      "history": "romanrepublic",
+      "existingId": null,
+      "title": "Roman Forum"
+    },
+    {
+      "posterLabel": "Mesa Verde",
+      "id": "poster-mesaverde",
+      "proposedTitle": "Mesa Verde Ancestral Pueblo sites",
+      "wikiTitle": "Mesa Verde National Park",
+      "location": "Colorado, United States",
+      "year": 600,
+      "dates": "c. 600–1300 CE · principal Ancestral Pueblo occupation",
+      "note": "The celebrated cliff dwellings largely belong to the final centuries of this sequence. Living Pueblo communities maintain connections with these ancestral places.",
+      "sources": [
+        {
+          "title": "Mesa Verde history and culture",
+          "url": "https://www.nps.gov/meve/learn/historyculture/index.htm",
+          "publisher": "US National Park Service"
+        }
+      ],
+      "existingId": null,
+      "title": "Mesa Verde Ancestral Pueblo sites"
+    },
+    {
+      "posterLabel": "Head-Smashed-In Buffalo Jump",
+      "id": "poster-buffalojump",
+      "proposedTitle": "Head-Smashed-In Buffalo Jump",
+      "wikiTitle": "Head-Smashed-In Buffalo Jump",
+      "location": "Alberta, Canada",
+      "year": -4000,
+      "dates": "Used over approximately six millennia",
+      "note": "A communal bison-hunting landscape associated with Plains Indigenous peoples, especially Blackfoot histories. Its use long predates its low placement in the poster.",
+      "sources": [
+        {
+          "title": "Head-Smashed-In Buffalo Jump",
+          "url": "https://whc.unesco.org/en/list/158/",
+          "publisher": "UNESCO World Heritage Centre"
+        }
+      ],
+      "existingId": null,
+      "title": "Head-Smashed-In Buffalo Jump"
+    },
+    {
+      "posterLabel": "Chaco Culture",
+      "id": "poster-chacoculture",
+      "proposedTitle": "Chaco Culture archaeological sites",
+      "wikiTitle": "Chaco Culture National Historical Park",
+      "location": "New Mexico, United States",
+      "year": 850,
+      "dates": "c. 850–1250 CE · major Chacoan building and influence",
+      "note": "Chaco is a network of Ancestral Pueblo places, connected to living Pueblo peoples; not a vanished single tribe.",
+      "sources": [
+        {
+          "title": "Chaco history and culture",
+          "url": "https://www.nps.gov/chcu/learn/historyculture/index.htm",
+          "publisher": "US National Park Service"
+        }
+      ],
+      "history": "chaco",
+      "existingId": null,
+      "title": "Chaco Culture archaeological sites"
+    },
+    {
+      "posterLabel": "Cahokia Mounds",
+      "id": "poster-cahokiamounds",
+      "proposedTitle": "Cahokia Mounds",
+      "wikiTitle": "Cahokia",
+      "location": "Illinois, United States",
+      "year": 900,
+      "dates": "c. 900–1350 CE · major Mississippian centre",
+      "note": "A major Indigenous urban and ceremonial centre. Its significance must not be reduced to generic pre-US background.",
+      "sources": [
+        {
+          "title": "Cahokia Mounds State Historic Site",
+          "url": "https://whc.unesco.org/en/list/198/",
+          "publisher": "UNESCO World Heritage Centre"
+        }
+      ],
+      "history": "cahokia",
+      "existingId": null,
+      "title": "Cahokia Mounds"
+    },
+    {
+      "posterLabel": "Mont-Saint-Michel",
+      "id": "poster-montsaintmichel",
+      "proposedTitle": "Mont-Saint-Michel",
+      "wikiTitle": "Mont-Saint-Michel",
+      "location": "Normandy, France",
+      "year": 708,
+      "dates": "Traditional foundation 708; major abbey construction from the 10th century",
+      "note": "Its buildings span many centuries and should not be dated solely by the Frankish block in which the icon appears.",
+      "sources": [
+        {
+          "title": "Mont-Saint-Michel and its Bay",
+          "url": "https://whc.unesco.org/en/list/80/",
+          "publisher": "UNESCO World Heritage Centre"
+        }
+      ],
+      "existingId": null,
+      "title": "Mont-Saint-Michel"
+    },
+    {
+      "posterLabel": "Hagia Sophia",
+      "id": "reading-hagiasophia",
+      "proposedTitle": "Hagia Sophia",
+      "wikiTitle": "Hagia Sophia",
+      "location": "Istanbul, Türkiye",
+      "year": 537,
+      "dates": "532–537 CE · Justinianic church",
+      "note": "The surviving main building is Justinianic, with earlier churches and later alterations; its religious use changed over time.",
+      "sources": [
+        {
+          "title": "Historic Areas of Istanbul",
+          "url": "https://whc.unesco.org/en/list/356/",
+          "publisher": "UNESCO World Heritage Centre"
+        }
+      ],
+      "history": "byzantium",
+      "existingId": "reading-hagiasophia",
+      "title": "Hagia Sophia"
+    },
+    {
+      "posterLabel": "Windsor Castle",
+      "id": "poster-windsor",
+      "proposedTitle": "Windsor Castle",
+      "wikiTitle": "Windsor Castle",
+      "location": "Windsor, England",
+      "year": 1070,
+      "dates": "From c. 1070; rebuilt and enlarged over centuries",
+      "note": "Founded under William the Conqueror; it is not a single completed Norman building.",
+      "sources": [
+        {
+          "title": "Who built Windsor Castle?",
+          "url": "https://www.rct.uk/visit/windsor-castle/who-built-windsor-castle",
+          "publisher": "Royal Collection Trust"
+        }
+      ],
+      "history": "england",
+      "existingId": null,
+      "title": "Windsor Castle"
+    },
+    {
+      "posterLabel": "Notre-Dame de Paris",
+      "id": "poster-notredame",
+      "proposedTitle": "Notre-Dame de Paris",
+      "wikiTitle": "Notre-Dame de Paris",
+      "location": "Paris, France",
+      "year": 1163,
+      "dates": "From 1163 · principal medieval construction into the 14th century",
+      "note": "A Gothic cathedral with later restorations. The construction dates must be distinguished from modern reopening dates.",
+      "sources": [
+        {
+          "title": "Architecture of Notre-Dame de Paris",
+          "url": "https://www.notredamedeparis.fr/en/understand/architecture/",
+          "publisher": "Notre-Dame de Paris"
+        }
+      ],
+      "history": "francekingdom",
+      "existingId": null,
+      "title": "Notre-Dame de Paris"
+    },
+    {
+      "posterLabel": "Louvre Museum",
+      "id": "poster-louvre",
+      "proposedTitle": "Louvre palace and museum",
+      "wikiTitle": "Louvre",
+      "location": "Paris, France",
+      "year": 1793,
+      "dates": "Fortress from c. 1190; public museum inaugurated in 1793",
+      "note": "The poster places the museum in the medieval French kingdom, but the public museum opened during the Revolution. The medieval date belongs to the fortress.",
+      "sources": [
+        {
+          "title": "The Musée du Louvre at a glance",
+          "url": "https://presse.louvre.fr/le-musee-du-louvre-en-bref-1063000220316/?lang=en",
+          "publisher": "Musée du Louvre"
+        }
+      ],
+      "history": "francemodern",
+      "existingId": null,
+      "title": "Louvre palace and museum"
+    },
+    {
+      "posterLabel": "Leaning Tower of Pisa",
+      "id": "poster-pisa",
+      "proposedTitle": "Leaning Tower of Pisa",
+      "wikiTitle": "Leaning Tower of Pisa",
+      "location": "Pisa, Italy",
+      "year": 1173,
+      "dates": "1173–14th century · interrupted construction",
+      "note": "The tower was built in medieval Pisa; its placement beside a later Sicilian kingdom must not imply that kingdom constructed it.",
+      "sources": [
+        {
+          "title": "Piazza del Duomo, Pisa",
+          "url": "https://whc.unesco.org/en/list/395/",
+          "publisher": "UNESCO World Heritage Centre"
+        }
+      ],
+      "existingId": null,
+      "title": "Leaning Tower of Pisa"
+    },
+    {
+      "posterLabel": "Cologne Cathedral",
+      "id": "poster-cologne",
+      "proposedTitle": "Cologne Cathedral",
+      "wikiTitle": "Cologne Cathedral",
+      "location": "Cologne, Germany",
+      "year": 1248,
+      "dates": "1248–1880 · construction with a long interruption",
+      "note": "Started in the Holy Roman Empire and completed in the German Empire. It was not wholly constructed in one medieval period.",
+      "sources": [
+        {
+          "title": "Cologne Cathedral",
+          "url": "https://whc.unesco.org/en/list/292/",
+          "publisher": "UNESCO World Heritage Centre"
+        }
+      ],
+      "history": "holyroman",
+      "existingId": null,
+      "title": "Cologne Cathedral"
+    },
+    {
+      "posterLabel": "St. Stephen’s Cathedral",
+      "id": "poster-stephens",
+      "proposedTitle": "St Stephen’s Cathedral, Vienna",
+      "wikiTitle": "St. Stephen's Cathedral, Vienna",
+      "location": "Vienna, Austria",
+      "year": 1147,
+      "dates": "1147 · earlier church consecration; later Romanesque and Gothic building",
+      "note": "The current cathedral combines phases; substantial Gothic works date to the later Middle Ages.",
+      "sources": [
+        {
+          "title": "History of St Stephen’s Cathedral",
+          "url": "https://www.stephanskirche.at/history.php",
+          "publisher": "Domkirche St. Stephan"
+        }
+      ],
+      "existingId": null,
+      "title": "St Stephen’s Cathedral, Vienna"
+    },
+    {
+      "posterLabel": "Alhambra",
+      "id": "poster-alhambra",
+      "proposedTitle": "Alhambra",
+      "wikiTitle": "Alhambra",
+      "location": "Granada, Spain",
+      "year": 1238,
+      "dates": "From the 13th century · major Nasrid palaces",
+      "note": "The Alhambra is associated principally with Nasrid Granada, rather than being a monument created by the Christian “Reconquista.”",
+      "sources": [
+        {
+          "title": "Alhambra, Generalife and Albayzín, Granada",
+          "url": "https://whc.unesco.org/en/list/314/",
+          "publisher": "UNESCO World Heritage Centre"
+        }
+      ],
+      "existingId": null,
+      "title": "Alhambra"
+    },
+    {
+      "posterLabel": "Jerónimos Monastery",
+      "id": "poster-jeronimos",
+      "proposedTitle": "Jerónimos Monastery",
+      "wikiTitle": "Jerónimos Monastery",
+      "location": "Lisbon, Portugal",
+      "year": 1501,
+      "dates": "From 1501/1502 · principal 16th-century construction",
+      "note": "The foundation stone is dated to 1501 or 1502 in official accounts. Its 16th-century building should not be dated by its earlier vertical position in the poster.",
+      "sources": [
+        {
+          "title": "Monastery of the Hieronymites and Tower of Belém in Lisbon",
+          "url": "https://whc.unesco.org/en/list/263/",
+          "publisher": "UNESCO World Heritage Centre"
+        },
+        {
+          "title": "Jerónimos Monastery: history",
+          "publisher": "Museus e Monumentos de Portugal",
+          "url": "https://mosteirojeronimos.torrebelem.gov.pt/en/mosteiro-dos-jeronimos"
+        }
+      ],
+      "existingId": null,
+      "title": "Jerónimos Monastery"
+    },
+    {
+      "posterLabel": "Belém Tower",
+      "id": "poster-belem",
+      "proposedTitle": "Belém Tower",
+      "wikiTitle": "Belém Tower",
+      "location": "Lisbon, Portugal",
+      "year": 1514,
+      "dates": "1514–1520",
+      "note": "A fortified tower from the reign of Manuel I, not a 15th-century monument.",
+      "sources": [
+        {
+          "title": "Monastery of the Hieronymites and Tower of Belém in Lisbon",
+          "url": "https://whc.unesco.org/en/list/263/",
+          "publisher": "UNESCO World Heritage Centre"
+        },
+        {
+          "title": "Torre de Belém",
+          "publisher": "Património Cultural, Instituto Público",
+          "url": "https://www.patrimoniocultural.gov.pt/pat_mun/torre-de-belem/"
+        }
+      ],
+      "existingId": null,
+      "title": "Belém Tower"
+    },
+    {
+      "posterLabel": "Kinkaku-ji",
+      "id": "poster-kinkakuji",
+      "proposedTitle": "Kinkaku-ji",
+      "wikiTitle": "Kinkaku-ji",
+      "location": "Kyoto, Japan",
+      "year": 1397,
+      "dates": "1397 · villa origin; present pavilion rebuilt in 1955",
+      "note": "The Golden Pavilion is associated with Ashikaga Yoshimitsu. The present pavilion is a reconstruction following the 1950 fire.",
+      "sources": [
+        {
+          "title": "Historic Monuments of Ancient Kyoto",
+          "url": "https://whc.unesco.org/en/list/688/",
+          "publisher": "UNESCO World Heritage Centre"
+        }
+      ],
+      "existingId": null,
+      "title": "Kinkaku-ji"
+    },
+    {
+      "posterLabel": "Forbidden City",
+      "id": "reading-forbiddencity",
+      "proposedTitle": "Forbidden City",
+      "wikiTitle": "Forbidden City",
+      "location": "Beijing, China",
+      "year": 1406,
+      "dates": "1406–1420 · initial construction; later alterations",
+      "note": "Built under the Ming Yongle emperor and subsequently used and altered under Qing rule.",
+      "sources": [
+        {
+          "title": "Imperial Palaces of the Ming and Qing Dynasties",
+          "url": "https://whc.unesco.org/en/list/439/",
+          "publisher": "UNESCO World Heritage Centre"
+        }
+      ],
+      "history": "ming",
+      "existingId": "reading-forbiddencity",
+      "title": "Forbidden City"
+    },
+    {
+      "posterLabel": "Blue Mosque",
+      "id": "poster-bluemosque",
+      "proposedTitle": "Sultan Ahmed Mosque / Blue Mosque",
+      "wikiTitle": "Blue Mosque, Istanbul",
+      "location": "Istanbul, Türkiye",
+      "year": 1609,
+      "dates": "1609–1617",
+      "note": "An Ottoman mosque commissioned by Sultan Ahmed I; the familiar name refers to its blue interior tiles.",
+      "sources": [
+        {
+          "title": "Historic Areas of Istanbul",
+          "url": "https://whc.unesco.org/en/list/356/",
+          "publisher": "UNESCO World Heritage Centre"
+        }
+      ],
+      "history": "ottoman",
+      "existingId": null,
+      "title": "Sultan Ahmed Mosque / Blue Mosque"
+    },
+    {
+      "posterLabel": "Naqsh-e Jahan Square",
+      "id": "poster-naqsh",
+      "proposedTitle": "Naqsh-e Jahan Square",
+      "wikiTitle": "Naqsh-e Jahan Square",
+      "location": "Isfahan, Iran",
+      "year": 1598,
+      "dates": "Late 16th–early 17th century · Safavid transformation",
+      "note": "The square and its surrounding monuments developed under Safavid patronage, especially Shah Abbas I.",
+      "sources": [
+        {
+          "title": "Meidan Emam, Esfahan",
+          "url": "https://whc.unesco.org/en/list/115/",
+          "publisher": "UNESCO World Heritage Centre"
+        }
+      ],
+      "history": "safavid",
+      "existingId": null,
+      "title": "Naqsh-e Jahan Square"
+    },
+    {
+      "posterLabel": "Taj Mahal",
+      "id": "reading-tajmahal",
+      "proposedTitle": "Taj Mahal",
+      "wikiTitle": "Taj Mahal",
+      "location": "Agra, India",
+      "year": 1632,
+      "dates": "1632–1653 · mausoleum complex construction",
+      "note": "Commissioned by Shah Jahan in memory of Mumtaz Mahal; different parts of the complex were completed at different times.",
+      "sources": [
+        {
+          "title": "Taj Mahal",
+          "url": "https://whc.unesco.org/en/list/252/",
+          "publisher": "UNESCO World Heritage Centre"
+        }
+      ],
+      "history": "mughal",
+      "existingId": "reading-tajmahal",
+      "title": "Taj Mahal"
+    },
+    {
+      "posterLabel": "Himeji Castle",
+      "id": "poster-himeji",
+      "proposedTitle": "Himeji Castle",
+      "wikiTitle": "Himeji Castle",
+      "location": "Hyōgo, Japan",
+      "year": 1601,
+      "dates": "Earlier fortress; principal surviving complex c. 1601–1609",
+      "note": "The famous surviving castle is largely early Edo construction with earlier roots, rather than a single generic Tokugawa monument.",
+      "sources": [
+        {
+          "title": "Himeji-jo",
+          "url": "https://whc.unesco.org/en/list/661/",
+          "publisher": "UNESCO World Heritage Centre"
+        }
+      ],
+      "history": "edo",
+      "existingId": null,
+      "title": "Himeji Castle"
+    },
+    {
+      "posterLabel": "Palace of Versailles",
+      "id": "poster-versailles",
+      "proposedTitle": "Palace of Versailles",
+      "wikiTitle": "Palace of Versailles",
+      "location": "Versailles, France",
+      "year": 1661,
+      "dates": "Earlier hunting lodge; major expansion from 1661",
+      "note": "Versailles was expanded across several reigns. Louis XIV’s court moved there in 1682.",
+      "sources": [
+        {
+          "title": "Palace and Park of Versailles",
+          "url": "https://whc.unesco.org/en/list/83/",
+          "publisher": "UNESCO World Heritage Centre"
+        }
+      ],
+      "history": "francekingdom",
+      "existingId": null,
+      "title": "Palace of Versailles"
+    },
+    {
+      "posterLabel": "Schönbrunn Palace",
+      "id": "poster-schonbrunn",
+      "proposedTitle": "Schönbrunn Palace",
+      "wikiTitle": "Schönbrunn Palace",
+      "location": "Vienna, Austria",
+      "year": 1696,
+      "dates": "Late 17th–18th centuries · principal palace phases",
+      "note": "The present palace reflects Habsburg construction and major rebuilding, including Maria Theresa’s reign.",
+      "sources": [
+        {
+          "title": "Palace and Gardens of Schönbrunn",
+          "url": "https://whc.unesco.org/en/list/786/",
+          "publisher": "UNESCO World Heritage Centre"
+        }
+      ],
+      "existingId": null,
+      "title": "Schönbrunn Palace"
+    },
+    {
+      "posterLabel": "Parliament Hill",
+      "id": "poster-parliamenthill",
+      "proposedTitle": "Parliament Hill",
+      "wikiTitle": "Parliament Hill",
+      "location": "Ottawa, Canada",
+      "year": 1859,
+      "dates": "Construction from 1859; federal Parliament from 1867",
+      "note": "The original Centre Block was destroyed by fire in 1916 and rebuilt. The complex has several construction phases.",
+      "sources": [
+        {
+          "title": "History of Parliament Hill",
+          "url": "https://www.canada.ca/en/public-services-procurement/services/infrastructure-buildings/parliamentary-precinct/history.html",
+          "publisher": "Government of Canada"
+        }
+      ],
+      "history": "canada",
+      "existingId": null,
+      "title": "Parliament Hill"
+    },
+    {
+      "posterLabel": "Statue of Liberty",
+      "id": "poster-liberty",
+      "proposedTitle": "Statue of Liberty",
+      "wikiTitle": "Statue of Liberty",
+      "location": "New York, United States",
+      "year": 1886,
+      "dates": "1886 · dedication",
+      "note": "A French-designed gift to the United States; its modern placement must not be read as an 18th-century independence-era construction.",
+      "sources": [
+        {
+          "title": "Statue of Liberty",
+          "url": "https://whc.unesco.org/en/list/307/",
+          "publisher": "UNESCO World Heritage Centre"
+        }
+      ],
+      "history": "unitedstates",
+      "existingId": null,
+      "title": "Statue of Liberty"
+    },
+    {
+      "posterLabel": "Obelisk of Buenos Aires",
+      "id": "poster-obelisco",
+      "proposedTitle": "Obelisco de Buenos Aires",
+      "wikiTitle": "Obelisco de Buenos Aires",
+      "location": "Buenos Aires, Argentina",
+      "year": 1936,
+      "dates": "23 May 1936 · inauguration",
+      "note": "The monument commemorates the fourth centenary of the first Spanish foundation; it was not constructed at Argentine independence.",
+      "sources": [
+        {
+          "title": "Obelisco",
+          "url": "https://turismo.buenosaires.gob.ar/en/atractivo/obelisco-obelisk",
+          "publisher": "City of Buenos Aires"
+        }
+      ],
+      "existingId": null,
+      "title": "Obelisco de Buenos Aires"
+    },
+    {
+      "posterLabel": "Big Ben",
+      "id": "poster-bigben",
+      "proposedTitle": "Big Ben and Elizabeth Tower",
+      "wikiTitle": "Big Ben",
+      "location": "London, United Kingdom",
+      "year": 1859,
+      "dates": "1859 · clock and Great Bell begin service",
+      "note": "Strictly, Big Ben is the Great Bell. The tower was renamed Elizabeth Tower in 2012; the familiar name is often used for the whole structure.",
+      "sources": [
+        {
+          "title": "A brief history of Big Ben and Elizabeth Tower",
+          "url": "https://www.parliament.uk/about/living-heritage/building/palace/big-ben/building-clock-tower/key-dates-/",
+          "publisher": "UK Parliament"
+        }
+      ],
+      "history": "unitedkingdom",
+      "existingId": null,
+      "title": "Big Ben and Elizabeth Tower"
+    },
+    {
+      "posterLabel": "Eiffel Tower",
+      "id": "poster-eiffel",
+      "proposedTitle": "Eiffel Tower",
+      "wikiTitle": "Eiffel Tower",
+      "location": "Paris, France",
+      "year": 1889,
+      "dates": "1887–1889 · construction",
+      "note": "Built for the 1889 Exposition Universelle; not a general marker for every French republic.",
+      "sources": [
+        {
+          "title": "History of the Eiffel Tower",
+          "url": "https://www.toureiffel.paris/en/the-monument/history",
+          "publisher": "Société d’Exploitation de la Tour Eiffel"
+        }
+      ],
+      "history": "francemodern",
+      "existingId": null,
+      "title": "Eiffel Tower"
+    },
+    {
+      "posterLabel": "Sagrada Familia",
+      "id": "poster-sagrada",
+      "proposedTitle": "Sagrada Família",
+      "wikiTitle": "Sagrada Família",
+      "location": "Barcelona, Spain",
+      "year": 1882,
+      "dates": "Construction began in 1882; continued across later eras",
+      "note": "The foundation predates Francoist Spain and modern constitutional Spain. No unsupported completion date should be inferred from the poster.",
+      "sources": [
+        {
+          "title": "Works of Antoni Gaudí",
+          "url": "https://whc.unesco.org/en/list/320/",
+          "publisher": "UNESCO World Heritage Centre"
+        }
+      ],
+      "history": "spainmodern",
+      "existingId": null,
+      "title": "Sagrada Família"
+    },
+    {
+      "posterLabel": "Sydney Opera House",
+      "id": "poster-sydneyopera",
+      "proposedTitle": "Sydney Opera House",
+      "wikiTitle": "Sydney Opera House",
+      "location": "Sydney, Australia",
+      "year": 1973,
+      "dates": "1959–1973 · principal construction; opened in 1973",
+      "note": "Designed by Danish architect Jørn Utzon with contributions by later teams; the cultural landmark is not evidence of one nation’s isolated invention.",
+      "sources": [
+        {
+          "title": "Sydney Opera House",
+          "url": "https://whc.unesco.org/en/list/166/",
+          "publisher": "UNESCO World Heritage Centre"
+        }
+      ],
+      "history": "australiamodern",
+      "existingId": null,
+      "title": "Sydney Opera House"
+    }
+  ]
+}

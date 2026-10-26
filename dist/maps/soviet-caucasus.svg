@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 924" width="1600" height="924" role="group" aria-labelledby="map-title-soviet-caucasus map-desc-soviet-caucasus"><title id="map-title-soviet-caucasus">Soviet dissolution · South Caucasus</title><desc id="map-desc-soviet-caucasus">Selected, sourced connections. Arrows label unions, divisions, conquest, independence, changes in rule, and contact. Node positions do not measure time or ancestry.  Select a node for Wikipedia or an arrow for its sources.</desc><defs>
+<marker id="arrow-soviet-caucasus-union" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#3b8274"/></marker>
+<marker id="arrow-soviet-caucasus-division" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#b88636"/></marker>
+<marker id="arrow-soviet-caucasus-conquest" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#aa6355"/></marker>
+<marker id="arrow-soviet-caucasus-independence" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#638350"/></marker>
+<marker id="arrow-soviet-caucasus-continuation" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#5d7f9d"/></marker>
+<marker id="arrow-soviet-caucasus-contact" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#8b7297"/></marker>
+<marker id="arrow-soviet-caucasus-colonial" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#9a8055"/></marker>
+<marker id="arrow-soviet-caucasus-context" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#92917a"/></marker>
+<marker id="arrow-soviet-caucasus-period" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#7d8c6f"/></marker>
+</defs><style>text{font-family:Arial,Helvetica,sans-serif;fill:#25372c}.map-node,.map-edge{cursor:pointer;outline:none}.map-node rect{stroke:#fffdf8;stroke-width:2}.map-node:hover rect,.map-node:focus rect{stroke:#3c5441;stroke-width:3}.map-label{font-size:21px;font-weight:600;pointer-events:none}.map-date{font-size:12px;fill:#617056;pointer-events:none}.edge-line{fill:none;stroke-width:2.5;stroke-linejoin:round;stroke-linecap:round}.edge-hit{fill:none;stroke:transparent;stroke-width:36;vector-effect:non-scaling-stroke}.map-edge:hover .edge-label-bg,.map-edge:focus .edge-label-bg{stroke:#334d3c;stroke-width:2}.map-edge:hover .edge-line,.map-edge:focus .edge-line{stroke-width:4}.edge-label{font-size:15px;font-weight:500;pointer-events:none}.map-heading{font-size:47px;font-weight:700;letter-spacing:-1.2px}.map-subtitle{font-size:24px;fill:#67785a}.map-micro{font-size:13px;fill:#8a977d}.map-node.dim{opacity:.15}.map-node.hit rect{stroke:#294332;stroke-width:4}.map-node.selected rect{stroke:#294332;stroke-width:4}.map-edge.related .edge-line{stroke-width:4.5}</style><rect width="100%" height="100%" fill="#fdfcf8"/><text class="map-heading" x="800" y="74" text-anchor="middle">EMPIRES &amp; CONNECTIONS</text><text class="map-subtitle" x="800" y="117" text-anchor="middle">Soviet dissolution · South Caucasus</text><text class="map-micro" x="800" y="154" text-anchor="middle">Tap a node to read · Tap an arrow for the event and sources</text>
+<g class="map-edge" id="map-edge-soviet-caucasus-mb-ussr-caucasus" data-connection="mb-ussr-caucasus" data-map="soviet-caucasus" role="button" tabindex="0" aria-haspopup="dialog" aria-label="USSR to Armenia · independent state + Azerbaijan · independent state + Georgia · independent state: 1991 · three independent states. Open relationship details." style="--edge-color:#b88636"><title>Division: 1991 · three independent states</title>
+<path class="edge-hit" d="M800 314.34C800 340.33 800 371.16 800 389.62"/><path class="edge-line" stroke="#b88636"  d="M800 314.34C800 340.33 800 371.16 800 389.62"/>
+<path class="edge-hit" d="M767.37 424.37C730.6 442.83 669.17 473.65 617.36 499.65"/><path class="edge-line" stroke="#b88636"  d="M767.37 424.37C730.6 442.83 669.17 473.65 617.36 499.65" marker-end="url(#arrow-soviet-caucasus-division)"/>
+<path class="edge-hit" d="M800 424.37C800 442.86 800 473.77 800 499.8"/><path class="edge-line" stroke="#b88636"  d="M800 424.37C800 442.86 800 473.77 800 499.8" marker-end="url(#arrow-soviet-caucasus-division)"/>
+<path class="edge-hit" d="M832.63 424.37C869.4 442.83 930.83 473.65 982.64 499.65"/><path class="edge-line" stroke="#b88636"  d="M832.63 424.37C869.4 442.83 930.83 473.65 982.64 499.65" marker-end="url(#arrow-soviet-caucasus-division)"/>
+<rect class="edge-label-bg" x="668.75" y="390" width="262.5" height="34" rx="7" fill="#fdfcf8" stroke="#b88636" stroke-opacity=".28"/>
+<text class="edge-label" x="800" y="412" text-anchor="middle">1991 · three independent states</text>
+</g>
+<g class="map-node" id="map-node-soviet-caucasus-sovietunion" data-history="sovietunion" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Soviet Union / USSR, 1922 CE–1991 CE. Open Wikipedia." data-map="soviet-caucasus"><title>Soviet Union / USSR · 1922 CE–1991 CE</title><rect x="686" y="220" width="228" height="94" rx="10" fill="#ee9792"/>
+<text class="map-label" style="font-size:21px" x="800" y="263" text-anchor="middle">USSR</text>
+<text class="map-date" x="800" y="299" text-anchor="middle">1922–1991</text></g>
+<g class="map-node" id="map-node-soviet-caucasus-cn-armenia" data-history="cn-armenia" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Armenia · independent state, 1991 CE–present. Open Wikipedia." data-map="soviet-caucasus"><title>Armenia · independent state · 1991 CE–present</title><rect x="411" y="500" width="228" height="94" rx="10" fill="#e9c56b"/>
+<text class="map-label" style="font-size:21px" x="525" y="531" text-anchor="middle">Armenia ·</text>
+<text class="map-label" style="font-size:21px" x="525" y="555" text-anchor="middle">independent state</text>
+<text class="map-date" x="525" y="579" text-anchor="middle">1991–present</text></g>
+<g class="map-node" id="map-node-soviet-caucasus-cn-azerbaijan" data-history="cn-azerbaijan" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Azerbaijan · independent state, 1991 CE–present. Open Wikipedia." data-map="soviet-caucasus"><title>Azerbaijan · independent state · 1991 CE–present</title><rect x="686" y="500" width="228" height="94" rx="10" fill="#eab18d"/>
+<text class="map-label" style="font-size:21px" x="800" y="531" text-anchor="middle">Azerbaijan ·</text>
+<text class="map-label" style="font-size:21px" x="800" y="555" text-anchor="middle">independent state</text>
+<text class="map-date" x="800" y="579" text-anchor="middle">1991–present</text></g>
+<g class="map-node" id="map-node-soviet-caucasus-cn-georgia" data-history="cn-georgia" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Georgia · independent state, 1991 CE–present. Open Wikipedia." data-map="soviet-caucasus"><title>Georgia · independent state · 1991 CE–present</title><rect x="961" y="500" width="228" height="94" rx="10" fill="#e9c56b"/>
+<text class="map-label" style="font-size:21px" x="1075" y="531" text-anchor="middle">Georgia ·</text>
+<text class="map-label" style="font-size:21px" x="1075" y="555" text-anchor="middle">independent state</text>
+<text class="map-date" x="1075" y="579" text-anchor="middle">1991–present</text></g>
+<text class="map-micro" x="800" y="715" text-anchor="middle">Continue this history on another map</text>
+<g class="map-continuation" id="map-jump-soviet-caucasus-0" role="button" tabindex="0" data-map-target="soviet-europe" data-map-history="sovietunion" aria-label="Other Soviet successor states"><rect x="68" y="729" width="477.3333333333333" height="70" rx="8" fill="#edf3e5" stroke="#bdcdb1"/>
+<text x="306.66666666666663" y="765" text-anchor="middle" style="font-size:16px">Other Soviet successor states</text>
+</g>
+<g class="map-continuation" id="map-jump-soviet-caucasus-1" role="button" tabindex="0" data-map-target="central-asia-later" data-map-history="sovietunion" aria-label="Central Asia · khanates, Russian expansion and Soviet rule"><rect x="561.3333333333333" y="729" width="477.3333333333333" height="70" rx="8" fill="#edf3e5" stroke="#bdcdb1"/>
+<text x="799.9999999999999" y="756" text-anchor="middle" style="font-size:16px">Central Asia · khanates, Russian expansion and Soviet</text>
+<text x="799.9999999999999" y="774" text-anchor="middle" style="font-size:16px">rule</text>
+</g>
+<g class="map-continuation" id="map-jump-soviet-caucasus-2" role="button" tabindex="0" data-map-target="steppe-russia" data-map-history="sovietunion" aria-label="Golden Horde, Muscovy &amp; Soviet successor states"><rect x="1054.6666666666665" y="729" width="477.3333333333333" height="70" rx="8" fill="#edf3e5" stroke="#bdcdb1"/>
+<text x="1293.3333333333333" y="765" text-anchor="middle" style="font-size:16px">Golden Horde, Muscovy &amp; Soviet successor states</text>
+</g>
+<path d="M70 835h20" stroke="#3b8274" stroke-width="3"/><text x="98" y="840" style="font-size:14px;fill:#6b7b5e">Union</text>
+<path d="M362 835h20" stroke="#b88636" stroke-width="3"/><text x="390" y="840" style="font-size:14px;fill:#6b7b5e">Division</text>
+<path d="M654 835h20" stroke="#aa6355" stroke-width="3"/><text x="682" y="840" style="font-size:14px;fill:#6b7b5e">Conquest</text>
+<path d="M946 835h20" stroke="#638350" stroke-width="3"/><text x="974" y="840" style="font-size:14px;fill:#6b7b5e">Independence</text>
+<path d="M1238 835h20" stroke="#5d7f9d" stroke-width="3"/><text x="1266" y="840" style="font-size:14px;fill:#6b7b5e">Change of rule</text>
+<path d="M70 861h20" stroke="#8b7297" stroke-width="3"/><text x="98" y="866" style="font-size:14px;fill:#6b7b5e">Contact / influence</text>
+<path d="M362 861h20" stroke="#9a8055" stroke-width="3"/><text x="390" y="866" style="font-size:14px;fill:#6b7b5e">Colonial rule</text>
+<path d="M654 861h20" stroke="#92917a" stroke-width="3"/><text x="682" y="866" style="font-size:14px;fill:#6b7b5e">Context / overlap</text>
+<path d="M946 861h20" stroke="#7d8c6f" stroke-width="3"/><text x="974" y="866" style="font-size:14px;fill:#6b7b5e">Period transition</text>
+<text class="map-micro" x="800" y="902" text-anchor="middle">Selected connections · Layout is not a time, territory or ancestry scale</text></svg>

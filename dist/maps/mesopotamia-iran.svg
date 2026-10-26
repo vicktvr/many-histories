@@ -1,0 +1,163 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1764" width="1600" height="1764" role="group" aria-labelledby="map-title-mesopotamia-iran map-desc-mesopotamia-iran"><title id="map-title-mesopotamia-iran">Mesopotamia &amp; early Iran</title><desc id="map-desc-mesopotamia-iran">Selected, sourced connections. Arrows label unions, divisions, conquest, independence, changes in rule, and contact. Node positions do not measure time or ancestry.  Select a node for Wikipedia or an arrow for its sources.</desc><defs>
+<marker id="arrow-mesopotamia-iran-union" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#3b8274"/></marker>
+<marker id="arrow-mesopotamia-iran-division" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#b88636"/></marker>
+<marker id="arrow-mesopotamia-iran-conquest" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#aa6355"/></marker>
+<marker id="arrow-mesopotamia-iran-independence" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#638350"/></marker>
+<marker id="arrow-mesopotamia-iran-continuation" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#5d7f9d"/></marker>
+<marker id="arrow-mesopotamia-iran-contact" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#8b7297"/></marker>
+<marker id="arrow-mesopotamia-iran-colonial" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#9a8055"/></marker>
+<marker id="arrow-mesopotamia-iran-context" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#92917a"/></marker>
+<marker id="arrow-mesopotamia-iran-period" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#7d8c6f"/></marker>
+</defs><style>text{font-family:Arial,Helvetica,sans-serif;fill:#25372c}.map-node,.map-edge{cursor:pointer;outline:none}.map-node rect{stroke:#fffdf8;stroke-width:2}.map-node:hover rect,.map-node:focus rect{stroke:#3c5441;stroke-width:3}.map-label{font-size:21px;font-weight:600;pointer-events:none}.map-date{font-size:12px;fill:#617056;pointer-events:none}.edge-line{fill:none;stroke-width:2.5;stroke-linejoin:round;stroke-linecap:round}.edge-hit{fill:none;stroke:transparent;stroke-width:36;vector-effect:non-scaling-stroke}.map-edge:hover .edge-label-bg,.map-edge:focus .edge-label-bg{stroke:#334d3c;stroke-width:2}.map-edge:hover .edge-line,.map-edge:focus .edge-line{stroke-width:4}.edge-label{font-size:15px;font-weight:500;pointer-events:none}.map-heading{font-size:47px;font-weight:700;letter-spacing:-1.2px}.map-subtitle{font-size:24px;fill:#67785a}.map-micro{font-size:13px;fill:#8a977d}.map-node.dim{opacity:.15}.map-node.hit rect{stroke:#294332;stroke-width:4}.map-node.selected rect{stroke:#294332;stroke-width:4}.map-edge.related .edge-line{stroke-width:4.5}</style><rect width="100%" height="100%" fill="#fdfcf8"/><text class="map-heading" x="800" y="74" text-anchor="middle">EMPIRES &amp; CONNECTIONS</text><text class="map-subtitle" x="800" y="117" text-anchor="middle">Mesopotamia &amp; early Iran</text><text class="map-micro" x="800" y="154" text-anchor="middle">Tap a node to read · Tap an arrow for the event and sources</text>
+<g class="map-edge" id="map-edge-mesopotamia-iran-ws-sumer-uruk" data-connection="ws-sumer-uruk" data-map="mesopotamia-iran" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Sumer to Uruk · early urban growth: Urban culture. Open relationship details." style="--edge-color:#92917a"><title>Context / overlap: Urban culture</title>
+<path class="edge-hit" d="M529.34 314.34C496.37 340.33 457.29 371.16 433.88 389.62"/><path class="edge-line" stroke="#92917a" stroke-dasharray="6 6" d="M529.34 314.34C496.37 340.33 457.29 371.16 433.88 389.62"/>
+<path class="edge-hit" d="M403.37 424.37C392.38 442.86 374.02 473.77 358.55 499.8"/><path class="edge-line" stroke="#92917a" stroke-dasharray="6 6" d="M403.37 424.37C392.38 442.86 374.02 473.77 358.55 499.8" marker-end="url(#arrow-mesopotamia-iran-context)"/>
+<rect class="edge-label-bg" x="349.35" y="390" width="127.5" height="34" rx="7" fill="#fdfcf8" stroke="#92917a" stroke-opacity=".28"/>
+<text class="edge-label" x="413.1" y="412" text-anchor="middle">Urban culture</text>
+</g>
+<g class="map-edge" id="map-edge-mesopotamia-iran-ws-uruk-citystates" data-connection="ws-uruk-citystates" data-map="mesopotamia-iran" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Uruk · early urban growth to Early Dynastic city-states: Later city-state period. Open relationship details." style="--edge-color:#7d8c6f"><title>Period transition: Later city-state period</title>
+<path class="edge-hit" d="M318.01 594.34C310.66 620.33 301.95 651.16 296.73 669.62"/><path class="edge-line" stroke="#7d8c6f"  d="M318.01 594.34C310.66 620.33 301.95 651.16 296.73 669.62"/>
+<path class="edge-hit" d="M292.1 704.37C292.1 722.86 292.1 753.77 292.1 779.8"/><path class="edge-line" stroke="#7d8c6f"  d="M292.1 704.37C292.1 722.86 292.1 753.77 292.1 779.8" marker-end="url(#arrow-mesopotamia-iran-period)"/>
+<rect class="edge-label-bg" x="190.85000000000002" y="670" width="202.5" height="34" rx="7" fill="#fdfcf8" stroke="#7d8c6f" stroke-opacity=".28"/>
+<text class="edge-label" x="292.1" y="692" text-anchor="middle">Later city-state period</text>
+</g>
+<g class="map-edge" id="map-edge-mesopotamia-iran-ws-sargon-conquest" data-connection="ws-sargon-conquest" data-map="mesopotamia-iran" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Early Dynastic city-states to Akkadian period: Sargon’s conquests. Open relationship details." style="--edge-color:#aa6355"><title>Conquest: Sargon’s conquests</title>
+<path class="edge-hit" d="M292.1 874.34C292.1 900.33 292.1 931.16 292.1 949.62"/><path class="edge-line" stroke="#aa6355"  d="M292.1 874.34C292.1 900.33 292.1 931.16 292.1 949.62"/>
+<path class="edge-hit" d="M292.1 984.37C292.1 1002.86 292.1 1033.77 292.1 1059.8"/><path class="edge-line" stroke="#aa6355"  d="M292.1 984.37C292.1 1002.86 292.1 1033.77 292.1 1059.8" marker-end="url(#arrow-mesopotamia-iran-conquest)"/>
+<rect class="edge-label-bg" x="209.60000000000002" y="950" width="165" height="34" rx="7" fill="#fdfcf8" stroke="#aa6355" stroke-opacity=".28"/>
+<text class="edge-label" x="292.1" y="972" text-anchor="middle">Sargon’s conquests</text>
+</g>
+<g class="map-edge" id="map-edge-mesopotamia-iran-ws-sumer-babylon" data-connection="ws-sumer-babylon" data-map="mesopotamia-iran" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Sumer to Old Babylonian dynasty: Scribal inheritance. Open relationship details." style="--edge-color:#8b7297"><title>Contact / influence: Scribal inheritance</title>
+<path class="edge-hit" d="M620.33 314.34C638.42 340.33 659.86 371.16 672.7 389.62"/><path class="edge-line" stroke="#8b7297" stroke-dasharray="6 6" d="M620.33 314.34C638.42 340.33 659.86 371.16 672.7 389.62"/>
+<path class="edge-hit" d="M712.81 424.37C745.18 442.83 799.23 473.65 844.82 499.65"/><path class="edge-line" stroke="#8b7297" stroke-dasharray="6 6" d="M712.81 424.37C745.18 442.83 799.23 473.65 844.82 499.65" marker-end="url(#arrow-mesopotamia-iran-contact)"/>
+<rect class="edge-label-bg" x="597.85" y="390" width="172.5" height="34" rx="7" fill="#fdfcf8" stroke="#8b7297" stroke-opacity=".28"/>
+<text class="edge-label" x="684.1" y="412" text-anchor="middle">Scribal inheritance</text>
+</g>
+<g class="map-edge" id="map-edge-mesopotamia-iran-ws-hittite-babylon" data-connection="ws-hittite-babylon" data-map="mesopotamia-iran" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Hittite kingdom and empire to Old Babylonian dynasty: Sack of Babylon. Open relationship details." style="--edge-color:#aa6355"><title>Conquest: Sack of Babylon</title>
+<path class="edge-hit" d="M926.1 314.34C926.1 340.33 926.1 371.16 926.1 389.62"/><path class="edge-line" stroke="#aa6355"  d="M926.1 314.34C926.1 340.33 926.1 371.16 926.1 389.62"/>
+<path class="edge-hit" d="M926.1 424.37C926.1 442.86 926.1 473.77 926.1 499.8"/><path class="edge-line" stroke="#aa6355"  d="M926.1 424.37C926.1 442.86 926.1 473.77 926.1 499.8" marker-end="url(#arrow-mesopotamia-iran-conquest)"/>
+<rect class="edge-label-bg" x="854.85" y="390" width="142.5" height="34" rx="7" fill="#fdfcf8" stroke="#aa6355" stroke-opacity=".28"/>
+<text class="edge-label" x="926.1" y="412" text-anchor="middle">Sack of Babylon</text>
+</g>
+<g class="map-edge" id="map-edge-mesopotamia-iran-ws-kassite-rise" data-connection="ws-kassite-rise" data-map="mesopotamia-iran" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Old Babylonian dynasty to Middle Babylonian / Kassite period: Kassite consolidation. Open relationship details." style="--edge-color:#5d7f9d"><title>Change of rule: Kassite consolidation</title>
+<path class="edge-hit" d="M936.84 594.34C942.87 620.33 950.02 651.16 954.3 669.62"/><path class="edge-line" stroke="#5d7f9d"  d="M936.84 594.34C942.87 620.33 950.02 651.16 954.3 669.62"/>
+<path class="edge-hit" d="M946.71 704.37C933.85 722.86 912.35 753.77 894.24 779.8"/><path class="edge-line" stroke="#5d7f9d"  d="M946.71 704.37C933.85 722.86 912.35 753.77 894.24 779.8" marker-end="url(#arrow-mesopotamia-iran-continuation)"/>
+<rect class="edge-label-bg" x="864.35" y="670" width="187.5" height="34" rx="7" fill="#fdfcf8" stroke="#5d7f9d" stroke-opacity=".28"/>
+<text class="edge-label" x="958.1" y="692" text-anchor="middle">Kassite consolidation</text>
+</g>
+<g class="map-edge" id="map-edge-mesopotamia-iran-ws-assyria-kassites" data-connection="ws-assyria-kassites" data-map="mesopotamia-iran" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Assyrian Empire to Middle Babylonian / Kassite period: Assyrian occupation. Open relationship details." style="--edge-color:#aa6355"><title>Conquest: Assyrian occupation</title>
+<path class="edge-hit" d="M668 594.34C685.89 620.33 707.11 651.16 719.82 669.62"/><path class="edge-line" stroke="#aa6355"  d="M668 594.34C685.89 620.33 707.11 651.16 719.82 669.62"/>
+<path class="edge-hit" d="M746.64 704.37C764.2 722.86 793.53 753.77 818.24 779.8"/><path class="edge-line" stroke="#aa6355"  d="M746.64 704.37C764.2 722.86 793.53 753.77 818.24 779.8" marker-end="url(#arrow-mesopotamia-iran-conquest)"/>
+<rect class="edge-label-bg" x="644.85" y="670" width="172.5" height="34" rx="7" fill="#fdfcf8" stroke="#aa6355" stroke-opacity=".28"/>
+<text class="edge-label" x="731.1" y="692" text-anchor="middle">Assyrian occupation</text>
+</g>
+<g class="map-edge" id="map-edge-mesopotamia-iran-ws-elam-kassites" data-connection="ws-elam-kassites" data-map="mesopotamia-iran" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Elamite Civilization to Middle Babylonian / Kassite period: Elamite campaigns. Open relationship details." style="--edge-color:#aa6355"><title>Conquest: Elamite campaigns</title>
+<path class="edge-hit" d="M1198.69 594.34C1192.85 620.33 1185.93 651.16 1181.78 669.62"/><path class="edge-line" stroke="#aa6355"  d="M1198.69 594.34C1192.85 620.33 1185.93 651.16 1181.78 669.62"/>
+<path class="edge-hit" d="M1140.61 704.37C1098.35 722.83 1027.77 753.65 968.24 779.65"/><path class="edge-line" stroke="#aa6355"  d="M1140.61 704.37C1098.35 722.83 1027.77 753.65 968.24 779.65" marker-end="url(#arrow-mesopotamia-iran-conquest)"/>
+<rect class="edge-label-bg" x="1099.35" y="670" width="157.5" height="34" rx="7" fill="#fdfcf8" stroke="#aa6355" stroke-opacity=".28"/>
+<text class="edge-label" x="1178.1" y="692" text-anchor="middle">Elamite campaigns</text>
+</g>
+<g class="map-edge" id="map-edge-mesopotamia-iran-ws-assyrian-periods" data-connection="ws-assyrian-periods" data-map="mesopotamia-iran" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Assyrian Empire to Neo-Assyrian Empire: Renewed expansion. Open relationship details." style="--edge-color:#5d7f9d"><title>Change of rule: Renewed expansion</title>
+<path class="edge-hit" d="M596.82 594.34C574.77 620.33 548.64 651.16 532.99 669.62"/><path class="edge-line" stroke="#5d7f9d"  d="M596.82 594.34C574.77 620.33 548.64 651.16 532.99 669.62"/>
+<path class="edge-hit" d="M525.63 704.37C533 722.86 545.31 753.77 555.69 779.8"/><path class="edge-line" stroke="#5d7f9d"  d="M525.63 704.37C533 722.86 545.31 753.77 555.69 779.8" marker-end="url(#arrow-mesopotamia-iran-continuation)"/>
+<rect class="edge-label-bg" x="440.35" y="670" width="157.5" height="34" rx="7" fill="#fdfcf8" stroke="#5d7f9d" stroke-opacity=".28"/>
+<text class="edge-label" x="519.1" y="692" text-anchor="middle">Renewed expansion</text>
+</g>
+<g class="map-edge" id="map-edge-mesopotamia-iran-ws-assyria-babylonia" data-connection="ws-assyria-babylonia" data-map="mesopotamia-iran" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Neo-Assyrian Empire to Medes + Neo-Babylonian Empire: Fall of Nineveh. Open relationship details." style="--edge-color:#aa6355"><title>Conquest: Fall of Nineveh</title>
+<path class="edge-hit" d="M663.08 874.34C713 900.33 772.19 931.16 807.64 949.62"/><path class="edge-line" stroke="#aa6355"  d="M663.08 874.34C713 900.33 772.19 931.16 807.64 949.62"/>
+<path class="edge-hit" d="M871.73 984.37C908.5 1002.83 969.93 1033.65 1021.74 1059.65"/><path class="edge-line" stroke="#aa6355"  d="M871.73 984.37C908.5 1002.83 969.93 1033.65 1021.74 1059.65" marker-end="url(#arrow-mesopotamia-iran-conquest)"/>
+<path class="edge-hit" d="M839.1 984.37C839.1 1002.86 839.1 1033.77 839.1 1059.8"/><path class="edge-line" stroke="#aa6355"  d="M839.1 984.37C839.1 1002.86 839.1 1033.77 839.1 1059.8" marker-end="url(#arrow-mesopotamia-iran-conquest)"/>
+<rect class="edge-label-bg" x="767.85" y="950" width="142.5" height="34" rx="7" fill="#fdfcf8" stroke="#aa6355" stroke-opacity=".28"/>
+<text class="edge-label" x="839.1" y="972" text-anchor="middle">Fall of Nineveh</text>
+</g>
+<g class="map-edge" id="map-edge-mesopotamia-iran-ws-iranian-medes" data-connection="ws-iranian-medes" data-map="mesopotamia-iran" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Iranian Tribes to Medes: Iranian languages. Open relationship details." style="--edge-color:#8b7297"><title>Contact / influence: Iranian languages</title>
+<path class="edge-hit" d="M1133.07 874.34C1130.81 900.33 1128.13 931.16 1126.52 949.62"/><path class="edge-line" stroke="#8b7297" stroke-dasharray="6 6" d="M1133.07 874.34C1130.81 900.33 1128.13 931.16 1126.52 949.62"/>
+<path class="edge-hit" d="M1123.79 984.37C1122.32 1002.86 1119.86 1033.77 1117.78 1059.8"/><path class="edge-line" stroke="#8b7297" stroke-dasharray="6 6" d="M1123.79 984.37C1122.32 1002.86 1119.86 1033.77 1117.78 1059.8" marker-end="url(#arrow-mesopotamia-iran-contact)"/>
+<rect class="edge-label-bg" x="1046.35" y="950" width="157.5" height="34" rx="7" fill="#fdfcf8" stroke="#8b7297" stroke-opacity=".28"/>
+<text class="edge-label" x="1125.1" y="972" text-anchor="middle">Iranian languages</text>
+</g>
+<g class="map-edge" id="map-edge-mesopotamia-iran-ws-medes-persia" data-connection="ws-medes-persia" data-map="mesopotamia-iran" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Medes to Achaemenid Persian Empire: Cyrus defeats Astyages. Open relationship details." style="--edge-color:#aa6355"><title>Conquest: Cyrus defeats Astyages</title>
+<path class="edge-hit" d="M1106.04 1154.34C1101.52 1180.33 1096.16 1211.16 1092.95 1229.62"/><path class="edge-line" stroke="#aa6355"  d="M1106.04 1154.34C1101.52 1180.33 1096.16 1211.16 1092.95 1229.62"/>
+<path class="edge-hit" d="M1090.1 1264.37C1090.1 1282.86 1090.1 1313.77 1090.1 1339.8"/><path class="edge-line" stroke="#aa6355"  d="M1090.1 1264.37C1090.1 1282.86 1090.1 1313.77 1090.1 1339.8" marker-end="url(#arrow-mesopotamia-iran-conquest)"/>
+<rect class="edge-label-bg" x="992.5999999999999" y="1230" width="195" height="34" rx="7" fill="#fdfcf8" stroke="#aa6355" stroke-opacity=".28"/>
+<text class="edge-label" x="1090.1" y="1252" text-anchor="middle">Cyrus defeats Astyages</text>
+</g>
+<g class="map-edge" id="map-edge-mesopotamia-iran-ws-babylon-persia" data-connection="ws-babylon-persia" data-map="mesopotamia-iran" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Neo-Babylonian Empire to Achaemenid Persian Empire: Capture of Babylon. Open relationship details." style="--edge-color:#aa6355"><title>Conquest: Capture of Babylon</title>
+<path class="edge-hit" d="M843.13 1154.34C845.39 1180.33 848.07 1211.16 849.68 1229.62"/><path class="edge-line" stroke="#aa6355"  d="M843.13 1154.34C845.39 1180.33 848.07 1211.16 849.68 1229.62"/>
+<path class="edge-hit" d="M879.45 1264.37C911.42 1282.83 964.8 1313.65 1009.83 1339.65"/><path class="edge-line" stroke="#aa6355"  d="M879.45 1264.37C911.42 1282.83 964.8 1313.65 1009.83 1339.65" marker-end="url(#arrow-mesopotamia-iran-conquest)"/>
+<rect class="edge-label-bg" x="768.6" y="1230" width="165" height="34" rx="7" fill="#fdfcf8" stroke="#aa6355" stroke-opacity=".28"/>
+<text class="edge-label" x="851.1" y="1252" text-anchor="middle">Capture of Babylon</text>
+</g>
+<g class="map-edge" id="map-edge-mesopotamia-iran-ws-elam-persia" data-connection="ws-elam-persia" data-map="mesopotamia-iran" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Elamite Civilization to Achaemenid Persian Empire: Susa &amp; administration. Open relationship details." style="--edge-color:#8b7297"><title>Contact / influence: Susa &amp; administration</title>
+<path class="edge-hit" d="M1242.56 594.13C1277.76 647.28 1328.1 738.59 1328.1 826C1328.1 826 1328.1 826 1328.1 968C1328.1 1067.42 1328.1 1186.85 1328.1 1229.71"/><path class="edge-line" stroke="#8b7297" stroke-dasharray="6 6" d="M1242.56 594.13C1277.76 647.28 1328.1 738.59 1328.1 826C1328.1 826 1328.1 826 1328.1 968C1328.1 1067.42 1328.1 1186.85 1328.1 1229.71"/>
+<path class="edge-hit" d="M1299.86 1264.37C1268.03 1282.83 1214.87 1313.65 1170.04 1339.65"/><path class="edge-line" stroke="#8b7297" stroke-dasharray="6 6" d="M1299.86 1264.37C1268.03 1282.83 1214.87 1313.65 1170.04 1339.65" marker-end="url(#arrow-mesopotamia-iran-contact)"/>
+<rect class="edge-label-bg" x="1234.35" y="1230" width="187.5" height="34" rx="7" fill="#fdfcf8" stroke="#8b7297" stroke-opacity=".28"/>
+<text class="edge-label" x="1328.1" y="1252" text-anchor="middle">Susa &amp; administration</text>
+</g>
+<g class="map-node" id="map-node-mesopotamia-iran-sumer" data-history="sumer" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Sumer · cities and writing, 4000 BCE–2004 BCE. Open Wikipedia." data-map="mesopotamia-iran"><title>Sumer · cities and writing · 4000 BCE–2004 BCE</title><rect x="474.1" y="220" width="228" height="94" rx="10" fill="#eab18d"/>
+<text class="map-label" style="font-size:21px" x="588.1" y="263" text-anchor="middle">Sumer</text>
+<text class="map-date" x="588.1" y="299" text-anchor="middle">4000 BCE–2004 BCE</text></g>
+<g class="map-node" id="map-node-mesopotamia-iran-uruk" data-history="uruk" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Uruk · early urban growth, c. 3500–3000 BCE. Open Wikipedia." data-map="mesopotamia-iran"><title>Uruk · early urban growth · c. 3500–3000 BCE</title><rect x="217.10000000000002" y="500" width="228" height="94" rx="10" fill="#e9c56b"/>
+<text class="map-label" style="font-size:21px" x="331.1" y="531" text-anchor="middle">Uruk · early urban</text>
+<text class="map-label" style="font-size:21px" x="331.1" y="555" text-anchor="middle">growth</text>
+<text class="map-date" x="331.1" y="579" text-anchor="middle">c. 3500–3000 BCE</text></g>
+<g class="map-node" id="map-node-mesopotamia-iran-mesop" data-history="mesop" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Early Dynastic city-states, c. 2900–2350 BCE. Open Wikipedia." data-map="mesopotamia-iran"><title>Early Dynastic city-states · c. 2900–2350 BCE</title><rect x="178.10000000000002" y="780" width="228" height="94" rx="10" fill="#eab18d"/>
+<text class="map-label" style="font-size:21px" x="292.1" y="811" text-anchor="middle">Early Dynastic</text>
+<text class="map-label" style="font-size:21px" x="292.1" y="835" text-anchor="middle">city-states</text>
+<text class="map-date" x="292.1" y="859" text-anchor="middle">c. 2900–2350 BCE</text></g>
+<g class="map-node" id="map-node-mesopotamia-iran-akkad" data-history="akkad" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Akkadian period, c. 2350–2150 BCE. Open Wikipedia." data-map="mesopotamia-iran"><title>Akkadian period · c. 2350–2150 BCE</title><rect x="178.10000000000002" y="1060" width="228" height="94" rx="10" fill="#e1ce82"/>
+<text class="map-label" style="font-size:21px" x="292.1" y="1103" text-anchor="middle">Akkadian period</text>
+<text class="map-date" x="292.1" y="1139" text-anchor="middle">c. 2350–2150 BCE</text></g>
+<g class="map-node" id="map-node-mesopotamia-iran-oldbab" data-history="oldbab" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Old Babylonian dynasty, c. 1894–1595 BCE. Open Wikipedia." data-map="mesopotamia-iran"><title>Old Babylonian dynasty · c. 1894–1595 BCE</title><rect x="812.1" y="500" width="228" height="94" rx="10" fill="#9bc6b5"/>
+<text class="map-label" style="font-size:21px" x="926.1" y="531" text-anchor="middle">Old Babylonian</text>
+<text class="map-label" style="font-size:21px" x="926.1" y="555" text-anchor="middle">dynasty</text>
+<text class="map-date" x="926.1" y="579" text-anchor="middle">c. 1894–1595 BCE</text></g>
+<g class="map-node" id="map-node-mesopotamia-iran-hittite" data-history="hittite" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Hittite kingdom and empire, c. 1650 BCE–1180 BCE. Open Wikipedia." data-map="mesopotamia-iran"><title>Hittite kingdom and empire · c. 1650 BCE–1180 BCE</title><rect x="812.1" y="220" width="228" height="94" rx="10" fill="#86b5c2"/>
+<text class="map-label" style="font-size:21px" x="926.1" y="251" text-anchor="middle">Hittite kingdom and</text>
+<text class="map-label" style="font-size:21px" x="926.1" y="275" text-anchor="middle">empire</text>
+<text class="map-date" x="926.1" y="299" text-anchor="middle">c. 1650 BCE–1180 BCE</text></g>
+<g class="map-node" id="map-node-mesopotamia-iran-kassite" data-history="kassite" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Middle Babylonian / Kassite period, c. 1595–1155 BCE. Open Wikipedia." data-map="mesopotamia-iran"><title>Middle Babylonian / Kassite period · c. 1595–1155 BCE</title><rect x="748.1" y="780" width="228" height="94" rx="10" fill="#e9c56b"/>
+<text class="map-label" style="font-size:21px" x="862.1" y="811" text-anchor="middle">Middle Babylonian /</text>
+<text class="map-label" style="font-size:21px" x="862.1" y="835" text-anchor="middle">Kassite period</text>
+<text class="map-date" x="862.1" y="859" text-anchor="middle">c. 1595–1155 BCE</text></g>
+<g class="map-node" id="map-node-mesopotamia-iran-middle-assyrian" data-history="middle-assyrian" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Assyria · Middle Assyrian period, 1365 BCE–911 BCE. Open Wikipedia." data-map="mesopotamia-iran"><title>Assyria · Middle Assyrian period · 1365 BCE–911 BCE</title><rect x="522.1" y="500" width="228" height="94" rx="10" fill="#86b5c2"/>
+<text class="map-label" style="font-size:21px" x="636.1" y="543" text-anchor="middle">Assyrian Empire</text>
+<text class="map-date" x="636.1" y="579" text-anchor="middle">1365 BCE–911 BCE</text></g>
+<g class="map-node" id="map-node-mesopotamia-iran-elam" data-history="elam" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Elam · kingdoms of southwest Iran, 2700 BCE–539 BCE. Open Wikipedia." data-map="mesopotamia-iran"><title>Elam · kingdoms of southwest Iran · 2700 BCE–539 BCE</title><rect x="1095.1" y="500" width="228" height="94" rx="10" fill="#e9c56b"/>
+<text class="map-label" style="font-size:21px" x="1209.1" y="531" text-anchor="middle">Elamite</text>
+<text class="map-label" style="font-size:21px" x="1209.1" y="555" text-anchor="middle">Civilization</text>
+<text class="map-date" x="1209.1" y="579" text-anchor="middle">2700 BCE–539 BCE</text></g>
+<g class="map-node" id="map-node-mesopotamia-iran-assyria" data-history="assyria" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Neo-Assyrian Empire, c. 911–612 BCE. Open Wikipedia." data-map="mesopotamia-iran"><title>Neo-Assyrian Empire · c. 911–612 BCE</title><rect x="460.1" y="780" width="228" height="94" rx="10" fill="#e1ce82"/>
+<text class="map-label" style="font-size:19px" x="574.1" y="823" text-anchor="middle">Neo-Assyrian Empire</text>
+<text class="map-date" x="574.1" y="859" text-anchor="middle">c. 911–612 BCE</text></g>
+<g class="map-node" id="map-node-mesopotamia-iran-medes" data-history="medes" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Medes · kingdom and debated empire, 678 BCE–550 BCE. Open Wikipedia." data-map="mesopotamia-iran"><title>Medes · kingdom and debated empire · 678 BCE–550 BCE</title><rect x="1000.0999999999999" y="1060" width="228" height="94" rx="10" fill="#eab18d"/>
+<text class="map-label" style="font-size:21px" x="1114.1" y="1103" text-anchor="middle">Medes</text>
+<text class="map-date" x="1114.1" y="1139" text-anchor="middle">678 BCE–550 BCE</text></g>
+<g class="map-node" id="map-node-mesopotamia-iran-neo-babylonian" data-history="neo-babylonian" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Neo-Babylonian Empire, 626 BCE–539 BCE. Open Wikipedia." data-map="mesopotamia-iran"><title>Neo-Babylonian Empire · 626 BCE–539 BCE</title><rect x="725.1" y="1060" width="228" height="94" rx="10" fill="#86b5c2"/>
+<text class="map-label" style="font-size:21px" x="839.1" y="1091" text-anchor="middle">Neo-Babylonian</text>
+<text class="map-label" style="font-size:21px" x="839.1" y="1115" text-anchor="middle">Empire</text>
+<text class="map-date" x="839.1" y="1139" text-anchor="middle">626 BCE–539 BCE</text></g>
+<g class="map-node" id="map-node-mesopotamia-iran-early-iranian-peoples" data-history="early-iranian-peoples" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Early Iranian-speaking peoples, 1500 BCE–550 BCE. Open Wikipedia." data-map="mesopotamia-iran"><title>Early Iranian-speaking peoples · 1500 BCE–550 BCE</title><rect x="1023.0999999999999" y="780" width="228" height="94" rx="10" fill="#e9c56b"/>
+<text class="map-label" style="font-size:21px" x="1137.1" y="823" text-anchor="middle">Iranian Tribes</text>
+<text class="map-date" x="1137.1" y="859" text-anchor="middle">1500 BCE–550 BCE</text></g>
+<g class="map-node" id="map-node-mesopotamia-iran-persia" data-history="persia" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Achaemenid Persian Empire, 550–330 BCE. Open Wikipedia." data-map="mesopotamia-iran"><title>Achaemenid Persian Empire · 550–330 BCE</title><rect x="976.0999999999999" y="1340" width="228" height="94" rx="10" fill="#9bc6b5"/>
+<text class="map-label" style="font-size:20px" x="1090.1" y="1371" text-anchor="middle">Achaemenid Persian</text>
+<text class="map-label" style="font-size:20px" x="1090.1" y="1395" text-anchor="middle">Empire</text>
+<text class="map-date" x="1090.1" y="1419" text-anchor="middle">550–330 BCE</text></g>
+<text class="map-micro" x="800" y="1555" text-anchor="middle">Continue this history on another map</text>
+<g class="map-continuation" id="map-jump-mesopotamia-iran-0" role="button" tabindex="0" data-map-target="ancient-anatolia-levant" data-map-history="hittite" aria-label="Ancient Anatolia &amp; Levant"><rect x="112" y="1569" width="680" height="70" rx="8" fill="#edf3e5" stroke="#bdcdb1"/>
+<text x="452" y="1605" text-anchor="middle" style="font-size:16px">Ancient Anatolia &amp; Levant</text>
+</g>
+<g class="map-continuation" id="map-jump-mesopotamia-iran-1" role="button" tabindex="0" data-map-target="west-asia" data-map-history="persia" aria-label="Persian, Hellenistic &amp; Islamic realms"><rect x="808" y="1569" width="680" height="70" rx="8" fill="#edf3e5" stroke="#bdcdb1"/>
+<text x="1148" y="1605" text-anchor="middle" style="font-size:16px">Persian, Hellenistic &amp; Islamic realms</text>
+</g>
+<path d="M70 1675h20" stroke="#3b8274" stroke-width="3"/><text x="98" y="1680" style="font-size:14px;fill:#6b7b5e">Union</text>
+<path d="M362 1675h20" stroke="#b88636" stroke-width="3"/><text x="390" y="1680" style="font-size:14px;fill:#6b7b5e">Division</text>
+<path d="M654 1675h20" stroke="#aa6355" stroke-width="3"/><text x="682" y="1680" style="font-size:14px;fill:#6b7b5e">Conquest</text>
+<path d="M946 1675h20" stroke="#638350" stroke-width="3"/><text x="974" y="1680" style="font-size:14px;fill:#6b7b5e">Independence</text>
+<path d="M1238 1675h20" stroke="#5d7f9d" stroke-width="3"/><text x="1266" y="1680" style="font-size:14px;fill:#6b7b5e">Change of rule</text>
+<path d="M70 1701h20" stroke="#8b7297" stroke-width="3"/><text x="98" y="1706" style="font-size:14px;fill:#6b7b5e">Contact / influence</text>
+<path d="M362 1701h20" stroke="#9a8055" stroke-width="3"/><text x="390" y="1706" style="font-size:14px;fill:#6b7b5e">Colonial rule</text>
+<path d="M654 1701h20" stroke="#92917a" stroke-width="3"/><text x="682" y="1706" style="font-size:14px;fill:#6b7b5e">Context / overlap</text>
+<path d="M946 1701h20" stroke="#7d8c6f" stroke-width="3"/><text x="974" y="1706" style="font-size:14px;fill:#6b7b5e">Period transition</text>
+<text class="map-micro" x="800" y="1742" text-anchor="middle">Selected connections · Layout is not a time, territory or ancestry scale</text></svg>

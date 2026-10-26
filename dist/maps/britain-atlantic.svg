@@ -1,0 +1,123 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1839" width="1600" height="1839" role="group" aria-labelledby="map-title-britain-atlantic map-desc-britain-atlantic"><title id="map-title-britain-atlantic">Britain &amp; the Atlantic</title><desc id="map-desc-britain-atlantic">Selected, sourced connections. Arrows label unions, divisions, conquest, independence, changes in rule, and contact. Node positions do not measure time or ancestry.  Select a node for Wikipedia or an arrow for its sources.</desc><defs>
+<marker id="arrow-britain-atlantic-union" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#3b8274"/></marker>
+<marker id="arrow-britain-atlantic-division" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#b88636"/></marker>
+<marker id="arrow-britain-atlantic-conquest" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#aa6355"/></marker>
+<marker id="arrow-britain-atlantic-independence" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#638350"/></marker>
+<marker id="arrow-britain-atlantic-continuation" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#5d7f9d"/></marker>
+<marker id="arrow-britain-atlantic-contact" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#8b7297"/></marker>
+<marker id="arrow-britain-atlantic-colonial" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#9a8055"/></marker>
+<marker id="arrow-britain-atlantic-context" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#92917a"/></marker>
+<marker id="arrow-britain-atlantic-period" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#7d8c6f"/></marker>
+</defs><style>text{font-family:Arial,Helvetica,sans-serif;fill:#25372c}.map-node,.map-edge{cursor:pointer;outline:none}.map-node rect{stroke:#fffdf8;stroke-width:2}.map-node:hover rect,.map-node:focus rect{stroke:#3c5441;stroke-width:3}.map-label{font-size:21px;font-weight:600;pointer-events:none}.map-date{font-size:12px;fill:#617056;pointer-events:none}.edge-line{fill:none;stroke-width:2.5;stroke-linejoin:round;stroke-linecap:round}.edge-hit{fill:none;stroke:transparent;stroke-width:36;vector-effect:non-scaling-stroke}.map-edge:hover .edge-label-bg,.map-edge:focus .edge-label-bg{stroke:#334d3c;stroke-width:2}.map-edge:hover .edge-line,.map-edge:focus .edge-line{stroke-width:4}.edge-label{font-size:15px;font-weight:500;pointer-events:none}.map-heading{font-size:47px;font-weight:700;letter-spacing:-1.2px}.map-subtitle{font-size:24px;fill:#67785a}.map-micro{font-size:13px;fill:#8a977d}.map-node.dim{opacity:.15}.map-node.hit rect{stroke:#294332;stroke-width:4}.map-node.selected rect{stroke:#294332;stroke-width:4}.map-edge.related .edge-line{stroke-width:4.5}</style><rect width="100%" height="100%" fill="#fdfcf8"/><text class="map-heading" x="800" y="74" text-anchor="middle">EMPIRES &amp; CONNECTIONS</text><text class="map-subtitle" x="800" y="117" text-anchor="middle">Britain &amp; the Atlantic</text><text class="map-micro" x="800" y="154" text-anchor="middle">Tap a node to read · Tap an arrow for the event and sources</text>
+<g class="map-edge" id="map-edge-britain-atlantic-union1707" data-connection="union1707" data-map="britain-atlantic" role="button" tabindex="0" aria-haspopup="dialog" aria-label="England + Scotland to Great Britain: 1707 · union. Open relationship details." style="--edge-color:#3b8274"><title>Union: 1707 · union</title>
+<path class="edge-hit" d="M214 314C214 415 214 415 399 415"/><path class="edge-line" stroke="#3b8274"  d="M214 314C214 415 214 415 399 415"/>
+<path class="edge-hit" d="M584 314C584 415 584 415 399 415"/><path class="edge-line" stroke="#3b8274"  d="M584 314C584 415 584 415 399 415"/>
+<path class="edge-hit" d="M399 415C399 415 399 415 399 475"/><path class="edge-line" stroke="#3b8274"  d="M399 415C399 415 399 415 399 475" marker-end="url(#arrow-britain-atlantic-union)"/>
+<rect class="edge-label-bg" x="339" y="398" width="120" height="34" rx="7" fill="#fdfcf8" stroke="#3b8274" stroke-opacity=".28"/>
+<text class="edge-label" x="399" y="420" text-anchor="middle">1707 · union</text>
+</g>
+<g class="map-edge" id="map-edge-britain-atlantic-english-expansion" data-connection="english-expansion" data-map="britain-atlantic" role="button" tabindex="0" aria-haspopup="dialog" aria-label="England to British Empire: 1600s · overseas expansion. Open relationship details." style="--edge-color:#9a8055"><title>Colonial rule: 1600s · overseas expansion</title>
+<path class="edge-hit" d="M328 267L352 267L352 345L1144 345L1144 350"/><path class="edge-line" stroke="#9a8055"  d="M328 267L352 267L352 345L1144 345L1144 350"/>
+<path class="edge-hit" d="M1144 350C1144 350 1144 350 1144 475"/><path class="edge-line" stroke="#9a8055"  d="M1144 350C1144 350 1144 350 1144 475" marker-end="url(#arrow-britain-atlantic-colonial)"/>
+<rect class="edge-label-bg" x="1031.5" y="333" width="225" height="34" rx="7" fill="#fdfcf8" stroke="#9a8055" stroke-opacity=".28"/>
+<text class="edge-label" x="1144" y="355" text-anchor="middle">1600s · overseas expansion</text>
+</g>
+<g class="map-edge" id="map-edge-britain-atlantic-british-colonies" data-connection="british-colonies" data-map="britain-atlantic" role="button" tabindex="0" aria-haspopup="dialog" aria-label="British Empire to British America: Colonial administration. Open relationship details." style="--edge-color:#9a8055"><title>Colonial rule: Colonial administration</title>
+<path class="edge-hit" d="M1144 569C1144 645 1144 645 1114 645"/><path class="edge-line" stroke="#9a8055"  d="M1144 569C1144 645 1144 645 1114 645"/>
+<path class="edge-hit" d="M1114 645C1114 645 1114 645 1114 705"/><path class="edge-line" stroke="#9a8055"  d="M1114 645C1114 645 1114 645 1114 705" marker-end="url(#arrow-britain-atlantic-colonial)"/>
+<rect class="edge-label-bg" x="1012.75" y="628" width="202.5" height="34" rx="7" fill="#fdfcf8" stroke="#9a8055" stroke-opacity=".28"/>
+<text class="edge-label" x="1114" y="650" text-anchor="middle">Colonial administration</text>
+</g>
+<g class="map-edge" id="map-edge-britain-atlantic-union1801" data-connection="union1801" data-map="britain-atlantic" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Great Britain + Kingdom of Ireland to United Kingdom: 1801 · union. Open relationship details." style="--edge-color:#3b8274"><title>Union: 1801 · union</title>
+<path class="edge-hit" d="M399 569C399 880 399 880 399 880"/><path class="edge-line" stroke="#3b8274"  d="M399 569C399 880 399 880 399 880"/>
+<path class="edge-hit" d="M174 799C174 880 174 880 399 880"/><path class="edge-line" stroke="#3b8274"  d="M174 799C174 880 174 880 399 880"/>
+<path class="edge-hit" d="M399 880C399 880 399 880 399 960"/><path class="edge-line" stroke="#3b8274"  d="M399 880C399 880 399 880 399 960" marker-end="url(#arrow-britain-atlantic-union)"/>
+<rect class="edge-label-bg" x="339" y="863" width="120" height="34" rx="7" fill="#fdfcf8" stroke="#3b8274" stroke-opacity=".28"/>
+<text class="edge-label" x="399" y="885" text-anchor="middle">1801 · union</text>
+</g>
+<g class="map-edge" id="map-edge-britain-atlantic-atlantic1783" data-connection="atlantic1783" data-map="britain-atlantic" role="button" tabindex="0" aria-haspopup="dialog" aria-label="British America to United States + British northern colonies: 1776–83 · independence &amp; remaining colonies. Open relationship details." style="--edge-color:#b88636"><title>Division: 1776–83 · independence &amp; remaining colonies</title>
+<path class="edge-hit" d="M1114 799C1114 880 1114 880 920 880"/><path class="edge-line" stroke="#b88636"  d="M1114 799C1114 880 1114 880 920 880"/>
+<path class="edge-hit" d="M920 880C804 880 804 880 804 960"/><path class="edge-line" stroke="#b88636"  d="M920 880C804 880 804 880 804 960" marker-end="url(#arrow-britain-atlantic-division)"/>
+<path class="edge-hit" d="M920 880C1324 880 1324 880 1324 960"/><path class="edge-line" stroke="#b88636"  d="M920 880C1324 880 1324 880 1324 960" marker-end="url(#arrow-britain-atlantic-division)"/>
+<rect class="edge-label-bg" x="777.5" y="853" width="285" height="54" rx="7" fill="#fdfcf8" stroke="#b88636" stroke-opacity=".28"/>
+<text class="edge-label" x="920" y="875" text-anchor="middle">1776–83 · independence &amp; remaining</text>
+<text class="edge-label" x="920" y="895" text-anchor="middle">colonies</text>
+</g>
+<g class="map-edge" id="map-edge-britain-atlantic-canada1763" data-connection="canada1763" data-map="britain-atlantic" role="button" tabindex="0" aria-haspopup="dialog" aria-label="New France to British northern colonies: 1763 · cession of Canada. Open relationship details." style="--edge-color:#aa6355"><title>Conquest: 1763 · cession of Canada</title>
+<path class="edge-hit" d="M1444 799C1444 880 1444 880 1400 880"/><path class="edge-line" stroke="#aa6355"  d="M1444 799C1444 880 1444 880 1400 880"/>
+<path class="edge-hit" d="M1400 880C1324 880 1324 880 1324 960"/><path class="edge-line" stroke="#aa6355"  d="M1400 880C1324 880 1324 880 1324 960" marker-end="url(#arrow-britain-atlantic-conquest)"/>
+<rect class="edge-label-bg" x="1295" y="863" width="210" height="34" rx="7" fill="#fdfcf8" stroke="#aa6355" stroke-opacity=".28"/>
+<text class="edge-label" x="1400" y="885" text-anchor="middle">1763 · cession of Canada</text>
+</g>
+<g class="map-edge" id="map-edge-britain-atlantic-canada-confederation" data-connection="canada-confederation" data-map="britain-atlantic" role="button" tabindex="0" aria-haspopup="dialog" aria-label="British northern colonies to Canada: 1867 · Confederation. Open relationship details." style="--edge-color:#3b8274"><title>Union: 1867 · Confederation</title>
+<path class="edge-hit" d="M1324 1054C1324 1140 1324 1140 1324 1140"/><path class="edge-line" stroke="#3b8274"  d="M1324 1054C1324 1140 1324 1140 1324 1140"/>
+<path class="edge-hit" d="M1324 1140C1324 1140 1324 1140 1324 1215"/><path class="edge-line" stroke="#3b8274"  d="M1324 1140C1324 1140 1324 1140 1324 1215" marker-end="url(#arrow-britain-atlantic-union)"/>
+<rect class="edge-label-bg" x="1234" y="1123" width="180" height="34" rx="7" fill="#fdfcf8" stroke="#3b8274" stroke-opacity=".28"/>
+<text class="edge-label" x="1324" y="1145" text-anchor="middle">1867 · Confederation</text>
+</g>
+<g class="map-edge" id="map-edge-britain-atlantic-irish-state" data-connection="irish-state" data-map="britain-atlantic" role="button" tabindex="0" aria-haspopup="dialog" aria-label="United Kingdom to Irish Free State: 1922 · Free State established. Open relationship details." style="--edge-color:#638350"><title>Independence: 1922 · Free State established</title>
+<path class="edge-hit" d="M399 1054C399 1140 399 1140 399 1140"/><path class="edge-line" stroke="#638350"  d="M399 1054C399 1140 399 1140 399 1140"/>
+<path class="edge-hit" d="M399 1140C399 1140 399 1140 399 1215"/><path class="edge-line" stroke="#638350"  d="M399 1140C399 1140 399 1140 399 1215" marker-end="url(#arrow-britain-atlantic-independence)"/>
+<rect class="edge-label-bg" x="275.25" y="1123" width="247.5" height="34" rx="7" fill="#fdfcf8" stroke="#638350" stroke-opacity=".28"/>
+<text class="edge-label" x="399" y="1145" text-anchor="middle">1922 · Free State established</text>
+</g>
+<g class="map-edge" id="map-edge-britain-atlantic-ireland-constitution" data-connection="ireland-constitution" data-map="britain-atlantic" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Irish Free State to Ireland: 1937 / 1949 · constitutional changes. Open relationship details." style="--edge-color:#5d7f9d"><title>Change of rule: 1937 / 1949 · constitutional changes</title>
+<path class="edge-hit" d="M399 1309C399 1400 399 1400 399 1400"/><path class="edge-line" stroke="#5d7f9d"  d="M399 1309C399 1400 399 1400 399 1400"/>
+<path class="edge-hit" d="M399 1400C399 1400 399 1400 399 1475"/><path class="edge-line" stroke="#5d7f9d"  d="M399 1400C399 1400 399 1400 399 1475" marker-end="url(#arrow-britain-atlantic-continuation)"/>
+<rect class="edge-label-bg" x="249" y="1383" width="300" height="34" rx="7" fill="#fdfcf8" stroke="#5d7f9d" stroke-opacity=".28"/>
+<text class="edge-label" x="399" y="1405" text-anchor="middle">1937 / 1949 · constitutional changes</text>
+</g>
+<g class="map-node" id="map-node-britain-atlantic-england" data-history="england" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Kingdom of England, 927 CE–1707 CE. Open Wikipedia." data-map="britain-atlantic"><title>Kingdom of England · 927 CE–1707 CE</title><rect x="100" y="220" width="228" height="94" rx="10" fill="#b7d08f"/>
+<text class="map-label" style="font-size:21px" x="214" y="263" text-anchor="middle">England</text>
+<text class="map-date" x="214" y="299" text-anchor="middle">927–1707</text></g>
+<g class="map-node" id="map-node-britain-atlantic-scotland" data-history="scotland" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Kingdom of Scotland, 843 CE–1707 CE. Open Wikipedia." data-map="britain-atlantic"><title>Kingdom of Scotland · 843 CE–1707 CE</title><rect x="470" y="220" width="228" height="94" rx="10" fill="#92c4bd"/>
+<text class="map-label" style="font-size:21px" x="584" y="263" text-anchor="middle">Scotland</text>
+<text class="map-date" x="584" y="299" text-anchor="middle">843–1707</text></g>
+<g class="map-node" id="map-node-britain-atlantic-greatbritain" data-history="greatbritain" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Kingdom of Great Britain, 1707 CE–1801 CE. Open Wikipedia." data-map="britain-atlantic"><title>Kingdom of Great Britain · 1707 CE–1801 CE</title><rect x="285" y="475" width="228" height="94" rx="10" fill="#b7d08f"/>
+<text class="map-label" style="font-size:21px" x="399" y="518" text-anchor="middle">Great Britain</text>
+<text class="map-date" x="399" y="554" text-anchor="middle">1707–1801</text></g>
+<g class="map-node" id="map-node-britain-atlantic-britishempire" data-history="britishempire" role="button" tabindex="0" aria-haspopup="dialog" aria-label="British Empire · major overseas phase, 1607 CE–1997 CE. Open Wikipedia." data-map="britain-atlantic"><title>British Empire · major overseas phase · 1607 CE–1997 CE</title><rect x="1030" y="475" width="228" height="94" rx="10" fill="#edbc75"/>
+<text class="map-label" style="font-size:21px" x="1144" y="518" text-anchor="middle">British Empire</text>
+<text class="map-date" x="1144" y="554" text-anchor="middle">1607–1997</text></g>
+<g class="map-node" id="map-node-britain-atlantic-cn-ireland" data-history="cn-ireland" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Kingdom of Ireland, 1541–1801 CE. Open Wikipedia." data-map="britain-atlantic"><title>Kingdom of Ireland · 1541–1801 CE</title><rect x="60" y="705" width="228" height="94" rx="10" fill="#b7d08f"/>
+<text class="map-label" style="font-size:21px" x="174" y="748" text-anchor="middle">Kingdom of Ireland</text>
+<text class="map-date" x="174" y="784" text-anchor="middle">1541–1801</text></g>
+<g class="map-node" id="map-node-britain-atlantic-britishamerica" data-history="britishamerica" role="button" tabindex="0" aria-haspopup="dialog" aria-label="British America, 1607 CE–1783 CE. Open Wikipedia." data-map="britain-atlantic"><title>British America · 1607 CE–1783 CE</title><rect x="1000" y="705" width="228" height="94" rx="10" fill="#efc16f"/>
+<text class="map-label" style="font-size:21px" x="1114" y="748" text-anchor="middle">British America</text>
+<text class="map-date" x="1114" y="784" text-anchor="middle">1607–1783</text></g>
+<g class="map-node" id="map-node-britain-atlantic-newfrance" data-history="newfrance" role="button" tabindex="0" aria-haspopup="dialog" aria-label="New France, 1534 CE–1763 CE. Open Wikipedia." data-map="britain-atlantic"><title>New France · 1534 CE–1763 CE</title><rect x="1330" y="705" width="228" height="94" rx="10" fill="#92bccd"/>
+<text class="map-label" style="font-size:21px" x="1444" y="748" text-anchor="middle">New France</text>
+<text class="map-date" x="1444" y="784" text-anchor="middle">1534–1763</text></g>
+<g class="map-node" id="map-node-britain-atlantic-unitedkingdom" data-history="unitedkingdom" role="button" tabindex="0" aria-haspopup="dialog" aria-label="United Kingdom, 1801 CE–present. Open Wikipedia." data-map="britain-atlantic"><title>United Kingdom · 1801 CE–present</title><rect x="285" y="960" width="228" height="94" rx="10" fill="#92c4bd"/>
+<text class="map-label" style="font-size:21px" x="399" y="1003" text-anchor="middle">United Kingdom</text>
+<text class="map-date" x="399" y="1039" text-anchor="middle">1801–present</text></g>
+<g class="map-node" id="map-node-britain-atlantic-unitedstates" data-history="unitedstates" role="button" tabindex="0" aria-haspopup="dialog" aria-label="United States, 1776 CE–present. Open Wikipedia." data-map="britain-atlantic"><title>United States · 1776 CE–present</title><rect x="690" y="960" width="228" height="94" rx="10" fill="#a9cd9b"/>
+<text class="map-label" style="font-size:21px" x="804" y="1003" text-anchor="middle">United States</text>
+<text class="map-date" x="804" y="1039" text-anchor="middle">1776–present</text></g>
+<g class="map-node" id="map-node-britain-atlantic-cn-britishnorth" data-history="cn-britishnorth" role="button" tabindex="0" aria-haspopup="dialog" aria-label="British northern colonies · pre-Confederation, 1763–1867 CE · selected frame. Open Wikipedia." data-map="britain-atlantic"><title>British northern colonies · pre-Confederation · 1763–1867 CE · selected frame</title><rect x="1210" y="960" width="228" height="94" rx="10" fill="#a9cd9b"/>
+<text class="map-label" style="font-size:21px" x="1324" y="991" text-anchor="middle">British northern</text>
+<text class="map-label" style="font-size:21px" x="1324" y="1015" text-anchor="middle">colonies</text>
+<text class="map-date" x="1324" y="1039" text-anchor="middle">1763–1867 · selected frame</text></g>
+<g class="map-node" id="map-node-britain-atlantic-cn-irishfree" data-history="cn-irishfree" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Irish Free State, 1922–1937 CE. Open Wikipedia." data-map="britain-atlantic"><title>Irish Free State · 1922–1937 CE</title><rect x="285" y="1215" width="228" height="94" rx="10" fill="#92c4bd"/>
+<text class="map-label" style="font-size:21px" x="399" y="1258" text-anchor="middle">Irish Free State</text>
+<text class="map-date" x="399" y="1294" text-anchor="middle">1922–1937</text></g>
+<g class="map-node" id="map-node-britain-atlantic-canada" data-history="canada" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Canada · from Confederation, 1867 CE–present. Open Wikipedia." data-map="britain-atlantic"><title>Canada · from Confederation · 1867 CE–present</title><rect x="1210" y="1215" width="228" height="94" rx="10" fill="#b3c2de"/>
+<text class="map-label" style="font-size:21px" x="1324" y="1258" text-anchor="middle">Canada</text>
+<text class="map-date" x="1324" y="1294" text-anchor="middle">1867–present</text></g>
+<g class="map-node" id="map-node-britain-atlantic-cn-ireland-modern" data-history="cn-ireland-modern" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Ireland · constitutional state, 1937 CE–present · selected frame. Open Wikipedia." data-map="britain-atlantic"><title>Ireland · constitutional state · 1937 CE–present · selected frame</title><rect x="285" y="1475" width="228" height="94" rx="10" fill="#b7d08f"/>
+<text class="map-label" style="font-size:21px" x="399" y="1518" text-anchor="middle">Ireland</text>
+<text class="map-date" x="399" y="1554" text-anchor="middle">1937–present · selected frame</text></g>
+<text class="map-micro" x="800" y="1630" text-anchor="middle">Continue this history on another map</text>
+<g class="map-continuation" id="map-jump-britain-atlantic-0" role="button" tabindex="0" data-map-target="iron-age-roman-encounters" data-map-history="england" aria-label="Iron Age communities, Rome &amp; post-Roman Britain"><rect x="460" y="1644" width="680" height="70" rx="8" fill="#edf3e5" stroke="#bdcdb1"/>
+<text x="800" y="1680" text-anchor="middle" style="font-size:16px">Iron Age communities, Rome &amp; post-Roman Britain</text>
+</g>
+<path d="M70 1750h20" stroke="#3b8274" stroke-width="3"/><text x="98" y="1755" style="font-size:14px;fill:#6b7b5e">Union</text>
+<path d="M362 1750h20" stroke="#b88636" stroke-width="3"/><text x="390" y="1755" style="font-size:14px;fill:#6b7b5e">Division</text>
+<path d="M654 1750h20" stroke="#aa6355" stroke-width="3"/><text x="682" y="1755" style="font-size:14px;fill:#6b7b5e">Conquest</text>
+<path d="M946 1750h20" stroke="#638350" stroke-width="3"/><text x="974" y="1755" style="font-size:14px;fill:#6b7b5e">Independence</text>
+<path d="M1238 1750h20" stroke="#5d7f9d" stroke-width="3"/><text x="1266" y="1755" style="font-size:14px;fill:#6b7b5e">Change of rule</text>
+<path d="M70 1776h20" stroke="#8b7297" stroke-width="3"/><text x="98" y="1781" style="font-size:14px;fill:#6b7b5e">Contact / influence</text>
+<path d="M362 1776h20" stroke="#9a8055" stroke-width="3"/><text x="390" y="1781" style="font-size:14px;fill:#6b7b5e">Colonial rule</text>
+<path d="M654 1776h20" stroke="#92917a" stroke-width="3"/><text x="682" y="1781" style="font-size:14px;fill:#6b7b5e">Context / overlap</text>
+<path d="M946 1776h20" stroke="#7d8c6f" stroke-width="3"/><text x="974" y="1781" style="font-size:14px;fill:#6b7b5e">Period transition</text>
+<text class="map-micro" x="800" y="1817" text-anchor="middle">Selected connections · Layout is not a time, territory or ancestry scale</text></svg>
