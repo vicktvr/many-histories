@@ -70,27 +70,27 @@
 <rect class="edge-label-bg" x="730.75" y="1510" width="307.5" height="34" rx="7" fill="#fdfcf8" stroke="#638350" stroke-opacity=".28"/>
 <text class="edge-label" x="884.5" y="1532" text-anchor="middle">United Provinces declare independence</text>
 </g>
-<g class="map-node" id="map-node-andes-rio-plata-caral" data-history="caral" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Caral-Supe, c. 3000–1800 BCE. Open Wikipedia." data-map="andes-rio-plata"><title>Caral-Supe · c. 3000–1800 BCE</title><rect x="238.5" y="220" width="228" height="94" rx="10" fill="#92bccd"/>
+<g class="map-node" id="map-node-andes-rio-plata-caral" data-history="caral" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Caral-Supe, c. 3000–1800 BC. Open Wikipedia." data-map="andes-rio-plata"><title>Caral-Supe · c. 3000–1800 BC</title><rect x="238.5" y="220" width="228" height="94" rx="10" fill="#92bccd"/>
 <circle cx="452.5" cy="234" r="10" fill="#fdfcf8"/><text x="452.5" y="238" text-anchor="middle" style="font-size:12px;font-weight:700">?</text>
 <text class="map-label" style="font-size:21px" x="352.5" y="263" text-anchor="middle">Caral-Supe</text>
-<text class="map-date" x="352.5" y="299" text-anchor="middle">c. 3000–1800 BCE</text></g>
-<g class="map-node" id="map-node-andes-rio-plata-moche" data-history="moche" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Moche traditions, c. 100 CE–800 CE. Open Wikipedia." data-map="andes-rio-plata"><title>Moche traditions · c. 100 CE–800 CE</title><rect x="513.5" y="220" width="228" height="94" rx="10" fill="#98c8b1"/>
+<text class="map-date" x="352.5" y="299" text-anchor="middle">c. 3000–1800 BC</text></g>
+<g class="map-node" id="map-node-andes-rio-plata-moche" data-history="moche" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Moche traditions, c. 100 AD–800 AD. Open Wikipedia." data-map="andes-rio-plata"><title>Moche traditions · c. 100 AD–800 AD</title><rect x="513.5" y="220" width="228" height="94" rx="10" fill="#98c8b1"/>
 <text class="map-label" style="font-size:21px" x="627.5" y="263" text-anchor="middle">Moche traditions</text>
 <text class="map-date" x="627.5" y="299" text-anchor="middle">c. 100–800</text></g>
-<g class="map-node" id="map-node-andes-rio-plata-nazca" data-history="nazca" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Nazca traditions, c. 100 BCE–800 CE. Open Wikipedia." data-map="andes-rio-plata"><title>Nazca traditions · c. 100 BCE–800 CE</title><rect x="788.5" y="220" width="228" height="94" rx="10" fill="#d2aed0"/>
+<g class="map-node" id="map-node-andes-rio-plata-nazca" data-history="nazca" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Nazca traditions, c. 100 BC–800 AD. Open Wikipedia." data-map="andes-rio-plata"><title>Nazca traditions · c. 100 BC–800 AD</title><rect x="788.5" y="220" width="228" height="94" rx="10" fill="#d2aed0"/>
 <text class="map-label" style="font-size:21px" x="902.5" y="263" text-anchor="middle">Nazca traditions</text>
-<text class="map-date" x="902.5" y="299" text-anchor="middle">c. 100 BCE–800 CE</text></g>
-<g class="map-node" id="map-node-andes-rio-plata-wari" data-history="wari" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Wari · expansion, c. 600 CE–1000 CE. Open Wikipedia." data-map="andes-rio-plata"><title>Wari · expansion · c. 600 CE–1000 CE</title><rect x="962.5" y="500" width="228" height="94" rx="10" fill="#92bccd"/>
+<text class="map-date" x="902.5" y="299" text-anchor="middle">c. 100 BC–800 AD</text></g>
+<g class="map-node" id="map-node-andes-rio-plata-wari" data-history="wari" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Wari · expansion, c. 600 AD–1000 AD. Open Wikipedia." data-map="andes-rio-plata"><title>Wari · expansion · c. 600 AD–1000 AD</title><rect x="962.5" y="500" width="228" height="94" rx="10" fill="#92bccd"/>
 <text class="map-label" style="font-size:21px" x="1076.5" y="543" text-anchor="middle">Wari · expansion</text>
 <text class="map-date" x="1076.5" y="579" text-anchor="middle">c. 600–1000</text></g>
-<g class="map-node" id="map-node-andes-rio-plata-tiwanaku" data-history="tiwanaku" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Tiwanaku, c. 500 CE–1000 CE. Open Wikipedia." data-map="andes-rio-plata"><title>Tiwanaku · c. 500 CE–1000 CE</title><rect x="1133.5" y="220" width="228" height="94" rx="10" fill="#b3c2de"/>
+<g class="map-node" id="map-node-andes-rio-plata-tiwanaku" data-history="tiwanaku" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Tiwanaku, c. 500 AD–1000 AD. Open Wikipedia." data-map="andes-rio-plata"><title>Tiwanaku · c. 500 AD–1000 AD</title><rect x="1133.5" y="220" width="228" height="94" rx="10" fill="#b3c2de"/>
 <text class="map-label" style="font-size:21px" x="1247.5" y="263" text-anchor="middle">Tiwanaku</text>
 <text class="map-date" x="1247.5" y="299" text-anchor="middle">c. 500–1000</text></g>
 <g class="map-node" id="map-node-andes-rio-plata-ao-chimor" data-history="ao-chimor" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Chimú kingdom / Chimor, c. 11th–15th centuries. Open Wikipedia." data-map="andes-rio-plata"><title>Chimú kingdom / Chimor · c. 11th–15th centuries</title><rect x="576.5" y="500" width="228" height="94" rx="10" fill="#92bccd"/>
 <text class="map-label" style="font-size:21px" x="690.5" y="531" text-anchor="middle">Chimú kingdom /</text>
 <text class="map-label" style="font-size:21px" x="690.5" y="555" text-anchor="middle">Chimor</text>
 <text class="map-date" x="690.5" y="579" text-anchor="middle">c. 11th–15th centuries</text></g>
-<g class="map-node" id="map-node-andes-rio-plata-inca" data-history="inca" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Inca imperial expansion, c. 1438–1532 CE. Open Wikipedia." data-map="andes-rio-plata"><title>Inca imperial expansion · c. 1438–1532 CE</title><rect x="769.5" y="780" width="228" height="94" rx="10" fill="#98c8b1"/>
+<g class="map-node" id="map-node-andes-rio-plata-inca" data-history="inca" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Inca imperial expansion, c. 1438–1532 AD. Open Wikipedia." data-map="andes-rio-plata"><title>Inca imperial expansion · c. 1438–1532 AD</title><rect x="769.5" y="780" width="228" height="94" rx="10" fill="#98c8b1"/>
 <text class="map-label" style="font-size:21px" x="883.5" y="811" text-anchor="middle">Inca imperial</text>
 <text class="map-label" style="font-size:21px" x="883.5" y="835" text-anchor="middle">expansion</text>
 <text class="map-date" x="883.5" y="859" text-anchor="middle">c. 1438–1532</text></g>
@@ -106,10 +106,10 @@
 <text class="map-label" style="font-size:21px" x="1021.5" y="1091" text-anchor="middle">Quechua-speaking</text>
 <text class="map-label" style="font-size:21px" x="1021.5" y="1115" text-anchor="middle">communities</text>
 <text class="map-date" x="1021.5" y="1139" text-anchor="middle">Historical roots–present</text></g>
-<g class="map-node" id="map-node-andes-rio-plata-poster-colonial-argentina" data-history="poster-colonial-argentina" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Spanish colonial Río de la Plata, 1536–1816 CE · selected regional frame. Open Wikipedia." data-map="andes-rio-plata"><title>Spanish colonial Río de la Plata · 1536–1816 CE · selected regional frame</title><rect x="770.5" y="1340" width="228" height="94" rx="10" fill="#efc16f"/>
+<g class="map-node" id="map-node-andes-rio-plata-poster-colonial-argentina" data-history="poster-colonial-argentina" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Spanish colonial Río de la Plata, 1536–1816 AD · selected regional frame. Open Wikipedia." data-map="andes-rio-plata"><title>Spanish colonial Río de la Plata · 1536–1816 AD · selected regional frame</title><rect x="770.5" y="1340" width="228" height="94" rx="10" fill="#efc16f"/>
 <text class="map-label" style="font-size:21px" x="884.5" y="1383" text-anchor="middle">Colonial Era</text>
 <text class="map-date" x="884.5" y="1419" text-anchor="middle">1536–1816 · selected regional frame</text></g>
-<g class="map-node" id="map-node-andes-rio-plata-argentinamodern" data-history="argentinamodern" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Argentina · independent eras, 1816 CE–present. Open Wikipedia." data-map="andes-rio-plata"><title>Argentina · independent eras · 1816 CE–present</title><rect x="770.5" y="1620" width="228" height="94" rx="10" fill="#efc16f"/>
+<g class="map-node" id="map-node-andes-rio-plata-argentinamodern" data-history="argentinamodern" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Argentina · independent eras, 1816 AD–present. Open Wikipedia." data-map="andes-rio-plata"><title>Argentina · independent eras · 1816 AD–present</title><rect x="770.5" y="1620" width="228" height="94" rx="10" fill="#efc16f"/>
 <text class="map-label" style="font-size:21px" x="884.5" y="1663" text-anchor="middle">Argentina</text>
 <text class="map-date" x="884.5" y="1699" text-anchor="middle">1816–present</text></g>
 <path d="M70 1815h20" stroke="#3b8274" stroke-width="3"/><text x="98" y="1820" style="font-size:14px;fill:#6b7b5e">Union</text>

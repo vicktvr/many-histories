@@ -9,30 +9,30 @@
 <marker id="arrow-west-asia-context" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#92917a"/></marker>
 <marker id="arrow-west-asia-period" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#7d8c6f"/></marker>
 </defs><style>text{font-family:Arial,Helvetica,sans-serif;fill:#25372c}.map-node,.map-edge{cursor:pointer;outline:none}.map-node rect{stroke:#fffdf8;stroke-width:2}.map-node:hover rect,.map-node:focus rect{stroke:#3c5441;stroke-width:3}.map-label{font-size:21px;font-weight:600;pointer-events:none}.map-date{font-size:12px;fill:#617056;pointer-events:none}.edge-line{fill:none;stroke-width:2.5;stroke-linejoin:round;stroke-linecap:round}.edge-hit{fill:none;stroke:transparent;stroke-width:36;vector-effect:non-scaling-stroke}.map-edge:hover .edge-label-bg,.map-edge:focus .edge-label-bg{stroke:#334d3c;stroke-width:2}.map-edge:hover .edge-line,.map-edge:focus .edge-line{stroke-width:4}.edge-label{font-size:15px;font-weight:500;pointer-events:none}.map-heading{font-size:47px;font-weight:700;letter-spacing:-1.2px}.map-subtitle{font-size:24px;fill:#67785a}.map-micro{font-size:13px;fill:#8a977d}.map-node.dim{opacity:.15}.map-node.hit rect{stroke:#294332;stroke-width:4}.map-node.selected rect{stroke:#294332;stroke-width:4}.map-edge.related .edge-line{stroke-width:4.5}</style><rect width="100%" height="100%" fill="#fdfcf8"/><text class="map-heading" x="800" y="74" text-anchor="middle">EMPIRES &amp; CONNECTIONS</text><text class="map-subtitle" x="800" y="117" text-anchor="middle">Persian, Hellenistic &amp; Islamic realms</text><text class="map-micro" x="800" y="154" text-anchor="middle">Tap a node to read · Tap an arrow for the event and sources</text>
-<g class="map-edge" id="map-edge-west-asia-alexander-conquest" data-connection="alexander-conquest" data-map="west-asia" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Achaemenid Persia to Alexander’s empire: 334–330 BCE · conquest. Open relationship details." style="--edge-color:#aa6355"><title>Conquest: 334–330 BCE · conquest</title>
+<g class="map-edge" id="map-edge-west-asia-alexander-conquest" data-connection="alexander-conquest" data-map="west-asia" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Achaemenid Persia to Alexander’s empire: 334–330 BC · conquest. Open relationship details." style="--edge-color:#aa6355"><title>Conquest: 334–330 BC · conquest</title>
 <path class="edge-hit" d="M314 314C314 385 314 385 314 385"/><path class="edge-line" stroke="#aa6355"  d="M314 314C314 385 314 385 314 385"/>
 <path class="edge-hit" d="M314 385C314 385 314 385 314 460"/><path class="edge-line" stroke="#aa6355"  d="M314 385C314 385 314 385 314 460" marker-end="url(#arrow-west-asia-conquest)"/>
-<rect class="edge-label-bg" x="216.5" y="368" width="195" height="34" rx="7" fill="#fdfcf8" stroke="#aa6355" stroke-opacity=".28"/>
-<text class="edge-label" x="314" y="390" text-anchor="middle">334–330 BCE · conquest</text>
+<rect class="edge-label-bg" x="220.25" y="368" width="187.5" height="34" rx="7" fill="#fdfcf8" stroke="#aa6355" stroke-opacity=".28"/>
+<text class="edge-label" x="314" y="390" text-anchor="middle">334–330 BC · conquest</text>
 </g>
-<g class="map-edge" id="map-edge-west-asia-diadochi" data-connection="diadochi" data-map="west-asia" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Alexander’s empire to Seleucid Empire + Ptolemaic Egypt: After 323 BCE · successor kingdoms. Open relationship details." style="--edge-color:#b88636"><title>Division: After 323 BCE · successor kingdoms</title>
+<g class="map-edge" id="map-edge-west-asia-diadochi" data-connection="diadochi" data-map="west-asia" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Alexander’s empire to Seleucid Empire + Ptolemaic Egypt: After 323 BC · successor kingdoms. Open relationship details." style="--edge-color:#b88636"><title>Division: After 323 BC · successor kingdoms</title>
 <path class="edge-hit" d="M314 554C314 645 314 645 650 645"/><path class="edge-line" stroke="#b88636"  d="M314 554C314 645 314 645 650 645"/>
 <path class="edge-hit" d="M650 645C314 645 314 645 314 720"/><path class="edge-line" stroke="#b88636"  d="M650 645C314 645 314 645 314 720" marker-end="url(#arrow-west-asia-division)"/>
 <path class="edge-hit" d="M650 645C1114 645 1114 645 1114 720"/><path class="edge-line" stroke="#b88636"  d="M650 645C1114 645 1114 645 1114 720" marker-end="url(#arrow-west-asia-division)"/>
-<rect class="edge-label-bg" x="507.5" y="628" width="285" height="34" rx="7" fill="#fdfcf8" stroke="#b88636" stroke-opacity=".28"/>
-<text class="edge-label" x="650" y="650" text-anchor="middle">After 323 BCE · successor kingdoms</text>
+<rect class="edge-label-bg" x="511.25" y="628" width="277.5" height="34" rx="7" fill="#fdfcf8" stroke="#b88636" stroke-opacity=".28"/>
+<text class="edge-label" x="650" y="650" text-anchor="middle">After 323 BC · successor kingdoms</text>
 </g>
-<g class="map-edge" id="map-edge-west-asia-parthian-expansion" data-connection="parthian-expansion" data-map="west-asia" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Seleucid Empire to Parthian Empire: 3rd–2nd c. BCE · territorial expansion. Open relationship details." style="--edge-color:#aa6355"><title>Conquest: 3rd–2nd c. BCE · territorial expansion</title>
+<g class="map-edge" id="map-edge-west-asia-parthian-expansion" data-connection="parthian-expansion" data-map="west-asia" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Seleucid Empire to Parthian Empire: 3rd–2nd c. BC · territorial expansion. Open relationship details." style="--edge-color:#aa6355"><title>Conquest: 3rd–2nd c. BC · territorial expansion</title>
 <path class="edge-hit" d="M314 814C314 885 314 885 314 885"/><path class="edge-line" stroke="#aa6355"  d="M314 814C314 885 314 885 314 885"/>
 <path class="edge-hit" d="M314 885C314 885 314 885 314 960"/><path class="edge-line" stroke="#aa6355"  d="M314 885C314 885 314 885 314 960" marker-end="url(#arrow-west-asia-conquest)"/>
-<rect class="edge-label-bg" x="156.5" y="868" width="315" height="34" rx="7" fill="#fdfcf8" stroke="#aa6355" stroke-opacity=".28"/>
-<text class="edge-label" x="314" y="890" text-anchor="middle">3rd–2nd c. BCE · territorial expansion</text>
+<rect class="edge-label-bg" x="160.25" y="868" width="307.5" height="34" rx="7" fill="#fdfcf8" stroke="#aa6355" stroke-opacity=".28"/>
+<text class="edge-label" x="314" y="890" text-anchor="middle">3rd–2nd c. BC · territorial expansion</text>
 </g>
-<g class="map-edge" id="map-edge-west-asia-egypt30" data-connection="egypt30" data-map="west-asia" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Ptolemaic Egypt to Roman Republic: 30 BCE · Egypt annexed. Open relationship details." style="--edge-color:#aa6355"><title>Conquest: 30 BCE · Egypt annexed</title>
+<g class="map-edge" id="map-edge-west-asia-egypt30" data-connection="egypt30" data-map="west-asia" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Ptolemaic Egypt to Roman Republic: 30 BC · Egypt annexed. Open relationship details." style="--edge-color:#aa6355"><title>Conquest: 30 BC · Egypt annexed</title>
 <path class="edge-hit" d="M1114 814C1114 885 1114 885 1114 885"/><path class="edge-line" stroke="#aa6355"  d="M1114 814C1114 885 1114 885 1114 885"/>
 <path class="edge-hit" d="M1114 885C1114 885 1114 885 1114 960"/><path class="edge-line" stroke="#aa6355"  d="M1114 885C1114 885 1114 885 1114 960" marker-end="url(#arrow-west-asia-conquest)"/>
-<rect class="edge-label-bg" x="1016.5" y="868" width="195" height="34" rx="7" fill="#fdfcf8" stroke="#aa6355" stroke-opacity=".28"/>
-<text class="edge-label" x="1114" y="890" text-anchor="middle">30 BCE · Egypt annexed</text>
+<rect class="edge-label-bg" x="1020.25" y="868" width="187.5" height="34" rx="7" fill="#fdfcf8" stroke="#aa6355" stroke-opacity=".28"/>
+<text class="edge-label" x="1114" y="890" text-anchor="middle">30 BC · Egypt annexed</text>
 </g>
 <g class="map-edge" id="map-edge-west-asia-sasanian224" data-connection="sasanian224" data-map="west-asia" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Parthian Empire to Sasanian Empire: 224 · dynasty overthrown. Open relationship details." style="--edge-color:#5d7f9d"><title>Change of rule: 224 · dynasty overthrown</title>
 <path class="edge-hit" d="M314 1054C314 1125 314 1125 314 1125"/><path class="edge-line" stroke="#5d7f9d"  d="M314 1054C314 1125 314 1125 314 1125"/>
@@ -63,37 +63,37 @@
 <rect class="edge-label-bg" x="799" y="1828" width="210" height="34" rx="7" fill="#fdfcf8" stroke="#aa6355" stroke-opacity=".28"/>
 <text class="edge-label" x="904" y="1850" text-anchor="middle">1258 · Baghdad conquered</text>
 </g>
-<g class="map-node" id="map-node-west-asia-persia" data-history="persia" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Achaemenid Persian Empire, 550–330 BCE. Open Wikipedia." data-map="west-asia"><title>Achaemenid Persian Empire · 550–330 BCE</title><rect x="200" y="220" width="228" height="94" rx="10" fill="#9bc6b5"/>
+<g class="map-node" id="map-node-west-asia-persia" data-history="persia" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Achaemenid Persian Empire, 550–330 BC. Open Wikipedia." data-map="west-asia"><title>Achaemenid Persian Empire · 550–330 BC</title><rect x="200" y="220" width="228" height="94" rx="10" fill="#9bc6b5"/>
 <text class="map-label" style="font-size:21px" x="314" y="263" text-anchor="middle">Achaemenid Persia</text>
-<text class="map-date" x="314" y="299" text-anchor="middle">550–330 BCE</text></g>
-<g class="map-node" id="map-node-west-asia-cn-alexander" data-history="cn-alexander" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Alexander’s empire, 334–323 BCE · conquest phase. Open Wikipedia." data-map="west-asia"><title>Alexander’s empire · 334–323 BCE · conquest phase</title><rect x="200" y="460" width="228" height="94" rx="10" fill="#92c4bd"/>
+<text class="map-date" x="314" y="299" text-anchor="middle">550–330 BC</text></g>
+<g class="map-node" id="map-node-west-asia-cn-alexander" data-history="cn-alexander" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Alexander’s empire, 334–323 BC · conquest phase. Open Wikipedia." data-map="west-asia"><title>Alexander’s empire · 334–323 BC · conquest phase</title><rect x="200" y="460" width="228" height="94" rx="10" fill="#92c4bd"/>
 <text class="map-label" style="font-size:21px" x="314" y="503" text-anchor="middle">Alexander’s empire</text>
-<text class="map-date" x="314" y="539" text-anchor="middle">334–323 BCE · conquest phase</text></g>
-<g class="map-node" id="map-node-west-asia-cn-seleucid" data-history="cn-seleucid" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Seleucid Empire, 312–63 BCE. Open Wikipedia." data-map="west-asia"><title>Seleucid Empire · 312–63 BCE</title><rect x="200" y="720" width="228" height="94" rx="10" fill="#9bc6b5"/>
+<text class="map-date" x="314" y="539" text-anchor="middle">334–323 BC · conquest phase</text></g>
+<g class="map-node" id="map-node-west-asia-cn-seleucid" data-history="cn-seleucid" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Seleucid Empire, 312–63 BC. Open Wikipedia." data-map="west-asia"><title>Seleucid Empire · 312–63 BC</title><rect x="200" y="720" width="228" height="94" rx="10" fill="#9bc6b5"/>
 <text class="map-label" style="font-size:21px" x="314" y="763" text-anchor="middle">Seleucid Empire</text>
-<text class="map-date" x="314" y="799" text-anchor="middle">312–63 BCE</text></g>
-<g class="map-node" id="map-node-west-asia-cn-ptolemaic" data-history="cn-ptolemaic" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Ptolemaic Kingdom, 305–30 BCE. Open Wikipedia." data-map="west-asia"><title>Ptolemaic Kingdom · 305–30 BCE</title><rect x="1000" y="720" width="228" height="94" rx="10" fill="#ef9479"/>
+<text class="map-date" x="314" y="799" text-anchor="middle">312–63 BC</text></g>
+<g class="map-node" id="map-node-west-asia-cn-ptolemaic" data-history="cn-ptolemaic" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Ptolemaic Kingdom, 305–30 BC. Open Wikipedia." data-map="west-asia"><title>Ptolemaic Kingdom · 305–30 BC</title><rect x="1000" y="720" width="228" height="94" rx="10" fill="#ef9479"/>
 <text class="map-label" style="font-size:21px" x="1114" y="763" text-anchor="middle">Ptolemaic Egypt</text>
-<text class="map-date" x="1114" y="799" text-anchor="middle">305–30 BCE</text></g>
-<g class="map-node" id="map-node-west-asia-cn-parthian" data-history="cn-parthian" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Parthian Empire, 247 BCE–224 CE. Open Wikipedia." data-map="west-asia"><title>Parthian Empire · 247 BCE–224 CE</title><rect x="200" y="960" width="228" height="94" rx="10" fill="#e1ce82"/>
+<text class="map-date" x="1114" y="799" text-anchor="middle">305–30 BC</text></g>
+<g class="map-node" id="map-node-west-asia-cn-parthian" data-history="cn-parthian" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Parthian Empire, 247 BC–224 AD. Open Wikipedia." data-map="west-asia"><title>Parthian Empire · 247 BC–224 AD</title><rect x="200" y="960" width="228" height="94" rx="10" fill="#e1ce82"/>
 <text class="map-label" style="font-size:21px" x="314" y="1003" text-anchor="middle">Parthian Empire</text>
-<text class="map-date" x="314" y="1039" text-anchor="middle">247 BCE–224 CE</text></g>
-<g class="map-node" id="map-node-west-asia-romanrepublic" data-history="romanrepublic" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Roman Republic, 509 BCE–27 BCE. Open Wikipedia." data-map="west-asia"><title>Roman Republic · 509 BCE–27 BCE</title><rect x="1000" y="960" width="228" height="94" rx="10" fill="#c4afd1"/>
+<text class="map-date" x="314" y="1039" text-anchor="middle">247 BC–224 AD</text></g>
+<g class="map-node" id="map-node-west-asia-romanrepublic" data-history="romanrepublic" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Roman Republic, 509 BC–27 BC. Open Wikipedia." data-map="west-asia"><title>Roman Republic · 509 BC–27 BC</title><rect x="1000" y="960" width="228" height="94" rx="10" fill="#c4afd1"/>
 <text class="map-label" style="font-size:21px" x="1114" y="1003" text-anchor="middle">Roman Republic</text>
-<text class="map-date" x="1114" y="1039" text-anchor="middle">509 BCE–27 BCE</text></g>
-<g class="map-node" id="map-node-west-asia-sasanian" data-history="sasanian" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Sasanian Empire, 224 CE–651 CE. Open Wikipedia." data-map="west-asia"><title>Sasanian Empire · 224 CE–651 CE</title><rect x="200" y="1200" width="228" height="94" rx="10" fill="#86b5c2"/>
+<text class="map-date" x="1114" y="1039" text-anchor="middle">509 BC–27 BC</text></g>
+<g class="map-node" id="map-node-west-asia-sasanian" data-history="sasanian" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Sasanian Empire, 224 AD–651 AD. Open Wikipedia." data-map="west-asia"><title>Sasanian Empire · 224 AD–651 AD</title><rect x="200" y="1200" width="228" height="94" rx="10" fill="#86b5c2"/>
 <text class="map-label" style="font-size:21px" x="314" y="1243" text-anchor="middle">Sasanian Empire</text>
 <text class="map-date" x="314" y="1279" text-anchor="middle">224–651</text></g>
-<g class="map-node" id="map-node-west-asia-rashidun" data-history="rashidun" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Rashidun caliphate, 632 CE–661 CE. Open Wikipedia." data-map="west-asia"><title>Rashidun caliphate · 632 CE–661 CE</title><rect x="790" y="1200" width="228" height="94" rx="10" fill="#e9c56b"/>
+<g class="map-node" id="map-node-west-asia-rashidun" data-history="rashidun" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Rashidun caliphate, 632 AD–661 AD. Open Wikipedia." data-map="west-asia"><title>Rashidun caliphate · 632 AD–661 AD</title><rect x="790" y="1200" width="228" height="94" rx="10" fill="#e9c56b"/>
 <text class="map-label" style="font-size:21px" x="904" y="1243" text-anchor="middle">Rashidun caliphate</text>
 <text class="map-date" x="904" y="1279" text-anchor="middle">632–661</text></g>
-<g class="map-node" id="map-node-west-asia-umayyad" data-history="umayyad" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Umayyad caliphate · Damascus, 661 CE–750 CE. Open Wikipedia." data-map="west-asia"><title>Umayyad caliphate · Damascus · 661 CE–750 CE</title><rect x="790" y="1440" width="228" height="94" rx="10" fill="#eab18d"/>
+<g class="map-node" id="map-node-west-asia-umayyad" data-history="umayyad" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Umayyad caliphate · Damascus, 661 AD–750 AD. Open Wikipedia." data-map="west-asia"><title>Umayyad caliphate · Damascus · 661 AD–750 AD</title><rect x="790" y="1440" width="228" height="94" rx="10" fill="#eab18d"/>
 <text class="map-label" style="font-size:21px" x="904" y="1483" text-anchor="middle">Umayyad caliphate</text>
 <text class="map-date" x="904" y="1519" text-anchor="middle">661–750</text></g>
-<g class="map-node" id="map-node-west-asia-abbasid" data-history="abbasid" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Abbasid caliphate · Baghdad, 750–1258 CE. Open Wikipedia." data-map="west-asia"><title>Abbasid caliphate · Baghdad · 750–1258 CE</title><rect x="790" y="1680" width="228" height="94" rx="10" fill="#e1ce82"/>
+<g class="map-node" id="map-node-west-asia-abbasid" data-history="abbasid" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Abbasid caliphate · Baghdad, 750–1258 AD. Open Wikipedia." data-map="west-asia"><title>Abbasid caliphate · Baghdad · 750–1258 AD</title><rect x="790" y="1680" width="228" height="94" rx="10" fill="#e1ce82"/>
 <text class="map-label" style="font-size:21px" x="904" y="1723" text-anchor="middle">Abbasid Baghdad</text>
 <text class="map-date" x="904" y="1759" text-anchor="middle">750–1258</text></g>
-<g class="map-node" id="map-node-west-asia-cn-ilkhanate" data-history="cn-ilkhanate" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Ilkhanate, 1256–1335 CE · united dynasty. Open Wikipedia." data-map="west-asia"><title>Ilkhanate · 1256–1335 CE · united dynasty</title><rect x="790" y="1920" width="228" height="94" rx="10" fill="#eab18d"/>
+<g class="map-node" id="map-node-west-asia-cn-ilkhanate" data-history="cn-ilkhanate" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Ilkhanate, 1256–1335 AD · united dynasty. Open Wikipedia." data-map="west-asia"><title>Ilkhanate · 1256–1335 AD · united dynasty</title><rect x="790" y="1920" width="228" height="94" rx="10" fill="#eab18d"/>
 <text class="map-label" style="font-size:21px" x="904" y="1963" text-anchor="middle">Ilkhanate</text>
 <text class="map-date" x="904" y="1999" text-anchor="middle">1256–1335 · united dynasty</text></g>
 <text class="map-micro" x="800" y="2075" text-anchor="middle">Continue this history on another map</text>

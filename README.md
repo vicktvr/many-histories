@@ -39,7 +39,7 @@ frames and 27 original contextual entries. All 324 inventoried reference-poster
 labels and 21 country shortcuts retain explicit mappings. The collection remains
 selective: poster completeness does not mean an exhaustive history of the world.
 
-All history spans 4500 BCE–2026 CE; Modern era expands 1450–2026 on its own
+All history spans 4500 BC–2026 AD; Modern era expands 1450–2026 on its own
 linear scale. There is no year zero. Height follows duration. Prominence widths
 use reviewed editorial tiers and selected coarse expansion/decline phases,
 with an optional Equal widths mode. These are not measured territory, population,

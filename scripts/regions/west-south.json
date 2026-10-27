@@ -261,7 +261,7 @@
       "id": "ws-herodian-judea",
       "title": "Herodian Judea",
       "region": "westasia",
-      "dates": "37 BCE–6 CE · selected phase",
+      "dates": "37 BC–6 AD · selected phase",
       "wikiTitle": "Herodian kingdom",
       "location": "Southern Levant",
       "note": "A Roman client kingdom; dates combine Herod’s kingdom and Archelaus’s reduced ethnarchy.",
@@ -503,7 +503,7 @@
           ],
           "type": "contact",
           "label": "Urban culture",
-          "dates": "4th millennium BCE",
+          "dates": "4th millennium BC",
           "summary": "Uruk was a major center within the wider Sumerian urban landscape.",
           "note": "This is cultural overlap, not one state succeeding another.",
           "sources": [
@@ -520,7 +520,7 @@
           ],
           "type": "continuation",
           "label": "Later city-state period",
-          "dates": "c. 3000–2900 BCE",
+          "dates": "c. 3000–2900 BC",
           "summary": "The Uruk urban phase preceded the Early Dynastic landscape of competing cities.",
           "note": "Archaeological periods overlap locally; Uruk itself continued to exist.",
           "sources": [
@@ -537,7 +537,7 @@
           ],
           "type": "conquest",
           "label": "Sargon’s conquests",
-          "dates": "c. 24th century BCE",
+          "dates": "c. 24th century BC",
           "summary": "Sargon brought numerous Mesopotamian city-states under Akkadian imperial rule.",
           "note": "Conquest did not erase Sumerian cities or language.",
           "sources": [
@@ -554,7 +554,7 @@
           ],
           "type": "contact",
           "label": "Scribal inheritance",
-          "dates": "early 2nd millennium BCE",
+          "dates": "early 2nd millennium BC",
           "summary": "Old Babylonian scribes copied and transmitted Sumerian literature.",
           "note": "A cultural relationship spanning intervening dynasties, not immediate political succession.",
           "sources": [
@@ -571,7 +571,7 @@
           ],
           "type": "conquest",
           "label": "Sack of Babylon",
-          "dates": "c. 1595 BCE",
+          "dates": "c. 1595 BC",
           "summary": "A Hittite raid ended Babylon’s first dynasty.",
           "note": "The attackers withdrew; this was not permanent Hittite rule of Babylonia.",
           "sources": [
@@ -588,7 +588,7 @@
           ],
           "type": "continuation",
           "label": "Kassite consolidation",
-          "dates": "after c. 1595 BCE",
+          "dates": "after c. 1595 BC",
           "summary": "Kassite rulers gradually consolidated Babylonia after the first dynasty’s collapse.",
           "note": "The transition is obscure and included rival southern rulers.",
           "sources": [
@@ -605,7 +605,7 @@
           ],
           "type": "conquest",
           "label": "Assyrian occupation",
-          "dates": "c. 1225 BCE",
+          "dates": "c. 1225 BC",
           "summary": "Tukulti-Ninurta I conquered Babylon during Kassite rule.",
           "note": "The Kassite dynasty survived this intervention.",
           "sources": [
@@ -622,7 +622,7 @@
           ],
           "type": "conquest",
           "label": "Elamite campaigns",
-          "dates": "c. 1155 BCE",
+          "dates": "c. 1155 BC",
           "summary": "Elamite attacks brought the Kassite dynasty to an end.",
           "note": "Subsequent Babylonian dynasties, not lasting Elamite annexation, followed.",
           "sources": [
@@ -640,7 +640,7 @@
           ],
           "type": "continuation",
           "label": "Renewed expansion",
-          "dates": "c. 911 BCE onward",
+          "dates": "c. 911 BC onward",
           "summary": "Later Assyrian kings renewed expansion after a period of contraction.",
           "note": "Middle and Neo-Assyrian are modern period labels, not a single dated founding event.",
           "sources": [
@@ -658,7 +658,7 @@
           ],
           "type": "conquest",
           "label": "Fall of Nineveh",
-          "dates": "612 BCE",
+          "dates": "612 BC",
           "summary": "Babylonian and Median forces destroyed the Assyrian capital of Nineveh.",
           "note": "Assyrian resistance continued after 612; neither the people nor their culture vanished.",
           "sources": [
@@ -675,7 +675,7 @@
           ],
           "type": "contact",
           "label": "Iranian languages",
-          "dates": "9th–6th centuries BCE",
+          "dates": "9th–6th centuries BC",
           "summary": "The Medes were among the Iranian-speaking groups recorded in western Iran.",
           "note": "A linguistic category is not a unified ancestral empire.",
           "sources": [
@@ -693,7 +693,7 @@
           ],
           "type": "conquest",
           "label": "Cyrus defeats Astyages",
-          "dates": "c. 550 BCE",
+          "dates": "c. 550 BC",
           "summary": "Cyrus overthrew the Median ruler and incorporated Media into his growing empire.",
           "note": "The extent and organization of an earlier Median empire remain debated.",
           "sources": [
@@ -711,7 +711,7 @@
           ],
           "type": "conquest",
           "label": "Capture of Babylon",
-          "dates": "539 BCE",
+          "dates": "539 BC",
           "summary": "Cyrus captured Babylon and incorporated Babylonia into Achaemenid rule.",
           "note": "Local institutions and traditions continued under new imperial government.",
           "sources": [
@@ -728,7 +728,7 @@
           ],
           "type": "contact",
           "label": "Susa & administration",
-          "dates": "6th century BCE onward",
+          "dates": "6th century BC onward",
           "summary": "Susa and Elamite administrative traditions became important within Achaemenid government.",
           "note": "Elam’s diverse earlier kingdoms are not one dynasty directly replaced on a single date.",
           "sources": [
@@ -793,7 +793,7 @@
           ],
           "type": "division",
           "label": "Regional successor states",
-          "dates": "after c. 1180 BCE",
+          "dates": "after c. 1180 BC",
           "summary": "Independent southeastern states preserved some Hittite dynastic and cultural traditions after the empire fell.",
           "note": "These included Luwian and Aramaean polities, not a single restored Hittite empire.",
           "sources": [
@@ -811,7 +811,7 @@
           ],
           "type": "conquest",
           "label": "Assyrian expansion",
-          "dates": "9th–8th centuries BCE",
+          "dates": "9th–8th centuries BC",
           "summary": "Assyrian expansion progressively absorbed Syro-Hittite kingdoms.",
           "note": "Different kingdoms were conquered at different times.",
           "sources": [
@@ -829,7 +829,7 @@
           ],
           "type": "conquest",
           "label": "Fall of Croesus",
-          "dates": "c. 547/546 BCE",
+          "dates": "c. 547/546 BC",
           "summary": "Cyrus defeated Lydia and brought western Anatolia under Persian rule.",
           "note": "The conventional dating varies slightly across chronologies.",
           "sources": [
@@ -846,7 +846,7 @@
           ],
           "type": "contact",
           "label": "Artistic exchange",
-          "dates": "9th–8th centuries BCE",
+          "dates": "9th–8th centuries BC",
           "summary": "Samaria’s ivories show exchanges with Phoenician and Syrian neighbors.",
           "note": "Shared artistic forms do not prove a shared political identity.",
           "sources": [
@@ -863,7 +863,7 @@
           ],
           "type": "conquest",
           "label": "Capture of Samaria",
-          "dates": "722/721 BCE",
+          "dates": "722/721 BC",
           "summary": "Assyrian conquest ended the northern kingdom and deported part of its population.",
           "note": "People remained in the region; this was not the disappearance of all Israelites.",
           "sources": [
@@ -880,7 +880,7 @@
           ],
           "type": "conquest",
           "label": "Jerusalem destroyed",
-          "dates": "587/586 BCE",
+          "dates": "587/586 BC",
           "summary": "Babylonian forces destroyed Jerusalem’s temple and deported part of Judah’s population.",
           "note": "The exiles were not all inhabitants, and Jewish history continued in several places.",
           "sources": [
@@ -897,7 +897,7 @@
           ],
           "type": "colonial",
           "label": "Persian imperial rule",
-          "dates": "6th–4th centuries BCE",
+          "dates": "6th–4th centuries BC",
           "summary": "Phoenician cities came under Achaemenid rule while maintaining important maritime roles.",
           "note": "Their earlier city-state independence was already constrained by several empires.",
           "sources": [
@@ -914,7 +914,7 @@
           ],
           "type": "independence",
           "label": "Hasmonean autonomy",
-          "dates": "2nd century BCE",
+          "dates": "2nd century BC",
           "summary": "Hasmonean rulers gained autonomy amid Seleucid conflict and declining control of Judea.",
           "note": "The revolt and independence were processes involving competing local factions.",
           "sources": [
@@ -931,7 +931,7 @@
           ],
           "type": "conquest",
           "label": "Roman-backed Herod",
-          "dates": "37 BCE",
+          "dates": "37 BC",
           "summary": "Herod captured Jerusalem with Roman support and displaced the last Hasmonean ruler.",
           "note": "Roman involvement in Judea had begun earlier; Herod ruled as a client king.",
           "sources": [
@@ -948,7 +948,7 @@
           ],
           "type": "contact",
           "label": "Roman patronage",
-          "dates": "40–37 BCE",
+          "dates": "40–37 BC",
           "summary": "Roman political and military support enabled Herod’s kingship.",
           "note": "This relationship concerns Roman patronage, not an equal alliance.",
           "sources": [
@@ -1540,7 +1540,7 @@
           ],
           "type": "contact",
           "label": "Long-distance trade",
-          "dates": "3rd millennium BCE",
+          "dates": "3rd millennium BC",
           "summary": "Indus and Mesopotamian societies participated in long-distance exchange networks.",
           "note": "Trade links do not establish political union or population identity.",
           "sources": [
@@ -1557,7 +1557,7 @@
           ],
           "type": "contact",
           "label": "Overlapping transformations",
-          "dates": "c. 1900–1300 BCE",
+          "dates": "c. 1900–1300 BC",
           "summary": "Late Harappan communities overlapped with changing Indo-Gangetic cultural landscapes.",
           "note": "This is not a conquest or simple Harappan-to-Vedic state succession; language and identity remain research questions.",
           "sources": [
@@ -1575,7 +1575,7 @@
           ],
           "type": "continuation",
           "label": "Later regional states",
-          "dates": "1st millennium BCE",
+          "dates": "1st millennium BC",
           "summary": "Later Vedic textual traditions developed alongside the emergence of regional states in northern South Asia.",
           "note": "Culture, texts, and states have different chronologies; there was no single Vedic empire.",
           "sources": [
@@ -1593,7 +1593,7 @@
           ],
           "type": "conquest",
           "label": "Magadhan consolidation",
-          "dates": "4th century BCE",
+          "dates": "4th century BC",
           "summary": "The Magadhan political core of the mahājanapadas was incorporated into the Mauryan imperial project.",
           "note": "Not every mahājanapada survived until, or was conquered by, the Mauryas in the same way.",
           "sources": [
@@ -1610,7 +1610,7 @@
           ],
           "type": "contact",
           "label": "Treaty & frontier",
-          "dates": "c. 305–303 BCE",
+          "dates": "c. 305–303 BC",
           "summary": "Chandragupta Maurya and Seleucus established a negotiated frontier after conflict.",
           "note": "A selected interstate encounter, not the descent of one empire from the other.",
           "sources": [
@@ -1627,7 +1627,7 @@
           ],
           "type": "division",
           "label": "Regional dynasties",
-          "dates": "after c. 185 BCE",
+          "dates": "after c. 185 BC",
           "summary": "After Mauryan power ended, numerous regional dynasties governed different parts of South Asia.",
           "note": "The endpoint is a modern grouping, not one successor kingdom.",
           "sources": [
@@ -1645,7 +1645,7 @@
           ],
           "type": "contact",
           "label": "Northwestern imperial setting",
-          "dates": "1st–3rd centuries CE",
+          "dates": "1st–3rd centuries AD",
           "summary": "Kushan power formed one important part of the diverse post-Mauryan political landscape.",
           "note": "An umbrella-to-member context link, not a single dynasty changing its name.",
           "sources": [
@@ -1662,7 +1662,7 @@
           ],
           "type": "continuation",
           "label": "Changing northern powers",
-          "dates": "3rd–4th centuries CE",
+          "dates": "3rd–4th centuries AD",
           "summary": "As Kushan power contracted, Gupta rulers consolidated parts of northern India.",
           "note": "Regional successors and intervening rulers existed; there was no wholesale handover of all Kushan lands.",
           "sources": [
@@ -1679,7 +1679,7 @@
           ],
           "type": "division",
           "label": "Regional rule expands",
-          "dates": "5th–6th centuries CE",
+          "dates": "5th–6th centuries AD",
           "summary": "Gupta power fragmented as invasions and regional autonomy reshaped northern India.",
           "note": "The post-Gupta label groups different kingdoms rather than one political successor.",
           "sources": [
@@ -1696,7 +1696,7 @@
           ],
           "type": "contact",
           "label": "Harsha’s northern realm",
-          "dates": "606–647 CE",
+          "dates": "606–647 AD",
           "summary": "Harsha’s kingdom was one major polity within the wider post-Gupta landscape.",
           "note": "It did not reunite all former Gupta territories or govern all South Asia.",
           "sources": [
@@ -1713,7 +1713,7 @@
           ],
           "type": "contact",
           "label": "Diplomatic missions",
-          "dates": "7th century CE",
+          "dates": "7th century AD",
           "summary": "Harsha exchanged diplomatic missions with Tang China.",
           "note": "Diplomatic contact is not territorial continuity.",
           "sources": [
@@ -1730,7 +1730,7 @@
           ],
           "type": "division",
           "label": "Regional courts",
-          "dates": "after 647 CE",
+          "dates": "after 647 AD",
           "summary": "Following Harsha’s death, northern power again rested with multiple regional courts.",
           "note": "Many kingdoms already existed beyond his control; this umbrella spans the wider subcontinent.",
           "sources": [
@@ -1747,7 +1747,7 @@
           ],
           "type": "contact",
           "label": "Southern imperial center",
-          "dates": "9th–13th centuries CE",
+          "dates": "9th–13th centuries AD",
           "summary": "The Cholas rose within a competitive southern landscape of regional dynasties.",
           "note": "They were not the sole successors to northern post-Gupta kingdoms.",
           "sources": [
@@ -1765,7 +1765,7 @@
           ],
           "type": "conquest",
           "label": "Maritime raids",
-          "dates": "1025 CE",
+          "dates": "1025 AD",
           "summary": "Chola naval forces attacked Srivijayan ports and centers in Southeast Asia.",
           "note": "A campaign did not create permanent Chola rule over the whole Srivijayan maritime world.",
           "sources": [
@@ -1799,7 +1799,7 @@
           ],
           "type": "contact",
           "label": "Deccan political setting",
-          "dates": "14th century CE",
+          "dates": "14th century AD",
           "summary": "Vijayanagara emerged amid Delhi’s southern campaigns and a changing Deccan political landscape.",
           "note": "This is regional context, not a claim that Vijayanagara was simply a renamed Delhi province.",
           "sources": [
@@ -1850,7 +1850,7 @@
           ],
           "type": "conquest",
           "label": "Mughal annexations",
-          "dates": "17th century CE",
+          "dates": "17th century AD",
           "summary": "Mughal campaigns absorbed major Deccan sultanates, culminating in the late 1680s.",
           "note": "Different sultanates ended at different dates; this is a grouped regional account.",
           "sources": [

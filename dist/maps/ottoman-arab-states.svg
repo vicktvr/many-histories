@@ -52,7 +52,7 @@
 <rect class="edge-label-bg" x="1121" y="670" width="165" height="34" rx="7" fill="#fdfcf8" stroke="#3b8274" stroke-opacity=".28"/>
 <text class="edge-label" x="1203.5" y="692" text-anchor="middle">Kingdom proclaimed</text>
 </g>
-<g class="map-node" id="map-node-ottoman-arab-states-ottoman" data-history="ottoman" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Ottoman Empire, c. 1299–1922 CE. Open Wikipedia." data-map="ottoman-arab-states"><title>Ottoman Empire · c. 1299–1922 CE</title><rect x="788.5" y="220" width="228" height="94" rx="10" fill="#86b5c2"/>
+<g class="map-node" id="map-node-ottoman-arab-states-ottoman" data-history="ottoman" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Ottoman Empire, c. 1299–1922 AD. Open Wikipedia." data-map="ottoman-arab-states"><title>Ottoman Empire · c. 1299–1922 AD</title><rect x="788.5" y="220" width="228" height="94" rx="10" fill="#86b5c2"/>
 <text class="map-label" style="font-size:21px" x="902.5" y="263" text-anchor="middle">Ottoman Empire</text>
 <text class="map-date" x="902.5" y="299" text-anchor="middle">c. 1299–1922</text></g>
 <g class="map-node" id="map-node-ottoman-arab-states-ws-british-iraq" data-history="ws-british-iraq" role="button" tabindex="0" aria-haspopup="dialog" aria-label="British occupation &amp; mandate project in Iraq, 1914–1932 · changing arrangements. Open Wikipedia." data-map="ottoman-arab-states"><title>British occupation &amp; mandate project in Iraq · 1914–1932 · changing arrangements</title><rect x="479.5" y="500" width="228" height="94" rx="10" fill="#86b5c2"/>
@@ -60,10 +60,10 @@
 <text class="map-label" style="font-size:18px" x="593.5" y="543" text-anchor="middle">&amp; mandate project</text>
 <text class="map-label" style="font-size:18px" x="593.5" y="565" text-anchor="middle">in Iraq</text>
 <text class="map-date" x="593.5" y="579" text-anchor="middle">1914–1932 · changing arrangements</text></g>
-<g class="map-node" id="map-node-ottoman-arab-states-iraq-kingdom" data-history="iraq-kingdom" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Kingdom of Iraq, 1921 CE–1958 CE. Open Wikipedia." data-map="ottoman-arab-states"><title>Kingdom of Iraq · 1921 CE–1958 CE</title><rect x="273.5" y="780" width="228" height="94" rx="10" fill="#eab18d"/>
+<g class="map-node" id="map-node-ottoman-arab-states-iraq-kingdom" data-history="iraq-kingdom" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Kingdom of Iraq, 1921 AD–1958 AD. Open Wikipedia." data-map="ottoman-arab-states"><title>Kingdom of Iraq · 1921 AD–1958 AD</title><rect x="273.5" y="780" width="228" height="94" rx="10" fill="#eab18d"/>
 <text class="map-label" style="font-size:21px" x="387.5" y="823" text-anchor="middle">Kingdom of Iraq</text>
 <text class="map-date" x="387.5" y="859" text-anchor="middle">1921–1958</text></g>
-<g class="map-node" id="map-node-ottoman-arab-states-iraqmodern" data-history="iraqmodern" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Iraq · republican eras, 1958 CE–present. Open Wikipedia." data-map="ottoman-arab-states"><title>Iraq · republican eras · 1958 CE–present</title><rect x="273.5" y="1060" width="228" height="94" rx="10" fill="#eab18d"/>
+<g class="map-node" id="map-node-ottoman-arab-states-iraqmodern" data-history="iraqmodern" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Iraq · republican eras, 1958 AD–present. Open Wikipedia." data-map="ottoman-arab-states"><title>Iraq · republican eras · 1958 AD–present</title><rect x="273.5" y="1060" width="228" height="94" rx="10" fill="#eab18d"/>
 <text class="map-label" style="font-size:21px" x="387.5" y="1103" text-anchor="middle">Iraq</text>
 <text class="map-date" x="387.5" y="1139" text-anchor="middle">1958–present</text></g>
 <g class="map-node" id="map-node-ottoman-arab-states-ws-french-levant" data-history="ws-french-levant" role="button" tabindex="0" aria-haspopup="dialog" aria-label="French mandate: Syria &amp; Lebanon, 1920s–1940s · multiple administrations. Open Wikipedia." data-map="ottoman-arab-states"><title>French mandate: Syria &amp; Lebanon · 1920s–1940s · multiple administrations</title><rect x="788.5" y="500" width="228" height="94" rx="10" fill="#9bc6b5"/>
@@ -82,7 +82,7 @@
 <text class="map-label" style="font-size:20px" x="1194.5" y="531" text-anchor="middle">Kingdom of Hejaz &amp;</text>
 <text class="map-label" style="font-size:20px" x="1194.5" y="555" text-anchor="middle">Nejd</text>
 <text class="map-date" x="1194.5" y="579" text-anchor="middle">1926–1932</text></g>
-<g class="map-node" id="map-node-ottoman-arab-states-saudiarabia" data-history="saudiarabia" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Saudi Arabia, 1932 CE–present. Open Wikipedia." data-map="ottoman-arab-states"><title>Saudi Arabia · 1932 CE–present</title><rect x="1098.5" y="780" width="228" height="94" rx="10" fill="#9bc6b5"/>
+<g class="map-node" id="map-node-ottoman-arab-states-saudiarabia" data-history="saudiarabia" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Saudi Arabia, 1932 AD–present. Open Wikipedia." data-map="ottoman-arab-states"><title>Saudi Arabia · 1932 AD–present</title><rect x="1098.5" y="780" width="228" height="94" rx="10" fill="#9bc6b5"/>
 <text class="map-label" style="font-size:21px" x="1212.5" y="823" text-anchor="middle">Saudi Arabia</text>
 <text class="map-date" x="1212.5" y="859" text-anchor="middle">1932–present</text></g>
 <text class="map-micro" x="800" y="1275" text-anchor="middle">Continue this history on another map</text>

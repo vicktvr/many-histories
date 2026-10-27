@@ -211,7 +211,7 @@
       "id": "cx-anglosaxon-realms",
       "title": "Anglo-Saxon kingdoms and settlement",
       "region": "europe",
-      "dates": "c. 5th–10th centuries CE",
+      "dates": "c. 5th–10th centuries AD",
       "wikiTitle": "Anglo-Saxon England",
       "location": "Britain, especially present-day England",
       "note": "Several kingdoms formed amid migration, conflict and interaction with existing British communities; this was never one united state spanning the full frame.",
@@ -223,7 +223,7 @@
       "id": "cx-rus-principalities",
       "title": "Rus’ principalities · regional realms",
       "region": "europe",
-      "dates": "12th–14th centuries CE · selected frame",
+      "dates": "12th–14th centuries AD · selected frame",
       "wikiTitle": "Kievan Rus'",
       "location": "Eastern Europe",
       "note": "An overlapping network of principalities, not a state created at one partition. Their later histories fed into several countries and cannot be assigned exclusively to modern Russia, Ukraine or Belarus.",
@@ -236,7 +236,7 @@
       "id": "cx-grandduchy-lithuania",
       "title": "Grand Duchy of Lithuania",
       "region": "europe",
-      "dates": "13th century–1795 CE",
+      "dates": "13th century–1795 AD",
       "wikiTitle": "Grand Duchy of Lithuania",
       "location": "Eastern and northeastern Europe",
       "note": "A multiethnic polity that incorporated many western and southern Rus’ lands. It entered dynastic union with Poland and later the Polish–Lithuanian Commonwealth; this map selects its relationship with Rus’, not its entire history.",
@@ -302,7 +302,7 @@
           ],
           "type": "contact",
           "label": "Bronze Age trade networks",
-          "dates": "2nd millennium BCE",
+          "dates": "2nd millennium BC",
           "summary": "Aegean communities exchanged objects, materials and diplomatic gifts with Egypt and West Asian courts.",
           "note": "The Aegean entry is a regional cultural frame, not a united empire or the origin of Egyptian civilization.",
           "sources": [
@@ -319,7 +319,7 @@
           ],
           "type": "contact",
           "label": "Crete–mainland exchange",
-          "dates": "c. 1600–1400 BCE",
+          "dates": "c. 1600–1400 BC",
           "summary": "Minoan Cretan art and exchange strongly influenced emerging Mycenaean court cultures.",
           "note": "Interaction did not mean that all Minoans became Mycenaeans or that either label describes one state.",
           "sources": [
@@ -336,7 +336,7 @@
           ],
           "type": "continuation",
           "label": "Palace collapse & local change",
-          "dates": "c. 1200–1050 BCE",
+          "dates": "c. 1200–1050 BC",
           "summary": "The disintegration of Mycenaean palace systems was followed by regional early Iron Age societies.",
           "note": "A gradual and uneven archaeological transition; people and practices persisted and no single invasion is asserted as its cause.",
           "sources": [
@@ -354,7 +354,7 @@
           ],
           "type": "contact",
           "label": "Cities, writing & wider trade",
-          "dates": "c. 900–700 BCE",
+          "dates": "c. 900–700 BC",
           "summary": "City-states, alphabetic writing and wider overseas networks developed during the Geometric and early Archaic centuries.",
           "note": "The period labels overlap in scholarly usage; this is cultural and institutional change, not a succession between two kingdoms.",
           "sources": [
@@ -371,7 +371,7 @@
           ],
           "type": "continuation",
           "label": "Archaic → Classical convention",
-          "dates": "c. 480 BCE",
+          "dates": "c. 480 BC",
           "summary": "The Persian Wars mark the conventional transition from Archaic to Classical Greek periodisation.",
           "note": "Greek city-states remained politically distinct and neither period boundary marks the origin or disappearance of Greek people.",
           "sources": [
@@ -388,7 +388,7 @@
           ],
           "type": "contact",
           "label": "Persian–Greek wars",
-          "dates": "490–479 BCE",
+          "dates": "490–479 BC",
           "summary": "Achaemenid campaigns and Greek resistance reshaped relations among Persian rulers and Greek city-states.",
           "note": "The node groups many city-states, which pursued different alliances; this was not a war between two modern nation-states.",
           "sources": [
@@ -405,7 +405,7 @@
           ],
           "type": "contact",
           "label": "Macedonian predominance",
-          "dates": "4th century BCE",
+          "dates": "4th century BC",
           "summary": "Macedonian royal power under Philip II provided the military and political base for Alexander’s conquests.",
           "note": "Macedonia was one kingdom in the wider Greek world; the arrow does not turn every Greek city into a direct predecessor of his empire.",
           "sources": [
@@ -422,7 +422,7 @@
           ],
           "type": "division",
           "label": "Successor kingdoms emerge",
-          "dates": "After 323 BCE",
+          "dates": "After 323 BC",
           "summary": "Wars among Alexander’s successors produced multiple Hellenistic kingdoms and leagues.",
           "note": "Hellenistic kingdoms is an umbrella period; it includes several dynasties and independent city alliances, not a single successor empire.",
           "sources": [
@@ -439,8 +439,8 @@
           ],
           "type": "conquest",
           "label": "Roman expansion in Greek East",
-          "dates": "2nd–1st centuries BCE",
-          "summary": "Rome progressively defeated or annexed Hellenistic powers, with Ptolemaic Egypt annexed in 30 BCE.",
+          "dates": "2nd–1st centuries BC",
+          "summary": "Rome progressively defeated or annexed Hellenistic powers, with Ptolemaic Egypt annexed in 30 BC.",
           "note": "Different states fell at different dates; Hellenistic cultures and artistic production continued under Roman government.",
           "sources": [
             "euHellenistic",
@@ -457,7 +457,7 @@
           ],
           "type": "independence",
           "label": "War & independence recognition",
-          "dates": "1821–1832 CE",
+          "dates": "1821–1832 AD",
           "summary": "The Greek war of independence led to international recognition of an independent Greek state in 1830 and subsequent settlement in 1832.",
           "note": "The initial state comprised only part of present-day Greece; earlier Byzantine and ancient Greek histories were not one continuous sovereign state.",
           "sources": [
@@ -528,7 +528,7 @@
           ],
           "type": "contact",
           "label": "Central European material networks",
-          "dates": "c. 800–450 BCE",
+          "dates": "c. 800–450 BC",
           "summary": "Hallstatt-period communities participated in the changing Iron Age networks represented by the wider central European frame.",
           "note": "Hallstatt is an archaeological label; it cannot be equated with every Celtic or Germanic-speaking population or with a single ethnic homeland.",
           "sources": [
@@ -545,8 +545,8 @@
           ],
           "type": "conquest",
           "label": "Noricum enters Roman rule",
-          "dates": "c. 15 BCE",
-          "summary": "The Norican kingdom was incorporated into Roman rule around 15 BCE.",
+          "dates": "c. 15 BC",
+          "summary": "The Norican kingdom was incorporated into Roman rule around 15 BC.",
           "note": "The transition was largely peaceful in the museum account; formal provincial administration developed later, and this did not erase local communities.",
           "sources": [
             "euNoricum"
@@ -562,7 +562,7 @@
           ],
           "type": "contact",
           "label": "Rhine–Danube frontier exchange",
-          "dates": "1st–4th centuries CE",
+          "dates": "1st–4th centuries AD",
           "summary": "Roman goods, diplomacy and military encounters connected imperial provinces with communities beyond the Rhine and Danube.",
           "note": "Some regions were conquered and others remained outside Roman control; the arrow does not annex every society in the broad cultural frame.",
           "sources": [
@@ -579,8 +579,8 @@
           ],
           "type": "conquest",
           "label": "Claudius invades Britain",
-          "dates": "43 CE onward",
-          "summary": "Roman armies invaded in 43 CE and progressively conquered much of present-day England and Wales.",
+          "dates": "43 AD onward",
+          "summary": "Roman armies invaded in 43 AD and progressively conquered much of present-day England and Wales.",
           "note": "Conquest involved local allies and resistance and did not encompass the whole island; Iron Age communities did not disappear in 43.",
           "sources": [
             "euBritainRoman"
@@ -596,9 +596,9 @@
           ],
           "type": "conquest",
           "label": "Resistance & Roman expansion",
-          "dates": "2nd–1st centuries BCE",
+          "dates": "2nd–1st centuries BC",
           "summary": "Roman expansion into western Iberia met prolonged resistance before imperial control consolidated.",
-          "note": "The cultural block’s 139 BCE endpoint follows Viriathus’ death, not the end of Lusitanian communities or the completion of conquest.",
+          "note": "The cultural block’s 139 BC endpoint follows Viriathus’ death, not the end of Lusitanian communities or the completion of conquest.",
           "sources": [
             "euLusitania"
           ]
@@ -613,7 +613,7 @@
           ],
           "type": "conquest",
           "label": "Long conquest of Hispania",
-          "dates": "218–19 BCE",
+          "dates": "218–19 BC",
           "summary": "Roman expansion gradually incorporated Iberian and Celtiberian communities across many separate campaigns.",
           "note": "The last campaigns occurred under Augustus after the Republic’s conventional endpoint; languages, settlements and identities did not abruptly vanish.",
           "sources": [
@@ -630,7 +630,7 @@
           ],
           "type": "conquest",
           "label": "Carthaginian possessions lost",
-          "dates": "218–201 BCE",
+          "dates": "218–201 BC",
           "summary": "Rome displaced Carthaginian power in Iberia during the Second Punic War.",
           "note": "The struggle did not immediately bring the entire peninsula under Roman control or end Indigenous resistance.",
           "sources": [
@@ -647,7 +647,7 @@
           ],
           "type": "conquest",
           "label": "Alésia & Roman conquest",
-          "dates": "52 BCE · selected turning point",
+          "dates": "52 BC · selected turning point",
           "summary": "Caesar’s victory over Vercingetorix and his allies at Alésia was a major stage in the conquest of Gaul.",
           "note": "This is a selected campaign episode, not the disappearance of Gallic people or an instant conquest of every region.",
           "sources": [
@@ -664,7 +664,7 @@
           ],
           "type": "contact",
           "label": "Rome among Italian communities",
-          "dates": "8th–6th centuries BCE",
+          "dates": "8th–6th centuries BC",
           "summary": "Early Rome developed within the culturally and linguistically diverse Italian peninsula.",
           "note": "Italic peoples is a collective label including Latins; it does not include every early Italian culture, and Rome was not their united kingdom.",
           "sources": [
@@ -682,9 +682,9 @@
           ],
           "type": "continuation",
           "label": "Monarchy → republic",
-          "dates": "509 BCE · traditional chronology",
-          "summary": "Roman tradition dates the replacement of royal rule by republican government to 509 BCE.",
-          "note": "Early Roman chronology combines archaeology and much later literary accounts; 753 BCE is a traditional foundation date, not a securely documented founding event.",
+          "dates": "509 BC · traditional chronology",
+          "summary": "Roman tradition dates the replacement of royal rule by republican government to 509 BC.",
+          "note": "Early Roman chronology combines archaeology and much later literary accounts; 753 BC is a traditional foundation date, not a securely documented founding event.",
           "sources": [
             "euRepublic"
           ]
@@ -699,9 +699,9 @@
           ],
           "type": "continuation",
           "label": "Augustan principate",
-          "dates": "27 BCE",
+          "dates": "27 BC",
           "summary": "Augustus’ settlement marks the conventional transition to imperial government within the Roman state.",
-          "note": "The western timeline entry overlaps the shared Roman Empire frame used in other maps; it is not a separate state founded alongside it in 27 BCE.",
+          "note": "The western timeline entry overlaps the shared Roman Empire frame used in other maps; it is not a separate state founded alongside it in 27 BC.",
           "sources": [
             "euRepublic"
           ]
@@ -716,7 +716,7 @@
           ],
           "type": "division",
           "label": "Roman government ends in Britain",
-          "dates": "Early 5th century CE",
+          "dates": "Early 5th century AD",
           "summary": "Central Roman government in Britain ended and local authorities and kingdoms developed.",
           "note": "The empire continued elsewhere; Sub-Roman Britain is a regional frame, not a new united British kingdom or a total population replacement.",
           "sources": [
@@ -733,7 +733,7 @@
           ],
           "type": "contact",
           "label": "Settlement, conflict & coexistence",
-          "dates": "5th–7th centuries CE",
+          "dates": "5th–7th centuries AD",
           "summary": "Migrants from continental northern Europe and existing British communities interacted as several Anglo-Saxon kingdoms formed.",
           "note": "This overlaps the Sub-Roman frame, includes conflict and coexistence, and does not describe the whole island becoming Anglo-Saxon.",
           "sources": [
@@ -750,7 +750,7 @@
           ],
           "type": "union",
           "label": "English kingdom consolidates",
-          "dates": "10th century CE",
+          "dates": "10th century AD",
           "summary": "Kings of Wessex and their successors consolidated territories into a kingdom of England during the tenth century.",
           "note": "A protracted process involving Mercian, Northumbrian, Scandinavian and other territories, rather than a voluntary merger of all Britain; British kingdoms continued elsewhere.",
           "sources": [
@@ -809,7 +809,7 @@
           ],
           "type": "continuation",
           "label": "Suevic kingdom in former provinces",
-          "dates": "5th century CE",
+          "dates": "5th century AD",
           "summary": "Suevic rulers established a kingdom in northwestern Iberian lands formerly under Roman authority.",
           "note": "Changing rule over a selected region, not succession to the whole Roman Empire or disappearance of its provincial population.",
           "sources": [
@@ -827,7 +827,7 @@
           ],
           "type": "conquest",
           "label": "Suevic realm incorporated",
-          "dates": "585 CE",
+          "dates": "585 AD",
           "summary": "Visigothic rule incorporated the Suevic kingdom in 585.",
           "note": "This ended a separate government, not its population or all local religious institutions.",
           "sources": [
@@ -844,7 +844,7 @@
           ],
           "type": "conquest",
           "label": "Umayyad conquest",
-          "dates": "From 711 CE",
+          "dates": "From 711 AD",
           "summary": "Arab and Berber armies defeated Visigothic royal forces and conquered most of Iberia.",
           "note": "Al-Andalus includes many later governments, while northern Christian realms and frontier zones followed different histories.",
           "sources": [
@@ -861,7 +861,7 @@
           ],
           "type": "contact",
           "label": "Northern frontier kingdoms",
-          "dates": "8th–10th centuries CE",
+          "dates": "8th–10th centuries AD",
           "summary": "The Asturian monarchy developed in the north while Umayyad rulers governed much of Iberia.",
           "note": "A frontier relationship with warfare, settlement and exchange; Asturias was not a complete successor to al-Andalus or all Visigothic territory.",
           "sources": [
@@ -878,7 +878,7 @@
           ],
           "type": "continuation",
           "label": "Royal centre moves to León",
-          "dates": "910 CE onward",
+          "dates": "910 AD onward",
           "summary": "The royal centre shifted from Oviedo to León and the monarchy became known as the kingdom of León.",
           "note": "Asturian and Leonese labels overlap; this was a change of political centre within a developing monarchy, not replacement of one people by another.",
           "sources": [
@@ -895,7 +895,7 @@
           ],
           "type": "contact",
           "label": "Portucale within northern expansion",
-          "dates": "From 868 CE",
+          "dates": "From 868 AD",
           "summary": "The recovery of Porto formed the setting for the first Portucalense county under the northern Christian monarchy.",
           "note": "A regional county within changing royal authority; its exact endpoints vary, and it was not an independent kingdom of Portugal.",
           "sources": [
@@ -912,7 +912,7 @@
           ],
           "type": "continuation",
           "label": "County reconstituted",
-          "dates": "1096 CE",
+          "dates": "1096 AD",
           "summary": "A new Portucalense county was assigned to Henry of Burgundy in 1096.",
           "note": "Nuno Mendes’s defeat in 1071 ended the first comital line. Royal administration and later reorganisation preceded Henry’s county; these entries do not indicate an unbroken independent state.",
           "sources": [
@@ -930,7 +930,7 @@
           ],
           "type": "independence",
           "label": "Afonso adopts kingship",
-          "dates": "1139–1179 CE",
+          "dates": "1139–1179 AD",
           "summary": "Afonso Henriques adopted royal status after 1139, followed by Leonese recognition in 1143 and papal recognition in 1179.",
           "note": "Kingship, recognition and territorial consolidation were separate stages; the kingdom’s borders and institutions continued to change.",
           "sources": [
@@ -948,7 +948,7 @@
           ],
           "type": "union",
           "label": "Castile–León dynastic union",
-          "dates": "1230 CE",
+          "dates": "1230 AD",
           "summary": "Ferdinand III united the crowns of Castile and León in 1230.",
           "note": "León retained a recognised royal identity within the composite crown; dynastic union did not instantly homogenise its institutions or population.",
           "sources": [
@@ -965,7 +965,7 @@
           ],
           "type": "conquest",
           "label": "Granada surrendered",
-          "dates": "1492 CE",
+          "dates": "1492 AD",
           "summary": "Ferdinand and Isabella’s forces took Granada, the last Muslim-ruled Iberian kingdom, in 1492.",
           "note": "This ended the Nasrid government, not Muslim people or culture; conversion, persecution, expulsions and continuing communities belong to later histories.",
           "sources": [
@@ -1027,7 +1027,7 @@
           ],
           "type": "contact",
           "label": "Movement into Roman territories",
-          "dates": "4th–6th centuries CE",
+          "dates": "4th–6th centuries AD",
           "summary": "Germanic-speaking groups were among the many populations that migrated, fought and settled within and beyond the Roman frontier.",
           "note": "Migration Period is a broad historical frame, not a tribe or successor state; it also involves Huns, Slavs and others.",
           "sources": [
@@ -1044,7 +1044,7 @@
           ],
           "type": "contact",
           "label": "Frankish kings consolidate Gaul",
-          "dates": "Late 5th–6th centuries CE",
+          "dates": "Late 5th–6th centuries AD",
           "summary": "Clovis and later Frankish rulers consolidated kingdoms in former Roman Gaul.",
           "note": "The Franks were one set of Germanic-speaking groups; the broad cultural label did not turn into a single Frankish nation.",
           "sources": [
@@ -1061,7 +1061,7 @@
           ],
           "type": "continuation",
           "label": "Post-imperial Alpine authorities",
-          "dates": "Late 5th–6th centuries CE",
+          "dates": "Late 5th–6th centuries AD",
           "summary": "The end of western imperial rule left changing authorities in the eastern Alpine provinces.",
           "note": "The selected regional frame includes Ostrogothic influence and local continuity; it was never one kingdom called Alpine kingdoms.",
           "sources": [
@@ -1079,7 +1079,7 @@
           ],
           "type": "contact",
           "label": "Bavarian dukes attested",
-          "dates": "By c. 555 CE",
+          "dates": "By c. 555 AD",
           "summary": "Agilolfing dukes are attested in the Bavarian region during the sixth century.",
           "note": "Bavarian political formation was gradual; no secure single founding event or direct succession from every post-Roman Alpine authority is asserted.",
           "sources": [
@@ -1096,7 +1096,7 @@
           ],
           "type": "conquest",
           "label": "Tassilo deposed",
-          "dates": "788 CE",
+          "dates": "788 AD",
           "summary": "Charlemagne deposed Duke Tassilo III and incorporated Bavaria under direct Carolingian authority.",
           "note": "Bavaria remained a recognisable region and later duchy; the act did not end Bavarian communities.",
           "sources": [
@@ -1113,7 +1113,7 @@
           ],
           "type": "continuation",
           "label": "Charlemagne crowned emperor",
-          "dates": "800 CE",
+          "dates": "800 AD",
           "summary": "Charlemagne received the imperial title in Rome in 800 while ruling the Frankish realm.",
           "note": "The imperial-period block overlaps the broader Frankish entry; Carolingian kingship began earlier and the coronation did not absorb the Byzantine Empire.",
           "sources": [
@@ -1130,7 +1130,7 @@
           ],
           "type": "continuation",
           "label": "Babenberg frontier appointment",
-          "dates": "976 CE",
+          "dates": "976 AD",
           "summary": "The emperor assigned the eastern march to Liutpold of the Babenberg family in 976.",
           "note": "The march was a subordinate frontier jurisdiction associated with Bavaria, not an independent state replacing the empire.",
           "sources": [
@@ -1147,7 +1147,7 @@
           ],
           "type": "continuation",
           "label": "Austria raised to a duchy",
-          "dates": "1156 CE",
+          "dates": "1156 AD",
           "summary": "The Privilegium minus raised Austria to a duchy and separated its ducal authority from Bavaria.",
           "note": "It remained within the Holy Roman Empire; this was a legal and dynastic change rather than the birth of the modern republic.",
           "sources": [
@@ -1164,7 +1164,7 @@
           ],
           "type": "continuation",
           "label": "Archducal privileges confirmed",
-          "dates": "1453 CE",
+          "dates": "1453 AD",
           "summary": "Emperor Frederick III confirmed privileges that recognised the Austrian archducal title.",
           "note": "The claims originated in Rudolf IV’s fourteenth-century forgery; the Habsburg dynasty had already ruled Austria since the late thirteenth century.",
           "sources": [
@@ -1181,7 +1181,7 @@
           ],
           "type": "continuation",
           "label": "Austrian imperial title created",
-          "dates": "1804 CE",
+          "dates": "1804 AD",
           "summary": "Francis adopted the hereditary title Emperor of Austria over the Habsburg lands in 1804.",
           "note": "The new empire overlapped the Holy Roman Empire until the latter’s dissolution in 1806; its constituent lands were not all identical with the Austrian archduchy.",
           "sources": [
@@ -1234,7 +1234,7 @@
           ],
           "type": "conquest",
           "label": "Eastern Roman reconquest",
-          "dates": "535–554 CE",
+          "dates": "535–554 AD",
           "summary": "Justinian’s armies defeated the Ostrogothic kingdom through a prolonged war in Italy.",
           "note": "Campaign endpoints differ by definition; reconquest damaged the peninsula and did not produce lasting control of all Italy.",
           "sources": [
@@ -1251,7 +1251,7 @@
           ],
           "type": "conquest",
           "label": "Lombard invasion",
-          "dates": "568 CE onward",
+          "dates": "568 AD onward",
           "summary": "Lombards conquered substantial parts of Italy while the Eastern Romans retained other territories.",
           "note": "Italy remained divided; this was not a complete transfer of Byzantine Italy or a conquest of the Byzantine Empire.",
           "sources": [
@@ -1268,7 +1268,7 @@
           ],
           "type": "conquest",
           "label": "Charlemagne takes Lombard crown",
-          "dates": "774 CE",
+          "dates": "774 AD",
           "summary": "Charlemagne conquered the northern Lombard kingdom and assumed its royal title.",
           "note": "Southern Lombard principalities survived, and the imperial title represented by the Carolingian-period node followed in 800.",
           "sources": [
@@ -1285,7 +1285,7 @@
           ],
           "type": "independence",
           "label": "Communal autonomy expands",
-          "dates": "c. 1080–1183 CE",
+          "dates": "c. 1080–1183 AD",
           "summary": "Northern and central Italian communes asserted autonomy against imperial authority, later recognised in the Peace of Constance.",
           "note": "The Italian-states entry is a broader regional frame including varied governments; not all gained autonomy together or broke every legal tie with the empire.",
           "sources": [
@@ -1302,7 +1302,7 @@
           ],
           "type": "contact",
           "label": "Communes & southern monarchy coexist",
-          "dates": "12th–14th centuries CE",
+          "dates": "12th–14th centuries AD",
           "summary": "Independent communes, papal lands and the southern Sicilian monarchy formed contrasting centres of power in medieval Italy.",
           "note": "This is a contemporary regional relationship, not a claim that northern communes merged to create the Sicilian kingdom or shared one ruler.",
           "sources": [
@@ -1319,7 +1319,7 @@
           ],
           "type": "union",
           "label": "Naples–Sicily legal union",
-          "dates": "1816 CE",
+          "dates": "1816 AD",
           "summary": "The Bourbon ruler formally combined the kingdoms of Naples and Sicily as the Kingdom of the Two Sicilies.",
           "note": "The Sicily timeline entry groups the crowns’ changing history after the 1282 division; their shared monarch did not make them one unchanged state before 1816.",
           "sources": [
@@ -1336,7 +1336,7 @@
           ],
           "type": "conquest",
           "label": "Southern annexation & Italian kingdom",
-          "dates": "1860–1861 CE",
+          "dates": "1860–1861 AD",
           "summary": "Garibaldi’s campaigns and Sardinian intervention brought the Two Sicilies into the new Kingdom of Italy.",
           "note": "Unification also involved other states; Venetia joined in 1866 and Rome in 1870, and Italy became a republic in 1946.",
           "sources": [
@@ -1382,7 +1382,7 @@
           ],
           "type": "contact",
           "label": "Christianisation & court connections",
-          "dates": "988 CE onward",
+          "dates": "988 AD onward",
           "summary": "Volodymyr’s adoption of Christianity strengthened ecclesiastical and artistic connections between Rus’ and Byzantium.",
           "note": "A religious and diplomatic relationship, not incorporation into the Byzantine state or the beginning of all Rus’ settlement.",
           "sources": [
@@ -1399,7 +1399,7 @@
           ],
           "type": "division",
           "label": "Regional principalities consolidate",
-          "dates": "12th–13th centuries CE",
+          "dates": "12th–13th centuries AD",
           "summary": "Political authority became increasingly dispersed among competing Rus’ principalities.",
           "note": "A gradual and overlapping development, not one dated partition into the modern nations of Ukraine, Russia and Belarus.",
           "sources": [
@@ -1417,7 +1417,7 @@
           ],
           "type": "conquest",
           "label": "Mongol invasion & tributary power",
-          "dates": "1237–1242 CE",
+          "dates": "1237–1242 AD",
           "summary": "Mongol conquest, including the sack of Kyiv in 1240, subjected many Rus’ principalities to tribute under the Jochid realm.",
           "note": "Rulers, cities and communities survived; not every Rus’ territory experienced identical control, and the Horde was not a renamed Rus’.",
           "sources": [
@@ -1435,7 +1435,7 @@
           ],
           "type": "contact",
           "label": "Moscow expands among principalities",
-          "dates": "13th–15th centuries CE",
+          "dates": "13th–15th centuries AD",
           "summary": "Moscow developed within northeastern Rus’ and expanded amid competition with other principalities under Horde supremacy.",
           "note": "One regional path only; Moscow did not inherit every Rus’ land, and the shared medieval history is not exclusive ancestry or a modern territorial entitlement.",
           "sources": [
@@ -1452,7 +1452,7 @@
           ],
           "type": "conquest",
           "label": "Western Rus’ lands incorporated",
-          "dates": "13th–14th centuries CE",
+          "dates": "13th–14th centuries AD",
           "summary": "Lithuanian expansion incorporated extensive western and southern Rus’ territories through changing military and dynastic relationships.",
           "note": "Ruthenian legal and cultural traditions continued; these lands were not all incorporated at once, and Lithuania did not inherit the whole Kyivan realm.",
           "sources": [

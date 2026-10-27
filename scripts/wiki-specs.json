@@ -744,7 +744,7 @@
     {
       "id": "event-writing",
       "title": "Early writing",
-      "dates": "c. 3400–3200 BCE",
+      "dates": "c. 3400–3200 BC",
       "wikiTitle": "History of writing",
       "location": "Mesopotamia and other independent traditions",
       "year": -3400,
@@ -755,7 +755,7 @@
     {
       "id": "event-buddhism",
       "title": "Origins of Buddhism",
-      "dates": "c. 5th century BCE",
+      "dates": "c. 5th century BC",
       "wikiTitle": "History of Buddhism",
       "location": "South Asia",
       "year": -500,
@@ -766,7 +766,7 @@
     {
       "id": "event-christianity",
       "title": "Early Christianity",
-      "dates": "1st century CE",
+      "dates": "1st century AD",
       "wikiTitle": "History of Christianity",
       "location": "Eastern Mediterranean",
       "year": 1,
@@ -777,7 +777,7 @@
     {
       "id": "event-islam",
       "title": "Emergence of Islam",
-      "dates": "7th century CE",
+      "dates": "7th century AD",
       "wikiTitle": "History of Islam",
       "location": "Arabia and neighbouring regions",
       "year": 600,
@@ -788,7 +788,7 @@
     {
       "id": "event-silkroads",
       "title": "Silk Road exchanges",
-      "dates": "c. 2nd century BCE–15th century CE",
+      "dates": "c. 2nd century BC–15th century AD",
       "wikiTitle": "Silk Road",
       "location": "Networks across Eurasia",
       "year": -200,

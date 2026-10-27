@@ -9,7 +9,7 @@
     "region": "europe",
     "start": -800,
     "end": 43,
-    "note": "Selected pre-Roman Iron Age frame; Celtic languages and identities did not disappear in 43 CE. Stonehenge belongs to the much earlier Neolithic and Bronze Age, rather than to the origin of a Celtic state.",
+    "note": "Selected pre-Roman Iron Age frame; Celtic languages and identities did not disappear in 43 AD. Stonehenge belongs to the much earlier Neolithic and Bronze Age, rather than to the origin of a Celtic state.",
     "parent": null,
     "category": "history",
     "sources": [
@@ -41,7 +41,7 @@
     "region": "europe",
     "start": -600,
     "end": -139,
-    "note": "An approximate Iron Age frame, not a single kingdom founded in 600 BCE. Roman writers attest Lusitanians later; the Lusitanian War ended in 139 BCE but regional conquest continued.",
+    "note": "An approximate Iron Age frame, not a single kingdom founded in 600 BC. Roman writers attest Lusitanians later; the Lusitanian War ended in 139 BC but regional conquest continued.",
     "parent": null,
     "category": "history",
     "sources": [
@@ -68,7 +68,7 @@
     "region": "europe",
     "start": -600,
     "end": -19,
-    "note": "A broad grouping of distinct peoples, languages and regional societies. Iberian culture is usually identified from the first millennium BCE; Rome completed its wider Iberian conquests in 19 BCE, not in 218 BCE.",
+    "note": "A broad grouping of distinct peoples, languages and regional societies. Iberian culture is usually identified from the first millennium BC; Rome completed its wider Iberian conquests in 19 BC, not in 218 BC.",
     "parent": null,
     "category": "history",
     "sources": [
@@ -95,7 +95,7 @@
     "region": "europe",
     "start": -237,
     "end": -206,
-    "note": "Selected Barcid territorial phase beginning with Hamilcar Barca in 237 BCE. Phoenician and Punic settlements predate it; Rome expelled the main Carthaginian forces from Iberia in 206 BCE.",
+    "note": "Selected Barcid territorial phase beginning with Hamilcar Barca in 237 BC. Phoenician and Punic settlements predate it; Rome expelled the main Carthaginian forces from Iberia in 206 BC.",
     "parent": null,
     "category": "history",
     "sources": [
@@ -122,7 +122,7 @@
     "region": "europe",
     "start": -800,
     "end": -50,
-    "note": "An approximate regional Iron Age frame, not one Celtic state. Caesar campaigned in 58–50 BCE; southern Gaul had already come under Roman rule.",
+    "note": "An approximate regional Iron Age frame, not one Celtic state. Caesar campaigned in 58–50 BC; southern Gaul had already come under Roman rule.",
     "parent": null,
     "category": "history",
     "sources": [
@@ -176,7 +176,7 @@
     "region": "europe",
     "start": -753,
     "end": -509,
-    "note": "753 BCE and 509 BCE are traditional foundation and transition dates transmitted by later Roman historians, not archaeologically proven day-one boundaries.",
+    "note": "753 BC and 509 BC are traditional foundation and transition dates transmitted by later Roman historians, not archaeologically proven day-one boundaries.",
     "parent": null,
     "category": "history",
     "sources": [
@@ -230,7 +230,7 @@
     "region": "europe",
     "start": -218,
     "end": -27,
-    "note": "Roman intervention began in 218 BCE, but conquest lasted into the Augustan period. This is a regional phase of the Republic, not a second Roman state.",
+    "note": "Roman intervention began in 218 BC, but conquest lasted into the Augustan period. This is a regional phase of the Republic, not a second Roman state.",
     "parent": "romanrepublic",
     "category": "period",
     "sources": [
@@ -257,7 +257,7 @@
     "region": "europe",
     "start": -58,
     "end": -50,
-    "note": "The poster marks 58 BCE. Caesar’s wars ran through 50 BCE, while Roman rule in southern Gaul began earlier.",
+    "note": "The poster marks 58 BC. Caesar’s wars ran through 50 BC, while Roman rule in southern Gaul began earlier.",
     "parent": "romanrepublic",
     "category": "period",
     "sources": [
@@ -311,7 +311,7 @@
     "region": "europe",
     "start": -800,
     "end": -450,
-    "note": "The selected Iron Age Hallstatt C–D phases date approximately 800–450 BCE. Broader Hallstatt A–B material belongs to the earlier Bronze Age; the culture was not a unitary state.",
+    "note": "The selected Iron Age Hallstatt C–D phases date approximately 800–450 BC. Broader Hallstatt A–B material belongs to the earlier Bronze Age; the culture was not a unitary state.",
     "parent": null,
     "category": "history",
     "sources": [
@@ -343,7 +343,7 @@
     "region": "europe",
     "start": -200,
     "end": -15,
-    "note": "The Norican kingdom or federation consolidated around the second century BCE; the poster’s c. 400 BCE better describes earlier regional Celtic culture. Roman annexation began in 15 BCE; later provincial institutions continued.",
+    "note": "The Norican kingdom or federation consolidated around the second century BC; the poster’s c. 400 BC better describes earlier regional Celtic culture. Roman annexation began in 15 BC; later provincial institutions continued.",
     "parent": null,
     "category": "history",
     "sources": [
@@ -512,7 +512,7 @@
     "region": "europe",
     "start": -480,
     "end": -323,
-    "note": "The poster starts this label around 800 BCE, combining Archaic and Classical Greece. Classical Greece conventionally begins around 480 BCE; city-states were independent and often at war.",
+    "note": "The poster starts this label around 800 BC, combining Archaic and Classical Greece. Classical Greece conventionally begins around 480 BC; city-states were independent and often at war.",
     "parent": null,
     "category": "history",
     "sources": [
@@ -539,7 +539,7 @@
     "region": "europe",
     "start": -800,
     "end": -480,
-    "note": "An expanded conventional frame covering the earlier portion of the poster’s combined Greek band. The existing site uses the narrower art-historical start c. 700 BCE; either convention needs an explicit note.",
+    "note": "An expanded conventional frame covering the earlier portion of the poster’s combined Greek band. The existing site uses the narrower art-historical start c. 700 BC; either convention needs an explicit note.",
     "parent": null,
     "category": "history",
     "sources": [
@@ -567,7 +567,7 @@
     "region": "europe",
     "start": -338,
     "end": -323,
-    "note": "338 BCE marks Philip II’s victory at Chaeronea. Alexander’s Asian conquests began in 334 BCE; his death in 323 BCE initiated succession struggles, rather than instantly creating stable successor states.",
+    "note": "338 BC marks Philip II’s victory at Chaeronea. Alexander’s Asian conquests began in 334 BC; his death in 323 BC initiated succession struggles, rather than instantly creating stable successor states.",
     "parent": "greece",
     "category": "period",
     "sources": [
@@ -594,7 +594,7 @@
     "region": "europe",
     "start": -323,
     "end": -31,
-    "note": "The poster’s Greek column ends at Roman conquest in 146 BCE. Hellenistic kingdoms elsewhere continued; 31 BCE is a common wider period endpoint, with Egypt annexed in 30 BCE.",
+    "note": "The poster’s Greek column ends at Roman conquest in 146 BC. Hellenistic kingdoms elsewhere continued; 31 BC is a common wider period endpoint, with Egypt annexed in 30 BC.",
     "parent": null,
     "category": "history",
     "sources": [
@@ -621,7 +621,7 @@
     "region": "europe",
     "start": -146,
     "end": -27,
-    "note": "The destruction of Corinth in 146 BCE is a conventional marker; incorporation and provincial organisation occurred in stages. This is a regional phase of the Roman Republic.",
+    "note": "The destruction of Corinth in 146 BC is a conventional marker; incorporation and provincial organisation occurred in stages. This is a regional phase of the Roman Republic.",
     "parent": "romanrepublic",
     "category": "period",
     "sources": [
@@ -648,7 +648,7 @@
     "region": "europe",
     "start": -27,
     "end": 476,
-    "note": "27 BCE marks the conventional beginning of the principate. 476 CE concerns western imperial government; the Eastern Roman state continued. The poster’s cross-column shape is not a precise territorial map.",
+    "note": "27 BC marks the conventional beginning of the principate. 476 AD concerns western imperial government; the Eastern Roman state continued. The poster’s cross-column shape is not a precise territorial map.",
     "parent": null,
     "category": "history",
     "sources": [

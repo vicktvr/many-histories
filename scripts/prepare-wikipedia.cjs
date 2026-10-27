@@ -3,11 +3,11 @@ const titles={egypt:'Ancient Egypt',nubia:'Nubia',nok:'Nok culture',jenne:'Djenn
 for(const row of JSON.parse(fs.readFileSync(path.join(root,'scripts/additions.json'),'utf8')))titles[row[0]]=row[10];
 for(const entry of JSON.parse(fs.readFileSync(path.join(root,'scripts/modern.json'),'utf8')))titles[entry.id]=entry.wikiTitle;
 const milestones=[
- ['writing','Early writing','c. 3400–3200 BCE','History of writing','Mesopotamia and other independent traditions',-3400],
- ['buddhism','Origins of Buddhism','c. 5th century BCE','History of Buddhism','South Asia',-500],
- ['christianity','Early Christianity','1st century CE','History of Christianity','Eastern Mediterranean',1],
- ['islam','Emergence of Islam','7th century CE','History of Islam','Arabia and neighbouring regions',600],
- ['silkroads','Silk Road exchanges','c. 2nd century BCE–15th century CE','Silk Road','Networks across Eurasia',-200],
+ ['writing','Early writing','c. 3400–3200 BC','History of writing','Mesopotamia and other independent traditions',-3400],
+ ['buddhism','Origins of Buddhism','c. 5th century BC','History of Buddhism','South Asia',-500],
+ ['christianity','Early Christianity','1st century AD','History of Christianity','Eastern Mediterranean',1],
+ ['islam','Emergence of Islam','7th century AD','History of Islam','Arabia and neighbouring regions',600],
+ ['silkroads','Silk Road exchanges','c. 2nd century BC–15th century AD','Silk Road','Networks across Eurasia',-200],
  ['blackdeath','Black Death','1346–1353','Black Death','Eurasia and North Africa',1346],
  ['printing','Gutenberg printing','c. 1450','Printing press','Mainz · present-day Germany',1450],
  ['atlanticvoyage','Columbus’s first Atlantic voyage','1492','Voyages of Christopher Columbus','Atlantic Ocean and Caribbean',1492],

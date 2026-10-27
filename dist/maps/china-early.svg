@@ -69,37 +69,37 @@
 <rect class="edge-label-bg" x="717" y="2630" width="165" height="34" rx="7" fill="#fdfcf8" stroke="#3b8274" stroke-opacity=".28"/>
 <text class="edge-label" x="799.5" y="2652" text-anchor="middle">Song consolidation</text>
 </g>
-<g class="map-node" id="map-node-china-early-liangzhu" data-history="liangzhu" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Liangzhu, c. 3300–2300 BCE. Open Wikipedia." data-map="china-early"><title>Liangzhu · c. 3300–2300 BCE</title><rect x="548.5" y="220" width="228" height="94" rx="10" fill="#efc675"/>
+<g class="map-node" id="map-node-china-early-liangzhu" data-history="liangzhu" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Liangzhu, c. 3300–2300 BC. Open Wikipedia." data-map="china-early"><title>Liangzhu · c. 3300–2300 BC</title><rect x="548.5" y="220" width="228" height="94" rx="10" fill="#efc675"/>
 <text class="map-label" style="font-size:21px" x="662.5" y="263" text-anchor="middle">Liangzhu</text>
-<text class="map-date" x="662.5" y="299" text-anchor="middle">c. 3300–2300 BCE</text></g>
-<g class="map-node" id="map-node-china-early-xia" data-history="xia" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Xia · traditional dynasty, debated identification, 2070 BCE–1600 BCE. Open Wikipedia." data-map="china-early"><title>Xia · traditional dynasty, debated identification · 2070 BCE–1600 BCE</title><rect x="823.5" y="220" width="228" height="94" rx="10" fill="#d4b7d4"/>
+<text class="map-date" x="662.5" y="299" text-anchor="middle">c. 3300–2300 BC</text></g>
+<g class="map-node" id="map-node-china-early-xia" data-history="xia" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Xia · traditional dynasty, debated identification, 2070 BC–1600 BC. Open Wikipedia." data-map="china-early"><title>Xia · traditional dynasty, debated identification · 2070 BC–1600 BC</title><rect x="823.5" y="220" width="228" height="94" rx="10" fill="#d4b7d4"/>
 <text class="map-label" style="font-size:21px" x="937.5" y="263" text-anchor="middle">Xia · unconfirmed</text>
-<text class="map-date" x="937.5" y="299" text-anchor="middle">2070 BCE–1600 BCE</text></g>
-<g class="map-node" id="map-node-china-early-shang" data-history="shang" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Shang dynasty, c. 1600–1046 BCE. Open Wikipedia." data-map="china-early"><title>Shang dynasty · c. 1600–1046 BCE</title><rect x="685.5" y="500" width="228" height="94" rx="10" fill="#e99e9b"/>
+<text class="map-date" x="937.5" y="299" text-anchor="middle">2070 BC–1600 BC</text></g>
+<g class="map-node" id="map-node-china-early-shang" data-history="shang" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Shang dynasty, c. 1600–1046 BC. Open Wikipedia." data-map="china-early"><title>Shang dynasty · c. 1600–1046 BC</title><rect x="685.5" y="500" width="228" height="94" rx="10" fill="#e99e9b"/>
 <text class="map-label" style="font-size:21px" x="799.5" y="543" text-anchor="middle">Shang dynasty</text>
-<text class="map-date" x="799.5" y="579" text-anchor="middle">c. 1600–1046 BCE</text></g>
-<g class="map-node" id="map-node-china-early-zhou" data-history="zhou" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Zhou dynasties, c. 1046–256 BCE. Open Wikipedia." data-map="china-early"><title>Zhou dynasties · c. 1046–256 BCE</title><rect x="685.5" y="780" width="228" height="94" rx="10" fill="#8fc5ae"/>
+<text class="map-date" x="799.5" y="579" text-anchor="middle">c. 1600–1046 BC</text></g>
+<g class="map-node" id="map-node-china-early-zhou" data-history="zhou" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Zhou dynasties, c. 1046–256 BC. Open Wikipedia." data-map="china-early"><title>Zhou dynasties · c. 1046–256 BC</title><rect x="685.5" y="780" width="228" height="94" rx="10" fill="#8fc5ae"/>
 <text class="map-label" style="font-size:21px" x="799.5" y="823" text-anchor="middle">Zhou dynasties</text>
-<text class="map-date" x="799.5" y="859" text-anchor="middle">c. 1046–256 BCE</text></g>
-<g class="map-node" id="map-node-china-early-qin" data-history="qin" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Qin dynasty, 221 BCE–206 BCE. Open Wikipedia." data-map="china-early"><title>Qin dynasty · 221 BCE–206 BCE</title><rect x="685.5" y="1060" width="228" height="94" rx="10" fill="#a8c6d9"/>
+<text class="map-date" x="799.5" y="859" text-anchor="middle">c. 1046–256 BC</text></g>
+<g class="map-node" id="map-node-china-early-qin" data-history="qin" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Qin dynasty, 221 BC–206 BC. Open Wikipedia." data-map="china-early"><title>Qin dynasty · 221 BC–206 BC</title><rect x="685.5" y="1060" width="228" height="94" rx="10" fill="#a8c6d9"/>
 <text class="map-label" style="font-size:21px" x="799.5" y="1103" text-anchor="middle">Qin dynasty</text>
-<text class="map-date" x="799.5" y="1139" text-anchor="middle">221 BCE–206 BCE</text></g>
-<g class="map-node" id="map-node-china-early-han" data-history="han" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Han dynasties, 206 BCE–220 CE. Open Wikipedia." data-map="china-early"><title>Han dynasties · 206 BCE–220 CE</title><rect x="685.5" y="1340" width="228" height="94" rx="10" fill="#d4b7d4"/>
+<text class="map-date" x="799.5" y="1139" text-anchor="middle">221 BC–206 BC</text></g>
+<g class="map-node" id="map-node-china-early-han" data-history="han" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Han dynasties, 206 BC–220 AD. Open Wikipedia." data-map="china-early"><title>Han dynasties · 206 BC–220 AD</title><rect x="685.5" y="1340" width="228" height="94" rx="10" fill="#d4b7d4"/>
 <text class="map-label" style="font-size:21px" x="799.5" y="1383" text-anchor="middle">Han dynasties</text>
-<text class="map-date" x="799.5" y="1419" text-anchor="middle">206 BCE–220 CE</text></g>
-<g class="map-node" id="map-node-china-early-china-division" data-history="china-division" role="button" tabindex="0" aria-haspopup="dialog" aria-label="China · Six Dynasties and divided realms, 220 CE–589 CE. Open Wikipedia." data-map="china-early"><title>China · Six Dynasties and divided realms · 220 CE–589 CE</title><rect x="685.5" y="1620" width="228" height="94" rx="10" fill="#a8c6d9"/>
+<text class="map-date" x="799.5" y="1419" text-anchor="middle">206 BC–220 AD</text></g>
+<g class="map-node" id="map-node-china-early-china-division" data-history="china-division" role="button" tabindex="0" aria-haspopup="dialog" aria-label="China · Six Dynasties and divided realms, 220 AD–589 AD. Open Wikipedia." data-map="china-early"><title>China · Six Dynasties and divided realms · 220 AD–589 AD</title><rect x="685.5" y="1620" width="228" height="94" rx="10" fill="#a8c6d9"/>
 <text class="map-label" style="font-size:21px" x="799.5" y="1663" text-anchor="middle">Age of Division</text>
 <text class="map-date" x="799.5" y="1699" text-anchor="middle">220–589</text></g>
-<g class="map-node" id="map-node-china-early-sui" data-history="sui" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Sui dynasty, 581 CE–618 CE. Open Wikipedia." data-map="china-early"><title>Sui dynasty · 581 CE–618 CE</title><rect x="685.5" y="1900" width="228" height="94" rx="10" fill="#f0bf7a"/>
+<g class="map-node" id="map-node-china-early-sui" data-history="sui" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Sui dynasty, 581 AD–618 AD. Open Wikipedia." data-map="china-early"><title>Sui dynasty · 581 AD–618 AD</title><rect x="685.5" y="1900" width="228" height="94" rx="10" fill="#f0bf7a"/>
 <text class="map-label" style="font-size:21px" x="799.5" y="1943" text-anchor="middle">Sui dynasty</text>
 <text class="map-date" x="799.5" y="1979" text-anchor="middle">581–618</text></g>
-<g class="map-node" id="map-node-china-early-tang" data-history="tang" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Tang dynasty, 618–907 CE. Open Wikipedia." data-map="china-early"><title>Tang dynasty · 618–907 CE</title><rect x="685.5" y="2180" width="228" height="94" rx="10" fill="#efc675"/>
+<g class="map-node" id="map-node-china-early-tang" data-history="tang" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Tang dynasty, 618–907 AD. Open Wikipedia." data-map="china-early"><title>Tang dynasty · 618–907 AD</title><rect x="685.5" y="2180" width="228" height="94" rx="10" fill="#efc675"/>
 <text class="map-label" style="font-size:21px" x="799.5" y="2223" text-anchor="middle">Tang dynasty</text>
 <text class="map-date" x="799.5" y="2259" text-anchor="middle">618–907</text></g>
-<g class="map-node" id="map-node-china-early-five-dynasties" data-history="five-dynasties" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Five Dynasties and Ten Kingdoms, 907 CE–979 CE. Open Wikipedia." data-map="china-early"><title>Five Dynasties and Ten Kingdoms · 907 CE–979 CE</title><rect x="685.5" y="2460" width="228" height="94" rx="10" fill="#f0bf7a"/>
+<g class="map-node" id="map-node-china-early-five-dynasties" data-history="five-dynasties" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Five Dynasties and Ten Kingdoms, 907 AD–979 AD. Open Wikipedia." data-map="china-early"><title>Five Dynasties and Ten Kingdoms · 907 AD–979 AD</title><rect x="685.5" y="2460" width="228" height="94" rx="10" fill="#f0bf7a"/>
 <text class="map-label" style="font-size:21px" x="799.5" y="2503" text-anchor="middle">Five Dynasties</text>
 <text class="map-date" x="799.5" y="2539" text-anchor="middle">907–979</text></g>
-<g class="map-node" id="map-node-china-early-song" data-history="song" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Song dynasties, 960–1279 CE. Open Wikipedia." data-map="china-early"><title>Song dynasties · 960–1279 CE</title><rect x="685.5" y="2740" width="228" height="94" rx="10" fill="#f0bf7a"/>
+<g class="map-node" id="map-node-china-early-song" data-history="song" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Song dynasties, 960–1279 AD. Open Wikipedia." data-map="china-early"><title>Song dynasties · 960–1279 AD</title><rect x="685.5" y="2740" width="228" height="94" rx="10" fill="#f0bf7a"/>
 <text class="map-label" style="font-size:21px" x="799.5" y="2783" text-anchor="middle">Song dynasties</text>
 <text class="map-date" x="799.5" y="2819" text-anchor="middle">960–1279</text></g>
 <text class="map-micro" x="800" y="2955" text-anchor="middle">Continue this history on another map</text>

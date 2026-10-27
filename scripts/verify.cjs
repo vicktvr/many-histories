@@ -113,7 +113,7 @@ assert.deepEqual(Array.from(event('partition1947').to),['indiamodern','pakistan'
 assert(event('china1949').note.includes('1945'));
 assert.equal(event('ife-benin').certainty,'Tradition');
 assert.equal(event('ea-yuan-kamakura').type,'contact','Failed invasions must not claim conquest');
-assert.equal(event('ea-tang-nara').dates,'8th century CE');
+assert.equal(event('ea-tang-nara').dates,'8th century AD');
 assert.equal(HISTORIES.find(h=>h.id==='poster-europe-035').end,1071);
 assert.equal(layout.length,HISTORIES.length,'Unrendered history');
 assert.equal(new Set(layout.map(l=>l.id)).size,HISTORIES.length);
@@ -338,7 +338,7 @@ const response=(request,id,extract)=>request.resolve({ok:true,json:async()=>({qu
  assert.equal((element('index-countries').innerHTML.match(/data-history=/g)||[]).length,21);
  element('index-kind').value='landmark';api.renderIndex();assert.equal((element('index-list').innerHTML.match(/data-history=/g)||[]).length,ATLAS_TOPICS.filter(t=>t.category==='landmark').length);
  element('index-kind').value='poster';element('index-search').value='Stonehenge';api.renderIndex();assert(element('index-list').innerHTML.includes('data-history="poster-stonehenge"'));
- api.openHistory('poster-stonehenge');assert(!element('index-dialog').open&&element('detail').open);assert.equal(element('wiki-full').href,WIKI_PAGES[WIKI_LINKS['poster-stonehenge']].url);assert(element('detail-content').innerHTML.includes('3000 BCE')&&element('detail-content').innerHTML.includes('long before the Celtic era'));
+ api.openHistory('poster-stonehenge');assert(!element('index-dialog').open&&element('detail').open);assert.equal(element('wiki-full').href,WIKI_PAGES[WIKI_LINKS['poster-stonehenge']].url);assert(element('detail-content').innerHTML.includes('3000 BC')&&element('detail-content').innerHTML.includes('long before the Celtic era'));
  element('detail').close();assert.equal(document.activeElement.id,'atlas-index');
  api.setEra('all');api.openHistory('egypt');assert(element('detail-content').innerHTML.includes('data-history="egypt-old-kingdom"'));assert(element('detail-content').innerHTML.includes('data-history="poster-karnak"'));
  api.openHistory('egypt-old-kingdom');assert.equal(element('wiki-full').href,WIKI_PAGES[WIKI_LINKS['egypt-old-kingdom']].url);assert.equal(api.locationTarget('egypt-old-kingdom'),'egypt');
@@ -380,7 +380,7 @@ const response=(request,id,extract)=>request.resolve({ok:true,json:async()=>({qu
  element('regional-search').value='no-such-history-zzzz';api.renderRegional();assert(element('regional-entries').innerHTML.includes('No matching histories'));element('regional-search').value='';
  element('regional-type').value='continuing';api.renderRegional();assert(element('regional-entries').innerHTML.includes('Continuing'));element('regional-type').value='all';api.renderRegional();
  api.openHistory('nok');assert.equal(element('locate-history').textContent,'Locate in Regions');api.showSelectedOnChart();while(frames.length)frames.shift()();assert.equal(document.activeElement.id,'regional-entry-nok');
- api.showRegionalKey();assert(element('connection-content').innerHTML.includes('4500 BCE–2026 CE'));assert(element('connection-content').innerHTML.includes('one linear time scale'));assert(element('connection-content').innerHTML.includes('not that a region had no history'));element('connection-detail').close();
+ api.showRegionalKey();assert(element('connection-content').innerHTML.includes('4500 BC–2026 AD'));assert(element('connection-content').innerHTML.includes('one linear time scale'));assert(element('connection-content').innerHTML.includes('not that a region had no history'));element('connection-detail').close();
  api.openRegion('');while(frames.length)frames.shift()();assert(!element('regional-directory').hidden);assert.equal((element('regional-directory').innerHTML.match(/class="regional-collection-card"/g)||[]).length,REGIONAL_COLLECTIONS.length);
  api.setEra('all');assert(element('chart-regions').hidden&&!element('zoom-tools').hidden);
  assert.equal((html.match(/class="region-link"/g)||[]).length,28,'Every heading in all four overview variants must be clickable');

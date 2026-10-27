@@ -65,7 +65,7 @@
     "region": "africa",
     "start": -2181,
     "end": -2055,
-    "note": "Regional dynasties overlapped. Alternative chronologies put the Middle Kingdom reunification around 2030 BCE.",
+    "note": "Regional dynasties overlapped. Alternative chronologies put the Middle Kingdom reunification around 2030 BC.",
     "parent": "egypt",
     "category": "period",
     "sourceUrls": [
@@ -94,7 +94,7 @@
     "region": "africa",
     "start": -2055,
     "end": -1650,
-    "note": "Approximate Egyptian ministry periodization; other scholarly chronologies begin around 2030 BCE or use a narrower end date.",
+    "note": "Approximate Egyptian ministry periodization; other scholarly chronologies begin around 2030 BC or use a narrower end date.",
     "parent": "egypt",
     "category": "period",
     "sourceUrls": [
@@ -210,7 +210,7 @@
     "region": "africa",
     "start": -664,
     "end": -332,
-    "note": "The poster truncates this at the first Persian conquest 525 BCE. The full Late Period conventionally includes Persian and restored native dynasties through 332 BCE.",
+    "note": "The poster truncates this at the first Persian conquest 525 BC. The full Late Period conventionally includes Persian and restored native dynasties through 332 BC.",
     "parent": "egypt",
     "category": "period",
     "sourceUrls": [
@@ -239,7 +239,7 @@
     "region": "africa",
     "start": -305,
     "end": -30,
-    "note": "Ptolemy took the royal title 305 BCE; his Egyptian governorship began 323 BCE. Ends with Roman annexation 30 BCE.",
+    "note": "Ptolemy took the royal title 305 BC; his Egyptian governorship began 323 BC. Ends with Roman annexation 30 BC.",
     "parent": null,
     "category": "history",
     "sourceUrls": [
@@ -457,7 +457,7 @@
     "region": "westasia",
     "start": -1650,
     "end": -1180,
-    "note": "Kingdom begins around 1650 BCE, not simply 1700; the imperial New Kingdom is a narrower phase.",
+    "note": "Kingdom begins around 1650 BC, not simply 1700; the imperial New Kingdom is a narrower phase.",
     "parent": null,
     "category": "history",
     "sourceUrls": [
@@ -502,7 +502,7 @@
     "region": "westasia",
     "start": -680,
     "end": -546,
-    "note": "Selected well-attested Mermnad phase begins around 680 BCE. Earlier Lydian traditions and rulers predate it; Cyrus’s conquest is conventionally dated 547/546 BCE.",
+    "note": "Selected well-attested Mermnad phase begins around 680 BC. Earlier Lydian traditions and rulers predate it; Cyrus’s conquest is conventionally dated 547/546 BC.",
     "parent": null,
     "category": "history",
     "sourceUrls": [
@@ -525,7 +525,7 @@
     "region": "westasia",
     "start": -4000,
     "end": -2004,
-    "note": "Selected urban Sumerian cultural history, not a single united empire. The poster’s 4500 BCE start is an overly precise ethnic-cultural founding date: Ubaid settlement traditions are earlier, while Uruk urbanization and writing developed during the fourth millennium. Ur III ended 2004 BCE; Sumerian language and traditions persisted.",
+    "note": "Selected urban Sumerian cultural history, not a single united empire. The poster’s 4500 BC start is an overly precise ethnic-cultural founding date: Ubaid settlement traditions are earlier, while Uruk urbanization and writing developed during the fourth millennium. Ur III ended 2004 BC; Sumerian language and traditions persisted.",
     "parent": null,
     "category": "history",
     "sourceUrls": [
@@ -554,7 +554,7 @@
     "region": "westasia",
     "start": -2334,
     "end": -2154,
-    "note": "Middle-chronology conventional dates; competing chronologies differ. Existing chart uses rounded 2350–2150 BCE.",
+    "note": "Middle-chronology conventional dates; competing chronologies differ. Existing chart uses rounded 2350–2150 BC.",
     "parent": null,
     "category": "history",
     "sourceUrls": [
@@ -576,7 +576,7 @@
     "region": "westasia",
     "start": -2112,
     "end": -2004,
-    "note": "The poster’s 2154–1894 frame conflates several post-Akkadian dynasties. Ur III is 2112–2004 BCE; earlier Lagash II and later Isin-Larsa states are distinct.",
+    "note": "The poster’s 2154–1894 frame conflates several post-Akkadian dynasties. Ur III is 2112–2004 BC; earlier Lagash II and later Isin-Larsa states are distinct.",
     "parent": "sumer",
     "category": "period",
     "sourceUrls": [
@@ -621,7 +621,7 @@
     "region": "westasia",
     "start": -1595,
     "end": -1155,
-    "note": "Traditional period boundary 1595 BCE reflects the Hittite sack; the earliest establishment of Kassite rule is imperfectly documented.",
+    "note": "Traditional period boundary 1595 BC reflects the Hittite sack; the earliest establishment of Kassite rule is imperfectly documented.",
     "parent": null,
     "category": "history",
     "sourceUrls": [
@@ -669,7 +669,7 @@
     "region": "westasia",
     "start": -911,
     "end": -609,
-    "note": "Nineveh fell 612 BCE; remaining Assyrian royal resistance at Harran continued until 609 BCE. Existing entry uses 612 for the fall of its capital.",
+    "note": "Nineveh fell 612 BC; remaining Assyrian royal resistance at Harran continued until 609 BC. Existing entry uses 612 for the fall of its capital.",
     "parent": null,
     "category": "history",
     "sourceUrls": [
@@ -691,7 +691,7 @@
     "region": "westasia",
     "start": -626,
     "end": -539,
-    "note": "Nabopolassar’s kingdom began 626 BCE; imperial expansion followed Assyria’s collapse 612–609. Conquered by Cyrus 539 BCE.",
+    "note": "Nabopolassar’s kingdom began 626 BC; imperial expansion followed Assyria’s collapse 612–609. Conquered by Cyrus 539 BC.",
     "parent": null,
     "category": "history",
     "sourceUrls": [
@@ -714,7 +714,7 @@
     "region": "westasia",
     "start": -2700,
     "end": -539,
-    "note": "A sequence of kingdoms and cultural phases, not one uninterrupted empire. Elamite history did not simply end 1500 BCE with the appearance of Iranian-speaking groups; these histories overlapped.",
+    "note": "A sequence of kingdoms and cultural phases, not one uninterrupted empire. Elamite history did not simply end 1500 BC with the appearance of Iranian-speaking groups; these histories overlapped.",
     "parent": null,
     "category": "history",
     "sourceUrls": [
@@ -749,7 +749,7 @@
     "region": "westasia",
     "start": -1500,
     "end": -550,
-    "note": "A selected approximate pre-Achaemenid frame, not a state or a single dated migration. Western-Iranian groups are securely attested in Assyrian records by the ninth centuryBCE; their languages and societies continued after 550 BCE.",
+    "note": "A selected approximate pre-Achaemenid frame, not a state or a single dated migration. Western-Iranian groups are securely attested in Assyrian records by the ninth centuryBCE; their languages and societies continued after 550 BC.",
     "parent": null,
     "category": "history",
     "sourceUrls": [
@@ -772,7 +772,7 @@
     "region": "westasia",
     "start": -678,
     "end": -550,
-    "note": "Conventional traditional frame only. The extent, political unity and chronology of a Median empire remain debated; no claim that a securely documented empire was founded in 678 BCE.",
+    "note": "Conventional traditional frame only. The extent, political unity and chronology of a Median empire remain debated; no claim that a securely documented empire was founded in 678 BC.",
     "parent": null,
     "category": "history",
     "sourceUrls": [
@@ -823,7 +823,7 @@
     "region": "europe",
     "start": -336,
     "end": -323,
-    "note": "Alexander became king 336 BCE; Asian invasion began 334, Babylon fell 331 and Achaemenid kingship ended 330. This selected personal reign must not be equated with the full earlier Macedonian kingdom.",
+    "note": "Alexander became king 336 BC; Asian invasion began 334, Babylon fell 331 and Achaemenid kingship ended 330. This selected personal reign must not be equated with the full earlier Macedonian kingdom.",
     "parent": null,
     "category": "history",
     "sourceUrls": [
@@ -860,7 +860,7 @@
     "region": "westasia",
     "start": -312,
     "end": -63,
-    "note": "Conventional era starts 312 BCE; Seleucus assumed royal title 305. Territory contracted in stages, especially with Parthian expansion.",
+    "note": "Conventional era starts 312 BC; Seleucus assumed royal title 305. Territory contracted in stages, especially with Parthian expansion.",
     "parent": null,
     "category": "history",
     "sourceUrls": [
@@ -883,7 +883,7 @@
     "region": "westasia",
     "start": -247,
     "end": 224,
-    "note": "Arsacid origins conventionally 247 BCE;141 BCE in the poster is conquest of Babylonia, not the empire’s foundation.",
+    "note": "Arsacid origins conventionally 247 BC;141 BC in the poster is conquest of Babylonia, not the empire’s foundation.",
     "parent": null,
     "category": "history",
     "sourceUrls": [
@@ -1240,7 +1240,7 @@
     "region": "southasia",
     "start": -3300,
     "end": -1300,
-    "note": "The poster’s 3300 BCE start is Early Harappan, while the existing chart shows Mature Harappan 2600–1900 BCE. Add Early and Late phases explicitly; decline of urban centres did not end all Harappan traditions 1500 BCE.",
+    "note": "The poster’s 3300 BC start is Early Harappan, while the existing chart shows Mature Harappan 2600–1900 BC. Add Early and Late phases explicitly; decline of urban centres did not end all Harappan traditions 1500 BC.",
     "parent": null,
     "category": "history",
     "sourceUrls": [
@@ -1269,7 +1269,7 @@
     "region": "southasia",
     "start": -1500,
     "end": -500,
-    "note": "Conventional textual-cultural frame 1500–500 BCE; dates are approximate, regional and debated. Vedic cultures coexisted with Late Harappan and other traditions; not a single state.",
+    "note": "Conventional textual-cultural frame 1500–500 BC; dates are approximate, regional and debated. Vedic cultures coexisted with Late Harappan and other traditions; not a single state.",
     "parent": null,
     "category": "history",
     "sourceUrls": [],
@@ -1306,7 +1306,7 @@
     "region": "southasia",
     "start": -322,
     "end": -185,
-    "note": "Traditional dates 322/321–185 BCE; exact founding chronology varies. Not an empire covering every part of the Indian subcontinent.",
+    "note": "Traditional dates 322/321–185 BC; exact founding chronology varies. Not an empire covering every part of the Indian subcontinent.",
     "parent": null,
     "category": "history",
     "sourceUrls": [
@@ -1531,7 +1531,7 @@
     "region": "eastasia",
     "start": -3300,
     "end": -2300,
-    "note": "Archaeological culture 3300–2300 BCE; the poster uses 3000 and extends it toward Xia. Liangzhu is not a dynastic predecessor ruling all China.",
+    "note": "Archaeological culture 3300–2300 BC; the poster uses 3000 and extends it toward Xia. Liangzhu is not a dynastic predecessor ruling all China.",
     "parent": null,
     "category": "history",
     "sourceUrls": [],
@@ -1575,7 +1575,7 @@
     "region": "eastasia",
     "start": -1600,
     "end": -1046,
-    "note": "The later Shang is securely attested by oracle-bone writing. The beginning around 1600 BCE and transition date 1046 are conventional archaeological-historical dates.",
+    "note": "The later Shang is securely attested by oracle-bone writing. The beginning around 1600 BC and transition date 1046 are conventional archaeological-historical dates.",
     "parent": null,
     "category": "history",
     "sourceUrls": [],
@@ -1603,7 +1603,7 @@
     "region": "eastasia",
     "start": -221,
     "end": -206,
-    "note": "Unification 221 BCE, correcting the poster’s tiny 217 BCE label. Qin as a regional state existed much earlier.",
+    "note": "Unification 221 BC, correcting the poster’s tiny 217 BC label. Qin as a regional state existed much earlier.",
     "parent": null,
     "category": "history",
     "sourceUrls": [],
@@ -1617,7 +1617,7 @@
     "region": "eastasia",
     "start": -206,
     "end": 220,
-    "note": "Western and Eastern Han, interrupted by the Xin dynasty 9–23 CE and subsequent civil war. Territorial reach and rule varied.",
+    "note": "Western and Eastern Han, interrupted by the Xin dynasty 9–23 AD and subsequent civil war. Territorial reach and rule varied.",
     "parent": null,
     "category": "history",
     "sourceUrls": [],
@@ -1795,7 +1795,7 @@
     "region": "eastasia",
     "start": -13000,
     "end": -300,
-    "note": "Starts many millennia before the chart window. The transition to Yayoi was regionally gradual from roughly 900 BCE; Jōmon traditions persisted later in northern areas. This is not Japan’s first human occupation.",
+    "note": "Starts many millennia before the chart window. The transition to Yayoi was regionally gradual from roughly 900 BC; Jōmon traditions persisted later in northern areas. This is not Japan’s first human occupation.",
     "parent": null,
     "category": "history",
     "sourceUrls": [
@@ -1824,7 +1824,7 @@
     "region": "eastasia",
     "start": -900,
     "end": 250,
-    "note": "Dates vary by region and dating method. Newer chronologies place wet-rice-based Yayoi society from around 900 BCE in northern Kyushu, while older general surveys use 300 BCE. Do not present the poster’s 300 BCE as a universal secure start.",
+    "note": "Dates vary by region and dating method. Newer chronologies place wet-rice-based Yayoi society from around 900 BC in northern Kyushu, while older general surveys use 300 BC. Do not present the poster’s 300 BC as a universal secure start.",
     "parent": null,
     "category": "history",
     "sourceUrls": [

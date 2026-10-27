@@ -38,7 +38,7 @@ const eraBudgets=epochs.slice(0,-1).map((a,i)=>{
 function buildChart(start,end,suffix,heading,step,weighted=true){
 const selected=histories.filter(h=>h.start<end&&h.end>start);
 const y=year=>TOP+(axis(year)-axis(start))/(axis(end)-axis(start))*(BOTTOM-TOP);
-const date=year=>Math.abs(year)+' '+(year<0?'BCE':'CE');
+const date=year=>Math.abs(year)+' '+(year<0?'BC':'AD');
 function labelCandidate(segment,title){
  const width=segment.x1-segment.x0,height=y(segment.end)-y(segment.start);
  const rotated=width<68&&height>(weighted?55:110),availableWidth=rotated?height-(weighted?12:24):width-8,availableHeight=rotated?width-8:height,padding=availableHeight<10?0:2;
@@ -87,11 +87,11 @@ regions.forEach((region,ri)=>{
   const labelAreas=[...segs];for(let i=0;i<segs.length;i++){let x0=segs[i].x0,x1=segs[i].x1;for(let j=i+1;j<segs.length;j++){x0=Math.max(x0,segs[j].x0);x1=Math.min(x1,segs[j].x1);if(x1-x0<8)break;labelAreas.push({x0,x1,start:segs[i].start,end:segs[j].end});}}
   const candidate=labelAreas.map(s=>labelCandidate(s,h.shortTitle||names[h.id]||h.title)).sort((a,b)=>b.score-a.score)[0],best=candidate.segment,bw=candidate.width,bh=candidate.height,cx=(best.x0+best.x1)/2;
   const {font,lines}=candidate;
-  const lineHeight=font*1.23,blockHeight=lines.length*lineHeight,cy=(y(best.start)+y(best.end))/2,labelY=cy-blockHeight/2+font*.8,fill=regionColors[h.id],first=segs[0],firstH=y(first.end)-y(first.start),continuing=h.ongoing||h.end>end,startLabel=h.start<start?'← Earlier':`${h.status==='Approximate'||h.status==='Debated'?'c. ':''}${Math.abs(h.start)} ${h.start<0?'BCE':'CE'}`;
+  const lineHeight=font*1.23,blockHeight=lines.length*lineHeight,cy=(y(best.start)+y(best.end))/2,labelY=cy-blockHeight/2+font*.8,fill=regionColors[h.id],first=segs[0],firstH=y(first.end)-y(first.start),continuing=h.ongoing||h.end>end,startLabel=h.start<start?'← Earlier':`${h.status==='Approximate'||h.status==='Debated'?'c. ':''}${Math.abs(h.start)} ${h.start<0?'BC':'AD'}`;
   const transform=candidate.rotated?` transform="rotate(-90 ${num(cx)} ${num(cy)})"`:'';
   let labels=candidate.fits?lines.map((text,i)=>`<text id="label-${suffix}-${h.id}-${i}" class="block-label" font-size="${font}" x="${num(cx)}" y="${num(labelY+i*lineHeight)}" text-anchor="middle"${transform}>${esc(text)}</text>`).join(''):'';
   if(firstH>22&&first.x1-first.x0>startLabel.length*9*.57+12&&(first!==best||bh>blockHeight+30))labels+=`<text class="block-date" font-size="9" x="${num(first.x0+6)}" y="${num(y(first.start)+12)}">${esc(startLabel)}</text>`;
-  const endLabel=continuing?'Continuing':`${Math.abs(h.end)} ${h.end<0?'BCE':'CE'}`,endFont=bw>100?10:9;
+  const endLabel=continuing?'Continuing':`${Math.abs(h.end)} ${h.end<0?'BC':'AD'}`,endFont=bw>100?10:9;
   if(!candidate.rotated&&bh>blockHeight+45&&bw>endLabel.length*endFont*.57+8)labels+=`<text class="block-date" font-size="${endFont}" x="${num(cx)}" y="${num(labelY+blockHeight+10)}" text-anchor="middle">${esc(endLabel)}</text>`;
   if(continuing&&last.x1-last.x0>25)labels+=`<text class="block-date" font-size="9" x="${num((last.x0+last.x1)/2)}" y="${BOTTOM-9}" text-anchor="middle">↓</text>`;
   elements.push(`<g class="history" id="block-${suffix}-${h.id}" data-history="${h.id}" data-region="${h.region}" role="button" tabindex="0" aria-label="${esc(h.title+', '+h.dates+'. Open Wikipedia and dates.')}" aria-haspopup="dialog"><title>${esc(h.title+' · '+h.dates)}</title><path class="shape" fill="${fill}" d="${d}"/>${labels}</g>`);
@@ -114,4 +114,4 @@ fs.writeFileSync(path.join(root,'dist/layout.json'),JSON.stringify(full.layout))
 fs.writeFileSync(path.join(root,'dist/modern-layout.json'),JSON.stringify(modern.layout));
 fs.writeFileSync(path.join(root,'dist/equal-layout.json'),JSON.stringify(equal.layout));fs.writeFileSync(path.join(root,'dist/modern-equal-layout.json'),JSON.stringify(modernEqual.layout));
 console.log(JSON.stringify({entries:full.layout.length,modernEntries:modern.layout.length,regions:regions.length,width:W,height:H}));
-fs.writeFileSync(path.join(root,'dist/histories.json'),JSON.stringify({title:'Many Histories',checked:'2026-10',scope:`${histories.length} selected histories, ${ctx.data.milestones.length} contextual entries and ${ctx.data.topics.length} detailed topics. All named reference-poster topics are indexed; world history itself is not exhaustive. Full window 4500 BCE–2026 CE; Modern era window 1450–2026 CE. Earlier origins are indicated and explained in the reader.`,dateConvention:'Negative historical years are BCE; positive years are CE. No year zero. Approximate dates are plotting anchors. ongoing=true means the bar continues beyond the editorial cutoff, not a prediction. Selected phases and interruptions are explained in entry notes.',...ctx.data},null,2)+'\n');
+fs.writeFileSync(path.join(root,'dist/histories.json'),JSON.stringify({title:'Many Histories',checked:'2026-10',scope:`${histories.length} selected histories, ${ctx.data.milestones.length} contextual entries and ${ctx.data.topics.length} detailed topics. All named reference-poster topics are indexed; world history itself is not exhaustive. Full window 4500 BC–2026 AD; Modern era window 1450–2026 AD. Earlier origins are indicated and explained in the reader.`,dateConvention:'Negative historical years are BC; positive years are AD. No year zero. Approximate dates are plotting anchors. ongoing=true means the bar continues beyond the editorial cutoff, not a prediction. Selected phases and interruptions are explained in entry notes.',...ctx.data},null,2)+'\n');

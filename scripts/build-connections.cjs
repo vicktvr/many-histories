@@ -59,7 +59,7 @@ for(const map of maps){
   const entry=byId.get(node.id);if(!entry)throw Error('Unknown map node '+node.id);
   const uncertain=uncertainties.find(note=>note.id===node.id);
   const label=node.label||entry.shortTitle||entry.title,lines=wrap(label,19),font=Math.min(lines.length===3?18:21,Math.floor((W-24)/Math.max(...lines.map(line=>textWidth(line)))));
-  const dates=node.dates||(entry.dates.includes('BCE')?entry.dates:entry.dates.replace(/ CE/g,''));
+  const dates=node.dates||(entry.dates.includes('BC')?entry.dates:entry.dates.replace(/ AD/g,''));
   const fill=colors.get(node.id)||regionColors[entry.region],lineStep=lines.length===3?22:24,baseline=node.y+H/2-(lines.length-1)*lineStep/2-4;
   if(lines.length>3)throw Error('Too many title lines '+node.id);
   out.push(`<g class="map-node" id="map-node-${map.id}-${node.id}" data-history="${node.id}" role="button" tabindex="0" aria-haspopup="dialog" aria-label="${escape(entry.title+', '+entry.dates+'. Open Wikipedia.')}" data-map="${map.id}"><title>${escape(entry.title+' · '+entry.dates)}</title><rect x="${node.x}" y="${node.y}" width="${W}" height="${H}" rx="10" fill="${fill}"/>`);

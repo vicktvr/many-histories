@@ -81,31 +81,31 @@
 <rect class="edge-label-bg" x="690.15" y="1230" width="217.5" height="34" rx="7" fill="#fdfcf8" stroke="#9a8055" stroke-opacity=".28"/>
 <text class="edge-label" x="798.9" y="1252" text-anchor="middle">1888 agreement with Chile</text>
 </g>
-<g class="map-node" id="map-node-pacific-networks-lapita" data-history="lapita" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Lapita traditions, c. 1500–500 BCE. Open Wikipedia." data-map="pacific-networks"><title>Lapita traditions · c. 1500–500 BCE</title><rect x="409.9" y="220" width="228" height="94" rx="10" fill="#99c6ba"/>
+<g class="map-node" id="map-node-pacific-networks-lapita" data-history="lapita" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Lapita traditions, c. 1500–500 BC. Open Wikipedia." data-map="pacific-networks"><title>Lapita traditions · c. 1500–500 BC</title><rect x="409.9" y="220" width="228" height="94" rx="10" fill="#99c6ba"/>
 <text class="map-label" style="font-size:21px" x="523.9" y="263" text-anchor="middle">Lapita traditions</text>
-<text class="map-date" x="523.9" y="299" text-anchor="middle">c. 1500–500 BCE</text></g>
-<g class="map-node" id="map-node-pacific-networks-ao-east-polynesia" data-history="ao-east-polynesia" role="button" tabindex="0" aria-haspopup="dialog" aria-label="East Polynesian voyaging networks, Late first millennium CE onward. Open Wikipedia." data-map="pacific-networks"><title>East Polynesian voyaging networks · Late first millennium CE onward</title><rect x="684.9" y="500" width="228" height="94" rx="10" fill="#e7bb8c"/>
+<text class="map-date" x="523.9" y="299" text-anchor="middle">c. 1500–500 BC</text></g>
+<g class="map-node" id="map-node-pacific-networks-ao-east-polynesia" data-history="ao-east-polynesia" role="button" tabindex="0" aria-haspopup="dialog" aria-label="East Polynesian voyaging networks, Late first millennium AD onward. Open Wikipedia." data-map="pacific-networks"><title>East Polynesian voyaging networks · Late first millennium AD onward</title><rect x="684.9" y="500" width="228" height="94" rx="10" fill="#e7bb8c"/>
 <text class="map-label" style="font-size:21px" x="798.9" y="531" text-anchor="middle">East Polynesian</text>
 <text class="map-label" style="font-size:21px" x="798.9" y="555" text-anchor="middle">voyaging networks</text>
 <text class="map-date" x="798.9" y="579" text-anchor="middle">Late first millennium onward</text></g>
-<g class="map-node" id="map-node-pacific-networks-tonga" data-history="tonga" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Tuʻi Tonga, c. 950 CE–1865 CE. Open Wikipedia." data-map="pacific-networks"><title>Tuʻi Tonga · c. 950 CE–1865 CE</title><rect x="134.89999999999998" y="500" width="228" height="94" rx="10" fill="#b4c9a3"/>
+<g class="map-node" id="map-node-pacific-networks-tonga" data-history="tonga" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Tuʻi Tonga, c. 950 AD–1865 AD. Open Wikipedia." data-map="pacific-networks"><title>Tuʻi Tonga · c. 950 AD–1865 AD</title><rect x="134.89999999999998" y="500" width="228" height="94" rx="10" fill="#b4c9a3"/>
 <text class="map-label" style="font-size:21px" x="248.89999999999998" y="543" text-anchor="middle">Tuʻi Tonga</text>
 <text class="map-date" x="248.89999999999998" y="579" text-anchor="middle">c. 950–1865</text></g>
 <g class="map-node" id="map-node-pacific-networks-ao-tonga-modern" data-history="ao-tonga-modern" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Kingdom of Tonga · modern eras, United in 1845 · constitutional monarchy from 1875–present. Open Wikipedia." data-map="pacific-networks"><title>Kingdom of Tonga · modern eras · United in 1845 · constitutional monarchy from 1875–present</title><rect x="134.89999999999998" y="780" width="228" height="94" rx="10" fill="#b4c9a3"/>
 <text class="map-label" style="font-size:21px" x="248.89999999999998" y="811" text-anchor="middle">Kingdom of Tonga ·</text>
 <text class="map-label" style="font-size:21px" x="248.89999999999998" y="835" text-anchor="middle">modern eras</text>
 <text class="map-date" x="248.89999999999998" y="859" text-anchor="middle">United in 1845 · constitutional m…</text></g>
-<g class="map-node" id="map-node-pacific-networks-ao-fiji-societies" data-history="ao-fiji-societies" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Fijian societies, Settlement c. 1100–800 BCE–present. Open Wikipedia." data-map="pacific-networks"><title>Fijian societies · Settlement c. 1100–800 BCE–present</title><rect x="409.9" y="500" width="228" height="94" rx="10" fill="#b4c9a3"/>
+<g class="map-node" id="map-node-pacific-networks-ao-fiji-societies" data-history="ao-fiji-societies" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Fijian societies, Settlement c. 1100–800 BC–present. Open Wikipedia." data-map="pacific-networks"><title>Fijian societies · Settlement c. 1100–800 BC–present</title><rect x="409.9" y="500" width="228" height="94" rx="10" fill="#b4c9a3"/>
 <text class="map-label" style="font-size:21px" x="523.9" y="543" text-anchor="middle">Fijian societies</text>
-<text class="map-date" x="523.9" y="579" text-anchor="middle">Settlement c. 1100–800 BCE–present</text></g>
+<text class="map-date" x="523.9" y="579" text-anchor="middle">Settlement c. 1100–800 BC–present</text></g>
 <g class="map-node" id="map-node-pacific-networks-ao-colonial-fiji" data-history="ao-colonial-fiji" role="button" tabindex="0" aria-haspopup="dialog" aria-label="British colonial Fiji, 1874–1970. Open Wikipedia." data-map="pacific-networks"><title>British colonial Fiji · 1874–1970</title><rect x="409.9" y="780" width="228" height="94" rx="10" fill="#e7bb8c"/>
 <text class="map-label" style="font-size:21px" x="523.9" y="811" text-anchor="middle">British colonial</text>
 <text class="map-label" style="font-size:21px" x="523.9" y="835" text-anchor="middle">Fiji</text>
 <text class="map-date" x="523.9" y="859" text-anchor="middle">1874–1970</text></g>
-<g class="map-node" id="map-node-pacific-networks-fiji" data-history="fiji" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Fiji · independent state, 1970 CE–present. Open Wikipedia." data-map="pacific-networks"><title>Fiji · independent state · 1970 CE–present</title><rect x="409.9" y="1060" width="228" height="94" rx="10" fill="#d7c69e"/>
+<g class="map-node" id="map-node-pacific-networks-fiji" data-history="fiji" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Fiji · independent state, 1970 AD–present. Open Wikipedia." data-map="pacific-networks"><title>Fiji · independent state · 1970 AD–present</title><rect x="409.9" y="1060" width="228" height="94" rx="10" fill="#d7c69e"/>
 <text class="map-label" style="font-size:21px" x="523.9" y="1103" text-anchor="middle">Fiji</text>
 <text class="map-date" x="523.9" y="1139" text-anchor="middle">1970–present</text></g>
-<g class="map-node" id="map-node-pacific-networks-rapanui" data-history="rapanui" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Rapa Nui · monumental phase, c. 1200 CE–1600 CE. Open Wikipedia." data-map="pacific-networks"><title>Rapa Nui · monumental phase · c. 1200 CE–1600 CE</title><rect x="684.9" y="780" width="228" height="94" rx="10" fill="#d7c69e"/>
+<g class="map-node" id="map-node-pacific-networks-rapanui" data-history="rapanui" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Rapa Nui · monumental phase, c. 1200 AD–1600 AD. Open Wikipedia." data-map="pacific-networks"><title>Rapa Nui · monumental phase · c. 1200 AD–1600 AD</title><rect x="684.9" y="780" width="228" height="94" rx="10" fill="#d7c69e"/>
 <text class="map-label" style="font-size:21px" x="798.9" y="811" text-anchor="middle">Rapa Nui ·</text>
 <text class="map-label" style="font-size:21px" x="798.9" y="835" text-anchor="middle">monumental phase</text>
 <text class="map-date" x="798.9" y="859" text-anchor="middle">c. 1200–1600</text></g>
@@ -118,11 +118,11 @@
 <text class="map-label" style="font-size:21px" x="798.9" y="1371" text-anchor="middle">Chile · independent</text>
 <text class="map-label" style="font-size:21px" x="798.9" y="1395" text-anchor="middle">state</text>
 <text class="map-date" x="798.9" y="1419" text-anchor="middle">Independent eras–present</text></g>
-<g class="map-node" id="map-node-pacific-networks-maori" data-history="maori" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Māori settlement &amp; cultures, From c. 1250–1300 CE · continuing. Open Wikipedia." data-map="pacific-networks"><title>Māori settlement &amp; cultures · From c. 1250–1300 CE · continuing</title><rect x="959.9000000000001" y="780" width="228" height="94" rx="10" fill="#99c6ba"/>
+<g class="map-node" id="map-node-pacific-networks-maori" data-history="maori" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Māori settlement &amp; cultures, From c. 1250–1300 AD · continuing. Open Wikipedia." data-map="pacific-networks"><title>Māori settlement &amp; cultures · From c. 1250–1300 AD · continuing</title><rect x="959.9000000000001" y="780" width="228" height="94" rx="10" fill="#99c6ba"/>
 <text class="map-label" style="font-size:21px" x="1073.9" y="811" text-anchor="middle">Māori settlement &amp;</text>
 <text class="map-label" style="font-size:21px" x="1073.9" y="835" text-anchor="middle">cultures</text>
 <text class="map-date" x="1073.9" y="859" text-anchor="middle">From c. 1250–1300 · continuing</text></g>
-<g class="map-node" id="map-node-pacific-networks-nanmadol" data-history="nanmadol" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Nan Madol · major construction, c. 1200–1500 CE. Open Wikipedia." data-map="pacific-networks"><title>Nan Madol · major construction · c. 1200–1500 CE</title><rect x="1234.9" y="220" width="228" height="94" rx="10" fill="#e7bb8c"/>
+<g class="map-node" id="map-node-pacific-networks-nanmadol" data-history="nanmadol" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Nan Madol · major construction, c. 1200–1500 AD. Open Wikipedia." data-map="pacific-networks"><title>Nan Madol · major construction · c. 1200–1500 AD</title><rect x="1234.9" y="220" width="228" height="94" rx="10" fill="#e7bb8c"/>
 <text class="map-label" style="font-size:21px" x="1348.9" y="251" text-anchor="middle">Nan Madol · major</text>
 <text class="map-label" style="font-size:21px" x="1348.9" y="275" text-anchor="middle">construction</text>
 <text class="map-date" x="1348.9" y="299" text-anchor="middle">c. 1200–1500</text></g>

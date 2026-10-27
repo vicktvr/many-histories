@@ -39,7 +39,7 @@
 <rect class="edge-label-bg" x="713.75" y="950" width="172.5" height="34" rx="7" fill="#fdfcf8" stroke="#5d7f9d" stroke-opacity=".28"/>
 <text class="edge-label" x="800" y="972" text-anchor="middle">Monarchy overthrown</text>
 </g>
-<g class="map-node" id="map-node-afghanistan-regional-powers-afsharid" data-history="afsharid" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Afsharid Iran, 1736 CE–1796 CE. Open Wikipedia." data-map="afghanistan-regional-powers"><title>Afsharid Iran · 1736 CE–1796 CE</title><rect x="411" y="220" width="228" height="94" rx="10" fill="#eab18d"/>
+<g class="map-node" id="map-node-afghanistan-regional-powers-afsharid" data-history="afsharid" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Afsharid Iran, 1736 AD–1796 AD. Open Wikipedia." data-map="afghanistan-regional-powers"><title>Afsharid Iran · 1736 AD–1796 AD</title><rect x="411" y="220" width="228" height="94" rx="10" fill="#eab18d"/>
 <text class="map-label" style="font-size:21px" x="525" y="263" text-anchor="middle">Afsharid Empire</text>
 <text class="map-date" x="525" y="299" text-anchor="middle">1736–1796</text></g>
 <g class="map-node" id="map-node-afghanistan-regional-powers-ws-durrani" data-history="ws-durrani" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Durrani Empire, 1747–1823 · principal phase. Open Wikipedia." data-map="afghanistan-regional-powers"><title>Durrani Empire · 1747–1823 · principal phase</title><rect x="411" y="500" width="228" height="94" rx="10" fill="#8db5cd"/>
@@ -49,10 +49,10 @@
 <text class="map-label" style="font-size:21px" x="800" y="811" text-anchor="middle">Afghanistan ·</text>
 <text class="map-label" style="font-size:21px" x="800" y="835" text-anchor="middle">Barakzai rule</text>
 <text class="map-date" x="800" y="859" text-anchor="middle">1826–1973 · interrupted</text></g>
-<g class="map-node" id="map-node-afghanistan-regional-powers-companyindia" data-history="companyindia" role="button" tabindex="0" aria-haspopup="dialog" aria-label="East India Company rule, 1757 CE–1858 CE. Open Wikipedia." data-map="afghanistan-regional-powers"><title>East India Company rule · 1757 CE–1858 CE</title><rect x="686" y="500" width="228" height="94" rx="10" fill="#8db5cd"/>
+<g class="map-node" id="map-node-afghanistan-regional-powers-companyindia" data-history="companyindia" role="button" tabindex="0" aria-haspopup="dialog" aria-label="East India Company rule, 1757 AD–1858 AD. Open Wikipedia." data-map="afghanistan-regional-powers"><title>East India Company rule · 1757 AD–1858 AD</title><rect x="686" y="500" width="228" height="94" rx="10" fill="#8db5cd"/>
 <text class="map-label" style="font-size:21px" x="800" y="543" text-anchor="middle">Company rule</text>
 <text class="map-date" x="800" y="579" text-anchor="middle">1757–1858</text></g>
-<g class="map-node" id="map-node-afghanistan-regional-powers-britishraj" data-history="britishraj" role="button" tabindex="0" aria-haspopup="dialog" aria-label="British Raj, 1858 CE–1947 CE. Open Wikipedia." data-map="afghanistan-regional-powers"><title>British Raj · 1858 CE–1947 CE</title><rect x="961" y="500" width="228" height="94" rx="10" fill="#b5c98a"/>
+<g class="map-node" id="map-node-afghanistan-regional-powers-britishraj" data-history="britishraj" role="button" tabindex="0" aria-haspopup="dialog" aria-label="British Raj, 1858 AD–1947 AD. Open Wikipedia." data-map="afghanistan-regional-powers"><title>British Raj · 1858 AD–1947 AD</title><rect x="961" y="500" width="228" height="94" rx="10" fill="#b5c98a"/>
 <text class="map-label" style="font-size:21px" x="1075" y="543" text-anchor="middle">British Raj</text>
 <text class="map-date" x="1075" y="579" text-anchor="middle">1858–1947</text></g>
 <g class="map-node" id="map-node-afghanistan-regional-powers-ws-afghanistan-later" data-history="ws-afghanistan-later" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Afghanistan · later regimes, 1973–present · selected eras. Open Wikipedia." data-map="afghanistan-regional-powers"><title>Afghanistan · later regimes · 1973–present · selected eras</title><rect x="686" y="1060" width="228" height="94" rx="10" fill="#8db5cd"/>

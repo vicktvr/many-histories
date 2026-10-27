@@ -184,7 +184,7 @@
       "dates": "Ancient roots–present",
       "wikiTitle": "Maya peoples",
       "location": "Mesoamerica and diaspora",
-      "note": "Many distinct Maya peoples, languages and communities persist; this is not a single successor state or a civilisation that ended in 900 CE.",
+      "note": "Many distinct Maya peoples, languages and communities persist; this is not a single successor state or a civilisation that ended in 900 AD.",
       "sources": [
         "ao_mayaLiving"
       ]
@@ -293,7 +293,7 @@
       "id": "ao-east-polynesia",
       "title": "East Polynesian voyaging networks",
       "region": "oceania",
-      "dates": "Late first millennium CE onward",
+      "dates": "Late first millennium AD onward",
       "wikiTitle": "Polynesians",
       "location": "Central and eastern Pacific",
       "note": "Multiple migrations and connected island societies, not one empire or a single founding voyage.",
@@ -317,7 +317,7 @@
       "id": "ao-fiji-societies",
       "title": "Fijian societies",
       "region": "oceania",
-      "dates": "Settlement c. 1100–800 BCE–present",
+      "dates": "Settlement c. 1100–800 BC–present",
       "wikiTitle": "History of Fiji",
       "location": "Fiji Islands",
       "note": "Long histories of distinct island communities precede the modern state and continued through colonial rule.",
@@ -466,7 +466,7 @@
           ],
           "type": "contact",
           "label": "Exchange & artistic connections",
-          "dates": "4th–6th centuries CE",
+          "dates": "4th–6th centuries AD",
           "summary": "Teotihuacan interacted with Maya capitals including Tikal and Copán, with objects and artistic forms crossing regional boundaries.",
           "note": "Different cities maintained different relationships; this is not a claim that all Maya lands belonged to Teotihuacan.",
           "sources": [
@@ -485,7 +485,7 @@
           "label": "Communities continue",
           "dates": "After the Classic period–present",
           "summary": "Maya communities continued long after the Classic-period transformation of their cities.",
-          "note": "A cultural continuation, not a new state founded in 900 CE.",
+          "note": "A cultural continuation, not a new state founded in 900 AD.",
           "sources": [
             "ao_mayaLiving"
           ]
@@ -614,7 +614,7 @@
           ],
           "type": "contact",
           "label": "Artistic interaction",
-          "dates": "c. 600–800 CE",
+          "dates": "c. 600–800 AD",
           "summary": "Wari artists interacted with Nasca traditions and developed new artistic forms.",
           "note": "Interaction and influence do not mean that every Nasca community was replaced by one Wari government.",
           "sources": [
@@ -631,7 +631,7 @@
           ],
           "type": "contact",
           "label": "Shared visual traditions",
-          "dates": "c. 600–1000 CE",
+          "dates": "c. 600–1000 AD",
           "summary": "Wari art developed in dialogue with Tiwanaku religious imagery and visual traditions.",
           "note": "These were distinct, contemporary powers; the arrow represents cultural interaction, not dynastic succession.",
           "sources": [
@@ -648,7 +648,7 @@
           ],
           "type": "contact",
           "label": "North-coast artistic heritage",
-          "dates": "Later first–second millennium CE",
+          "dates": "Later first–second millennium AD",
           "summary": "Chimú artists inherited and reworked earlier Moche cultural and artistic traditions.",
           "note": "This is a long artistic relationship across intervening regional developments, not an immediate political handover.",
           "sources": [
@@ -971,7 +971,7 @@
           ],
           "type": "contact",
           "label": "Settlement before Tuʻi Tonga",
-          "dates": "Settlement c. 1100–800 BCE · later chiefly societies",
+          "dates": "Settlement c. 1100–800 BC · later chiefly societies",
           "summary": "Lapita-associated voyagers settled Tonga long before the Tuʻi Tonga chiefly line developed.",
           "note": "A settlement and cultural background link, not a claim that the Tuʻi Tonga polity existed in the Bronze Age.",
           "sources": [
@@ -988,7 +988,7 @@
           ],
           "type": "contact",
           "label": "Lapita settlement",
-          "dates": "c. 1100–800 BCE",
+          "dates": "c. 1100–800 BC",
           "summary": "Lapita-associated voyagers settled Fiji, forming part of its long and changing island histories.",
           "note": "Material-culture associations do not make all Pacific peoples one ethnicity or state.",
           "sources": [
@@ -1005,7 +1005,7 @@
           ],
           "type": "contact",
           "label": "Polynesian cultural development",
-          "dates": "Over many centuries · eastward voyages c. 1000 CE",
+          "dates": "Over many centuries · eastward voyages c. 1000 AD",
           "summary": "Polynesian cultures emerged among western island communities before voyages expanded into East Polynesia.",
           "note": "This compresses multiple stages through Fiji, Tonga and Samoa; it does not draw a direct Lapita-era voyage to every eastern island.",
           "sources": [
@@ -1022,7 +1022,7 @@
           ],
           "type": "contact",
           "label": "Polynesian settlement",
-          "dates": "c. 1200–1300 CE · approximate",
+          "dates": "c. 1200–1300 AD · approximate",
           "summary": "East Polynesian voyagers settled Rapa Nui, where distinctive monumental traditions developed.",
           "note": "Dates remain approximate; this does not imply political rule from Tonga.",
           "sources": [
@@ -1040,7 +1040,7 @@
           ],
           "type": "contact",
           "label": "Voyages to Aotearoa",
-          "dates": "c. 1250–1300 CE",
+          "dates": "c. 1250–1300 AD",
           "summary": "Migrants from East Polynesian islands became the ancestors of Māori communities in Aotearoa.",
           "note": "Many voyages and traditions are involved, rather than a single great fleet or an overseas empire.",
           "sources": [
